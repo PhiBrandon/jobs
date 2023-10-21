@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- Architecting and implementing data infrastructure solutions using Infrastructure as Code (IaC) principles and tools like Terraform
+- Developing and maintaining CI/CD pipelines 
+- Implementing monitoring, alerting, logging, and troubleshooting for data infrastructure
+- Expertise in cloud technologies like AWS
+- Proficiency in bash/shell scripting and at least one programming language
+- Knowledge of technologies like Kafka, Kubernetes, Vault, Nomad, Consul
+- Experience with MLOps platforms like AWS SageMaker
+- Understanding of zero-trust architecture and service meshes
+
+Responsibilities:
+
+- Designing, building and managing robust data infrastructure solutions 
+- Collaborating with cross-functional teams to understand requirements
+- Enabling self-service access to data infrastructure under security requirements
+- Implementing role-based access control and permissions
+- Managing real-time streaming data architectures 
+- Ensuring timely and accurate processing of streaming data
+- Implementing CI/CD pipelines for consistent deployments
+- Creating MLOps flows for model training, validation and deployment
+- Troubleshooting issues and participating in on-call rotations
+- Documenting architecture, processes and best practices

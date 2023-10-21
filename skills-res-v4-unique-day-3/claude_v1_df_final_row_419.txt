@@ -1,0 +1,22 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Data Engineer:
+- Build data pipelines and move data from source to target
+- Work with large data volumes 
+- Build data schemas
+- Perform end to end testing of data products
+
+Skills: Python, Spark, SQL, ETL
+
+Data Analyst/Business Analyst:
+- Interact with business users to understand requirements
+- Perform data analysis to understand data 
+- Write SQL for analyzing, reporting and testing
+- Write source to target mapping documents
+- Query databases/data lake to understand data
+- Communicate business needs to developers  
+- Create test cases and perform testing
+
+Skills: SQL, Tableau
+
+https://www.indeed.com/rc/clk?jk=2fd16bfd74b3658d&from=jasx&tk=1hd95ofc82ea2001&vjs=3

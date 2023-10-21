@@ -1,0 +1,15 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Big Data 
+- Spark
+- HIVE
+- AWS
+- Kubernetes
+- Data Bricks
+
+Responsibilities:
+- 7+ years of experience as a Data Engineer
+- Experience with Big Data, Spark, HIVE, AWS, Kubernetes, and Data Bricks
+
+https://www.indeed.com/rc/clk?jk=f5777b4056e4e7e0&from=jasx&tk=1hd43l8mokhqg800&vjs=3

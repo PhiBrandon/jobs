@@ -1,0 +1,23 @@
+ Here are some specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of Data Engineering experience
+- 3+ years of writing SQL experience against complex databases for data extraction using AWS Athena (Presto), Databricks Delta Lake along with Data Modeling & Data warehousing experience.  
+- 3+ years of experience working on Spark (RDDs / Data Frames / Dataset API) using Scala/Python to build and maintain complex ETL pipelines and experience data processing using Parquet and Avro
+- 3+ years of Python coding experience, familiar with utilizing packages such as pandas, boto3, requests, json, csv, os
+- 3+ years of experience working on AWS services including Glue, Athena, Lambda, S3, SNS, SQS, Cloud formation, Step Functions, Serverless architecture.
+- Experience with GitHub, Code check-in, versioning, Git commands
+- Experience with visualization tools such as Tableau, Looker or PowerBI to build dynamic/scalable dashboards and reports.
+- Strong analytical and interpersonal skills
+- Knowledge or experience within Talent/People analytics is a plus
+- Enthusiastic, highly motivated and ability to learn quickly.
+- Able to work through ambiguity in a fast-paced, dynamically changing business environment.
+- Ability to manage multiple tasks at the same time with minimal supervision.
+
+Responsibilities:
+- Develop/maintain data pipelines from various data sources to a target data warehouse using batch data load strategies utilizing cutting edge cloud technologies.
+- Conduct hands-on, advanced data engineering & analytics using multiple data sources originating from different applications and systems. 
+- Collaborate with the data science team to identify new opportunities for deep analytics within the Human Capital organization.
+- Provide input into strategies as they drive the team forward with delivery of business value and technical acumen.
+- Execute on proof of concepts, where appropriate, to help improve our technical processes.
+- Documenting database designs that include data models, metadata, ETL specifications and process flows for business data project integrations.

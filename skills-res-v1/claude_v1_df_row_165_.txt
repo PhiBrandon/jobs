@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3-5 years of experience in data warehouse design & development
+- Proficiency in building data pipelines to integrate business applications (salesforce, Netsuite, Google Analytics etc) with Snowflake  
+- Advanced SQL, Python/Snowpark(PySpark)/Scala
+- Hands-on experience in Python to extract data from APIs, build data pipelines
+- Experience with ETL Tools like Matillion, Fivetran, Talend, IDMC (Matillion preferred), data transformational tool – DBT 
+- Experience with AWS services like EC2, s3, lambda, glue
+- Knowledge of data visualization tools such as Tableau, and/or Power BI
+- Good analytical skills
+
+Responsibilities:
+- Collaborate with teams to capture data pipeline requirements and develop solutions
+- Support evaluation and implementation of data applications/technologies  
+- Collaborate to identify data source requirements
+- Profile and quantify data quality, develop tools to prepare data and build pipelines
+- Optimize existing integrations and data models, develop new features
+- Work with Data Platform Lead to design and implement data standards  
+- Develop large scale data pipelines using cloud and big data architectures

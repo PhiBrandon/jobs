@@ -1,0 +1,28 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Programming, debugging, testing, and optimizing performance of data management processes (ETL/ELT)  
+- Developing efficient, effective and maintainable program and system solutions for complex business problems
+- Providing technical direction and solutions to other team members
+- Analyzing, diagnosing and resolving complex programming problems and system coordination issues
+- Leading large multi-discipline teams for complex work efforts
+- Learning continuous integration practices 
+- Demonstrated expertise in Test Driven Development and unit test creation
+- Demonstrated expertise in defensive programming
+- Experience with SQL, Snowflake, Oracle, Databricks, ETL/data integration tools, data modeling
+
+Responsibilities:
+- Designing ETL/ELT process and database objects  
+- Leading technical and functional matters for other team members
+- Developing efficient and maintainable program code
+- Providing consulting support to resolve technical problems
+- Meeting deadlines while maintaining high quality
+- Testing, documenting and optimizing performance of programs/systems
+- Mentoring and building stronger engineering skills in teams
+- Ensuring department meets commitments
+- Leading architectural design for the team
+- Applying modern agile principles and technologies
+- Organizing and motivating teams to deliver high-quality services
+- Creating training materials and classes
+
+https://www.indeed.com/rc/clk?jk=cd82b2f3c6950df7&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

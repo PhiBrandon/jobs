@@ -1,0 +1,29 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL (1 year preferred) 
+- Python (1 year preferred)
+- Azure (1 year preferred)
+- Comfortable working in a team environment
+- Strong work ethic
+- Excellent time management
+- Excellent oral/written communication 
+- Prior experience using MS Office (word, excel, outlook)
+- Fundamental understanding of database concepts
+- Experience with UNIX scripting
+- Experience with Object-Oriented Programming  
+- ETL experience
+- Hadoop Experience
+- Leadership Experience
+
+Responsibilities:
+- Building/interpreting design documents
+- Building/interpreting mapping documents 
+- Building/completing test documents
+- Participate in technical design reviews and code reviews
+- Understand and adhere to ETL best practices
+- Develop and troubleshoot ETL code
+- Participate in peer review sessions
+- Process data from various source systems into an Enterprise Data Warehouse
+
+https://www.indeed.com/rc/clk?jk=5de691f5f49787f9&from=jasx&tk=1hd6h6bheiolg800&vjs=3

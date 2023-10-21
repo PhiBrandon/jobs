@@ -1,0 +1,22 @@
+ Based on the job description, here are the key skills and responsibilities of the Lead Data Engineer role:
+
+Skills:
+- Python programming focused on big data management 
+- PostgreSQL or other relational database
+- Docker
+- Kubernetes
+- Git
+- (Optional) GIS tools, AWS, Elasticsearch, data pipelines, machine learning, RESTful APIs, engineering leadership, open source
+
+Responsibilities:
+- Design, architect, build and maintain data pipeline systems
+- Write code to import and update large datasets to databases and indexes  
+- Define and maintain database schemas and data formats
+- Collaborate with developers on optimizing databases for APIs
+- Collaborate with a software engineering team
+- Mentor junior data engineers
+- Define and maintain data management processes
+- Work with product managers on schedules, tasks, and success criteria
+- Collaborate with cross-functional teams  
+- Coordinate with open source contributors and standards communities
+- Participate in team building and culture activities

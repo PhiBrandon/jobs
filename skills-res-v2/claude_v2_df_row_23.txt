@@ -1,0 +1,19 @@
+ Based on the job description, here are some of the key skills and responsibilities for the Data Engineer role at Nascent:
+
+Skills:
+- Python and SQL programming
+- ETL and data pipeline development 
+- Database design and modeling
+- API design and development (REST, Websockets)
+- Cloud infrastructure experience (AWS preferred)
+- Testing and quality processes
+
+Responsibilities:
+- Design and build data pipelines and ETL processes
+- Optimize data infrastructure and pipelines for research and transactions
+- Implement APIs for data access and querying
+- Support data acquisition for research and data projects
+- Deliver internal data projects like dashboards and visualizations 
+- Work closely with Data Engineering Lead on data-related activities
+- Maintain and enhance enterprise data systems and pipelines
+- Leverage data to drive business insights and decision making

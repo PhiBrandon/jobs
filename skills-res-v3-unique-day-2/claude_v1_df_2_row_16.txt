@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 7+ years of experience as a Data Engineer
+- Big Data
+- Spark  
+- HIVE
+- AWS
+- Kubernetes
+- Data Bricks
+
+Responsibilities:
+- Will be a W2 contract position requiring the candidate to go for an in-person interview in Overland Park, KS.
+- Minimum of 7 years of experience as a Data Engineer.
+- Experience with Big Data, Spark, HIVE, AWS, Kubernetes, and Data Bricks.
+- Preferred experience levels listed for Spark, AWS, Data Bricks, and Kubernetes are 5 years each.

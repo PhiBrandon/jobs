@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Understanding how to write and troubleshoot complex SQL queries
+- Understanding ETL (Extract, Transform, and Load) processes and tools 
+- Proficiency with SQL Server and Microsoft ETL tools
+- Machine learning and automation experience
+
+Responsibilities:
+- Work to convert data for InvoiceCloud clients as they transition or upgrade their core processing system
+- Ensuring their customers' online bill paying experience remains consistent and uninterrupted
+- Analyzing the source data, designing the target data format, extracting existing data, and performing the transform & load
+- Developing automated scripts and tools to facilitate repeatable conversions where possible
+- Creating wikis for data conversion processes and tools
+- Handling a fast-paced environment efficiently 
+- Being able to multitask efficiently
+
+https://www.indeed.com/rc/clk?jk=0a1b5ba4666e2bed&from=jasx&tk=1hd6hajt4irpg807&vjs=3

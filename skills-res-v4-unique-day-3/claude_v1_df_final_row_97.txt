@@ -1,0 +1,26 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience working with large scale databases/cloud databases using SQL and Python
+- Strong organizational and analytical abilities 
+- Strong problem-solving skills
+- Strong written and verbal communication skills
+- Familiarity with Data Orchestration Tools (Dagster, Airflow)
+- Familiarity with Snowflake and AWS (primarily S3, EC2, ECS)
+- Experience working flexibly within smaller teams
+- Practical knowledge of software development lifecycle (SDLC)
+
+Responsibilities:
+- Design, develop, and maintain data pipelines 
+- Ensure pipelines are scalable, reliable, and fault-tolerant
+- Manage data from various sources and ingest in a timely manner
+- Transform and cleanse raw data  
+- Implement monitoring and alerting processes
+- Implement data quality checks and validation processes
+- Continuously optimize data pipelines for performance 
+- Maintain documentation for data pipelines
+- Provide support for data-related issues and troubleshoot failures
+- Collaborate with data scientists to understand data requirements
+- Work closely with other data engineers to align with data architecture
+
+https://www.indeed.com/rc/clk?jk=1f74a01d7a395286&from=jasx&tk=1hd1g3s5pjfnq801&vjs=3

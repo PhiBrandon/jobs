@@ -1,0 +1,17 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- AWS 
+- AZURE Cloud
+- Azure Databricks
+- Azure SQL Database
+- Data Structure
+- Power BI
+- Snowflake
+- Relational databases
+
+Responsibilities:
+- Oversee 3 and design, create, test, deploy and support SQL code
+- Monitor database systems and daily ETL processes  
+- Looking for 5+ years prior experience (hands-on)
+- Must be a hands on Data Engineer with lead/management experience

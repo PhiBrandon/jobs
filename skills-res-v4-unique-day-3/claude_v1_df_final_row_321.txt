@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Software engineering experience with focus on backend development
+- Proficiency in Python, JavaScript, TypeScript, Go or Java 
+- Experience with data processing frameworks like Apache Spark
+- Understanding of data storage technologies like relational and NoSQL databases
+- Experience with ETL processes and data warehousing
+- Problem solving and delivering high-quality data solutions
+- Ability to document data science and engineering concepts
+- Strong communication and collaboration skills
+- Experience with cloud technologies like AWS or GCP
+- Familiarity with orchestration tools like Airflow or Prefect
+
+Responsibilities:
+- Design, develop and maintain robust data ingestion pipelines
+- Transform and curate raw data into structured formats 
+- Optimize data ingestion and curation processes
+- Collaborate with cross-functional teams on data requirements
+- Implement best practices for data quality monitoring 
+- Maintain documentation for data processes
+- Provide technical leadership and mentorship
+- Stay up to date on emerging technologies
+
+https://www.indeed.com/rc/clk?jk=7430eb68479730fd&from=jasx&tk=1hd958u85jqvd802&vjs=3

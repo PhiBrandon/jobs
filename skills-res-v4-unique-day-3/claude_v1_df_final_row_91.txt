@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3-5 years of experience in data warehouse design & development
+- Proficiency in building data pipelines to integrate business applications (salesforce, Netsuite, Google Analytics etc) with Snowflake  
+- Proficiency in data modeling techniques (Dimensional) – able to write structured and efficient queries on large data sets
+- Hands-on experience in Python to extract data from APIs, build data pipelines
+- Completely proficient in advanced SQL, Python/Snowpark(PySpark)/Scala, ML libraries
+- Strong hands-on experience in ELT Tools like Matillion, Fivetran, Talend, IDMC (Matillion preferred) , data transformational tool – DBT and in using AWS services like EC2, s3, lambda, glue
+- Solid understanding of CI/CD process, git versioning, & advanced snowflake concepts like warehouse optimizations, SQL tuning/pruning
+- Experience in using data orchestration workflows using open-source tools like Apache Airflow, Prefect
+- Knowledge of data visualization tools such as Tableau, and/or Power BI
+- Analytical skills, detail-oriented, ability to manage multiple projects simultaneously
+
+Responsibilities:
+- Collaborate with Data & Technical architects, integration and engineering teams to capture inbound/outbound data pipeline requirements, conceptualize and develop solutions
+- Support evaluation and implementation of current and future data applications/technologies to support evolving business needs
+- Collaborate with teams to identify data source requirements  
+- Profile and quantify quality of data sources, develop tools to prepare data and build data pipelines for integrating into data warehouse
+- Continuously optimize existing data integrations, data models and views while developing new features  
+- Work with Data Platform Lead to design and implement data management standards and best practices
+- Develop large scale and mission-critical data pipelines using modern cloud and big data architectures
+
+https://www.indeed.com/rc/clk?jk=211c5cd9297af263&from=jasx&tk=1hd1g2npm2f32000&vjs=3

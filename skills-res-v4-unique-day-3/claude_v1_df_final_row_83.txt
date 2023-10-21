@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 10+ years designing complex data models for both OLTP and OLAP systems  
+- 10+ years designing and implementing large-scale data warehouses
+- 5+ years designing, developing, and tuning Azure Data Lake including performance tuning techniques
+- 5+ years working with multi-tenant data warehouses  
+- 5+ years working with data governance
+- Well-versed in Change Data Capture (CDC) solutions for structured, semi-structured, and unstructured data
+- Well-versed with Azure Databricks, Databricks SQL, Unity Catalog, and Delta Lake and desire to become SME with Databricks technologies
+- Well-versed in data lake storage formats
+- Well-versed in techniques for handling slowly changing dimensions (SCDs)
+- Familiar with data orchestration tools such as Airflow
+- Broad experience in Microsoft SQL technologies including Power BI
+- Experience with data integration through APIs, Web Services, and/or REST services
+
+Responsibilities:
+- Designing, implementing, and delivering large-scale, multi-tenant, and near real-time data warehouses into production
+- Designing complex data models for both OLTP and OLAP systems
+- Designing and implementing large-scale data warehouses
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dknu-XJx1lvG7TapgMlWnDguf9J9bebwcn7i5H53jr-drpQ5Li0Kh0ocmNMFc5deE_9wtv9DXwuMqE2mt0p40WQPf2PCXMnynHuk9iib6LchjbRvPjkkC4egmG7QqF7fSptQJF1ivoDgybiTo63AqUuZ1PIr0vteL-AJdzEYaN8RgV2NXCRr0c0KDg3H-vbXWLgH-TMvKCw9ljydPqnptMvZGW_ZmGI6FZvOWoQm4T6_uEpQu0Es2bHuALkGKzPTv_RQNPb0iF8Uo35n-NkCtlP-1nRHp7VuMhDK62sntBPLt_mbiJRDPed-i2RlMHhjZVqSc5lUbhkCer2QUhAnooErSx1SU31qIKR1jPoprU_SKH2xzWpBBiWqwYNEMwnhb2IvG5K_UNr4nvPAxctvBqr-wmNLZj8GNE25iim4ycJ__6_9LIUEibVaXp8lHpV1bsR4kPIqwmAkM7WLtC8GEH2_HgCheJrMNtFOD-kLj5blINUWPyKS361fRlDw4Hf5FwQNegF_3tRAN-4hl_rrGj7RLFgA5a5-qMQyuZJYzMVItfRW7HhKSJzsLIadWE-lPkVs4lw3kWne3ZjUVZLKaJvANSw3XwsetZYnm6N4D3AQPR_qDzHb8g&xkcb=SoDr-_M3JhoFdXxiNZ0cbzkdCdPP&p=8&fvj=1&vjs=3&jsa=2704&tk=1hd1g2l89joov801&from=jasx&wvign=1

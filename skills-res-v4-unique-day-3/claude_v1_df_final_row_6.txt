@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data management 
+- Database administration
+- Data engineering
+- Data analysis
+- Building data visualizations and reports
+- Analyzing extremely large data sets
+- Experience with Amazon Web Services or Azure
+- Agile development
+- Scaled Agile Framework 
+
+Responsibilities:
+- Implementing changes to legacy National Crime Information Center system
+- Data profiling, data design, data management 
+- Generation of test data
+- Working with IT and business stakeholders to design data architecture
+- Synthesizing and analyzing extremely large data sets
+
+https://www.indeed.com/rc/clk?jk=e65490aaaff7f716&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

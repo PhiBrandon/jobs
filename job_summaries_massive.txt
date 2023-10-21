@@ -1,0 +1,2354 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Required Skills:
+- Databricks/py-spark – 4+ years of experience  
+- Cloud experience – 4+ years of cloud experience
+- AWS: 6 years of experience
+
+Nice to Have Skills:
+- Typescript experience
+- Software engineering background
+- AWS experience  
+
+Other Details:
+- Overall 7-8 years of experience required
+- Contract position
+- Pay rate of $75-80 per hour
+- Remote work location
+- 8 hour shift
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 10+ years of software development experience using Java or similar object-oriented languages for backend development
+- Deep expertise with relational database skills and concepts 
+- Experience with Postgres and non-relational databases like MongoDB
+- Experience with AWS
+- Experience building scalable systems and architectures
+- Experience with database performance tuning
+
+Responsibilities:
+- Design and evolve the architecture for the query layer that powers Clari’s product suite and platform
+- Contribute to all aspects of the data platform, from extracting and ingesting data to modeling, transforming, and managing large volumes of data
+- Mentor junior engineers and help grow their careers  
+- Write scalable, robust, and fully tested software for deployment in production environments
+- Create and improve tooling and processes to help reduce development friction and enable greater productivity
+- Contribute to the growth of Clari by being a brand ambassador and assisting in hiring
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL/TSQL development 
+- SSIS package development
+- Data modeling
+- ETL construction
+- Advanced job scheduling
+- Data analysis
+- Report development
+- Relational databases  
+- Database structures and design
+- Systems design
+- Data management
+- Data warehouse
+- MS Access
+
+Responsibilities:
+- Manage and manipulate structured data
+- Build business intelligence tools  
+- Conduct analysis
+- Perform normalization operations
+- Assure data quality
+- Create specifications to standardize data
+- Create product specifications and models   
+- Develop data solutions to support analyses
+- Perform analysis, interpret results
+- Develop actionable insights and recommendations
+- Partner with stakeholders to understand requirements
+- Develop tools/models like segmentation, dashboards, visualizations
+- Produce and manage delivery of analytics to clients
+- Build, maintain and adhere to data governance process
+- Identify and help resolve data integrity issues
+- Work in an Agile framework and use Agile tools
+- Instill Agile practices in the team and environment
+- Manage and protect data according to regulations
+- Propose strategies to improve processes and reporting
+- Provide training opportunities to support improvements
+- Review appropriate data infrastructure for customer needs
+- Develop business context diagrams for requirements
+- Collaborate with stakeholders to define requirements
+- Update project schedule and documentation
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Advanced knowledge of distributed systems design and development 
+- Strong fluency in Java programming
+- Experience with JVM performance tuning and optimization
+- Experience diagnosing performance bottlenecks
+- Experience with concurrency, sockets, networking, operating systems, memory management, runtimes, portability
+- Experience troubleshooting issues 
+- Experience with streaming systems like Kafka and Pulsar
+- Experience working in DevOps environments
+- Experience with databases like Oracle, MySQL, MariaDB, SQLServer
+- 10+ years of experience with Java or similar language
+- Experience building and operating large-scale systems
+- Experience with data structures, algorithms, object-oriented design, design patterns
+
+Responsibilities:
+- Design and build highly scalable and performant solutions  
+- Design software that is simple to use and customizable
+- Build reusable, scalable and clean code following best practices
+- Design tools, libraries and frameworks with long term priorities
+- Lead work cross-functionally and mentor junior team members
+- Work with product owners to implement requirements
+- Manage projects with technical risk at the team level
+- Explore new technologies to improve capabilities
+- Be a mentor and promote knowledge sharing
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Expertise in Python, Java, Scala, and Elixer for backend and ETL processes
+- Mastery of ETL tools/frameworks like Apache Kafka, Apache Airflow 
+- Deep knowledge of SQL/NoSQL databases like Cassandra and ScyllaDB, and data warehousing solutions like Redshift, BigQueary, Snowflake
+- Proficiency in cloud platforms like AWS, GCP, Azure and distributed systems
+- Familiarity with data science concepts, tools and libraries like Pandas, Scikit-learn
+- Exceptional problem-solving skills
+- Strong communication skills
+
+Responsibilities:
+- Design and optimize ETL pipelines
+- Develop robust backend systems for large-scale data processing
+- Design scalable and efficient data models for Cassandra and ScyllaDB
+- Ensure data integrity, quality and security
+- Collaborate with data scientists, providing clean and reliable datasets 
+- Assist in implementing and scaling data science models
+- Stay abreast of latest technologies
+- Recommend technical improvements for data processing and storage
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Demonstrated expertise in Data Center Infrastructure Management (DCIM) 
+- Proficient in using DCIM software, specifically Sunbird DC Track
+- Experience with ServiceNow is highly desirable
+- Expertise in Sunbird DC Track DCIM Software
+- Familiarity with other DCIM software solutions like PowerIQ and TigerEyes
+- Knowledge of physical hardware components and their integration within a data center environment
+- Excellent problem-solving skills and attention to detail
+- Effective communication and collaboration skills
+
+Responsibilities:
+- Serve as the primary owner and administrator of the DCIM platform, responsible for its day-to-day operations, maintenance, and periodic audits
+- Collaborate with cross-functional teams to ensure seamless integration and operation of data center infrastructure
+- Stay updated with industry best practices and emerging technologies to recommend and implement improvements in data center operations
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years SQL Server 2008/2014
+- 5+ years Data Integration technologies and principles  
+- Advanced knowledge of T-SQL including complex SQL queries
+- Advanced knowledge of index design and T-SQL performance tuning techniques
+- Advanced experience integrating data from structured and unstructured formats: flat files, XML, EDI, JSON, EXCEL
+- Advanced knowledge and experience in online transactional (OLTP) processing and analytical processing (OLAP) databases and schemas
+- Advanced knowledge of Data Warehousing methodologies and concepts
+- Experience with TDD / BDD
+- Experience with BI Tools 
+- Basic understanding of object oriented programming
+- Experience in distributed architectures such as Microservices, SOA, and RESTful APIs
+- Continuous Integration
+- Cucumber, Gherkin
+- Jira
+- Agile / DevOps values
+
+Responsibilities:
+- Analysis, design, documentation, development, unit testing, and support of Data Integration and database objects  
+- Provides support and guidance regarding Data Integration and T-SQL best practices
+- Leads the design and development efforts for the agile team
+- Collaborates with stakeholders and development team members
+- Works closely with engineers to integrate databases with applications
+- Leads the design, development, and implementation of database applications
+- Provides guidance on Data Integration and database development standards
+- Creates technical design documentation
+- Has a deep understanding of business processes and enabling technology
+- Translates requirements into common language for BDD/TDD
+- Participates in industry networks to ensure awareness of standards and best practices
+- Provides support for investigating and troubleshooting production issues  
+- Promotes establishment of group standards and processes
+- Improves performance of source code using industry standard methodologies
+- Drives technology direction and choices
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL and NoSQL to build and manage relational database systems
+- Python and at least one other programming language like Java or Scala  
+- Data APIs and integrating data into software applications
+- ETL tools
+- Machine learning concepts
+
+Responsibilities:
+- Manage database systems (SQL and NoSQL)
+- Maintain data warehouses and perform ETL 
+- Collaborate with data scientists to implement machine learning models
+- Develop data solutions using programming languages
+- Retrieve and optimize data using data APIs
+- Ensure efficient data operations and business goal alignment
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 7+ years of experience in working with data solutions
+- 3+ years of experience coding in Python, or Scala or similar scripting language
+- 3+ years of experience in developing data pipelines in AWS Cloud Platform, Azure, or Snowflake at scale  
+- 2+ years Experience in designing and implementing data ingestion with Kafka, Kinesis or similar tools
+- 3+ years experience working with databases like Snowflake, Redshift or similar MPP databases
+- 2+ years experience working with Serverless ETL processes like Lambda, AWS Glue, Matillion or similar  
+- 1+ years experience with big data technologies like Hadoop, Spark, Cassandra, MongoDB or other open source big data tools
+- Experience designing, documenting, and defending designs for large distributed computing systems
+- Demonstrated ability to learn new technologies quickly and independently
+- Excellent verbal and written communication skills
+- Strong interpersonal skills and a desire to work collaboratively
+- Experience participating in an Agile software development team
+
+Responsibilities:
+- Building, deploying, and maintaining scalable Data Pipelines  
+- Working closely with SMEs, Data Modeler, Architects, Analysts on requirements
+- Contributing design, code, configurations, and documentation for data ingestion, processing and loading solutions
+- Owning key components of the infrastructure and improving it continuously
+- Cross-training other team members and continuously learning new technologies
+- Ensuring solutions meet requirements in functionality, performance, availability etc
+- Performing development, QA, and dev-ops roles  
+- Keeping up with current trends in big data and evaluating tools
+- Mentoring Junior engineers and creating documentation
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python 
+- SQL
+- Apache Spark
+- Big data processing
+- Distributed cluster computing frameworks
+- Relational database concepts
+
+Responsibilities:
+- Design, develop and maintain data pipelines and workflows
+- Create analytics to digitally transform business processes
+- Handle ETL processes like data curation, parsing, cleaning, transformation and enrichment
+- Implement projects using agile methodology 
+- Utilize database management systems, object oriented programming, system architecture
+- Review and analyze business workflows and user data needs
+- Design and implement business performance dashboards
+- Write custom queries/reports to generate KPI reports
+- Build applications using SQL and Python to manipulate and improve data quality
+- Design, build and maintain end-to-end data solutions 
+- Construct workflow charts, write specifications and document processes
+- Explore and evaluate new technologies
+- Provide ad hoc team/business support as needed
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Spark 
+- Scala
+- Python
+- AWS (EMR, Redshift, Teradata)
+- Git and GitHub
+- Airflow
+- Jenkins
+
+Responsibilities:
+- Build data processing pipelines using Spark
+- Work on data analytics and reporting systems for CMS
+- Write unit and integration tests for data processing code
+- Read specifications and design/automate tests 
+- Collaborate with DevOps on CI/CD and infrastructure as code
+- Perform code reviews to improve quality
+- Help others learn Spark and inform design decisions
+- Debug runtime problems
+- Work in dynamic Agile teams
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Advanced skills in modern data architecture, data science engineering, data modeling and data quality using state-of-art cloud computing technologies (AWS)
+- Hands-on experience in the latest breed of data ETL, automation and CICD technologies including Python, SQL and Git in a cloud setting  
+- 2+ years of experience with cloud-native data warehouse technologies like Snowflake
+- Skills in data analysis, insight generation and manipulation of structured and unstructured data sources
+- Experience with automated data quality frameworks
+- Commitment to creating rigorous, high-quality insights from data, at scale
+
+Responsibilities:
+- Design and implement secure data pipelines into a Snowflake data warehouse from on premise and cloud data sources
+- Guide and review off-shore development team work providing coaching and coding feedback aligning to best practices set by the Data Science Engineering team
+- Collaborate with all levels of data science engineering technology personnel and senior leadership  
+- Document and present work to all levels of technical and non-technical audiences
+
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- Data Engineering
+- Azure 
+- Kubernetes
+- Machine Learning
+- Python
+- Spark
+- Jupyterhub
+- MLflow
+- Databricks
+- Kubeflow
+- HELM
+- Argo Workflow
+
+Responsibilities:
+- Develop, implement, and maintain technical software applications
+- Lead and coach a small team
+- Design, develop, test, deploy machine learning pipelines using Kubernetes/AKS
+- Participate in design reviews to decide on technologies and deliverables
+- Work closely with data and science teams to understand data and models
+- Implement real-time workflows and integrate with models
+- Develop distributed ML pipelines for training and inference 
+- Build scalable backend APIs for data collection
+- Deploy applications in AKS using DevOps tools like GitLab, Jenkins, Docker, Helm
+- Review code and provide feedback to ensure best practices
+- Debug, track, and resolve issues
+- Perform functional, benchmark, and performance testing
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Required Skills:
+- Databricks/py-spark – 4+ years of experience 
+- Cloud experience – 4+ years of cloud experience
+- AWS experience – 6 years
+
+Nice to Have Skills:
+- Software engineering background
+- AWS experience
+- Experience with Typescript
+
+Responsibilities: 
+- Contract position
+- Remote work
+- 8 hour shift
+- Overall 7-8 years of experience
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Hands-on data engineering experience 
+- Lead/management experience
+- AWS, AZURE Cloud
+- Azure Databricks
+- Azure SQL Database
+- Data Structure
+- Power BI
+- Snowflake
+- Relational databases
+
+Responsibilities:
+- Oversee 3 or more data engineers
+- Design, create, test, deploy and support SQL code
+- Monitor database systems and daily ETL processes
+- 5+ years prior experience (hands-on) in data engineering role
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 8+ years experience with Oracle PL/SQL development 
+- Expertise in data warehousing and business intelligence concepts
+- Hands-on experience with Oracle functions, procedures, triggers, packages and performance tuning
+- Experience with cloud technologies like AWS, Google Cloud, Azure, OpenShift, Kubernetes
+- Experience with Agile/SAFE, CI/CD, DevOps tools and processes
+- Experience developing with Java and open-source technologies
+
+Responsibilities:
+- Design, develop, test and implement complex database programs
+- Provide production support and troubleshooting 
+- Analytical problem solving approach
+- Strong communication, time management and presentation skills  
+- Build cross-functional relationships
+- Show initiative and take ownership of work
+- Develop code using Git and CI/CD practices
+- Drive technological innovation to meet business needs
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data pipeline development using technologies like ADF, Airflow, SQL, Hive, HBase, Presto
+- Data integration from multiple sources 
+- Data modeling, transformation, loading and processing  
+- Cloud data engineering on AWS, Azure or GCP
+- Programming languages: Python, SQL
+- DevOps tools: Git, CI/CD
+- Data governance, monitoring and supporting data pipelines
+
+Responsibilities:
+- Develop and maintain data pipelines for ETL
+- Integrate and process data from various sources  
+- Perform data cleaning, normalization and aggregation
+- Implement data pipeline automation and orchestration
+- Contribute to frameworks, best practices and standards
+- Partner with business and technical teams on requirements and architecture
+- Monitor data systems and resolve issues
+- Support big data pipelines in a regulated environment
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Building and managing data pipelines 
+- Python and SQL
+- APIs (REST, Websockets, etc.)
+- Cloud infrastructure like AWS
+- Data modeling, database design, and query optimization
+
+Responsibilities:
+- Designing and building ETLs, data pipelines, and APIs
+- Optimizing research and transaction infrastructure  
+- Implementing APIs for data querying and access
+- Acquiring and ingesting data to enable internal research and externally facing data projects
+- Delivering internal data projects like dashboards and visualizations
+- Working closely with the Data Engineering Lead to execute high impact data-related work across the firm
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Microsoft SQL Server Database 2019 and above, including Azure SQL
+- Azure Data Factory, Azure Data Lake, Azure Devops , Azure Data warehouse
+- Microsoft Power BI and Power Query with DAX and M Language
+- Azure Analysis service—Tabular Cube
+- Amazon Athena and Redshift
+- Development tools (Visual Studio)
+- C#, Python, R
+- Version control tools like GitHub
+
+Responsibilities:
+- Build Azure data factory pipeline, Azure Data Lake, Datawarehouse, Power BI Reports and dashboards
+- Design, develop, and maintain data pipelines and ETL processes  
+- Optimize and troubleshoot data pipelines
+- Implement data validation, testing, and quality assurance
+- Work with large datasets and employ appropriate data storage solutions
+- Develop and maintain documentation for data pipelines and processes
+- Monitor and resolve data pipeline issues
+- Collaborate with stakeholders to understand data requirements
+- Support applications and projects as needed
+
+ Based on the job description, here are the key skills and responsibilities of the Lead Data Engineer role:
+
+Skills:
+- Python programming focused on big data management 
+- PostgreSQL or other relational database
+- Docker
+- Kubernetes
+- Git
+- (Optional) GIS tools, AWS, Elasticsearch, data pipelines, machine learning, RESTful APIs, engineering leadership, open source
+
+Responsibilities:
+- Design, architect, build and maintain data pipeline systems
+- Write code to import and update large datasets to databases and indexes  
+- Define and maintain database schemas and data formats
+- Collaborate with developers on optimizing databases for APIs
+- Collaborate with a software engineering team
+- Mentor junior data engineers
+- Define and maintain data management processes
+- Work with product managers on schedules, tasks, and success criteria
+- Collaborate with cross-functional teams  
+- Coordinate with open source contributors and standards communities
+- Participate in team building and culture activities
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong SQL proficiency 
+- Experience with data visualization tools like Tableau, Power BI, Sigma
+- Data modeling skills
+- Familiarity with programming languages like Python
+- Analytical and problem-solving abilities
+- Business acumen to translate business needs to data analysis
+- Communication skills
+
+Responsibilities:
+- Perform data analysis and generate insights and dashboards 
+- Leverage datasets to test hypotheses and bring insights
+- Generate insights to improve patient outcomes and reduce medical waste
+- Work collaboratively across teams including product, technology, operations 
+- Continuously learn and share knowledge
+- Take ownership of analyses and processes
+- Keep user needs in focus in a startup environment
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 10+ years of industry experience designing, constructing and overseeing operations in complex datacenter environments. 
+- Experience with the handling, installation and servicing of large scale IT equipment in the DC.
+- Experience creating technical drawings, documenting methodologies and training DC staff to execute operations.
+- Excellent written and verbal skills and ability to effectively communicate with all Arista, partner and customer levels.
+- Prior experience with DC site operations as well as with customer facing services or support.
+
+Responsibilities:
+- Provide expert consulting to customers including site design assistance, proactive site prep. for installation, demonstration of best practices, creating training material and delivering training to customers and partiers, site surveys and oversight of physical installation and commissioning.
+- Understand equipment installation logistics including floorspace and rack preparation, moving and lifting, size/weight/rack mounting considerations, airflow/cooling requirements, power requirements.  
+- Understand cable management considerations, copper and fiber cable types, connector types, pluggable modules
+- Understand overall DC design and optimization including floorplan/rack layouts, power distribution/resiliency, cooling strategies, cable layout strategies, equipment density/cable length considerations.
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Solution design 
+- Architecture planning
+- Technical leadership
+- Risk assessment
+- Documentation
+- Vendor evaluation
+- Prototyping
+- Performance optimization
+- Security and compliance
+- Collaboration
+
+Responsibilities:
+- Develop and implement cutting-edge technical solutions
+- Work closely with stakeholders to understand needs and design robust and scalable data and microservices solutions  
+- Collaborate with business and technical teams to understand requirements and design holistic solutions
+- Develop and maintain technology roadmaps
+- Provide technical guidance to development teams
+- Identify and evaluate technical risks and propose mitigation strategies
+- Create and maintain architecture documentation
+- Assess and recommend third-party tools and services
+- Develop proof-of-concept and prototype solutions
+- Continuously monitor and optimize system performance
+- Ensure solutions comply with industry regulations and security standards
+- Foster collaboration between cross-functional teams
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3+ years experience with MS SQL Server and Snowflake
+- 3+ years experience with ETL/ELT Tools (ex. Mulesoft, API, Informatica) 
+- 3+ years experience using Power BI, Tableau, or similar data visualization tool
+- Expert SQL fluency
+- Experience in data modeling, ETL/ELT, data pipelines, EDW
+- Experience building data warehouse infrastructure and BI tables
+- Strong analytic, problem solving, and troubleshooting skills
+
+Responsibilities:
+- Design, develop and maintain scaled, automated, user-friendly systems, reports, dashboards
+- Write complex data transformation code 
+- Analyze projects for data quality issues and resolve issues
+- Automate standard report creation and sharing using tools or scripts
+- Convert raw data into consumable information applying business logic
+- Ensure data, systems, architecture, business logic, and metrics are documented
+- Support acquisition of external data sets and incorporate into analytics database
+- Provide insights from data and communicate findings to stakeholders
+- Provide exceptional customer service through project execution
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3+ years of experience building data pipelines
+- 3+ years of experience building data frameworks for unit testing, data lineage tracking, and automation
+- Fluency in Scala 
+- Working knowledge of Apache Spark
+- Familiarity with streaming technologies (e.g., Kafka, Kinesis, Flink)
+
+Responsibilities:
+- Build the company's next generation data warehouse
+- Build the company's event stream platform  
+- Translate user requirements for reporting and analysis into actionable deliverables
+- Enhance automation, operation, and expansion of real-time and batch data environment
+- Manage numerous projects in an ever-changing work environment
+- Extract, transform, and load complex data into the data warehouse using cutting-edge technologies
+- Build processes for top-notch security, performance, reliability, and accuracy
+- Provide mentorship and collaborate with fellow team members
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience in data engineering 
+- Experience designing and building schemas, tables, views, and data pipelines
+- Experience with cloud technologies like Azure and AWS
+- Experience with Azure Data Factory or equivalent ETL tool
+- Knowledge of SQL and relational databases like SQL Server, Oracle, Postgres, and MySQL 
+- Strong coding standards and data governance skills
+- Ability to understand and communicate insights from data
+
+Responsibilities:
+- Build and maintain the data infrastructure for the organization
+- Collaborate to understand data requirements 
+- Create the data warehouse architecture and normalize/denormalize data
+- Define strategies to capture all data sources and changes to data
+- Work on all aspects of the data warehouse environment like architecture, design, development, automation, caching, and performance tuning
+- Continually explore new technologies like AI, ML, predictive modeling
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience with large scale datastores using technologies like Cassandra, ElasticSearch, Kafka, Zookeeper, and Spark
+- Experience with large-scale, business-critical Linux environments
+- Experience operating within the cloud, preferably Amazon Web Services 
+- Track record of making great decisions, particularly when it matters most
+- Rock solid communication skills, verbal and written
+- Bachelor’s degree in an applicable field, such as CS, CIS or Engineering
+
+Responsibilities:
+- Maintain a deep understanding of the data components and use that to operate and automate properly configured clusters
+- Work with Engineering to roll out new products and features
+- Develop infrastructure services to support the CrowdStrike engineering team’s pursuit of a full devops model
+- Work closely with Engineering and Customer Support to troubleshoot time-sensitive production issues  
+- Keep petabytes of critical business data safe, secure, and available
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Network design and deployments of campus and data center networks including leaf-spine architectures
+- Cisco enterprise routing/switching within large data center enterprise customers (Catalyst, Nexus, ASR)  
+- Ethernet, VLANs, VxLAN, EVPN, IP Routing, TCP/IP, OSPF, BGP, eBGP, Multicast, QoS
+- Perl, Python, scripting for network automation
+- Arista configuration and CloudVision
+- Excellent customer service and communication skills
+- Written documentation and ticket tracking skills
+
+Responsibilities:
+- Provide advanced post-sales support for large data center networking deployments
+- Review customer network designs and make recommendations
+- Assist with migration, interconnection and change controls
+- Assist with proof of concepts and testing to validate designs
+- Provide interface to technical support and development teams  
+- Design network solutions using routing protocols and EVPN/VXLAN expertise
+- Establish and maintain partner relationships
+- Meet Service Level Agreements for clients
+- Maintain professional relationships with stakeholders
+- Some travel may be required
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3-5 years of experience in data warehouse design & development
+- Proficiency in building data pipelines to integrate business applications (salesforce, Netsuite, Google Analytics etc) with Snowflake  
+- Advanced SQL, Python/Snowpark(PySpark)/Scala
+- Hands-on experience in Python to extract data from APIs, build data pipelines
+- Experience with ETL Tools like Matillion, Fivetran, Talend, IDMC (Matillion preferred), data transformational tool – DBT 
+- Experience with AWS services like EC2, s3, lambda, glue
+- Knowledge of data visualization tools such as Tableau, and/or Power BI
+- Good analytical skills
+
+Responsibilities:
+- Collaborate with teams to capture data pipeline requirements and develop solutions
+- Support evaluation and implementation of data applications/technologies  
+- Collaborate to identify data source requirements
+- Profile and quantify data quality, develop tools to prepare data and build pipelines
+- Optimize existing integrations and data models, develop new features
+- Work with Data Platform Lead to design and implement data standards  
+- Develop large scale data pipelines using cloud and big data architectures
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Advanced mathematics background, particularly in statistics, probability theory, data mining, and machine learning 
+- 5+ years of overall professional experience in data science
+- Experience building predictive and prescriptive models
+- Proficiency in Python
+- Experience handling large datasets and SQL
+- Strong communication and presentation skills
+
+Responsibilities:
+- Partner with product, engineering, marketing, and other teams to shape product strategy using data science solutions
+- Apply statistical and machine learning models to measure results, optimize experience, and minimize risks
+- Design and analyze experiments to quantify impacts of changes  
+- Develop metrics and dashboards to guide product development
+- Drive collection of new data and refinement of existing data sources
+
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL 
+- Python
+- Data modeling
+- Data pipelines
+- Data warehousing (BigQuery, dbt)
+- Data integration tools (Airbyte, Stitch, Fivetran)  
+- Orchestration tools (Dagster, Airflow, dbt Cloud)
+- Metadata tools (DataHub, OpenMetadata)
+- BI/dashboard tools (Looker, Superset, PowerBI)
+
+Responsibilities:
+- Build and maintain data pipelines to move data into cloud data warehouse
+- Transform and model data using SQL and Python  
+- Monitor data pipelines for errors and data quality issues
+- Improve data quality, reliability, efficiency and performance while optimizing cost
+- Document data models, schemas, business logic, pipelines and other metadata
+- Collaborate with engineers and PMs to understand data requirements
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- GCP
+- Data Warehousing 
+- GIT
+- Airflow 2 years
+- Python 3 Years
+- SQL
+- Spark 3 Years 
+- ETL
+- Informatica 5 years (preferred) 
+- SQL 6 years (preferred)
+- Data warehouse 7 years (preferred)
+
+Responsibilities: 
+- 9+ years of overall experience is mandatory
+- Strong proficiency in core technologies including Airflow, Python, SQL and Spark is required
+- Familiarity with mandatory technologies including GCP, Data Warehousing and GIT is required
+- Contract position working remotely for 40 hours per week
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python and SQL
+- Data modeling 
+- ETL pipeline development
+- Data warehousing
+- AWS, Azure, or Google Cloud
+- Airflow, Dagster, or Prefect
+- Hadoop, Hive, Spark
+- AWS S3, AWS Athena, AWS Glue
+- Distributed systems
+
+Responsibilities:
+- Design, build, and maintain efficient data pipelines from various sources
+- Perform data cleansing and validation to ensure data quality
+- Identify opportunities for automated data acquisition  
+- Develop and implement data governance policies
+- Collaborate with leadership, engineers, and product managers on data solutions
+- Understand data requirements and align with business objectives
+- Work with analysts to deliver high-quality data that drives insights
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 10+ years of IT experience focusing on enterprise data architecture and management
+- Experience with Databricks required 
+- 8+ years experience in Conceptual/Logical/Physical Data Modeling & expertise in Relational and Dimensional Data Modeling
+- Experience with ETL and ELT tools such as SSIS, Pentaho, and/or Data Migration Services
+- Advanced level SQL experience (Joins, Aggregation, Windowing functions, Common Table Expressions, RDBMS schema design, Postgres performance optimization)
+- Experience with AWS environment, CI/CD pipelines, and Python (Python 3)
+
+Responsibilities:
+- Plan, create, and maintain data architectures 
+- Obtain data, formulate dataset processes, and store optimized data
+- Identify problems and inefficiencies and apply solutions
+- Create, maintain, and manage ETL/ELT pipelines
+- Create, maintain, and manage data transformations
+- Maintain/update documentation
+- Monitor data pipelines 
+- Create, maintain, and manage data pipeline schedules
+- Create, maintain, and manage data quality gates
+- Support AI/ML teams with optimizing feature engineering code
+- Maintain PCIS Reporting Database data lake with optimizations and maintenance
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python
+- SQL databases like PostgreSQL 
+- Big data technologies like Databricks and Spark
+- AWS for building cloud resident data pipelines
+- Agile software tools like Jira 
+- Mature DevOps practices using GIT, Docker, and CI servers like Jenkins
+
+Responsibilities:
+- Design, develop and maintain data pipelines, infrastructure, and systems 
+- Translate business problems into technical solutions
+- Develop and implement data engineering strategies and best practices
+- Monitor and troubleshoot data pipelines to ensure data quality and availability
+- Conduct research on industry trends and evaluate new technologies
+- Build and maintain data lakes
+- Manage the software development lifecycle and DevOps aspects
+- Collaborate with data scientists to understand data requirements
+- Create new data validation methods and analysis tools
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Programming experience in Scala, Java or Python
+- Experience in data engineering, preferably in Google Cloud Platform with BigQuery
+- Hands-on experience in designing, building, testing and deploying data pipelines in Teradata and Hadoop platform with experience in, HDFS, Hive, Spark, Streaming, HBase, Kafka, Oozie etc. 
+- Good organizational skills and strong written and verbal communication skills.
+
+Responsibilities:
+- Developing and validating Big data products and applications which runs on the large Hadoop cluster and Cloud
+- Developing and testing ETL process, Migrating different applications to cloud
+- Developing Data validation tools used for performing quality assessments and measurements on different data sets  
+- Building big data and batch/real-time analytical solutions that leverage emerging technologies
+- Performing data migration and conversion activities on different applications and platforms
+- Designing, developing and testing of data ingestion pipelines, perform end to end automation of ETL process
+- Performing data profiling/analysis, discovery, analysis, suitability and coverage of data, and identifying the various data types, formats, and data quality issues  
+- Developing transformation logic, interfaces and reports as needed to meet project requirements
+- Improving and performance-tuning the optimization of data pipelines
+- Developing unit and integrated automated test suites to validate end to end data pipeline flow, data transformation rules, and data integrity
+- Developing tools to measure the data quality and visualize the anomaly pattern in source and processed data
+- Integrating automated processes into continuous integration workflows
+- Contributing to data quality assurance standards and procedures
+
+ Based on the job description, here are the key skills and responsibilities for the Senior Data Engineer - Scala role:
+
+Skills:
+- Scala
+- Spark 
+- Hadoop
+- Python
+- AWS EMR
+- Airflow
+- Jenkins
+- AWS Redshift
+- Teradata
+- Git
+- Github
+- Confluence
+
+Responsibilities:
+- Write complex unit and integration tests for all data processing code
+- Work with DevOps engineers on CI, CD, and IaC
+- Read specs and translate them into test designs and test automation
+- Perform code reviews and develop processes for improving code quality
+- Build data processing pipelines that derive information from large sets of government data  
+- Be the go-to on the team for Spark, the Spark Engine, and the Spark Dataframe API
+- Use knowledge of Spark to teach others, inform design decisions, and debug runtime problems
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Excellent geospatial programming, analytics, and data engineering skills
+- Experience with common geospatial platforms and programming languages such as Python 
+- Proficient with data management systems (e.g. ArcGis, GEOJSON etc.)
+- Experience with databases / SQL dialects 
+- Strong analytical skills and an eye for detail for data validation and quality assurance
+- Logic-driven critical thinking
+- Strong written and verbal communication
+- Proficient with Google Suite applications and similar office suites
+
+Responsibilities:
+- Lead the overall geospatial data management program
+- Design scalable processes to acquire, organize, analyze, and display geospatial data sets
+- Interface with growers and partners to collect and transfer field data
+- Clean-up, correct, and adjust geospatial data geometries and attributes  
+- Review, compare, validate, and normalize geospatial data discrepancies
+- Ensure maps are of high quality and format with accurate boundaries
+- Manage geospatial data associated with remote sensing projects
+- Integrate remote sensing data with GIS and analyze to identify features/patterns
+- Collaborate to build automated geospatial workflows
+- Identify geospatial trends and insights to solve business problems
+- Write clean, testable, and modularized code
+- Communicate priorities, obstacles, and progress regularly to stakeholders
+- Lead technical geospatial operations following agile principles
+
+ Based on the job description, here are the key skills and responsibilities of an AWS data engineer:
+
+Skills:
+- Data modeling
+- Database design and optimization 
+- Data analytics
+- Software development
+- Infrastructure design
+- Data security
+
+Responsibilities:
+- Create data models to store data from various sources 
+- Maintain data integrity through backup and recovery procedures
+- Identify opportunities to improve performance through database optimization
+- Research new technologies that can be applied to projects
+- Analyze data to find patterns and insights  
+- Develop new applications using existing data sets
+- Maintain existing applications by updating code and adding new features
+- Design and implement security measures to protect data
+- Recommend infrastructure changes to improve storage and performance
+
+The job description emphasizes that AWS data engineers have 10+ years of experience in related roles. Their main responsibilities involve modeling, managing and analyzing enterprise data through the AWS platform.
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3+ years of real-world data engineering development experience in Snowflake and AWS (certifications preferred)
+- Proficient in Snowflake services like snowpipe, stages, stored procedures, views, materialized views, tasks and streams
+- Strong programming skills in SQL 
+- Knowledge of data security measures in Snowflake like role-based access control and data encryption
+- Proficient in programming languages like Python, Scala
+- Knowledge of SDLC tools like Jira, GitHub, CI/CD, code repositories
+- Experience with data integration from various sources
+- Understanding of data modeling and database design principles
+- Experience with ELT/ETL tools and custom integration solutions
+- Experience with distributed data technologies like Spark, DBT, Kafka
+- Experience designing data warehousing solutions in AWS with Redshift  
+- Experience with orchestration using Apache Airflow
+- Expert knowledge of AWS services like Lambda, Kinesis, S3, EC2, IAM, CloudWatch, Redshift
+- Understanding of data quality and governance 
+
+Responsibilities:
+- Develop and maintain data pipelines to move data from source to destination
+- Ensure reliability, scalability and efficiency of data systems
+- Configure and manage Snowflake data warehousing and data lake solutions
+- Collaborate with product, engineering and data teams on requirements
+- Contribute to data quality assurance efforts
+- Evaluate new technologies and expand skills
+- Design and implement data governance strategies  
+- Document data engineering processes and flows
+- Address complex data issues and resolve bottlenecks
+- Assess best practices and design schemas
+- Participate in Agile processes and continuous improvement
+
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- 10+ years designing complex data models for OLTP and OLAP 
+- 10+ years designing and implementing large-scale data warehouses
+- 5+ years experience with Azure Data Lake including performance tuning
+- 5+ years experience with multi-tenant data warehouses
+- 5+ years experience with data governance
+- Experience with Change Data Capture, Azure Databricks, Delta Lake, etc. 
+- Experience with data lake storage formats
+- Experience with slowly changing dimensions
+- Experience with data orchestration tools like Airflow
+- Experience with Microsoft SQL and Power BI
+
+Responsibilities:
+- Design, implement, and deliver large-scale, multi-tenant, near real-time data warehouses
+- Design complex data models for both transactional and analytical use cases
+- Design and implement large-scale data warehouses at the architecture level
+- Work with Azure Data Lake and employ performance tuning techniques
+- Handle data governance requirements
+- Work with change data capture solutions for structured and unstructured data 
+- Be well-versed in Azure Databricks technologies
+- Implement data integration through APIs, web services, etc.
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Proven experience as a Cloud Support Engineer, preferably with a focus on Azure
+- Strong knowledge of Azure services including Azure Active Directory, Azure DevOps, Azure Kubernetes Service etc. 
+- Excellent problem-solving skills and the ability to diagnose complex cloud-based issues
+- Strong verbal and written communication skills
+- Relevant Azure certifications like AZ-104 or AZ-303/304
+
+Responsibilities:
+- Provide support for Azure cloud-based applications and infrastructure
+- Diagnose and troubleshoot technical issues related to Azure cloud services
+- Collaborate with cross-functional teams to implement best practices and ensure service optimization
+- Continuously monitor and manage cloud environment to prevent and mitigate risks
+- Assist client in designing and implementing Azure cloud solutions based on their unique needs  
+- Keep up to date with the latest Azure updates and features, ensuring optimal utilization and implementation
+- Offer guidance and recommendations on cost-management strategies within Azure
+- Contribute to the development of internal tools and processes to enhance Azure cloud management and support
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Technical skills including data integration, data modeling, data warehousing, scripting (Python, SQL, Scala), cloud technologies (Azure), machine learning, data science
+- Analytical and communication skills
+- Understanding of data integration work 
+- Experience with technologies like Databricks 
+
+Responsibilities:
+- Lead a team of data engineers
+- Develop data migration and engineering solutions
+- Support data-driven decision making by identifying patterns and trends
+- Conduct data analysis and report results
+- Prepare, analyze, and clean raw data  
+- Build data systems, pipelines, and algorithms
+- Evaluate business needs and interpret data
+- Create technological solutions using automation
+- Maintain analytics environments and data integration scripts
+- Communicate technical findings to non-technical stakeholders
+- Provide reports and insights to leadership
+- Identify and resolve issues
+- Ensure quality and participate in reviews
+- Document deliverables and provide training
+- Support new proposals and past performance
+- Manage multiple concurrent technical tasks
+
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Pyspark 
+- Python
+- Azure Data Factory (ADF)
+- Azure Databricks
+- Agile/Scrum
+- Data Engineering experience of 10+ years
+- Enterprise Data Warehousing Concepts experience of 8+ years
+- SQL queries
+- Snowflake experience 
+
+Responsibilities:
+- Work as a Senior Data Engineer
+- Have a consulting mindset and be proactive in their approach and communication
+- Strong skills in the technologies listed above 
+- Minimum of 8 years experience in Azure Data Factory, Azure Databricks, Pyspark, Python
+- Minimum of 10 years of overall Data Engineering experience
+- Work remotely
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Required Skills:
+- Databricks/py-spark – 4+ years of experience 
+- Cloud experience – 4+ years of cloud experience
+- AWS experience - 6 years
+
+Nice to Have Skills:
+- Software engineering background
+- AWS experience
+- Experience with Typescript
+
+Responsibilities:
+- 7-8 years of overall experience required
+- Contract position for 8 hour shift
+- Remote work location
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data engineering 
+- Leading cross-functional teams
+- Developing scalable ETL/ELT solutions
+- Data modeling
+- Application development
+- Relational database development
+- Statistical analysis
+- Machine learning
+- Data warehousing
+- Dimensional modeling
+- OLAP
+- ETL/ELT script development
+- Data auditing
+- Data extraction, transformation, and loading
+
+Responsibilities:
+- Designing, implementing, managing data integration frameworks
+- Developing and maintaining data warehouses and data lakes  
+- Guiding dimensional modeling and data warehousing solutions
+- Overseeing data engineering projects and initiatives
+- Creating data collection frameworks for structured and unstructured data
+- Applying ETL/ELT techniques to connect data sets
+- Enforcing best practices for data reliability, scalability, and performance
+- Interpreting data and providing analytical insights
+- Designing quality control processes for data sets
+- Improving job knowledge through continuing education
+
+ Here are some key skills and responsibilities extracted from the job description:
+
+Skills:
+- Spark 
+- Python
+- SQL
+- AWS (S3, RDS, EMR, Glue, Athena)
+- Airflow
+- Tableau
+- Postgis
+- Scala
+
+Responsibilities:
+- Write ETL pipelines using Spark, Python and SQL to ingest billions of records daily
+- Implement ETL pipelines using AWS EMR and Airflow  
+- Write complex SQL queries including geospatial queries
+- Build dashboards in Tableau to visualize and analyze data
+- Develop scripts to acquire and curate spatial data
+- Build scalable data integration and warehousing tools
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong working experience utilizing Python and Databricks
+- Software development experience 
+- Understanding of security, secure coding/testing and data structures
+- Comprehensive knowledge of software development, practice, concepts and technology
+- Proficiency with various software languages and platforms such as Java, Oracle, Azure etc.
+- Experience with related technology stack and platforms
+- Experience with building and sustaining effective relationships with immediate team and stakeholders
+
+Responsibilities:
+- Define technical specifications and development requirements 
+- Develop and enhance product/applications to solve business problems
+- Adopt DevOps mindset by applying automation, continuous integration and delivery
+- Foster innovation by applying best practices and learning emerging technologies
+- Serve as application expert and provide technical recommendations
+- Advise and mentor junior team members 
+- Communicate difficult concepts and recommendations
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python, Java, SQL, Spark programming languages
+- Scala
+- Linux/Unix systems
+- Hadoop ecosystem 
+- Apache packages
+- RESTful and SOAP web services
+- Shell scripting
+- Version control platforms like GitHub
+- Unit testing
+- CI/CD pipelines and DevOps tools like Jenkins, Artifactory, Terraform
+- Data formats like Avro, Parquet, JSON
+- Batch and streaming data pipelines 
+
+Responsibilities:
+- Design and develop large-scale cloud data processing systems
+- Implement cloud data architectures and designs
+- Work with data in structured and unstructured formats
+- Design scalable and high performing data solutions
+- Code, test, analyze and improve data pipelines and workflows
+- Document designs, concepts and technical work
+- Collaborate with cross-functional teams on data products
+- Manage data lifecycles from acquisition to consumption
+- Automate and schedule batch data jobs
+- Advise on optimizing the data platform
+- Effectively communicate technical work to various audiences
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Programming languages: Java, Scala, Python 
+- Databases: RDBMS, NoSQL, Cloud data warehousing services like Snowflake
+- Big data technologies: Cassandra, Accumulo, HBase, Spark, Hadoop, HDFS, AVRO, MongoDB, Zookeeper
+- Streaming data: Spark Streaming, Kafka, Kinesis, Flink
+- Public clouds: AWS, Azure, Google Cloud
+- DevOps: Ansible, Terraform
+- Agile methodologies
+- Hadoop ecosystem: MapReduce, Pig, Hive, HBase
+- UNIX/Linux commands
+
+Responsibilities:
+- Collaborate with teams to design, develop, test, and support technical solutions
+- Work with a team of developers experienced in machine learning, microservices, and full stack systems  
+- Stay on top of tech trends and learn new technologies
+- Collaborate to deliver cloud-based solutions
+- Perform testing and code reviews
+- Solve complex business problems
+- Mentor other engineers
+
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Data engineering 
+- Data modeling and analysis using SQL, Python, PySpark, Jupyter notebooks
+- Apache Spark, Databricks, Kafka
+- Azure Data Factory, Azure cloud technologies
+- Programming languages like Python
+- Databases like Snowflake, Netezza, Oracle, SQL Server, MySQL, Teradata
+- DevOps practices and tools like Azure DevOps, Gitlab
+- Data modeling and pipelines using metadata-driven approach
+
+Responsibilities:
+- Build complex data pipelines and ingestion systems
+- Perform data modeling, analysis and wrangling  
+- Automate data quality testing and auditing frameworks
+- Answer business queries by analyzing data
+- Lead engineering team and set standards/best practices
+- Design metadata-driven data platforms for self-service
+- Setup data monitoring, alerting and support SLAs
+- Continuously improve processes, adopt new technologies
+- Train and support business/tech teams on data
+- Document data flows, models and support processes
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Deep understanding of Microsoft data platforms 
+- Proficiency in Python
+- Experience with SQL 
+- Knowledge of data modeling principles
+- Experience with data warehousing and big data technologies
+- Experience with Azure data services and Microsoft Power BI
+- Strong problem-solving and analytical skills
+- Excellent communication skills
+
+Responsibilities:
+- Develop, construct, test, and maintain ETL processes using SSIS and Python
+- Design and implement relational and non-relational database systems using SQL Server  
+- Leverage Azure data services for scalable data solutions
+- Develop analytical tools and solutions using Power BI
+- Optimize and automate data delivery processes
+- Uphold data quality standards through cleaning and validation procedures
+- Collaborate with teams to align data solutions with business objectives
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 2+ years of professional experience in data engineering environments
+- 2+ years of experience with SQL and programming in any of Python, Java, Scala or similar languages  
+- Experience with data pipelines processing larger than 10TB of data
+- Experience working in cloud environments like GCP or AWS
+- Strong experience improving performance of queries and data jobs and scaling systems
+- Expert debugging skills and enthusiasm for automation
+
+Responsibilities:
+- Develop high-quality reliable data pipelines that convert data streams into valuable information
+- Design, implement and deploy both real time and batch data processing pipelines  
+- Develop tools to monitor, debug, analyze and operate data infrastructure
+- Design and implement data technologies that can scale for hundreds of millions of users
+- Collaborate with product and business teams to deliver new features
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- In-depth knowledge and experience with FHIR standards and resource types
+- Expert-level Java programming abilities, alongside some familiarity with Python and Bash scripts 
+- Proficiency in designing and implementing data ingestion and transformation processes
+- Strong database design and data modeling skills, with experience creating and maintaining data models in a healthcare context
+- A systematic approach to identifying and resolving issues related to FHIR data integration, data quality, and performance
+- Demonstrated commitment to staying updated on industry best practices, evolving FHIR standards, and opportunities for process improvement
+
+Responsibilities:
+- Lead the implementation of FHIR (Fast Healthcare Interoperability Resources) standards within the data warehouse
+- Ingest healthcare data from source systems into FHIR resources through developing ETL processes  
+- Create and maintain data mapping specifications to transform data formats into FHIR-compliant data
+- Design and maintain the data warehouse's FHIR-based data model 
+- Implement security measures and access controls to protect healthcare data and comply with regulations
+- Maintain comprehensive documentation of FHIR implementations, data processes, and data flows
+- Stay informed about industry best practices and evolving FHIR standards
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Systems engineering 
+- Software development
+- Business analysis
+- Verbal and written communication
+- Concise writing
+- Ability to communicate technical content to broad audiences
+- Executing Agile, Scrum, and Kanban methodologies
+- Soliciting and documenting use cases and designs for system requirements 
+- Use of system management tools such as Azure DevOps, Jira, Redmine, or similar system
+- Developing and executing testing and acceptance plans
+- Tracking bugs, issues and resolutions
+- Performing data analysis and reporting
+- Knowledge of government system security policies (ATO process)
+- Flexibly pivot to varying needs of the project while maintaining situational awareness
+- Knowledge of the Microsoft Azure ecosystem
+- Experience with Data Lakes and preferably Data Lakehouses
+- Experience working with federal IT systems 
+- Experience working with SQL developers (or knowledge of SQL)
+- Prioritizing and communicating requirements and system development activities
+- Communicating impact of requirement changes on active development activities
+- Executing and presenting trade space of alternatives with cost benefit analysis
+- Supporting Authority to Operate (ATO) activities and other production system processes
+- Experience in developing advanced data visualizations
+
+Responsibilities:
+- Work directly with the customer to capture and formalize requirements
+- Track and communicate solution and system development activities  
+- Design and execute test plans
+- Help support the identification of alternative application solutions
+- Work with developers and engineers
+- Consider security and infrastructure implications of changes
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 7+ years of relevant experience in data engineering, especially in data pipeline cleanup and ETL processes
+- Direct experience with Customer Data Platforms (CDP) such as Segment, Rudderstack, or Treasure Data 
+- Mastery of SQL with hands-on experience in BigQuery and MySQL
+- Proficient in Google Cloud Platform services, particularly BigQuery and Google Analytics 4
+- Experience with modern programming languages like Python, R, JavaScript, and PHP
+- Exceptional problem-solving and communication skills
+- Proven expertise in data schemas and data cleaning principles
+
+Responsibilities:
+- Diagnose and Resolve Issues: Troubleshoot and fix data issues within our existing pipeline, which is built on Segment
+- ETL Development: Design, implement, and maintain ETL processes tailored for BigQuery and MySQL while adhering to privacy and governance principles
+- Data Cleansing: Develop and implement data validation and transformation solutions as an integral part of our ETL workflows  
+- Data Integration: Utilize Segment for optimized data collection, integration, and management
+- Stakeholder Collaboration: Work closely with stakeholders to tackle specific data integrity and quality issues
+- Teamwork: Collaborate with our Senior Data Analyst and engineering team to refine data models and architectures
+- SQL Optimization: Write and fine-tune SQL queries for performance and scalability in BigQuery and MySQL environments
+- Documentation: Maintain meticulous documentation for all data processes and updates
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experienced user of Power BI
+- Experience turning business requirements into technical solutions 
+- Experience with business processing and data analytics solutions
+- Strong collaboration and remote team experience
+- Experience with data transformation tools like AWS Glue, Azure Data Factory, Talend
+- Knowledge of Azure Data Factory, Azure Data Lake, SQL DB, SQL, Azure App Service
+- Experience with cloud data tools like Microsoft Azure, Amazon S3
+- Knowledge of programming languages and data management tools  
+- Knowledge of DevOps processes and Infrastructure as Code
+- Designing and building data pipelines using streaming data
+
+Responsibilities:
+- Translating business requirements into technical solutions 
+- Analyzing business processes and identifying opportunities
+- Supporting data design, sizing, and needs assessments
+- Designing and building Azure data architectures  
+- Developing and maintaining data schemas, databases, and warehouses
+- Exposing data to users through Power BI or other visualization tools
+- Implementing metrics and monitoring processes
+- Developing scalable, reliable, and high-impact cloud solutions
+- Working closely with business stakeholders and data analysts
+- Designing, implementing and maintaining Power BI reports and dashboards
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data management 
+- Database administration
+- Data engineering
+- Data analysis
+- Data profiling
+- Data design
+- Data visualization
+- Report building
+- Analyzing large data sets
+- Optimization models
+- Agile development
+- Scaled Agile Framework (SAFe)
+
+Responsibilities:
+- Implement changes to legacy NCIC system 
+- Enable agile development of new N3G system
+- Perform data profiling, design, management 
+- Generate test data
+- Work with IT and business stakeholders on data architecture
+- Synthesize and analyze extremely large datasets
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL
+- Data warehousing 
+- Problem-solving
+- Communication skills
+- Analytical skills
+- Spark or Python
+- Google Cloud Technologies
+- Databricks
+
+Responsibilities:
+- Design and engineer analytic data solutions
+- Code data ingestion, transformation, and delivery programs/logic
+- Maintain data sourcing, transformation and delivery pipelines
+- Work with data science teams on platform capabilities  
+- Contribute to large cross-functional projects
+- Manage customer relationships
+- Maintain data resources for analytics teams
+- Work with alternative analytic data systems
+- Keep current with big data technologies
+
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- AWS, Spark, Scala, Python, Airflow, EMR, Redshift, Athena, Snowflake, ECS, DevOps Automation, Integration, Docker, Build and Deployment Tools
+- Data warehouse architecture and associated diagrams  
+- Extract, Transform, and Load (ETL) data engineering
+- Data visualization tools like Tableau, Alteryx
+- Version control systems like Git
+- Analytics tools used in Amazon Web Services (AWS)
+
+Responsibilities:
+- Develop Agile environments leveraging advanced engineering practices 
+- Develop generic data frameworks and data products
+- Create data warehouse architecture and documentation
+- Deliver business requirements documents
+- Analyze and improve long running queries
+- Migrate existing systems to cloud architecture
+- Configure continuous monitoring systems
+- Develop, test and integrate ETL pipelines
+- Perform data testing, governance and quality assurance
+- Create documentation like test plans, SOPs, knowledge base articles
+- Administer analytics tools and licenses
+- Participate in planning, development and requirements accommodation
+- Compile quarterly reports using data science methodology
+- Inventory analytics tools licenses
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Design & implementation experience with distributed applications
+- Expertise in database architectures and data pipeline development 
+- Experience handling unstructured and semi-structured data in a data lake environment
+- Experience building data lakes in Redshift  
+- Ability to translate data into insightful dashboards (e.g. Amazon Quicksight)
+- Expertise in designing and implementing AWS solutions
+- Proficiency in data analytics, transformation, integration, warehousing and lake architecture 
+- Experience extracting/ingesting data from various sources using AWS Glue, AppFlow, Lambda etc. 
+- Experience with technologies like AWS CDK, CloudFormation, Terraform
+- Experience with AWS services like CloudWatch, CloudTrail, Secrets Manager, KMS
+
+Responsibilities:
+- Build and maintain the company's internal data lake
+- Establish connections from data lake to BI tools 
+- Configure AWS services to support ETL/data warehousing
+- Build and maintain process to sync data lake with Amazon Quicksight
+- Create operational efficiencies around data access and governance
+- Build processes to help teams become self-sufficient in analytics
+- Create visualizations and dashboards to communicate insights
+- Work across departments to understand needs and problems
+
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Java
+- Python
+- JavaScript 
+- HTML5
+- RedHat Linux and Windows operating systems
+- Integrated Development Environments (IDEs) such as Eclipse and IntelliJ
+- Debugging tools
+- Agile methodologies and frameworks
+- Software development life cycle (SDLC) and iterative development processes
+
+Responsibilities:
+- Design, develop, test, debug and implement operating systems components, software tools and utilities
+- Ensure system improvements are successfully implemented and monitored to increase efficiency  
+- Generate systems software engineering policies, standards and procedures
+- Demonstrate proficiency in technologies like Java, Python, JavaScript for software development and integration
+- Use debugging tools to troubleshoot and debug UI and software components
+- Think critically and creatively to contribute to innovative solutions for software problems
+- Write automation test cases to validate requirements and ensure reliability and performance
+- Collaborate effectively in a team environment
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Software development experience with languages like Python, Java, C#, C/C++
+- Understanding of statistics and proficiency with data analysis
+- Experience processing and integrating various types of medical data 
+- Experience selecting and organizing data for training/validating algorithms
+- Hands on experience with AWS technologies for data intensive tasks
+- Experience creating data pipelines to transform raw data into insights
+- Familiarity with machine learning libraries like pandas and scikit-learn
+
+Responsibilities:
+- Define technical requirements and plan for validation/release activities
+- Design and code data pipelines to transform raw data 
+- Perform exploratory research with physiological data
+- Develop, test, and document proof-of-concept algorithms/tools
+- Participate in software development life cycle, testing, and regulatory submissions
+- Update design history files and participate in risk management
+- Develop and monitor testing regimes for code/data integrity
+- Maintain documentation and clean codebase
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL
+- ELT/ETL experience 
+- Azure (generalist knowledge)
+- Azure Synapse
+- PowerShell/Bash
+- Python
+
+Responsibilities:
+- Design and architect cloud-based solutions on the Azure platform
+- Collaborate with clients and project managers to understand requirements and design solutions
+- Develop technical design documents and diagrams 
+- Evaluate existing systems for migration to cloud
+- Implement and manage Azure services like VMs, storage, databases, networking
+- Implement and manage Azure security measures
+- Monitor and optimize Azure resources 
+- Provide guidance to other teams on Azure technologies
+- Stay up-to-date with latest cloud technologies and trends
+
+The position is focusing more on a data engineer role with an emphasis on SQL, ETL/ELT experience, and Azure technologies like Synapse. Being able to write basic SQL queries would be important for the interview.
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience in backup solutions design and implementation 
+- Strong knowledge of backup concepts, methodologies, and technologies
+- Understanding of disaster recovery principles and methodologies
+- Desired experience in Cohesity Backup products
+- Proficient in backup solutions for various platforms, applications, and databases
+- Experience in backup solutions for cloud, hybrid and multi-cloud scenarios
+- Experience in backup solutions for large-scale and complex environments
+- Experience in backup solutions for disaster recovery and business continuity
+- Excellent problem-solving, collaboration, organizational, presentation, product demonstration, writing, and verbal communication skills
+- Ability to work independently and collaboratively in a fast-paced and dynamic environment
+- Certification in Cohesity products is a plus
+- Certifications in relevant areas (e.g. CISSP, CBRE) are a plus
+
+Responsibilities:
+- Provide service ownership and evangelize technology solutions
+- Ensure execution of service delivery to a standard of excellence  
+- Engage with clients to design, implement, and maintain backup solutions
+- Develop backup and data retention policies aligned with client needs
+- Implement security best practices for data protection and compliance
+- Identify and resolve backup issues, perform root cause analysis
+- Assess storage capacity requirements and scalability planning
+- Create comprehensive backup documentation  
+- Work closely with internal/external teams to integrate data protection
+- All other duties as assigned
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 4+ years of experience in computer science, information systems, or related field 
+- 3+ years developing ETL applications and integrating disparate systems using Agile methodologies
+- 3+ years experience with Informatica PowerCenter and Big Data Management on AWS Cloud
+- 3+ years utilizing SQL, Redshift, Oracle, Postgres to build and manage large data warehouses  
+- 3+ years programming experience with Python
+- 2+ years scheduling jobs using Autosys or similar tool
+- Experience with data modeling, Apache Hive, HBase, Pig, Cassandra, MongoDB
+
+Responsibilities:
+- Develop ETL solutions as part of an Agile team
+- Lead the implementation of big data initiatives using AWS, Informatica and Python
+- Understand and apply data modeling techniques to reduce redundancy 
+- Gather requirements and design/develop applications
+- Perform testing and help move solutions into production
+- Assist with designing Data solutions and systems integration
+- Develop and support Informatica workflows for ETL
+- Mentor and guide other developers
+- Identify process improvements
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python 
+- SQL
+- Spark
+- Linux/shell scripting
+- AWS services: S3, Lambda, Redshift, Lake Formation, Glue ETL, Kinesis, DMS, Glue catalog/Crawlers
+- Git
+- Jira
+- Airflow/Orchestration
+
+Responsibilities:
+- Build data pipelines to transfer data from source systems to AWS  
+- Perform ETL and ELT processes
+- Develop and maintain scalable data pipelines and new API integrations
+- Collaborate to improve data models and facilitate data-driven decisions
+- Implement processes to monitor data quality and ensure accuracy
+- Write tests and contribute to documentation
+- Perform data analysis to troubleshoot issues
+- Design data integrations and quality framework
+- Work closely with engineers, PMs, and analysts
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Python, NodeJs, Typescript
+- Database experience, particularly NoSQL databases (MongoDB, DynamoDB, etc) 
+- Linear algebra, statistics and deep learning concepts
+- Data exploration, visualization, cleaning, and analytics for real-world data modeling
+- AWS, Google Cloud, Azure, and On-Premises
+- Pandas, PyTorch, PySpark
+
+Responsibilities:
+- Building scalable robust infrastructure for data ingestion, storage, and sampling
+- Communicate complex technical concepts effectively to client executives 
+- Develop custom data tools tailored to meet specific client requirements
+- Create and maintain comprehensive technical documentation
+- Provide technical support to resolve complex issues escalated from customer support teams
+- Collaborate with cross-functional teams to diagnose and troubleshoot production incidents
+- Report results back to the customer in clear non-technical language
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong CS fundamentals, ability to reverse engineer websites and APIs
+- Strong experience with relational databases (Postgres preferred) and SQL 
+- Some professional programming experience in NodeJS with TypeScript
+- Experience with deployments on cloud platforms (AWS preferred)
+
+Responsibilities:
+- Design, develop, and maintain scalable, reliable, and performant web scrapers and data pipelines to ingest, process, and store large datasets
+- Maximize data quality and freshness across multiple sources, to ensure product catalogs are always accurate and up to date  
+- Optimize data architectures and database queries for performance and scalability
+- Stay updated with the latest technologies and trends in the data engineering field
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Azure Data Engineering
+- RDBMS 
+- Airflow
+- ADF
+- API
+- ETL Knowledge
+- Python
+- Communication
+
+Responsibilities:
+- Provide L1 support - job monitoring, re-run failed jobs, analyze reasons for failures, bug fixes.
+- Strong Expertise in Azure Cloud.
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience as a data engineer
+- 5+ years of experience with SQL Development (ETL transformations, stored procedure) 
+- Data Ingestion experience from inception to Gold Medallion
+- Strong understanding of data engineering, data warehousing, data modeling, data governance, and data security best practices
+- 3-5 years of experience programming with PySpark performing various transformations
+- 2-5+ years building large scale data infrastructure on Spark/Databricks or similar
+- 3+ years experience working with real-time data ingestion/processing
+- Working knowledge of Databricks DLT(Delta Live Table) and Unity Catalog a plus
+- Experience with relational and non-relational database technologies (i.e., NoSQL, blob storage, etc.)
+- Experience with data wrangling skills with csv, tsv, parquet, and json
+- Excellence problem-solving and troubleshooting skills
+
+Responsibilities:
+- Develop and implement effective data architecture solutions using Databricks and Lakehouse
+- Optimize and tune data pipelines for performance and scalability  
+- Monitor and troubleshoot data pipelines to ensure data availability and reliability
+- Collaborate with data scientists, analysts, and other stakeholders to understand their data needs and build solutions that enable them to extract insights from data
+- Implement best practices for data governance, data security, and data quality to ensure data integrity across all data sources
+- Create and maintain documentation related to data architecture, data pipelines, and data models
+- Stay up to date with emerging technologies and best practices in data engineering and big data processing
+- Mentor and train other data engineers on best practices for data engineering and Databricks usage
+- Provide thought leadership in the Databricks and Lakehouse space, both within the organization and externally
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 4+ years of experience in data extraction and creating data pipeline workflows on Bigdata (Hive, HQL/PySpark) 
+- Knowledge of Data Engineering concepts
+- Experience in analyzing large data sets from multiple data sources, perform validation of data
+- Knowledge of Hadoop eco-system components like HDFS, Spark, Hive, Sqoop
+- Experience writing codes in Python
+- Knowledge of SQL/HQL to write optimized queries
+- Hands on with GCP Cloud Services such as Big Query, Airflow DAG, Dataflow, Beam etc.
+
+Responsibilities:
+- Ability to build a migration plan in collaboration with various stakeholders
+- Analytical, problem-solving and excellent comm skills
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- System configuration and development on Cloud MDM, Reltio or SAP
+- SaaS, Cloud Software, Software Configuration, Software Development, SAP MDG, Master Data Management  
+- Managing or executing data cleansing data mapping and data governance areas as well as integration across complex ERP landscapes
+- Assisting in developing normalizing and maintaining data standards and definitions
+- Developing processes tools and integration for Master Data Processes including data cleansing and data validation
+- Mapping of Master data and integration from the legacy environment to the target environment
+- Configuring and managing MDM entities for one or more master data domain
+- Denodo and / or Mulesoft
+
+Responsibilities:
+- Collecting and analyzing information from users to formulate the scope and objectives of the system
+- Preparing flow charts, models, and procedures and conducting feasibility studies to design possible system solutions  
+- Preparing and maintaining technical documentation to guide system users and to assist with the ongoing operation, maintenance, and development of the system
+- Leverages Agile methodology to design and configure solutions. Works closely with the business to develop required training, change management, and operations processes
+- Develop use cases, customer scenarios, and-or demos, plan and coordinate testing of the newly developed or enhanced applications and provide support
+- Looks for opportunities to automate business processes with technology, and may provide consultation to users in the area of automated systems
+- Information transformation engagements
+- Presenting technical or new concepts across multiple levels of a global organization
+- Working with and collaborating with all IT and biz teams toward developing a best practice data creation maintenance governance quality and efficiencies
+
+ Skills:
+- Scala, Java, Python programming
+- Apache Spark, HBase, Hive 
+- AWS services like EMR, S3, Redshift
+- Data migration from on-premises to cloud
+
+Responsibilities:
+- Develop data processing solutions using Scala, Java, Python
+- Process and manipulate large datasets using Apache Spark, HBase, Hive
+- Migrate data processing systems from on-premises to cloud using AWS
+- Collaborate on data migration initiatives  
+- Ensure integrity, security and accessibility of data assets
+
+ Here are some specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of Data Engineering experience
+- 3+ years of writing SQL experience against complex databases for data extraction using AWS Athena (Presto), Databricks Delta Lake along with Data Modeling & Data warehousing experience.  
+- 3+ years of experience working on Spark (RDDs / Data Frames / Dataset API) using Scala/Python to build and maintain complex ETL pipelines and experience data processing using Parquet and Avro
+- 3+ years of Python coding experience, familiar with utilizing packages such as pandas, boto3, requests, json, csv, os
+- 3+ years of experience working on AWS services including Glue, Athena, Lambda, S3, SNS, SQS, Cloud formation, Step Functions, Serverless architecture.
+- Experience with GitHub, Code check-in, versioning, Git commands
+- Experience with visualization tools such as Tableau, Looker or PowerBI to build dynamic/scalable dashboards and reports.
+- Strong analytical and interpersonal skills
+- Knowledge or experience within Talent/People analytics is a plus
+- Enthusiastic, highly motivated and ability to learn quickly.
+- Able to work through ambiguity in a fast-paced, dynamically changing business environment.
+- Ability to manage multiple tasks at the same time with minimal supervision.
+
+Responsibilities:
+- Develop/maintain data pipelines from various data sources to a target data warehouse using batch data load strategies utilizing cutting edge cloud technologies.
+- Conduct hands-on, advanced data engineering & analytics using multiple data sources originating from different applications and systems. 
+- Collaborate with the data science team to identify new opportunities for deep analytics within the Human Capital organization.
+- Provide input into strategies as they drive the team forward with delivery of business value and technical acumen.
+- Execute on proof of concepts, where appropriate, to help improve our technical processes.
+- Documenting database designs that include data models, metadata, ETL specifications and process flows for business data project integrations.
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of software engineering experience, including 2+ years of data engineering experience  
+- Python and SQL
+- AWS architecture and design for scale
+- DevOps experience like CI/CD, infrastructure management
+- Data analytics and prioritization
+- Testing and validation for data pipelines
+
+Responsibilities:
+- Design, implement, deploy and operate data pipelines and platforms
+- Write code for data pipelines and review others' code
+- Prototype and iterate tools for data review 
+- Determine data roadmap and prioritize tasks
+- Analyze current and future data sets to aid prioritization
+- Lead the data team as the company grows
+- Take over project timelines and deliverables
+
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience in SQL or similar languages 
+- 5+ years of experience in the data warehouse space, custom ETL design, implementation, and maintenance
+- Experience with data architecture, data modeling, schema design, and software development
+- Experience working with cloud analytics platforms and tools, specifically Snowflake, dbt, and Rudderstack
+- Development experience in at least one language (Python, Javascript, etc.)
+
+Responsibilities:
+- Architect data pipelines to move data across platforms including third party analytics, frontend & backend systems
+- Educate teams by identifying gaps in existing systems and processes 
+- Partner with stakeholders to understand requirements and build scalable data solutions
+- Manage delivery of dashboards, tools, and data visualizations
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong technical skills in SQL, databases, data warehousing including ETL techniques 
+- Experience with Microsoft SQL Server, SSIS, cloud and hybrid database architectures
+- Analytical and problem-solving skills
+- Knowledge of statistical modeling and machine learning techniques
+
+Responsibilities:
+- Manage research databases and platforms including the data warehouse
+- Integrate and transform health data from various sources into analyzable formats
+- Build and maintain datasets and data marts  
+- Maintain data pipelines to ensure high availability
+- Design new research data pipelines and platforms
+- Automate data operations with scripts and programs
+- Prepare and maintain technical documentation and metadata
+- Provide technical support to research partners and investigators
+- Perform other duties as requested
+
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- Data product engineering 
+- Data analysis and extraction at scale
+- Building efficient, production-grade data pipelines
+- Understanding customer needs
+- Extracting common problem structures across customers
+
+Responsibilities:
+- Design and develop data products that solve customer pain points  
+- Deliver scalable, high-quality data products that customers love
+- Talk to customers and solve their problems in a repeatable way
+- Adopt a principled, metrics-driven approach to difficult data problems
+- Operate transparently and collaboratively
+- Develop products that take an innovative data-first approach to solving high-value customer problems
+- Tackle complex data and engineering problems while balancing various factors like customer impact, reliability, scalability, data quality
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Verbal and written communication skills 
+- Problem solving skills
+- Customer service and interpersonal skills
+- Ability to work independently and manage time
+- Good knowledge of data modeling
+- Expertise with SQL, Python and Snowflake
+- Basic knowledge of databases like Oracle
+- Project management skills (Agile methodology) 
+- Data analytics skills
+- Understanding of software development life cycle
+- Tableau, Power BI experience
+
+Responsibilities:
+- Develop and test data pipelines with ETL and store data in Snowflake
+- Modify existing databases and tables 
+- Write code/scripts to validate data between different databases
+- Design new data pipelines  
+- Maintain and enhance tables in Snowflake
+- Provide support to business partners on CVA metrics
+- Work on migrating Airflow DAGs to AWS
+- Answer questions from business stakeholders on CVA logic and metrics
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python and SQL
+- Apache Spark 
+- Big data processing
+- Hadoop, Spark, Java, Python, R, ElasticSearch
+- Relational database concepts
+- Palantir Foundry
+
+Responsibilities:
+- Design, develop and maintain data pipelines and workflows
+- Handle data pipelines for extraction, transformation, cleaning and enrichment
+- Implement projects using agile methodology 
+- Query and analyze data to understand complexity and structures
+- Review and analyze business workflows and user data needs
+- Design and implement business performance dashboards
+- Write reports highlighting KPIs
+- Build applications using SQL and Python scripts to manipulate data
+- Design, build and maintain end-to-end data solutions
+- Construct workflow charts and diagrams
+- Document end-to-end data pipeline processes
+- Document data assets for information management
+- Provide ad hoc team/business support as needed
+- Explore and evaluate new technologies
+
+ Here are some key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL and Python programming
+- Data engineering 
+- Database management (Snowflake, AWS, MongoDB)
+- Data orchestration tools like Dagster and Airflow
+- Strong problem-solving, analytical, communication and organizational skills
+
+Responsibilities:
+- Design, develop and maintain data pipelines 
+- Ingest and transform data from various sources
+- Ensure data quality, integrity and pipeline reliability
+- Document data pipelines and systems
+- Monitor and optimize pipeline performance
+- Troubleshoot data issues and provide technical support
+- Collaborate with data scientists and analysts  
+- 3+ years experience working with large databases
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of industry experience in software development data engineering or a related field 
+- Hands-on experience and advanced knowledge of AWS DataOps (i.e. IAM Lambda Step Functions EMR/Glue and DynamoDB)
+- Hands-on experience and advanced knowledge of SQL/Non-relational Data Modeling
+- Experience working with data streaming technologies (Kafka Spark Streaming etc.)
+
+Responsibilities:
+- Designing and implementing complex ingestion and processing pipelines through orchestration
+- Design and implement API interfaces for engineering teams to interact with ingestion/processing pipelines
+- Design implement and support scalable multi-tenant service and data infrastructure solutions to integrate with multi heterogeneous data sources aggregate and retrieve data in a fast and secure mode curate data that can be used in reporting analysis machine learning models and ad-hoc data requests
+- Interface with other engineering and ML teams to extract transform and load data from a wide variety of data sources
+- Work with business product owners to understand gather and analyze their processing and extraction needs to solve problems
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- HR data management 
+- Data integration techniques
+- ETL processes
+- Data warehousing concepts
+- SQL and scripting languages (Python, R) for data manipulation
+- Data modeling
+- Dimensional structures
+- Data governance 
+- Data privacy regulations
+- Security protocols
+
+Responsibilities:
+- Lead data migration process to Workday
+- Establish an HR Data Mart
+- Develop data migration strategy 
+- Design and implement HR Data Mart 
+- Design, develop and maintain ETL processes
+- Implement data validation and testing
+- Define data mapping and transformation rules  
+- Ensure data governance and security compliance
+- Document processes and provide training
+- Lead data migration project and implementation
+- Identify opportunities for process improvement
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience with Microsoft database and BI technologies, including experience with Azure Data Lake Storage, Azure Data Factory, Azure SQL DW, Azure Synapse, Databricks, Spark, and Python
+- Knowledge of Cloud Data Analytics platforms
+- Experience programming in PowerShell, Python, and SQL
+- Experience with data transformation techniques
+- Experience preparing data for various types of data analysis: descriptive, diagnostic, predictive, prescriptive
+- Performance analysis and tuning experience  
+- Experience with Data Warehouse or Big Data solutions
+- Experience with ML models
+- Experience with data modeling and database design
+- Strong communication, interpersonal, and collaboration skills
+
+Responsibilities:
+- Serve as a technical consultant to implement Analytics solutions and produce Data Domain ETL Scripts
+- Use PowerBI/dashboards to support problem identification and resolution  
+- Develop and maintain documentation on various operational and design aspects of the Platform
+- Assist in troubleshooting issues and resolving them
+- Build awareness, increase knowledge and drive adoption of modern technologies
+- Effectively communicate with and influence key stakeholders
+- Operate as a trusted advisor for technology, platform, or capability domain
+
+ Here are the extracted skills and responsibilities from the job description:
+
+Skills:
+- Deep understanding of PySpark using Databricks or AWS Glue or AWS EMR and cloud-based databases such as Snowflake
+- Proficiency in workflow management tools like Airflow 
+- Healthcare industry experience
+- Familiarity with healthcare data standards, terminologies, and regulations, such as HIPAA and GDPR
+- Strong Knowledge in Big Data Technologies, Databricks, AWS Services, and PySpark
+- Strong knowledge of SQL and NoSQL databases, as well as data modeling and schema design principles
+- Knowledge of container orchestration systems such as Kubernetes
+- AWS or Azure cloud services for data storage, processing, and analytics
+- Python programming
+
+Responsibilities:
+- Design, develop, and maintain scalable, reliable, and secure data pipelines to process large volumes of structured and unstructured healthcare data using PySpark and cloud-based databases
+- Collaborate with data architects, data scientists, and analysts to understand data requirements and implement solutions  
+- Leverage AWS or Azure cloud services for data storage, processing, and analytics, optimizing cost and performance
+- Utilize tools like Airflow for workflow management and Kubernetes for container orchestration
+- Develop and implement data ingestion, transformation, and validation processes to ensure data quality
+- Monitor and troubleshoot data pipelines, proactively identifying and resolving issues
+- Establish and enforce data engineering best practices, ensuring compliance with regulations
+- Continuously evaluate and adopt new tools, technologies, and frameworks to improve infrastructure
+- Mentor and guide junior data engineers, fostering collaboration and growth
+- Collaborate with cross-functional teams to align efforts with organizational goals and strategies
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of relevant industry or academic experience in software engineering
+- Experience developing in Python and the Django framework
+- Experience designing, building and maintaining application features on the backend  
+- Experience participating in multi-month projects from conception to maintenance with multiple team members
+- Desire to take ownership and responsibility when a problem or opportunity arises
+- Experience working with non-technical teams to explain technical concepts
+- Self-organized and able to work independently or within a team
+
+Responsibilities:
+- Write code in Python and Django to implement complex backend features and ensure code is well tested
+- Use tools like Airflow to build/enhance financial data pipelines  
+- Make use of pandas and Celery to efficiently calculate data points for securities
+- Design robust data models to store structured data
+- Design, plan, estimate, and ticket features scoped by product team
+- Work directly with product team to clarify feature requests and negotiate solutions  
+- Take ownership of projects and see them through entire lifecycle
+- Perform code reviews for other engineers
+- Document work in repo and externally for future engineers
+- Collaborate with engineers to plan, design, and build the platform
+
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Data migration strategy and integration planning
+- Data engineering 
+- Developing and integrating multiple data types across data sets and sources
+- Day-to-day operations of data-dependent systems to process and transfer data securely and timely
+- Evaluating current systems and identifying improvements for availability and performance  
+- Planning and designing integration of source systems and data migration between systems
+- Developing, managing, manipulating, storing and parsing data across pipelines
+- Writing code for data extraction and processing performance and reliability
+- Supporting continuous automation for data ingestion
+- Maintaining applications and tools on data systems
+
+Responsibilities:
+- Prepare data migration strategy and integration plans 
+- Provide support for data migration, engineering, and integrating existing systems
+- Build and implement source system integration and data migration plan
+- Assist with maintenance of data applications and tools
+- Work collaboratively in an Agile environment 
+- Advocate for lean-agile principles like automation, integration and testing
+- Generate and communicate technical strategy to diverse audiences
+- Demonstrate technical competence and drive strategic objectives
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years SQL Server 2008/2014
+- 5+ years Data Integration technologies and principles  
+- Advanced knowledge of T-SQL including complex SQL queries
+- Advanced knowledge of index design and T-SQL performance tuning techniques
+- Advanced experience integrating data from structured and unstructured formats: flat files, XML, EDI, JSON, EXCEL
+- Advanced knowledge and experience in online transactional (OLTP) processing and analytical processing (OLAP) databases and schemas
+- Advanced knowledge of Data Warehousing methodologies and concepts
+- Experience with TDD / BDD
+- Experience with BI Tools is a plus
+- Basic understanding of object oriented programming
+- Experience in distributed architectures such as Microservices, SOA, and RESTful APIs
+- Continuous Integration
+- Cucumber, Gherkin
+- Jira
+- Agile / DevOps values
+
+Responsibilities:
+- Analysis, design, documentation, development, unit testing, and support of Data Integration and database objects
+- Provide support and guidance regarding Data Integration and T-SQL best practices and development standards  
+- Promote approved agile methodologies, leading design and development efforts for the agile team
+- Coach, guide, and mentor team members
+- Collaborate with stakeholders and development team members to achieve business results
+- Work closely with engineers to integrate databases with other applications
+- Lead design, development, and implementation of database applications and solutions
+- Recommend guidance regarding Data Integration, T-SQL best practices, and standards
+- Create and propose technical design documentation
+- Have a deep understanding of business processes and enabling technology platform
+- Translate requirements into common language for BDD or TDD
+- Participate in industry networks to ensure awareness of standards, trends and best practices
+- Provide support for investigating and troubleshooting production issues
+- Promote establishment of group standards and processes
+- Participate in communities of practice 
+- Continually improve performance of source code using industry standards
+- Help drive technology direction and choices
+- Make recommendations based on experience and research
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years experience in SQL Query Design, SQL Performance Tuning and Query Optimization
+- 5+ years of relevant experience in Data Warehouse Design,Data Warehouse Technical Architectures, Development and Implementation 
+- 5+ years of relevant experience in ETL Development, ETL Implementation, Unit Testing, Troubleshooting and Support of ETL Processes
+- 2+ years of relevant experience with the application of Data Science principles and data modeling.
+- Proficiency in SQL Query Design and Implementation
+- Strong Experience with Relational Data Warehouse Systems
+- Knowledge of data science concepts, machine learning algorithms, and statistical analysis.
+- Programming skills in languages such as Python, Java, or C# required.
+- Strong analytical and problem-solving skills
+
+Responsibilities:
+- Design, implement, and maintain scalable data pipelines to collect, process, and store data from various sources.
+- Ensure data quality, accuracy, and consistency throughout the pipeline.  
+- Design and implement data models for predictive analytics, machine learning, and data exploration.
+- Optimize data structures and storage to support efficient querying and analysis.
+- Work closely with cross-functional teams to integrate data from diverse sources, including databases, APIs, and external data providers.
+- Develop and maintain ETL processes to transform and enrich raw data into actionable insights.
+- Monitor and optimize the performance of data pipelines and databases to meet business requirements.
+- Identify and resolve bottlenecks and performance issues.
+- Stay up-to-date with the latest advancements in data engineering and data science technologies.
+- Share knowledge and mentor junior team members.
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Required Skills:
+- Databricks/py-spark – 4+ years of experience 
+- Cloud experience – 4+ years of cloud experience
+- AWS experience – 6 years
+
+Nice to Have Skills:
+- Software engineering background
+- AWS experience
+- Experience with Typescript
+
+Other Details:
+- Overall 7-8 years of experience required
+- Contract position
+- Pay rate of $75-80 per hour
+- 8 hour shift 
+- Remote work location
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Proficiency in Python
+- Familiarity with Postgres, Elasticsearch, HTML/CSS/JS
+- Strong understanding of web services and distributed systems
+- Problem-solving skills and attention to detail 
+- Experience with web crawling, Django, workflow systems, distributed databases, Hadoop, Ansible, GitLab, GitHub, Sentry, Grafana, JIRA
+- Linux experience
+
+Responsibilities:
+- Collaborate with team to understand user needs, design features, support web crawling/preservation, improve performance/reliability
+- Implement, test, and maintain software across the stack  
+- Develop, monitor, and maintain the partner application for web crawls  
+- Improve the distributed system for web crawls, post-processing, indexing, deduplication, and reporting
+- Participate in code reviews to ensure quality and knowledge diffusion
+- Document architecture, software, and features
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience operating and improving the reliability of data storage and processing systems (relational databases, data warehouses, data lakes and distributed processing systems)
+- Understanding of stream processing and operating streaming solutions (using Kafka/Kinesis or similar) and/or CDC workloads
+- Experience planning, provisioning, scaling and maintaining reliable data processing systems in AWS or GCP  
+- Python programming skills
+- Experience maintaining ETL jobs using Airflow or similar
+- Experience with AWS data ecosystem (Aurora, DocumentDB, OpenSearch, Redshift, Glue/Spark, MSK/Kafka, Kinesis, Debezium, S3/Hudi, MWAA/Airflow)
+
+Responsibilities:
+- Operate, improve and extend the existing data infrastructure
+- Support teams working on improving performance of reports, listings, searches and other data/analytics services
+- Collaborate with DevOps team to identify and remediate data infrastructure performance or reliability issues  
+- Work with ETL and streaming solutions
+- Review features/requirements and implement solutions with data engineers, scientists, developers and designers
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Azure Data Factory 
+- Microsoft Dataverse
+- ETL processes
+- Data warehousing concepts
+- Power BI
+- Cloud-based solutions
+
+Responsibilities:
+- Design, develop, and deploy data pipelines using Azure Data Factory
+- Integrate Microsoft Dataverse to streamline data flow and improve operational efficiency  
+- Work closely with healthcare clients to understand their data requirements and provide solutions
+- Ensure data quality and compliance with healthcare regulations
+- Collaborate with cross-functional teams to deliver on project milestones
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Leadership, problem solving, team building, and decision-making skills
+- Project management skills with the ability to articulate business needs  
+- Excellent written, verbal, and interpersonal communication skills
+- Proficient computer software and database skills including Microsoft Products
+- Ability to focus and prioritize strategic objectives
+- Broad knowledge of state-of-the-art technology equipment and systems
+
+Responsibilities:
+- Oversee and implement data protection strategies and solutions
+- Enhance data protection measures across the organization 
+- Develop information security policies and standards
+- Introduce security best practices
+- Support implementation and refinement of security technologies
+- Build and maintain relationships with stakeholders
+- Assist leadership in understanding the role of data protection applications
+- Manage architecture of data protection technology
+- Perform day-to-day operational activities of data loss prevention team  
+- Ensure system platforms are functional and secure
+- Ensure fulfillment of legal/contractual security and privacy mandates  
+- Lead long term planning and strategic vision for data protection
+- Establish and track budgets
+- Identify problems and opportunities from an innovation perspective
+- Develop business requirements and documentation
+- Collaborate with customers, employees and support staff
+- Maintain awareness of digital disruption, innovation, and healthcare trends
+- Provide recommendations for improvements
+- Present findings to leadership 
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years hands-on software engineering experience 
+- Advanced CS fundamentals including data structures, algorithms, and distributed systems
+- Good understanding of database fundamentals
+- Background in database tooling, database internals, schema design, or building components for large scale data processing systems
+- Systems programming skills with fluency in Java, JavaScript or Python
+- Track record of identifying and implementing creative solutions with data from multiple sources
+
+Responsibilities:
+- Create a framework that enables development and testing before production 
+- Design a visualization framework to monitor queries and improve insights
+- Develop a service to automatically find and resolve data corruption
+- Create a testing platform to find correctness and reliability issues
+- Design and implement an automated system to safely rollout features to production
+- Identify gaps in infrastructure and design automated solutions
+- Contribute to design, development and maintenance of existing projects 
+- Help ensure effective data governance and security
+
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Strong knowledge of AWS services: S3, RDS, EC2, Lambda, SQS, SNS, Redshift  
+- Python development with 10+ years of experience
+- Strong skills in AWS SNS, SQS, Lambda functions
+- Knowledge of Java and databases like Oracle, Postgres
+- Prior experience with Fannie Mae is preferred
+
+Responsibilities:
+- Develop solutions using AWS services like S3, RDS, EC2, Lambda, SQS, SNS, Redshift
+- Design, develop and maintain applications/solutions in Python 
+- Implement messaging/queueing between applications using AWS SNS and SQS
+- Develop serverless applications using AWS Lambda functions
+- Integrate databases like Oracle, Postgres in solutions
+- Leverage prior experience with Fannie Mae where applicable
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Network design experience with leaf-spine architectures, EVPN, VxLAN, IP routing, OSPF, BGP, Ethernet, VLANs  
+- Experience with Cisco routing/switching platforms like Catalyst, Nexus, ASR in data center networks
+- Knowledge of data center technologies like OpenStack, SDN, NFV, load balancers, virtualization, Linux tools
+- Scripting skills in Perl, Python for network automation
+- Industry certifications like CCIE (R&S), JNCIE
+- Expert CLI skills
+
+Responsibilities:
+- Providing advanced post-sales support for large data center network deployments
+- Reviewing and recommending designs for customer networks  
+- Migrating or interconnecting different vendor infrastructures to Arista
+- Assisting with configuration, automation using tools like Python, Chef, Ansible
+- Validating designs through proof of concepts and testing
+- Interfacing with technical support and development teams
+- Advising customers on architectural and product questions
+- Designing leaf-spine network solutions using routing protocols and technologies
+- Establishing and maintaining relationships with partners
+- Attending training and providing training to customer teams
+- Meeting service level agreements and supporting clients
+- Some travel may be required
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data engineering and data platform development
+- Data modeling, ETL processes, and data integration 
+- Cloud platforms such as AWS, Azure, or Google Cloud
+- Programming languages commonly used in data engineering, such as Python, Java, Rust, C, or Go
+- Data governance, data security, and data compliance practices
+- Common data systems like: Kafka, Airflow, Spark, Trino, Ranger
+- Containerization technologies, such as Docker and Kubernetes
+- Strong problem-solving and analytical skills
+- Excellent communication and collaboration skills
+
+Responsibilities:
+- Lead the design and development of the data platform 
+- Work closely with stakeholders to ensure timely data arrival
+- Operate and maintain technologies associated with the platform
+- Optimize data storage and retrieval strategies
+- Implement data governance and security practices  
+- Develop and maintain data platform documentation
+- Conduct performance tuning and optimization
+- Stay up-to-date with emerging data technologies
+- Mentor and provide guidance to junior data engineers
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience with Hadoop-based technologies (Cloudera, Hortonworks, MapReduce, Hive, HDFS)
+- Experience with NoSQL technologies (e.g., MongoDB, Cassandra) 
+- Python
+- Flask, FastAPI, or other microweb framework equivalent
+- An Object Relational Mapping toolkit like SQLAlchemy or equivalent
+- Github
+- Data analysis libraries such as Pandas
+- AWS S3, CloudTrail, Lambda, ECS Fargate
+- Terraform
+
+Responsibilities:
+- Leads initiatives utilizing big data solutions to provide actionable insights 
+- Engineers big data solutions and multi-tiered data environments
+- Designs data models using Enterprise Data modeling tools 
+- Builds high-performance algorithms, prototypes, and data models using programming languages
+- Analyzes and develops data set processes for data ingestion, modeling, mining
+- Integrates Big Data solutions with SAP technologies
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL and relational databases (PostgreSQL, MySQL)
+- Data modeling techniques and tools  
+- ETL/ELT frameworks and tools (Informatica, Apache Spark, Airflow, AWS Glue)
+- Data warehousing
+- Cloud data platforms (Snowflake, AWS, Google Cloud, Azure)
+- Version control systems (Git) 
+- Agile methodologies
+- JAVA 8, REST APIs, microservices, Spring Boot framework
+- Alteryx
+- UNIX scripting
+
+Responsibilities:
+- Develop, maintain and optimize data pipelines
+- Design and implement scalable data models  
+- Collaborate with cross-functional teams on data needs
+- Ensure seamless integration of data solutions
+- Identify and resolve data quality issues
+- Continuously monitor and improve data pipelines
+- Stay updated on data engineering trends and technologies
+- Provide technical guidance and mentorship
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience in application development
+- 5+ years of experience designing, developing, operationalizing and maintaining complex data applications at enterprise scale  
+- 3+ years of experience creating software for retrieving, parsing and processing structured and unstructured data
+- 3+ years of experience building scalable ETL/ELT workflows for reporting and analytics
+- Experience with Python, SQL, Scala, or Java
+- Experience with Unix/Linux, including basic commands and Shell scripting
+- Experience with a public cloud, including AWS, Microsoft Azure, or Google Cloud
+- Experience with distributed data, computing tools including Spark, Databricks, Hadoop, Hive, AWS EMR, or Kafka
+- Experience working on real-time data and streaming applications
+- Experience with NoSQL implementation, including MongoDB or Cassandra
+- Experience with data warehousing using AWS Redshift, MySQL, or Snowflake
+- Experience with Agile engineering practices
+
+Responsibilities:
+- Implement data engineering activities on mission-driven projects
+- Deploy and develop pipelines and platforms that organize and make disparate data meaningful  
+- Work with a multi-disciplinary team of analysts, data engineers, developers, and data consumers in a fast-paced, agile environment
+- Manage the assessment, design, building, and maintenance of scalable platforms for clients
+- Create scripts and programs for converting various types of data into usable formats
+- Support project team to scale, monitor and operate data platforms
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience as a Site Reliability Engineer, Infrastructure Engineer, or similar roles focusing on data infrastructure and security. 
+- Expertise in cloud technologies like AWS and proficiency in tools like Terraform. 
+- Proficiency in containerization and orchestration tools like Kubernetes.
+- Experience with real-time data processing technologies like Kafka and Debezium
+- Understanding of bash/shell scripting and proficiency in a programming language.
+- Familiarity with CI/CD pipelines and related tools.
+- Knowledge of HashiCorp products like Vault, Consul, and Nomad.
+- Strong problem solving skills and ability to troubleshoot complex systems.
+- Experience with data technologies like databases, data warehousing, data lakes.
+
+Responsibilities:
+- Architect and implement self-service data infrastructure solutions.  
+- Design, provision, and manage infrastructure using tools like Terraform.
+- Collaborate to integrate data services with other systems.
+- Develop automation scripts using bash/shell scripting.
+- Enable self-service under tight security using ChatOps and GitOps.  
+- Implement robust monitoring and alerting for data.
+- Manage authentication and authorization for secure access.
+- Design and deploy MLOps platforms using AWS Sagemaker and GitOps.
+- Manage real-time streaming data architecture with Kafka and Debezium.
+- Ensure timely processing of streaming data for insights.
+- Utilize Kubernetes for container management.
+- Implement effective incident response and participate in on-call rotations.
+- Troubleshoot and resolve incidents promptly.
+- Collaborate with teams to understand requirements.
+- Document architectures, processes, and best practices.
+- Enable environments for ML experimentation.
+- Manage MLOps flows for training, validation and model deployment.
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong foundations in software engineering
+- Deep hands-on experience in complex system design and data pipeline and architectures, scale and performance, tuning
+- Experience with Docker and Kubernetes 
+- Experience with public/private cloud environments like OpenShift, Kubernetes, AWS, GCP
+- Experience in security engineering, cryptography, authentication protocols
+- Experience with CI/CD pipelines and tools like Git, Jenkins, CircleCI, SonarQube 
+- Experience with Terraform
+- Problem solving abilities
+- Excellent communication skills
+- Knowledge of monitoring tools like Grafana, Prometheus
+- Certifications in CISSP, CISM, CISA desired
+
+Responsibilities:
+- Provide technical and thought leadership
+- Collaborate with teams to solve problems  
+- Develop technical strategies for IaaS engineering domain
+- Own accountability for quality, usability, performance of solutions
+- Mentor and coach other engineers
+- Share best practices and improve processes
+- Analyze costs and support resource requirements
+- Determine operational processes and measure outcomes
+- Take on-call and operations support
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 4+ years of professional data engineering experience
+- Proficient in programming languages like Java, Scala, Python
+- Advanced SQL experience in data warehouses like Snowflake, BigQuery, Databricks
+- Experience with SQL and NoSQL databases like MySQL, PostgreSQL, Cassandra, HBase, Redis, DynamoDB, Neo4j
+- Experience with workflow tools like Airflow, Dagster, DBT 
+- Experience with cloud services like AWS, GCP, Azure
+- Experience building scalable infrastructure for batch, stream data processing
+- Experience with financial/compliance data
+- Experience with data provenance and governance
+- Communication skills
+
+Responsibilities:
+- Owning ETL/ELT pipelines and data warehouse for financial and regulatory reporting 
+- Collaborating on data platform design, deployment, and improvements
+- Ingesting, storing and aggregating datasets
+- Designing, building, and maintaining data pipelines
+- Developing integrations with third party systems
+- Providing analytics and visualization tools 
+- Working closely with other teams on data modeling, governance, etc.
+

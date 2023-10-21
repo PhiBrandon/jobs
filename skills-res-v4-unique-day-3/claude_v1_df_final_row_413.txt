@@ -1,0 +1,20 @@
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- 2-3+ years of experience with Python, C, Rust, Java, Go
+- 2-3+ years of experience with AWS, Azure, or GCP 
+- Experience designing and building scalable, reliable data pipelines using technologies like Hadoop, Hive, Spark, Kafka, Airflow
+- Expertise in cloud-native systems 
+- Functional knowledge of databases like PostgreSQL, MongoDB, Neo4J, Redis
+- Problem solving and critical thinking skills
+- Excellent communication and leadership skills
+
+Responsibilities:
+- Design, develop, and support scalable data pipelines  
+- Provide technical guidance on software design and development
+- Supervise and oversee data engineering work streams
+- Recommend new technologies to ensure quality and productivity
+- Work closely with other teams to develop new data-backed products
+- Mentor, teach, and promote software best practices
+
+https://www.indeed.com/rc/clk?jk=23a44fa83da2854b&from=jasx&tk=1hd95mfqo28gs002&vjs=3

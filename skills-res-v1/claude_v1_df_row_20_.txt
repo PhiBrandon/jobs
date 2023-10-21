@@ -1,0 +1,23 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Data migration strategy and integration planning
+- Data engineering 
+- Developing and integrating multiple data types across data sets and sources
+- Day-to-day operations of data-dependent systems to process and transfer data securely and timely
+- Evaluating current systems and identifying improvements for availability and performance  
+- Planning and designing integration of source systems and data migration between systems
+- Developing, managing, manipulating, storing and parsing data across pipelines
+- Writing code for data extraction and processing performance and reliability
+- Supporting continuous automation for data ingestion
+- Maintaining applications and tools on data systems
+
+Responsibilities:
+- Prepare data migration strategy and integration plans 
+- Provide support for data migration, engineering, and integrating existing systems
+- Build and implement source system integration and data migration plan
+- Assist with maintenance of data applications and tools
+- Work collaboratively in an Agile environment 
+- Advocate for lean-agile principles like automation, integration and testing
+- Generate and communicate technical strategy to diverse audiences
+- Demonstrate technical competence and drive strategic objectives

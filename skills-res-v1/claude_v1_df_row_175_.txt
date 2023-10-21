@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 4+ years of experience in computer science, information systems, or related field 
+- 3+ years developing ETL applications and integrating disparate systems using Agile methodologies
+- 3+ years experience with Informatica PowerCenter and Big Data Management on AWS Cloud
+- 3+ years utilizing SQL, Redshift, Oracle, Postgres to build and manage large data warehouses  
+- 3+ years programming experience with Python
+- 2+ years scheduling jobs using Autosys or similar tool
+- Experience with data modeling, Apache Hive, HBase, Pig, Cassandra, MongoDB
+
+Responsibilities:
+- Develop ETL solutions as part of an Agile team
+- Lead the implementation of big data initiatives using AWS, Informatica and Python
+- Understand and apply data modeling techniques to reduce redundancy 
+- Gather requirements and design/develop applications
+- Perform testing and help move solutions into production
+- Assist with designing Data solutions and systems integration
+- Develop and support Informatica workflows for ETL
+- Mentor and guide other developers
+- Identify process improvements

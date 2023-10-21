@@ -1,0 +1,17 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Extensive knowledge of MS Visual Studio, MS.NET C#, ASP.NET, Visual Basic .NET, TSQL, Web Services, Entity Framework, jQuery, Bootstrap, RestAPI, SOAP, SSIS, MS SQL Server, SSIS, Java Script, XML, XSD, HTML, CSS
+- Experience with document capture and storage systems  
+- Experience with imaging software like Kodak Scanner 4200, 1860, 5850 and Kodak Capture Pro
+
+Responsibilities:
+- Guide letter authoring staff on how letter requirements can be best implemented
+- Support across all legacy sites for the letter manager solution 
+- New site implementations, Solution upgrades, and enhancements
+- Support ongoing reconciliation of the image and data transfer between the data entry vendor and application
+- Support ingesting images, Index Data, and document data into the application
+- Configure, test, and deploy scanning and indexing system
+- Work with site and data entry vendor to define protocol for image and metadata transfer
+
+https://www.indeed.com/rc/clk?jk=08240a66dccbc643&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

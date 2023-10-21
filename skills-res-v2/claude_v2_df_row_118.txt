@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- 5+ years experience as a data engineer
+- 5+ years experience with SQL development (ETL, stored procedures)  
+- 3-5 years experience with PySpark and data transformations
+- Experience with Databricks and Delta Lake
+- Knowledge of data warehousing, modeling, governance and security
+
+Responsibilities:
+
+- Develop and implement effective data architecture solutions on Databricks and Delta Lake
+- Optimize and monitor data pipelines 
+- Collaborate with stakeholders to understand data needs
+- Implement best practices for data governance, security and quality
+- Create and maintain documentation 
+- Mentor other data engineers on best practices
+- Provide thought leadership on Databricks and Delta Lake
+- Design, build and maintain data infrastructure to enable analytics and machine learning
+- Work with engineers and scientists to deliver data insights

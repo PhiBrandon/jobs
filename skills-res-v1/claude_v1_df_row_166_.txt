@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Technical skills including data integration, data modeling, data warehousing, scripting (Python, SQL, Scala), cloud technologies (Azure), machine learning, data science
+- Analytical and communication skills
+- Understanding of data integration work 
+- Experience with technologies like Databricks 
+
+Responsibilities:
+- Lead a team of data engineers
+- Develop data migration and engineering solutions
+- Support data-driven decision making by identifying patterns and trends
+- Conduct data analysis and report results
+- Prepare, analyze, and clean raw data  
+- Build data systems, pipelines, and algorithms
+- Evaluate business needs and interpret data
+- Create technological solutions using automation
+- Maintain analytics environments and data integration scripts
+- Communicate technical findings to non-technical stakeholders
+- Provide reports and insights to leadership
+- Identify and resolve issues
+- Ensure quality and participate in reviews
+- Document deliverables and provide training
+- Support new proposals and past performance
+- Manage multiple concurrent technical tasks

@@ -1,0 +1,20 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Expertise in Python, Java, Scala, and Elixer for backend and ETL processes
+- Mastery of ETL tools/frameworks like Apache Kafka, Apache Airflow 
+- Deep knowledge of SQL/NoSQL databases like Cassandra and ScyllaDB, and data warehousing solutions like Redshift, BigQueary, Snowflake
+- Proficiency in cloud platforms like AWS, GCP, Azure and distributed systems
+- Familiarity with data science concepts, tools and libraries like Pandas, Scikit-learn
+- Exceptional problem-solving skills
+- Strong communication skills
+
+Responsibilities:
+- Design and optimize ETL pipelines
+- Develop robust backend systems for large-scale data processing
+- Design scalable and efficient data models for Cassandra and ScyllaDB
+- Ensure data integrity, quality and security
+- Collaborate with data scientists, providing clean and reliable datasets 
+- Assist in implementing and scaling data science models
+- Stay abreast of latest technologies
+- Recommend technical improvements for data processing and storage

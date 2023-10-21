@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL and NoSQL databases 
+- Python, Java, Scala programming
+- ETL processes
+- Data warehousing
+- Machine learning concepts
+- Data APIs
+
+Responsibilities:
+- Manage relational and non-relational databases
+- Maintain data warehouses from various sources
+- Extract, transform and load data for analysis  
+- Collaborate on machine learning algorithms
+- Develop data solutions with programming languages
+- Optimize and process data efficiently
+- Interface data with software applications
+- Assist with business goals and data structures
+
+https://www.indeed.com/rc/clk?jk=73eb2333d67e7087&from=jasx&tk=1hd1g27112f34000&vjs=3

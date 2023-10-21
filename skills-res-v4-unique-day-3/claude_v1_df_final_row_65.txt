@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Proven experience as a Cloud Support Engineer, preferably with a focus on Azure
+- Strong knowledge of Azure services including Active Directory, DevOps, Kubernetes Service, etc.  
+- Excellent problem-solving and issue diagnosis skills
+- Strong communication skills
+
+Responsibilities:
+- Provide support for Azure cloud applications and infrastructure
+- Troubleshoot technical issues related to Azure cloud services
+- Collaborate with cross-functional teams on best practices and service optimization
+- Continuously monitor and manage cloud environment to prevent risks
+- Design and implement Azure cloud solutions based on client needs
+- Keep up to date with latest Azure updates and features 
+- Offer guidance on Azure cost-management strategies
+- Contribute to tools and processes to enhance Azure cloud management
+
+https://www.indeed.com/rc/clk?jk=649f0d12515402f8&from=jasx&tk=1hd1ft1i8joou800&vjs=3

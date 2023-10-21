@@ -1,0 +1,36 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3+ years of real-world data engineering development experience in Snowflake and AWS (certifications preferred)
+- Proficient in snowflake services such as snowpipe, stages, stored procedures, views, materialized views, tasks and streams
+- Strong programming skills in SQL, with proficiency in writing efficient and optimized code for data integration, storage, processing, and manipulation
+- Robust understanding of data partitioning and other optimization techniques in Snowflake  
+- Knowledge of data security measures in Snowflake, including role-based access control (RBAC) and data encryption
+- Highly skilled in one or more languages such as Python, Scala, and proficient in writing efficient and optimized code for data integration, storage, processing and manipulation
+- Strong knowledge of SDLC tools and technologies, including project management software (Jira or similar), source code management (GitHub or similar), CI/CD system (GitHub actions, AWS CodeBuild or similar) and binary repository manager (AWS CodeArtifact or similar)
+- Skilled in Data Integration from different sources such as APIs, databases, flat files, event streaming
+- Good understanding of Data Modeling and Database Design Principles
+- Strong experience in working with ELT and ETL tools and being able to develop custom integration solutions as needed
+- Strong experience with scalable and distributed Data Technologies such as Spark/PySpark, DBT and Kafka, to be able to handle large volumes of data
+- Strong experience in designing and implementing Data Warehousing solutions in AWS with RedShift
+- Strong experience in Orchestration using Apache Airflow
+- Expert in Cloud Computing in AWS, including deep knowledge of a variety of AWS services like Lambda, Kinesis, S3, Lake Formation, EC2, ECS/ECR, IAM, CloudWatch, Redshift, etc
+- Good understanding of Data Quality and Governance
+- Good Problem-Solving skills: being able to troubleshoot data processing pipelines and identify performance bottlenecks and other issues
+
+Responsibilities:
+- Follow established design, constructed data architectures. Developing and maintaining data pipelines, ensuring data flows smoothly from source to destination. Handle ELT processes, including data extraction, loading, transformation and load data from various sources into Snowflake
+- Ensure the reliability, scalability, and efficiency of data systems are maintained at all times  
+- Assist in the configuration and management of Snowflake data warehousing and data lake solutions, working under the guidance of senior team members
+- Collaborate closely with cross-functional teams including Product, Engineering, Data Scientists, and Analysts to thoroughly understand data requirements and provide data engineering support
+- Contribute to data quality assurance efforts, such as implementing data validation checks and tests
+- Evaluate and implement cutting-edge technologies and continue learning and expanding skills in data engineering and cloud platforms
+- Develop, design, and execute data governance strategies encompassing cataloging, lineage tracking, quality control, and data governance frameworks that align with current analytics demands and industry best practices
+- Document data engineering processes and data flows
+- Care about architecture, observability, testing, and building reliable infrastructure and data pipelines
+- Takes ownership of storage layer, SQL database management tasks, including schema design, indexing, and performance tuning
+- Swiftly address and resolve complex data engineering issues, incidents and resolve bottlenecks in SQL queries and database operations
+- Assess best practices and design schemas that matches business needs for delivering a modern analytics solution (descriptive, diagnostic, predictive, prescriptive)
+- Be an active member of our Agile team, participating in all ceremonies and continuous improvement activities
+
+https://www.indeed.com/rc/clk?jk=b7211874c261a672&from=jasx&tk=1hd1g1f082gvk000&vjs=3

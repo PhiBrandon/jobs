@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience with Power BI
+- Ability to translate business requirements into technical solutions 
+- Experience with data design, data pipelines, ETL/ELT tools like Azure Data Factory, AWS Glue, etc.
+- Knowledge of relational databases, data warehousing, SQL, etc. 
+- Experience with cloud platforms like Azure, AWS
+- Programming languages like Python
+- Experience with business intelligence tools like Power BI, Tableau, Qlik, Cognos
+
+Responsibilities:
+- Support implementation of data projects - collecting, aggregating, storing, and making data accessible
+- Develop scalable data solutions on Azure platform 
+- Create Power BI reports, dashboards and visualizations
+- Conduct data profiling, cataloging, mapping for technical design
+- Design and build Azure data pipelines using Databricks
+- Develop and maintain data warehouse schematics, architectures, databases
+- Expose data to end users using visualization platforms
+- Implement metrics and monitoring processes

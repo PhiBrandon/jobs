@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong SQL proficiency 
+- Expertise in Snowflake
+- Data modeling skills
+- Proficiency in data visualization tools like Tableau, Power BI, etc.
+- Python or other programming language experience
+- Analytical and problem-solving abilities
+- Technical skills 
+- Business acumen
+- Communication skills
+
+Responsibilities:
+- Perform data analysis and generate dashboards
+- Leverage datasets to test hypotheses and bring insights
+- Generate insights to improve patient outcomes and reduce medical waste
+- Work collaboratively with cross-functional teams
+- Continuously learn and share knowledge
+- Keep users' needs in focus
+- Execute analysis work individually and in partnerships with other teams
+- Explore data to analyze and provide meaningful insights
+
+https://www.indeed.com/rc/clk?jk=f32a0eb4fc36bab8&from=jasx&tk=1hd1foafmk78p800&vjs=3

@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Design and implementation experience with distributed applications  
+- Experience handling unstructured and semi-structured data in a data lake environment
+- Expertise building data lakes in Redshift
+- Ability to translate data into insightful dashboards (e.g. Amazon Quicksight)
+- Expertise designing and implementing AWS solutions (Redshift, AWS Glue, Lambda, Athena, Quicksight etc.)  
+- Experience with ETL/ELT, data integration, data warehousing, data lake architecture
+- Experience extracting and ingesting data from various sources using AWS services
+- Experience with AWS CDK, CloudFormation, Terraform
+- Experience with AWS CloudWatch, CloudTrail, Secrets Manager, KMS
+- Knowledge of finance, mathematics or statistics
+
+Responsibilities:
+- Build and maintain the company's internal data lake
+- Establish connections from data lake to BI tools  
+- Configure AWS services to support ETL and data warehousing
+- Build and maintain process for syncing data lake with Quicksight
+- Create operational efficiencies and improve data governance
+- Build repeatable processes to help teams analyze KPIs  
+- Create data visualizations and dashboards 
+- Collaborate across departments to understand needs
+- Automate and simplify reporting and analysis requirements

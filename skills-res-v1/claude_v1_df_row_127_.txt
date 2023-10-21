@@ -1,0 +1,31 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience as a Site Reliability Engineer, Infrastructure Engineer, or similar roles focusing on data infrastructure and security. 
+- Expertise in cloud technologies like AWS and proficiency in tools like Terraform. 
+- Proficiency in containerization and orchestration tools like Kubernetes.
+- Experience with real-time data processing technologies like Kafka and Debezium
+- Understanding of bash/shell scripting and proficiency in a programming language.
+- Familiarity with CI/CD pipelines and related tools.
+- Knowledge of HashiCorp products like Vault, Consul, and Nomad.
+- Strong problem solving skills and ability to troubleshoot complex systems.
+- Experience with data technologies like databases, data warehousing, data lakes.
+
+Responsibilities:
+- Architect and implement self-service data infrastructure solutions.  
+- Design, provision, and manage infrastructure using tools like Terraform.
+- Collaborate to integrate data services with other systems.
+- Develop automation scripts using bash/shell scripting.
+- Enable self-service under tight security using ChatOps and GitOps.  
+- Implement robust monitoring and alerting for data.
+- Manage authentication and authorization for secure access.
+- Design and deploy MLOps platforms using AWS Sagemaker and GitOps.
+- Manage real-time streaming data architecture with Kafka and Debezium.
+- Ensure timely processing of streaming data for insights.
+- Utilize Kubernetes for container management.
+- Implement effective incident response and participate in on-call rotations.
+- Troubleshoot and resolve incidents promptly.
+- Collaborate with teams to understand requirements.
+- Document architectures, processes, and best practices.
+- Enable environments for ML experimentation.
+- Manage MLOps flows for training, validation and model deployment.

@@ -1,0 +1,16 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Strong knowledge of AWS services: S3, RDS, EC2, Lambda, SQS, SNS, Redshift  
+- Python development with 10+ years of experience
+- Strong skills in AWS SNS, SQS, Lambda functions
+- Knowledge of Java and databases like Oracle, Postgres
+- Prior experience with Fannie Mae is preferred
+
+Responsibilities:
+- Develop solutions using AWS services like S3, RDS, EC2, Lambda, SQS, SNS, Redshift
+- Design, develop and maintain applications/solutions in Python 
+- Implement messaging/queueing between applications using AWS SNS and SQS
+- Develop serverless applications using AWS Lambda functions
+- Integrate databases like Oracle, Postgres in solutions
+- Leverage prior experience with Fannie Mae where applicable

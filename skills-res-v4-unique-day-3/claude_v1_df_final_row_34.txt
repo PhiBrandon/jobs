@@ -1,0 +1,27 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data platform development
+- Data modeling
+- ETL processes
+- Data integration techniques
+- Cloud platforms like AWS, Azure, Google Cloud
+- Programming languages like Python, Java, Rust, C, Go
+- Data governance
+- Data security
+- Knowledge of technologies like Kafka, Airflow, Spark, Trino, Ranger
+- Containerization technologies like Docker and Kubernetes
+
+Responsibilities:
+- Lead design and development of data platform 
+- Ensure timely data arrival and preparation
+- Operate and maintain technologies 
+- Optimize data storage, retrieval, availability and reliability
+- Implement data governance and security practices
+- Develop and maintain documentation
+- Conduct performance tuning and optimization
+- Evaluate emerging technologies
+- Mentor and guide junior engineers
+
+https://www.indeed.com/rc/clk?jk=77845bc5ebc6aae6&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

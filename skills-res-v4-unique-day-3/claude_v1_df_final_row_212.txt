@@ -1,0 +1,40 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- AWS Data Platform - Cloud infrastructure, Datalake/Cloud Formation, Automation, CI/CD
+- Amazon Cloud Data Storage – S3, RedShift, DynamoDB, NoSQL  
+- ETL Tools – AWS Glue, Informatica Suite, SSIS, Infoworks
+- SQL & Relational Databases – SQL Server, Teradata, MS Access, HIVE, HBase
+- XML
+- XSLT
+- .NET Framework
+- C#
+- Java
+- JavaScript
+- jQuery
+- LINQ
+- MVC Framework
+- ASPX
+- Angular.js
+- Bootstrap
+- Knockout
+- Business Intelligence
+- ETL Techniques
+- Data Modeling
+- Data Warehousing/Business Intelligence
+- Meta Data Repository
+- MS SQL Server
+
+Responsibilities:
+- Build repeatable, automated and sustainable Extract, Transform and Load (ETL) processes
+- Create data validation rules and handle exceptions
+- Develop data transformation and loading processes  
+- Sort, aggregate, and transform data
+- Ensure proper configuration management and change controls
+- Design and implement technology best practices
+- Prepare project status updates
+- Participate in project meetings and define requirements
+- Develop unit tests to validate specifications
+- Provide technical assistance and training
+
+https://www.indeed.com/rc/clk?jk=6b0246ca2a37effe&from=jasx&tk=1hd6h6bheiolg800&vjs=3

@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Design and build highly scalable and performant interactive solutions 
+- Strong Java programming skills
+- Experience with distributed systems design and development
+- Knowledge of streaming systems like Kafka and Pulsar
+- Experience with relational databases like Oracle, MySQL, etc.
+
+Responsibilities:
+- Design and develop reusable, scalable, and high quality software code
+- Lead and coordinate work cross-functionally to improve architecture
+- Work with product owners to understand requirements and deliver high-quality products
+- Manage projects with technical risk at team level
+- Explore and evaluate new technologies for continuous platform improvements
+- Mentor colleagues and promote knowledge sharing

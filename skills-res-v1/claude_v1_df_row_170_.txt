@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL and relational databases (PostgreSQL, MySQL)
+- Data modeling techniques and tools  
+- ETL/ELT frameworks and tools (Informatica, Apache Spark, Airflow, AWS Glue)
+- Data warehousing
+- Cloud data platforms (Snowflake, AWS, Google Cloud, Azure)
+- Version control systems (Git) 
+- Agile methodologies
+- JAVA 8, REST APIs, microservices, Spring Boot framework
+- Alteryx
+- UNIX scripting
+
+Responsibilities:
+- Develop, maintain and optimize data pipelines
+- Design and implement scalable data models  
+- Collaborate with cross-functional teams on data needs
+- Ensure seamless integration of data solutions
+- Identify and resolve data quality issues
+- Continuously monitor and improve data pipelines
+- Stay updated on data engineering trends and technologies
+- Provide technical guidance and mentorship

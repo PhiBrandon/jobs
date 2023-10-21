@@ -1,0 +1,25 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 8+ years of experience in industry standard ETL development techniques
+- 8+ years of experience with data integration, and database technologies, including Oracle, Postgres, Cosmos, or SQL 
+- 3+ years of experience with Azure Cloud SaaS solutions and managed services serverless technologies, including Azure Data Factory, Synapse Analytics, Logic Apps, or ADLS
+- Experience with scripting and basic programming, including JavaScript, shell script, or Python
+- Experience with data analysis and profiling of source data while developing or building robust ETL processes 
+- Knowledge of disparate data sources and targets
+- Knowledge of data validation, cleansing, transformation, consolidation, de-duplication, aggregation, de-aggregation, and enrichment
+- Knowledge of API development and testing
+- DHS Suitability
+- Bachelor’s degree
+
+Responsibilities:
+- Moving ETL pipelines from one framework to a new framework
+- Performing ETL testing and troubleshooting
+- Testing the unit data models, system performance testing, uploading, downloading, or querying speed tests, and data flow validations
+- Building repeatable documentation assets to enable implementation teams 
+- Identifying data storage requirements and determining storage needs
+- Ongoing development of a repository of ETL knowledge and utilizing that to enhance the quality, speed, and productivity of the team
+- Supporting more mid-level engineers with testing and QA of their code
+- Providing feedback to the Data Architect on required design updates
+
+https://www.indeed.com/rc/clk?jk=bcb3fa3a95822e7e&from=jasx&tk=1hd43l8mokhqg800&vjs=3

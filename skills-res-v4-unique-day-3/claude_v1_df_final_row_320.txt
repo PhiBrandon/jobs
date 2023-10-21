@@ -1,0 +1,31 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience with data ingest process, Hadoop, Apache Nifi, Cloud platforms like AWS, GCP, Azure
+- 4+ years experience designing and implementing capabilities in a Hadoop-based, Spark big data environment  
+- 4+ years experience in design and implementing real-time data pipelines using NiFi, Kafka and Spark Streaming
+- 4+ years experience processing large volumes of data with Hive, Pig, Spark, NiFi, Kafka and Python
+- Familiarity with streaming big data applications like Kafka, NiFi, Spark streaming/Storm
+- Strong background in Information System Security
+- Excellent written and verbal communication skills
+- Familiarity with statistical computing techniques and statistics software like R and Tableau  
+- Experience using source code management systems like Git
+- Interest and passion for learning new technologies
+
+Responsibilities:
+- Manage information security policies, programs and procedures
+- Design, implement and deploy information security policies, procedures and guidelines
+- Develop, maintain, publish and enforce information security standards and guidelines  
+- Monitor changes in legislation and standards affecting information security
+- Monitor internal controls to ensure appropriate access levels and security clearances
+- Establish metrics on critical infrastructure components of information security
+- Ensure awareness of security policies and procedures among employees
+- Initiate and promote activities to foster information security awareness
+- Provide information security training to employees
+- Coordinate internal and external audits and follow up on recommendations
+- Serve as an internal information security consultant
+- Monitor advancements in information security technologies  
+- Communicate unresolved security issues to senior management
+- Participate in the Information Security Committee
+
+https://www.indeed.com/rc/clk?jk=b1473aeba6e7b340&from=jasx&tk=1hd958u85jqvd802&vjs=3

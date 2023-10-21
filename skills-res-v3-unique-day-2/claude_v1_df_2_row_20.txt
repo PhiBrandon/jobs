@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- T-SQL
+- ETL process development (SSIS, Azure Data Factory, IBM InfoSphere DataStage) 
+- Dimensional data modeling (Kimball technique)
+- SQL programming and performance tuning
+- Data visualization tools (Tableau, Power BI)
+- Communication 
+
+Responsibilities:
+- Requirements gathering
+- Technical architecture design
+- Data modeling
+- ETL development and testing
+- Documentation (data dictionary, business rules, systems)
+- Data integration and visualization product development  
+- Project planning
+- System support and on-call duties
+- Data profiling and extraction
+- Collaboration with business and technology stakeholders

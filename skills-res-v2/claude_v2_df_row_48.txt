@@ -1,0 +1,43 @@
+ Here are the specific skills and responsibilities I extracted from the Big Data Engineer job description:
+
+Skills:
+
+- AWS, Spark, Scala, Python, Airflow, EMR, Redshift, Athena, Snowflake, ECS, DevOps Automation, Integration, Docker, Build and Deployment Tools
+
+- Developing data warehouse architecture and diagrams
+
+- Data engineering and ETL pipeline development
+
+- Data analytics and visualization using industry standard tools like Tableau 
+
+- Administering analytics tools like Alteryx Server and Tableau Server
+
+- Knowledge of ITIL v4 
+
+Responsibilities:
+
+- Create and maintain data warehouse architecture and documentation
+
+- Develop business requirements documents and plan of action milestones 
+
+- Migrate systems to cloud architecture
+
+- Implement continuous monitoring and separate dev/prod environments
+
+- Develop, test and integrate ETL pipelines
+
+- Perform data governance, quality assessments and risk tracking
+
+- Create user acceptance tests
+
+- Develop data visualizations and dashboards 
+
+- Administer analytics tools and schedule ETL batch runs
+
+- Maintain version control and conduct code reviews
+
+- Participate in planning and executing BI&A tasks
+
+- Generate quarterly data analytics reports
+
+- Maintain inventory of BI&A licenses

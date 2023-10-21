@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data pipeline development using technologies like ADF, Airflow, SQL, Hive, HBase, Presto
+- Data integration from multiple sources 
+- Data modeling, transformation, loading and processing  
+- Cloud data engineering on AWS, Azure or GCP
+- Programming languages: Python, SQL
+- DevOps tools: Git, CI/CD
+- Data governance, monitoring and supporting data pipelines
+
+Responsibilities:
+- Develop and maintain data pipelines for ETL
+- Integrate and process data from various sources  
+- Perform data cleaning, normalization and aggregation
+- Implement data pipeline automation and orchestration
+- Contribute to frameworks, best practices and standards
+- Partner with business and technical teams on requirements and architecture
+- Monitor data systems and resolve issues
+- Support big data pipelines in a regulated environment

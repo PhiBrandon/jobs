@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience with data pipelines, ETL, and data orchestration tools like Dagster and Airflow
+- Knowledge of Snowflake, AWS (S3, EC2, ECS), and MongoDB
+- SQL and Python programming 
+- Data modeling, data warehousing, and data architecture
+- Data quality and validation processes
+- Optimization and performance tuning of data pipelines
+- Troubleshooting data issues and pipeline failures
+
+Responsibilities:
+- Design, develop and maintain scalable data pipelines
+- Ingest and transform data from various sources 
+- Implement monitoring, alerts, and data quality checks
+- Provide support for data issues and ad-hoc requests
+- Optimize pipelines for performance and cost efficiency
+- Maintain documentation for data lineage and dependencies
+- Work cross-functionally with data scientists, analysts, engineers
+- Continuously improve data infrastructure and architecture
+- Ensure timely and reliable delivery of data to products and analytics
+- Adhere to SDLC processes and procedures

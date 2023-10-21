@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years work experience in Data Engineering/data pipelines  
+- 3+ years SQL experience
+- 1+ years Unix/batch scripting experience
+- 1+ years Python experience
+- 1+ years Windows server admin experience
+- MySQL & Vertica Experience
+- AWS experience
+- Knowledge in Data Warehousing
+
+Responsibilities:
+- Collaborate and partner with application teams to understand data collection/generation and design data feeds
+- Design, develop, and build code for rapid data feeds and ingestion into the Data Warehouse
+- Identify data sources used for building data architecture diagrams/models
+- Establish engineering practices and setup frameworks for "Data as a Service"
+- Solve code level problems quickly and efficiently  
+- Participate in demos and code reviews
+- Promote software best practices, standards, and processes
+- Shape development processes to promote high-quality and iteration
+- Incorporate best practices for security, performance, and data privacy into data pipelines
+
+https://www.indeed.com/rc/clk?jk=87c74988107a90d3&from=jasx&tk=1hd95bl7pje34802&vjs=3

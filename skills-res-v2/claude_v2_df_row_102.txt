@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Proficiency in Python and SQL
+- Experience with data modeling, data warehousing, and ETL pipelines
+- Knowledge of distributed systems
+- Experience with cloud platforms like AWS, Azure, or Google Cloud
+- Familiarity with big data technologies like Hadoop, Hive, Spark
+- Proficiency with data orchestration tools like Airflow, Dagster, Prefect
+
+Responsibilities:  
+- Design, build and maintain efficient data pipelines
+- Perform data cleansing and validation
+- Promote the value of data initiatives
+- Collaborate with stakeholders on data requirements 
+- Identify opportunities for automated data acquisition
+- Develop and implement data governance policies
+- Ensure security, privacy and quality of data

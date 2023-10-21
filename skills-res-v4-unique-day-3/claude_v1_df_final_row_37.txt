@@ -1,0 +1,33 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Machine Learning
+- Big Data
+- Multi-Modal data
+- Data Privacy 
+- AWS
+- Batch Processing
+- Mobile technologies
+- Python and algorithm design
+- Statistics and proficiency with data analysis
+- Linux/Unix/Windows environments
+- Software development experience with Python, Java, C#, or C/C++
+- Experience processing and integrating developmental data, clinical study data, EHR, and claims data.
+- Hands on experience with technologies leveraging multiple servers for data intensive tasks.
+- Experience creating data pipelines that transform raw data into insights.
+- Accessing and parsing data from S3 through python API calls
+- Experience and familiarity with AWS Sagemaker
+- Database familiarity including Oracle, MySQL, Redshift, DynamoDB and Elastic Cache
+
+Responsibilities:
+- Research, define, and write technical requirements 
+- Design and code pipelines that efficiently transform raw data
+- Perform exploratory research with physiological data
+- Develop, test, and document proof-of-concept algorithms and software tools
+- Participate in project management, software development, and software QA
+- Update and maintain Design History File, participate in risk management
+- Develop, document, and monitor testing regimes  
+- Maintain clean and well-documented code base
+- Work with cross functional stakeholders
+
+https://www.indeed.com/rc/clk?jk=700c104561e30304&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Expert knowledge in Ethernet, VLANs, VxLAN, EVPN, IP Routing, TCP/IP, OSPF, BGP, eBGP, Multicast, QoS
+- Experience with Cisco enterprise routing/switching within large data center enterprise customers (Catalyst, Nexus, ASR)  
+- 5+ years working experience with network technologies including network design and deployments of Campus and Data Center networks
+- Knowledge of leaf-spine architectures 
+- Background in Perl, Python, Scripting for network automation
+
+Responsibilities:
+- Provide advanced post-sales support for large Data Center networking deployment 
+- Review customer network designs for EVPN, VxLAN, leaf-spine architecture and make recommendations
+- Migrate or interconnect different vendor environments (Cisco, Juniper, etc.) to Arista 
+- Assist with implementation, change controls, and POCs
+- Interface with TAC, development teams and customers
+- Establish relationships with partners 
+- Meet SLAs for sales and clients
+- Occasional travel to customer sites

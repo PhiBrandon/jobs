@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities I extracted:
+
+Skills:
+- Java, Python, JavaScript, HTML5
+- Windows and RedHat Linux operating systems
+- JavaScript, JSON, HTML5, CSS, AJAX, jQuery
+- Eclipse and IntelliJ IDEs
+- Debugging tools and methodologies
+- Agile methodologies
+
+Responsibilities:
+- Design, develop, test, debug and implement operating systems components and software tools
+- Ensure system improvements are successfully implemented and monitored
+- Generate systems software engineering policies, standards and procedures
+- Develop and integrate software within the MIP using Java, Python, JavaScript and HTML5
+- Deploy and manage data services and integrations on Windows and RedHat Linux
+- Develop web interfaces using JavaScript, JSON, HTML5, CSS, AJAX, jQuery
+- Troubleshoot and debug UI and software components 
+- Think critically and creatively to develop innovative solutions 
+- Write automation test cases to validate system requirements
+- Collaborate with diverse stakeholders and facilitate team discussions

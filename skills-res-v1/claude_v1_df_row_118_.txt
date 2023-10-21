@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience as a data engineer
+- 5+ years of experience with SQL Development (ETL transformations, stored procedure) 
+- Data Ingestion experience from inception to Gold Medallion
+- Strong understanding of data engineering, data warehousing, data modeling, data governance, and data security best practices
+- 3-5 years of experience programming with PySpark performing various transformations
+- 2-5+ years building large scale data infrastructure on Spark/Databricks or similar
+- 3+ years experience working with real-time data ingestion/processing
+- Working knowledge of Databricks DLT(Delta Live Table) and Unity Catalog a plus
+- Experience with relational and non-relational database technologies (i.e., NoSQL, blob storage, etc.)
+- Experience with data wrangling skills with csv, tsv, parquet, and json
+- Excellence problem-solving and troubleshooting skills
+
+Responsibilities:
+- Develop and implement effective data architecture solutions using Databricks and Lakehouse
+- Optimize and tune data pipelines for performance and scalability  
+- Monitor and troubleshoot data pipelines to ensure data availability and reliability
+- Collaborate with data scientists, analysts, and other stakeholders to understand their data needs and build solutions that enable them to extract insights from data
+- Implement best practices for data governance, data security, and data quality to ensure data integrity across all data sources
+- Create and maintain documentation related to data architecture, data pipelines, and data models
+- Stay up to date with emerging technologies and best practices in data engineering and big data processing
+- Mentor and train other data engineers on best practices for data engineering and Databricks usage
+- Provide thought leadership in the Databricks and Lakehouse space, both within the organization and externally

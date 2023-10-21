@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Programming experience in Scala, Java or Python
+- Experience in data engineering, preferably in Google Cloud Platform with BigQuery
+- Hands-on experience in designing, building, testing and deploying data pipelines in Teradata and Hadoop platform with experience in, HDFS, Hive, Spark, Streaming, HBase, Kafka, Oozie etc.
+- Good organizational skills and strong written and verbal communication skills.
+
+Responsibilities:
+- Developing and validating Big data products and applications which runs on the large Hadoop cluster and Cloud
+- Developing and testing ETL process, Migrating different applications to cloud
+- Developing Data validation tools used for performing quality assessments and measurements on different data sets  
+- Building big data and batch/real-time analytical solutions that leverage emerging technologies
+- Performing data migration and conversion activities on different applications and platforms
+- Designing, developing and testing of data ingestion pipelines, perform end to end automation of ETL process
+- Performing data profiling/analysis, discovery, analysis, suitability and coverage of data, and identifying the various data types, formats, and data quality issues  
+- Developing transformation logic, interfaces and reports as needed to meet project requirements
+- Improving and performance-tuning the optimization of data pipelines
+- Developing unit and integrated automated test suites to validate end to end data pipeline flow, data transformation rules, and data integrity
+- Developing tools to measure the data quality and visualize the anomaly pattern in source and processed data
+- Integrating automated processes into continuous integration workflows
+
+https://www.indeed.com/rc/clk?jk=b15ec8b380fddd07&from=jasx&tk=1hd1fpkd42j42000&vjs=3

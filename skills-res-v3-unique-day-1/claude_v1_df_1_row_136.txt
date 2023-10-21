@@ -1,0 +1,21 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Java 
+- Python
+- JavaScript
+- HTML5
+- RedHat Linux and Windows operating systems
+- Debugging tools
+- Agile methodologies
+- Software development lifecycle 
+
+Responsibilities:
+- Design, develop, test, debug and implement operating systems components, software tools and utilities
+- Ensure system improvements are implemented and monitored to increase efficiency
+- Generate systems software engineering policies, standards and procedures  
+- Demonstrate proficiency in technologies like Java, Python, JavaScript for software development
+- Use debugging tools to troubleshoot and debug UI and software components
+- Write automation test cases to validate requirements and ensure reliability
+- Ability to think critically and creatively to develop innovative solutions
+- Collaborate effectively in a team environment

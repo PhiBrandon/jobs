@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Scala 
+- Spark
+- Apache Spark and Spark DataFrame API
+- Python
+- AWS services like EMR, Redshift, Teradata
+- Git and GitHub
+- Confluence
+- Agile methodology
+
+Responsibilities:
+- Build data processing pipelines using Spark to derive information from large government datasets
+- Write tests for data processing code 
+- Work with DevOps on CI/CD and infrastructure as code
+- Read specifications and design/automate tests
+- Perform code reviews to improve code quality
+- Teach others and inform design decisions using Spark knowledge
+- Debug runtime problems
+
+https://www.indeed.com/rc/clk?jk=032e33bd776de85e&from=jasx&tk=1hd1fs0bnk7b3800&vjs=3

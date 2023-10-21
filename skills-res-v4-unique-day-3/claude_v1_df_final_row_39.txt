@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Network design expertise including leaf-spine architectures, EVPN, VxLAN architectures
+- Expert knowledge of routing protocols like OSPF, BGP, eBGP 
+- Expertise in technologies like Ethernet, VLANs, IP Routing, TCP/IP, QoS
+- Data center technologies experience like OpenStack, SDN, NFV, load balancers, virtualization, Linux tools
+- Network scripting skills like Python, Perl
+- Vendor certifications like CCIE (R&S), JNCIE
+- Expert CLI knowledge
+
+Responsibilities:
+- Provide advanced post-sales support for large data center network deployments
+- Review and recommend designs for customer network deployments  
+- Migrate or interconnect Cisco, Juniper and other vendor infrastructures to Arista
+- Assist with network provisioning automation using tools like Python, Chef, Ansible
+- Validate designs through proof of concepts and testing
+- Assist with implementation and change controls
+- Provide customer advice on architecture, products, features
+- Design leaf-spine network solutions using BGP and EVPN/VXLAN experience
+- Maintain relationships with key partners through events and training
+- Meet service level agreements and provide excellent customer service
+- Participate in opportunities for continued learning and training
+
+https://www.indeed.com/rc/clk?jk=94a5ae6b3646efe1&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

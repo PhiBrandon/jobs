@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Deep understanding of Microsoft data platforms 
+- Proficiency in Python
+- Experience with SQL 
+- Knowledge of data modeling principles
+- Experience with data warehousing and big data technologies
+- Experience with Azure data services and Microsoft Power BI
+- Strong problem-solving and analytical skills
+- Excellent communication skills
+
+Responsibilities:
+- Develop, construct, test, and maintain ETL processes using SSIS and Python
+- Design and implement relational and non-relational database systems using SQL Server  
+- Leverage Azure data services for scalable data solutions
+- Develop analytical tools and solutions using Power BI
+- Optimize and automate data delivery processes
+- Uphold data quality standards through cleaning and validation procedures
+- Collaborate with teams to align data solutions with business objectives

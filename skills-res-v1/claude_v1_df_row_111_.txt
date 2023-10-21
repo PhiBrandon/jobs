@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3+ years of experience building data pipelines
+- 3+ years of experience building data frameworks for unit testing, data lineage tracking, and automation
+- Fluency in Scala 
+- Working knowledge of Apache Spark
+- Familiarity with streaming technologies (e.g., Kafka, Kinesis, Flink)
+
+Responsibilities:
+- Build the company's next generation data warehouse
+- Build the company's event stream platform  
+- Translate user requirements for reporting and analysis into actionable deliverables
+- Enhance automation, operation, and expansion of real-time and batch data environment
+- Manage numerous projects in an ever-changing work environment
+- Extract, transform, and load complex data into the data warehouse using cutting-edge technologies
+- Build processes for top-notch security, performance, reliability, and accuracy
+- Provide mentorship and collaborate with fellow team members

@@ -1,0 +1,20 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- SQL
+- Data warehousing 
+- Problem solving
+- Communication skills
+- Analytical skills
+- Spark or Python
+- Google Cloud technologies
+- Databricks
+
+Responsibilities:
+- Design and engineer analytic data solutions
+- Code data ingestion, transformation, and delivery programs/logic
+- Maintain data sourcing, transformation and delivery frameworks  
+- Work with data science teams and integrate analytic data systems
+- Manage customer relationships
+- Contribute to large projects across multiple teams
+- Keep current with big data technologies

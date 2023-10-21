@@ -1,0 +1,14 @@
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience in SQL or similar languages 
+- 5+ years of experience in the data warehouse space, custom ETL design, implementation, and maintenance
+- Experience with data architecture, data modeling, schema design, and software development
+- Experience working with cloud analytics platforms and tools, specifically Snowflake, dbt, and Rudderstack
+- Development experience in at least one language (Python, Javascript, etc.)
+
+Responsibilities:
+- Architect data pipelines to move data across platforms including third party analytics, frontend & backend systems
+- Educate teams by identifying gaps in existing systems and processes 
+- Partner with stakeholders to understand requirements and build scalable data solutions
+- Manage delivery of dashboards, tools, and data visualizations

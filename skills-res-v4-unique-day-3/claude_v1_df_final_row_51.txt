@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Expert-level skills in Python, SQL databases such as PostgreSQL, and big data technologies such as Databricks and Spark. 
+- Hands-on experience building cloud resident data pipelines in AWS.
+- Strong understanding of data governance, security, privacy, and retention policies and procedures.
+- High proficiency using agile software tools like Jira and following mature DevOps practices using GIT, Docker, and CI servers like Jenkins.
+
+Responsibilities:
+- Design, develop and maintain data pipelines, infrastructure, and systems to support data products and solutions using technologies such as AWS, Python, Databricks, Spark, and SQL databases like PostgreSQL.
+- Work with cross-functional teams to translate business problems into technical solutions and provide technical guidance and mentorship to junior data engineers.
+- Develop and implement data engineering strategies and best practices that align with business objectives and customer needs.
+- Monitor and troubleshoot data pipelines and systems to ensure data quality, integrity, and availability.
+- Conduct research on industry trends and best practices to improve data engineering capabilities and evaluate new data technologies and tools.
+- Build and maintain data lakes to support business intelligence needs.
+- Manage the software development lifecycle and DevOps aspects of the code.
+- Collaborate with data scientists and analysts to understand their data requirements and provide them with optimal data solutions.
+- Create new data validation methods and data analysis tools.
+
+https://www.indeed.com/rc/clk?jk=cf276d4ea3c5fdcb&from=jasx&tk=1hd1ft1i8joou800&vjs=3

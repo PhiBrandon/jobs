@@ -1,0 +1,22 @@
+ Here are the relevant skills and responsibilities extracted from the job description:
+
+Skills:
+- Data engineering 
+- SQL
+- ETL processes
+- AWS
+- Azure Cloud
+- Azure Databricks
+- Azure SQL Database
+- Data structures
+- Power BI
+- Snowflake
+- Relational databases
+
+Responsibilities:
+- Oversee 3 engineers and design, create, test, deploy and support SQL code
+- Monitor database systems and daily ETL processes
+- Looking for 5+ years prior experience (hands-on)
+- Lead/management experience
+
+https://www.indeed.com/rc/clk?jk=e3a2b78dd10fb62c&from=jasx&tk=1hd1foafmk78p800&vjs=3

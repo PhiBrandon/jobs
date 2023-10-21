@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities I extracted from the job description:
+
+Skills:
+
+- Advanced skills in modern data architecture, data science engineering, data modeling and data quality using cloud computing technologies like AWS
+
+- Hands-on experience with data ETL, automation and CICD technologies including Python, SQL and Git
+
+- Experience with cloud-native data warehouse technologies like Snowflake 
+
+- Skills in data analysis, insight generation and manipulation of structured and unstructured data 
+
+- Ability to collaborate across technical and non-technical teams
+
+- Ability to document and present work to all levels of stakeholders
+
+- Commitment to creating high-quality insights from data at scale
+
+Responsibilities:
+
+- Design and implement secure data pipelines into a Snowflake data warehouse 
+
+- Guide and review off-shore development team's work, providing coaching and coding feedback
+
+- Work across matrixed delivery landscape including Agile development, support and deployment

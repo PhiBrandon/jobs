@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Design, develop and maintain scalable data pipelines and ETL processes
+- Optimize data architectures and database queries 
+- Experience with relational databases (Postgres), SQL
+- Programming in NodeJS, TypeScript
+- Cloud platform experience (AWS preferred)
+- Web scraping, reverse engineering websites and APIs
+
+Responsibilities:
+- Build and maintain data infrastructure and pipelines 
+- Ingest, process and store large datasets
+- Ensure product catalogs are accurate and up-to-date
+- Optimize for data quality, performance and scalability
+- Stay up-to-date on data engineering technologies and trends

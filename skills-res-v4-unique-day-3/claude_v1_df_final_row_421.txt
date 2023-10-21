@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Software engineering background, proficient in programming languages like Java, Scala, Python
+- Familiarity with SQL and NoSQL databases like MySQL, Oracle, PostgreSQL, MongoDB  
+- Knowledge of on-prem and cloud technologies like Hadoop, Spark, Kafka, BigQuery, Snowflake, Firebolt, Amazon Redshift
+- Data modeling, algorithms, data transformation techniques
+- Experience with ETL/ELT pipelines, data storage, analytical tools
+- Creativity, problem-solving skills
+- Attention to detail, ability to break down complex problems 
+
+Responsibilities:
+- Design data architecture and pipelines
+- Build, customize, and manage software components for data integration, storage, analytics
+- Manage testing of data pipelines for reliability and performance
+- Manage data and metadata flow and processing  
+- Monitor overall system performance and stability
+- Track innovations and improvements to the pipeline
+- Secure each step of the data pipeline
+- Manage teams using software engineering skills
+- Collaborate with stakeholders
+
+https://www.indeed.com/rc/clk?jk=f90735e4bc814f60&from=jasx&tk=1hd95ofc82ea2001&vjs=3

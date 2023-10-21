@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Proven experience as a Cloud Support Engineer, preferably with a focus on Azure
+- Strong knowledge of Azure services including Azure Active Directory, Azure DevOps, Azure Kubernetes Service etc. 
+- Excellent problem-solving skills and the ability to diagnose complex cloud-based issues
+- Strong verbal and written communication skills
+- Relevant Azure certifications like AZ-104 or AZ-303/304
+
+Responsibilities:
+- Provide support for Azure cloud-based applications and infrastructure
+- Diagnose and troubleshoot technical issues related to Azure cloud services
+- Collaborate with cross-functional teams to implement best practices and ensure service optimization
+- Continuously monitor and manage cloud environment to prevent and mitigate risks
+- Assist client in designing and implementing Azure cloud solutions based on their unique needs  
+- Keep up to date with the latest Azure updates and features, ensuring optimal utilization and implementation
+- Offer guidance and recommendations on cost-management strategies within Azure
+- Contribute to the development of internal tools and processes to enhance Azure cloud management and support

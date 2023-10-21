@@ -1,0 +1,36 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Data migration
+- Data engineering 
+- Data integration
+- Data processing 
+- Data modeling
+- ETL
+- SQL
+- AWS Glue
+- Data reconciliation
+- Relational databases (SQL Server, Oracle, MySQL)
+- Agile/Scrum
+- API design
+- Version control
+- Automated testing
+
+Responsibilities:
+- Perform data migration and testing from one system to another
+- Provide support for data migration, engineering, and system integration 
+- Develop and integrate multiple data types and sources
+- Perform day-to-day operations of data systems  
+- Evaluate current systems and identify improvement areas
+- Plan and design source system integration and data migration
+- Build and implement integration and migration plans
+- Develop, manage, store and parse data across pipelines
+- Write code to ensure data extraction and processing performance
+- Support continuous data ingestion automation
+- Assist with maintaining data systems
+- Work collaboratively in an Agile team
+- Advocate for lean-agile principles
+- Demonstrate technical competence and drive strategic objectives
+- Generate and articulate technical strategy
+
+https://www.indeed.com/rc/clk?jk=cab4f56240621034&from=jasx&tk=1hd6hf7p7k2l9800&vjs=3

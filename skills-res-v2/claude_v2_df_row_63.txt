@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- Python programming 
+- Algorithm design
+- Data analysis
+- Statistics
+- Linux/Unix/Windows environments
+- Signal processing
+- AWS services (S3, Athena, Glue, SageMaker, etc)
+- Databases (Oracle, MySQL, Redshift, DynamoDB, Elastic Cache)
+
+Responsibilities:
+
+- Design and develop data pipelines, transformations, and structures for research data
+- Perform exploratory research on physiological data 
+- Develop, test and document algorithms and software tools
+- Participate in software development life cycle and regulatory submissions
+- Develop and execute testing procedures and documentation
+- Maintain codebase, documentation, and audit trails
+- Work cross-functionally to define technical requirements and data workflows
+- Ensure software quality and performance 

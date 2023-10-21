@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Understand customer needs and identify common problem patterns
+- Analyze and extract value from large datasets 
+- Build efficient, production-grade data pipelines
+- Deliver short, medium and long-term value through action-oriented approach
+- Excellent analytical and engineering skills
+- Collaborative team player with low ego
+
+Responsibilities:  
+- Design and develop data products to solve customer problems
+- Work directly with customers to understand needs
+- Build scalable, high-quality data products  
+- Take an innovative data-first approach to solve high-value customer problems
+- Tackle complex data and engineering problems
+- Balance customer impact, reliability, scalability, data quality and development plan
+- Own product design and development with your team

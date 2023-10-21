@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- System configuration and development on Cloud MDM, Reltio or SAP
+- SaaS, Cloud Software, Software Configuration, Software Development, SAP MDG, Master Data Management  
+- Managing or executing data cleansing data mapping and data governance areas as well as integration across complex ERP landscapes
+- Assisting in developing normalizing and maintaining data standards and definitions
+- Developing processes tools and integration for Master Data Processes including data cleansing and data validation
+- Mapping of Master data and integration from the legacy environment to the target environment
+- Configuring and managing MDM entities for one or more master data domain
+- Denodo and / or Mulesoft
+
+Responsibilities:
+- Collecting and analyzing information from users to formulate the scope and objectives of the system
+- Preparing flow charts, models, and procedures and conducting feasibility studies to design possible system solutions  
+- Preparing and maintaining technical documentation to guide system users and to assist with the ongoing operation, maintenance, and development of the system
+- Leverages Agile methodology to design and configure solutions. Works closely with the business to develop required training, change management, and operations processes
+- Develop use cases, customer scenarios, and-or demos, plan and coordinate testing of the newly developed or enhanced applications and provide support
+- Looks for opportunities to automate business processes with technology, and may provide consultation to users in the area of automated systems
+- Information transformation engagements
+- Presenting technical or new concepts across multiple levels of a global organization
+- Working with and collaborating with all IT and biz teams toward developing a best practice data creation maintenance governance quality and efficiencies

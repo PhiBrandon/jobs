@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 8+ years experience in Development, design, test and implementation of complex database programs using Oracle and third-party tools.  
+- 4+ years Hands-on development using Oracle PL/SQL.
+- At least 2+ year practical experience of developing solutions hosting within key major cloud providers such as OpenShift, Kubernetes, AWS, Google Cloud and Azure
+- Accustomed to developing code in Git and using CI/CD practices.
+
+Responsibilities:
+- Design, test and implement complex database programs 
+- Hands-on development using Oracle PL/SQL
+- Demonstrates expertise in data warehousing and business intelligence concepts
+- Strong experience with oracle functions, procedures, triggers, packages & performance tuning
+- Significant experience and comfortable with production support  
+- Providing technical assistance, problem resolution and troubleshooting support issues
+- Analytical approach to problem solving
+- Initiative-taker and takes ownership for work
+- Engineering mindset when it comes to ETL processes
+- Excellent time management, communication, decision making, and presentation skills
+- Display a strong desire to achieve and attain high levels of both internal and external customer satisfaction
+- Proven track record of building relationships across cross-functional teams

@@ -1,0 +1,30 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience with data warehousing, methodologies, modeling techniques, design patterns, and technologies. 
+- Experience in writing advanced SQL queries.
+- Coding ability in R, Python, and Shell Scripting to build and deploy Pipelines
+- Working knowledge of Git or similar code management software
+- Experience with data integration tools such as FiveTran, DBT, Informatica, Matillion, or similar ETL/ELT tools
+- Experience with Snowflake’s data platform
+- Healthcare data acquisition, ingestion, processing, and analytics knowledge
+- Knowledge and understanding of product features: IAAS, PAAS and SAAS solutions
+- Experience with healthcare claims data, formats, and analytics
+- Experience with Health Catalyst’s data and analytics platform
+- Experience with Tableau Cloud administration 
+
+Responsibilities:
+- Develop and maintain data sources within the enterprise data warehouse
+- Assist with recommendations for data architecture, storage, integration, quality, and models
+- Contribute to design sessions and build data models to clean and transform datasets
+- Assist with ETL, ELT, and reverse-ETL design, development, testing, and tuning  
+- Create and maintain data model standards
+- Migrate workloads to Snowflake using standard methodologies
+- Automate and deploy cloud-based workloads
+- Design, deliver cloud native, hybrid, and multi-cloud workloads
+- Document system design, architecture, and changes
+- Design and support production job schedules, monitoring, and performance tuning
+- Build automated, scalable, and sustainable solutions minimizing defects
+- Assist stakeholders with technical issues
+- Work independently with little oversight
+- Perform other duties as assigned

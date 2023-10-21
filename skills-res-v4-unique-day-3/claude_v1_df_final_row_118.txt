@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- ETL
+- AWS (Apache Airflow, Kafka, Streaming Data)  
+- Python
+- SQL
+- Modeling experience (preferred)
+
+Responsibilities:
+- Support transition of media data from current vendor (RAPP)
+- Hands on technical role working with data and providing expertise on how best to transition data
+- ETL, Python, AWS, SQL
+- Validate data policy checks using SQL
+- Good verbal and written communication to give recommendations to leadership team
+- This will be a high visibility role
+
+https://www.indeed.com/rc/clk?jk=34d9149b4a61c486&from=jasx&tk=1hd43l8mokhqg800&vjs=3

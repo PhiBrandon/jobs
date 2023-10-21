@@ -1,0 +1,37 @@
+ Here are the key skills and responsibilities I extracted from the job description:
+
+Skills:
+
+- Data migration
+- Data engineering 
+- Integrating multiple data types and sources
+- Ensuring data is processed and transferred securely
+- Improving system design for high availability and low latency
+- Source system integration and data migration planning/execution
+- Data pipeline development and management
+- Data extraction and processing 
+- Process automation for data ingestion
+- Agile/Scrum methodology 
+- API-first design
+- Continuous integration
+- Version control
+- Automated testing
+- Driving progress on company objectives
+- Articulating technical strategy
+
+Responsibilities:
+
+- Prepare data migration strategy and plans
+- Provide support for data migration, engineering, and system integration
+- Develop and integrate data across sources
+- Perform day-to-day data operations 
+- Evaluate and improve system design
+- Plan and implement data integration and migration
+- Develop and manage data pipelines
+- Ensure data performance and reliability
+- Support process automation
+- Apply Agile/Scrum best practices
+- Advocate for lean-agile principles and practices
+- Foster customer service, innovation, collaboration and teamwork
+- Demonstrate technical competence and ownership
+- Generate and communicate technical strategy

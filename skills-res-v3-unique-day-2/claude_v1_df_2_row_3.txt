@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Azure 
+- Databricks
+- ETL processes
+- Python
+- SQL
+- Jira
+- Github
+- Data lake house architecture
+- Data modeling
+- Migration from on-premise enterprise data warehousing to data lake
+- Big data technologies such as Hadoop, Spark, or Kafka
+- Event Hubs
+
+Responsibilities:
+- Design and implement data pipelines using Azure and Databricks
+- Develop ETL/ELT processes to extract load data into Databricks Lakehouse using PySpark/Python/Scala and Delta Live Tables
+- Work with data scientists/data analysts to understand their requirements and design solutions that meet their needs
+- Develop and maintain Python scripts to automate data processing tasks
+- Write complex SQL queries
+- Optimize database performance by tuning queries and indexes
+- Monitor database performance and troubleshoot issues as they arise

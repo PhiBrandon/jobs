@@ -1,0 +1,26 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- HR data management 
+- Data integration techniques
+- ETL processes
+- Data warehousing concepts
+- SQL and scripting languages (Python, R) for data manipulation
+- Data modeling
+- Dimensional structures
+- Data governance 
+- Data privacy regulations
+- Security protocols
+
+Responsibilities:
+- Lead data migration process to Workday
+- Establish an HR Data Mart
+- Develop data migration strategy 
+- Design and implement HR Data Mart 
+- Design, develop and maintain ETL processes
+- Implement data validation and testing
+- Define data mapping and transformation rules  
+- Ensure data governance and security compliance
+- Document processes and provide training
+- Lead data migration project and implementation
+- Identify opportunities for process improvement

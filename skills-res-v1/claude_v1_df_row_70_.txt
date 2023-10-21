@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Advanced mathematics background, particularly in statistics, probability theory, data mining, and machine learning 
+- 5+ years of overall professional experience in data science
+- Experience building predictive and prescriptive models
+- Proficiency in Python
+- Experience handling large datasets and SQL
+- Strong communication and presentation skills
+
+Responsibilities:
+- Partner with product, engineering, marketing, and other teams to shape product strategy using data science solutions
+- Apply statistical and machine learning models to measure results, optimize experience, and minimize risks
+- Design and analyze experiments to quantify impacts of changes  
+- Develop metrics and dashboards to guide product development
+- Drive collection of new data and refinement of existing data sources

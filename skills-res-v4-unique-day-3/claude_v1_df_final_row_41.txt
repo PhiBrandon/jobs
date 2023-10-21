@@ -1,0 +1,20 @@
+ Here are some of the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Advanced skills in statistics, probability theory, data mining, and machine learning 
+- Proficiency in Python
+- Experience building supervised and unsupervised machine learning models
+- Experience handling large datasets and SQL
+- Strong communication and presentation skills
+- Ability to work in an agile environment
+
+Responsibilities:
+- Lead data science initiatives to improve products from risk modeling and forecasting perspectives
+- Own research charters to provide data-driven insights and roadmaps  
+- Collaborate with cross-functional teams to solve complex problems
+- Partner with product, engineering, marketing etc. to shape strategies
+- Design and analyze experiments to quantify impacts
+- Develop metrics and dashboards to guide product development
+- Drive collection of new data and refinement of existing sources
+
+https://www.indeed.com/rc/clk?jk=8205e7f76522b355&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python programming focused on big data management  
+- PostgreSQL or other relational database
+- Docker
+- Kubernetes
+- Git
+- Optional skills: GIS tools, AWS, Elasticsearch, data pipeline tools, machine learning, APIs, engineering leadership, etc. 
+
+Responsibilities:
+- Design, architect, build and maintain data pipeline systems
+- Write code for importing and updating large datasets to databases 
+- Define and maintain database schemas and data formats
+- Collaborate with developers on optimizing databases for APIs
+- Collaborate with a software engineering team
+- Mentor junior data engineers
+- Define and maintain data management processes
+- Work with product managers on schedules and tasks
+- Collaborate with cross-functional team members
+- Coordinate with open source contributors and standards communities
+- Participate in team building and culture activities
+
+https://www.indeed.com/rc/clk?jk=37b5edb36e885430&from=jasx&tk=1hd1fm1o6iman800&vjs=3

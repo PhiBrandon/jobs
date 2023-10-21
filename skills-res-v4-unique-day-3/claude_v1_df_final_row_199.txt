@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of core data engineering experience 
+- Advanced SQL and Snowflake skills
+- Advanced scripting skills in R, SAS, Python
+- Experience with Azure ML, Azure ML Pipelines, Databricks
+- Sales domain expertise in enterprise SaaS 
+- Data science expertise
+- Machine learning techniques and experience developing predictive models in Python
+
+Responsibilities:
+- Develop reusable dimensional data models 
+- Build ETL/ELT jobs in Snowflake to maintain data models
+- Write SQL queries and Python code to build master data models from raw sources
+- Identify and troubleshoot data integrity issues  
+- Enforce data policies and quality procedures
+- Secure approvals for data access
+- Train analysts and data scientists on available data
+- Ensure large databases and compute clusters operate optimally
+- Implement and maintain database structures and governance
+- Develop and maintain documentation on databases
+- Collaborate with other data teams
+
+https://www.indeed.com/rc/clk?jk=d81d17fc1c3957ba&from=jasx&tk=1hd443vdui469801&vjs=3

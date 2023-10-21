@@ -1,0 +1,34 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data Engineering (OLTP) 
+- Data Modelling (OLTP)
+- Dimensional modeling 
+- Database Design
+- Data Migration
+- Domain, ETL Validation, Databricks
+- SQL and NoSQL databases
+- Spark/Scala
+- Healthcare or Pharmacy business domain
+- 6+ years Data Engineering 
+- Enterprise Data Architecture 
+- Data Modeling Solutions Designing 
+- Data Analysis and BI Solutions Delivery
+- Data Warehouse implementation
+- Data Analysis
+- Data Profiling 
+- Data Discovery
+
+Responsibilities:
+- Design and development of solution for extraction transformation and loading of data in new database
+- Create transition state data strategy for dual system (transition state)
+- Design develop enhance and integrate PBM data subjects into a normalize relational model  
+- Deploy and maintain OLTP Relational and Data Warehouses/Data Marts Models
+- Build ETL/ETL solutions for both structured and unstructured data sets
+- Experience in data migration programs from legacy to Cloud big data applications
+- Collaborate and review new data models with application teams
+- Responsible for resolution of technical issues 
+- Design unit test cases and perform unit testing
+- Support SIT/UAT activities
+
+https://www.indeed.com/rc/clk?jk=69367ead0238ca43&from=jasx&tk=1hd43nlmik6qs800&vjs=3

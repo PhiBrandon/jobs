@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience in data engineering 
+- Experience designing and building schemas, tables, views, and data pipelines
+- Experience with cloud technologies like Azure and AWS
+- Experience with Azure Data Factory or equivalent ETL tool
+- Knowledge of SQL and working with databases like SQL Server, Oracle, Postgres, MySQL
+- Understanding how to tell stories from data
+- Strong coding standards and data governance practices
+
+Responsibilities:
+- Build and maintain data infrastructure for the organization
+- Collaborate with analysts to understand data requirements  
+- Create data warehouse and normalized/denormalized data layers
+- Define strategies to capture all data sources and changes
+- Work on all aspects of data warehouse environment like architecture, design, development, automation, caching, performance tuning
+- Continually explore new technologies like AI, ML, predictive modeling
+
+https://www.indeed.com/rc/clk?jk=07b20c6371c1a9da&from=jasx&tk=1hd1g1f082gvk000&vjs=3

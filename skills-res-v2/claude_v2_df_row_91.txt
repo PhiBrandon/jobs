@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python, SQL, Databricks, Spark 
+- Building data pipelines in AWS
+- Data engineering strategies and best practices
+- Monitoring and troubleshooting data systems
+- Conducting research on data engineering trends and tools
+- Working with data science and ML models/frameworks
+
+Responsibilities:
+- Design, develop and maintain data pipelines, infrastructure, and systems 
+- Work with cross-functional teams to translate business problems into technical solutions
+- Develop and implement data engineering strategies aligned with business objectives
+- Monitor and troubleshoot data pipelines and systems for data quality and availability
+- Conduct research to improve data engineering capabilities 
+- Build and maintain data lakes
+- Manage software development lifecycle and DevOps 
+- Collaborate with data scientists to understand data requirements
+- Create new data validation methods and data analysis tools

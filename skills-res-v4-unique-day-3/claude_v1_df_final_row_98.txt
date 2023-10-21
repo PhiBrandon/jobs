@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Proficient in Python, Java, SQL, Spark coding
+- Experience with Scala, Linux/Unix, Hadoop, cloud platforms 
+- Knowledge of RESTful and SOAP web services and APIs
+- Pipeline creation and automation for data acquisition
+- Metadata extraction between raw and transformed data
+- Statistical analysis and data visualization
+- Software development lifecycle processes
+
+Responsibilities: 
+- Develop and implement large-scale cloud data processing systems
+- Design enterprise cloud data architectures
+- Implement scalable, high performance data solutions
+- Work with programming languages, frameworks and tools
+- Collaborate with scrum team on data projects
+- Document designs and concepts
+- Orchestrate and choreograph APIs for applications
+- Manage and schedule batch jobs
+- Unit test code and adhere to development processes
+- Communicate project status and estimates to management
+- Solve problems and communicate roadblocks to stakeholders
+
+https://www.indeed.com/rc/clk?jk=3203987de4a37c72&from=jasx&tk=1hd1g5e7qk7bn800&vjs=3

@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Azure cloud services and infrastructure 
+- Troubleshooting Azure technical issues
+- Implementing best practices for Azure optimization
+- Monitoring and managing Azure environments
+- Designing and implementing Azure solutions
+- Keeping updated on latest Azure features
+- Providing Azure cost management guidance
+- Developing internal tools for Azure management
+
+Responsibilities: 
+- Support Azure cloud applications and infrastructure
+- Diagnose and troubleshoot Azure issues
+- Collaborate with teams on Azure best practices  
+- Continuously monitor and manage Azure environment 
+- Assist with designing and implementing Azure solutions
+- Offer guidance on Azure cost management
+- Contribute to internal Azure management tools

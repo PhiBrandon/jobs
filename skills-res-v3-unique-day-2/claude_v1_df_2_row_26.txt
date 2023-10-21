@@ -1,0 +1,30 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 8+ years of experience as an analytics engineer, data engineer, data analyst, or ETL developer
+- 3 + years of experience in Snowflake with exposure to administration  
+- 2 + years of experience in DBT with advanced level like using jinja templates and creating macros
+- 3+ years of experience in GitHub implementing CICD pipelines for data engineering
+- Experience with any reporting tool like Tableau
+- Advanced proficiency in SQL and data modeling strategies
+- Previous experience with ETL/ELT principles and data warehousing concepts
+- Great team player with the ability to interact and communicate with all levels of management
+- Excellent organizational, prioritization, and independent decision-making skills
+- Communicate clearly using excellent written and verbal skills
+- Experience with Segment, Fivetran, and Tableau is a plus
+- Familiarity with modeling strategies such as snowflake, star, OBT, and relational is preferred
+- Experience working in an Agile environment is preferred
+- dbt certification would be strongly preferred 
+- Continuous learning mindset
+- Bachelor's degree required
+
+Responsibilities:
+- Assist the Data Analytics Manager in developing a highly scalable data warehouse and analytics platform that will assist with improved business outcomes
+- Assist with defining and developing the enterprise data architecture and best practices around processes, standards, methodologies, and data modeling
+- Collaborate with stakeholders to understand user needs and use cases to develop clear and compelling data models that support interactive and dynamic visualizations
+- Use dbt and Snowflake to iteratively deliver usable data models that enable analyst workflows and reverse ETL processes
+- Implement test-driven processes to ensure data accuracy
+- Assist project management in developing requirements and delivery expectations
+- Become a subject matter expert on core business rules and systems
+- Be a champion of data privacy and quality
+- Perform other duties as assigned

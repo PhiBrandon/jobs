@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 4+ years of SAS programming experience with extensive macro utilization 
+- 4+ years of SQL technical experience with multiple Database Management Systems
+- 3+ years of Tableau dashboard development experience
+- Strong experience in data extract/transformation, analytical reporting, and automated programming using SAS macros
+
+Responsibilities:
+- Design, develop and maintain data extract/transformation jobs  
+- Develop analytical reporting
+- Create automated programming with reusable and SAS macro driven components
+- Support Health Plan Financial data reporting
+- Prior experience with clinical and claims data reporting within a Health Plan/Payor environment
+
+https://www.indeed.com/rc/clk?jk=30b006781edd63e6&from=jasx&tk=1hd445crtikef800&vjs=3

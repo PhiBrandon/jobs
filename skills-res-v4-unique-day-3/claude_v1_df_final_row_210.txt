@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Software engineering experience, typically 5-8+ years 
+- Deep understanding of multiple database technologies like Postgres, MongoDB, Redis, ElasticSearch
+- Experience building asynchronous and distributed systems using RabbitMQ  
+- Fluency with functional or imperative languages like Python
+- Familiarity with modern containerized environments like Docker & Kubernetes
+
+Bonuses:
+- Experience with healthcare data standards and integrations like HL7, FHIR, DICOM
+
+Responsibilities:
+- Designing and implementing improvements to data extraction and transformation processes
+- Architecting data warehousing and reporting capabilities to support real-time analysis  
+- Evolving the platform architecture and infrastructure without disrupting operations
+- Overseeing and monitoring existing data platforms for stability, performance and accuracy
+- Building pipelines to consolidate cross-institutional data for predictive analytics and research
+- Building visibility into all aspects of the data platform
+- Independently leading complex software projects
+
+https://www.indeed.com/rc/clk?jk=72b83dc7d8aad2ef&from=jasx&tk=1hd6h6bheiolg800&vjs=3

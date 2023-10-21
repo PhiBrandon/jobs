@@ -1,0 +1,24 @@
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- Data analysis and modeling
+- SQL, databases, data warehousing 
+- Programming languages (not specified but likely Python, R)
+- Data engineering concepts and processes
+- Agile methodologies
+- Cloud technologies like AWS
+- Docker/Kubernetes
+- Data architecture and development tools
+- Understanding of business needs and processes
+
+Responsibilities:
+- Collecting, integrating and analyzing organizational data
+- Developing and maintaining data architectures, databases, and platforms  
+- Designing programs and tools to support data ingestion, curation and provisioning
+- Building data models and improving data accessibility and quality
+- Identifying opportunities to improve processes and addressing technology gaps
+- Preparing recommendations to address business needs
+- Assisting with deployment of data solutions
+- Performing assigned projects
+
+https://www.indeed.com/rc/clk?jk=ae83164544567281&from=jasx&tk=1hd6h6bheiolg800&vjs=3

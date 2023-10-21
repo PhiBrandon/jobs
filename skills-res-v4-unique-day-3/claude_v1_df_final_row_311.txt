@@ -1,0 +1,38 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Expert level experience with relational databases like MySQL, PostgreSQL
+- Expert level experience with big data systems like Cloudera Data Platform 
+- Expert level experience with Apache Solr
+- Experience with ETL tools like Ab Initio 
+- Experience with BI tools like MicroStrategy
+- Experience with automation tools like Ansible, Terraform, BitBucket 
+- Experience working with cloud solutions on AWS
+- Experience with databases and systems like Cloudera, Solr, Ab Initio, EMR, S3, DynamoDB, MongoDB, PostgreSQL, RDS, DB2
+- DevOps experience with CI/CD pipelines
+- Strong skills in UNIX and SQL
+- Experience with metadata hubs and operational consoles
+- Experience migrating systems from on-premises to AWS cloud
+- Programming language skills like SQL, NoSQL, Python
+
+Responsibilities:
+- Leading architectural and design discussions as an SME
+- Leading and tracking project and task monitoring
+- Designing, configuring, implementing, monitoring big data platforms  
+- Developing data integration best practices
+- Leading and managing administrator teams
+- Overseeing data engineering projects including installations and deployments
+- Developing and maintaining infrastructure like data warehouses and data lakes  
+- Preparing and manipulating data using tools like Hadoop
+- Developing techniques for high availability, reliability, and performance
+- Troubleshooting incidents and performing root cause analysis
+- Developing standard operating procedures
+- Managing stakeholder needs and performing requirements analysis
+- Ensuring software and system reliability through collaboration
+- Enforcing best practices for data governance
+- Developing ETL/ELT techniques to integrate data sources
+- Mentoring junior and senior team members
+- Administering systems, managing users, and ensuring disaster recovery
+- Expanding technical knowledge through ongoing learning
+
+https://www.indeed.com/rc/clk?jk=26e51b9e060db1da&from=jasx&tk=1hd6hkmagh0mj800&vjs=3

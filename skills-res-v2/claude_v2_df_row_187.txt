@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 8+ years of Data Engineering experience 
+- Enterprise Data Warehousing concepts
+- Pyspark, Python
+- Azure Data Factory (ADF) and Databricks
+- Agile/Scrum
+- Snowflake (preferred)
+- Kafka (preferred)  
+- Elastic Search (preferred)
+
+Responsibilities:
+- Develop and maintain data pipelines using tools like ADF and Databricks
+- Build data warehouses and datamarts 
+- Work with large distributed data sets using PySpark
+- Write complex SQL queries 
+- Implement data modeling, ETL, and data warehousing best practices
+- Collaborate with cross-functional teams in an Agile/Scrum environment
+- Bring a consulting mindset and ask the right questions

@@ -1,0 +1,27 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience in backup solutions design and implementation 
+- Strong knowledge of backup concepts, methodologies, and technologies
+- Understanding of disaster recovery principles and methodologies
+- Desired experience in Cohesity Backup products
+- Proficient in backup solutions for various platforms, applications, and databases
+- Experience in backup solutions for cloud, hybrid and multi-cloud scenarios
+- Experience in backup solutions for large-scale and complex environments
+- Experience in backup solutions for disaster recovery and business continuity
+- Excellent problem-solving, collaboration, organizational, presentation, product demonstration, writing, and verbal communication skills
+- Ability to work independently and collaboratively in a fast-paced and dynamic environment
+- Certification in Cohesity products is a plus
+- Certifications in relevant areas (e.g. CISSP, CBRE) are a plus
+
+Responsibilities:
+- Provide service ownership and evangelize technology solutions
+- Ensure execution of service delivery to a standard of excellence  
+- Engage with clients to design, implement, and maintain backup solutions
+- Develop backup and data retention policies aligned with client needs
+- Implement security best practices for data protection and compliance
+- Identify and resolve backup issues, perform root cause analysis
+- Assess storage capacity requirements and scalability planning
+- Create comprehensive backup documentation  
+- Work closely with internal/external teams to integrate data protection
+- All other duties as assigned

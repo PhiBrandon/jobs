@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience in software development, data engineering or related field  
+- Hands-on experience with AWS services like IAM, Lambda, Step Functions, EMR/Glue, DynamoDB
+- Hands-on SQL and non-relational data modeling
+- Experience with data streaming technologies like Kafka, Spark Streaming
+
+Responsibilities:
+- Designing and implementing complex ingestion and processing pipelines through orchestration
+- Designing and implementing API interfaces for ingestion/processing pipelines  
+- Designing, implementing and supporting scalable multi-tenant data and service infrastructure
+- Interfacing with engineering and ML teams to extract, transform and load data
+- Working with business owners to understand needs and analyze data to solve problems
+
+https://www.indeed.com/rc/clk?jk=8c2d8bd464c9e1f8&from=jasx&tk=1hd1fm1o6iman800&vjs=3

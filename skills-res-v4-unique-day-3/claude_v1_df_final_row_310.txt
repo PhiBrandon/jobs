@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong communication and interpersonal skills 
+- Strong analytical skills
+- Programming skills in Python and/or Java
+- Experience with frontend frameworks like React
+- Experience with backend development, databases, APIs
+- Data engineering skills like data pipelines, architectures
+- Cloud technologies like Kubernetes, Docker
+- Software testing skills
+- Knowledge of data topics like semantics, visualization 
+
+Responsibilities:
+- Design and implement data analysis pipelines and applications
+- Collaborate with teams to address mission challenges 
+- Propose research projects and lead proof-of-concept development
+- Identify, prototype and assess cutting-edge data technologies
+- Effectively communicate data analysis insights through visualizations
+- Support space programs through strategic data analysis and processing
+- Acquire expertise in emerging technologies
+
+https://www.indeed.com/rc/clk?jk=cbd644ff80fc0c98&from=jasx&tk=1hd6hkmagh0mj800&vjs=3

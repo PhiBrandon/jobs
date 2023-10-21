@@ -1,0 +1,35 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years SQL Server 2008/2014
+- 5+ years Data Integration technologies and principles  
+- Advanced knowledge of T-SQL including complex SQL queries
+- Advanced knowledge of index design and T-SQL performance tuning techniques
+- Advanced experience integrating data from structured and unstructured formats: flat files, XML, EDI, JSON, EXCEL
+- Advanced knowledge and experience in online transactional (OLTP) processing and analytical processing (OLAP) databases and schemas
+- Advanced knowledge of Data Warehousing methodologies and concepts
+- Experience with TDD / BDD
+- Prefer experience in Healthcare, PBM and/or ABM, workers' compensation and/or insurance industry
+- Basic understanding of object oriented programming
+- Experience in distributed architectures such as Microservices, SOA, and RESTful APIs  
+- Continuous Integration
+- Cucumber, Gherkin
+- Jira
+- Agile / DevOps values
+
+Responsibilities:
+- Analysis, design, documentation, development, unit testing, and support of Data Integration and database objects
+- Provides support and guidance regarding Data Integration and T-SQL best practices and development standards
+- Collaborates with stakeholders and development team members to achieve business results
+- Works closely with other engineers to integrate databases with other applications
+- Leads the design, development, and implementation of database applications and solutions
+- Recommends guidance regarding Data Integration and database development best practices
+- Creates technical design documentation 
+- Translates requirements into common language for BDD/TDD
+- Provides support for investigating and troubleshooting production issues
+- Promotes establishment of group standards and processes
+- Participates in Communities of Practice
+- Improves performance of source code using industry standards
+- Drives technology direction and recommendations
+
+https://www.indeed.com/rc/clk?jk=2ca88fbc827420a3&from=jasx&tk=1hd1g2npm2f32000&vjs=3

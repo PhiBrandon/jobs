@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Programming languages: Java, Scala, Python
+- Databases: RDBMS, NoSQL, Cassandra, Accumulo, HBase, Spark, Hadoop, HDFS, AVRO, MongoDB, Zookeeper 
+- Cloud platforms: AWS, Microsoft Azure, Google Cloud
+- Scripting: Python, Perl, JavaScript, Shell
+- Streaming data: Spark Streaming, Kafka, Kinesis, Flink
+- Infrastructure as Code: Ansible, Terraform
+- Agile software development
+- Data warehousing: Snowflake
+- ETL: Informatica
+
+Responsibilities:
+- Design, develop, test, implement and support technical solutions and cloud-based systems
+- Work in Agile teams to build full-stack applications 
+- Utilize big data technologies to build data pipelines and platforms
+- Perform unit testing and code reviews
+- Collaborate with product managers to deliver solutions 
+- Mentor other engineers
+- Solve complex business problems with software solutions

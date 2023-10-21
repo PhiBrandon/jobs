@@ -1,0 +1,28 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python, Java, SQL, Spark programming languages
+- Scala
+- Linux/Unix systems
+- Hadoop ecosystem 
+- Apache packages
+- RESTful and SOAP web services
+- Shell scripting
+- Version control platforms like GitHub
+- Unit testing
+- CI/CD pipelines and DevOps tools like Jenkins, Artifactory, Terraform
+- Data formats like Avro, Parquet, JSON
+- Batch and streaming data pipelines 
+
+Responsibilities:
+- Design and develop large-scale cloud data processing systems
+- Implement cloud data architectures and designs
+- Work with data in structured and unstructured formats
+- Design scalable and high performing data solutions
+- Code, test, analyze and improve data pipelines and workflows
+- Document designs, concepts and technical work
+- Collaborate with cross-functional teams on data products
+- Manage data lifecycles from acquisition to consumption
+- Automate and schedule batch data jobs
+- Advise on optimizing the data platform
+- Effectively communicate technical work to various audiences

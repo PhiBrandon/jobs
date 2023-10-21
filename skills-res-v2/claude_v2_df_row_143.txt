@@ -1,0 +1,30 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years experience with SQL Server 2008/2014
+- 5+ years experience with Data Integration technologies and principles  
+- Advanced T-SQL, complex SQL queries, index design, performance tuning
+- Integrating data from various sources 
+- Data Warehousing methodologies
+- Test Driven Development (TDD) / Behavior Driven Development (BDD)
+- Experience with BI Tools (preferred)
+- Object oriented programming (preferred) 
+- Microservices, SOA, RESTful APIs (preferred)
+- Continuous Integration
+- Cucumber, Gherkin
+- Jira
+- Agile / DevOps
+
+Responsibilities:
+- Collaborate with stakeholders and developers
+- Integrate databases with other applications
+- Design, develop and implement database applications and solutions
+- Provide guidance on database development best practices 
+- Create technical design documentation 
+- Understand business processes and technology platform
+- Translate stakeholder requirements into user stories
+- Participate in professional networks 
+- Troubleshoot production issues
+- Promote group standards and processes
+- Improve performance of source code
+- Make technology recommendations

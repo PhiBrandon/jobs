@@ -1,0 +1,30 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years SQL Server 2008/2014
+- 5+ years Data Integration technologies and principles  
+- Advanced knowledge of T-SQL including complex SQL queries
+- Advanced knowledge of index design and T-SQL performance tuning techniques
+- Advanced experience integrating data from structured and unstructured formats: flat files, XML, EDI, JSON, EXCEL
+- Advanced knowledge and experience in online transactional (OLTP) processing and analytical processing (OLAP) databases and schemas
+- Advanced knowledge of Data Warehousing methodologies and concepts
+- Experience with TDD / BDD
+- Experience with BI Tools is a plus
+- Basic understanding of object oriented programming
+- Experience in distributed architectures such as Microservices, SOA, and RESTful APIs
+- Continuous Integration
+- Cucumber, Gherkin
+- Jira
+- Agile / DevOps values
+
+Responsibilities:
+- Design, development, and implementation of database applications and solutions
+- Work closely with other engineers to integrate databases  
+- Create technical design documentation
+- Translate requirements into common language for development 
+- Provide support for investigating and troubleshooting production issues
+- Promote group standards and processes
+- Help drive technology direction and choices
+- Requires understanding of Agile development methodology
+
+https://www.indeed.com/rc/clk?jk=d4ed26d290fe9912&from=jasx&tk=1hd1g1f082gvk000&vjs=3

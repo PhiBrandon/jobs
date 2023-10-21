@@ -1,0 +1,24 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 4+ years of professional data engineering experience
+- Proficient in programming languages like Java, Scala, Python  
+- Advanced SQL experience in big data warehouses like Snowflake, BigQuery, Databricks
+- Experience with SQL and NoSQL databases like MySQL, PostgreSQL, Cassandra, HBase, Redis, DynamoDB, Neo4j
+- Experience with workflow orchestration tools like Airflow, Dagster, DBT
+- Experience with cloud services like AWS, Google Cloud, Microsoft Azure
+- Experience building scalable infrastructures for batch, stream data processing  
+- Experience with financial/compliance data
+- Experience in data provenance and governance
+- Knowledge of open source big data technologies
+
+Responsibilities:
+- Owning ETL/ELT pipelines and data warehouse for financial and regulatory reporting
+- Collaborating on data platform design, deployment and improvement
+- Designing, building and maintaining data pipelines
+- Developing integrations to source, qualify and ingest datasets
+- Providing analytics and visualization tools to extract insights  
+- Working closely with product, engineering, data science etc. on data modeling, governance
+- Ensuring data accuracy and quality for transparency and compliance needs
+
+https://www.indeed.com/rc/clk?jk=c41c14c5c2c43e9e&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

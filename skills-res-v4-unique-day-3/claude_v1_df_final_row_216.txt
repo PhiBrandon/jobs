@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- DBT Cloud 
+- Snowflake Cloud DB
+- Building finance datamarts (general ledger, journal entries, accounts payable, accounts receivable, fixed assets)
+- Experience with Infor Lawson ERP
+
+Responsibilities: 
+- Work as a data engineer
+- Have strong experience in DBT Cloud and Snowflake Cloud DB
+- Build finance datamarts (general ledger, journal entries, accounts payable, accounts receivable, fixed assets) using data from the Infor Lawson ERP system
+- Remote contract position
+- Pay rate is $70/hour as a contractor (C2C)
+- Require 10 years of experience 
+- Monday-Friday schedule
+- Remote work location
+
+https://www.indeed.com/rc/clk?jk=0126d0e3ab279a99&from=jasx&tk=1hd6h6bheiolg800&vjs=3

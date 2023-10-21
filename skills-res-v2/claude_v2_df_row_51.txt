@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python 
+- SQL
+- Data pipeline development and maintenance
+- ETL methodologies
+- Data analytics and visualization 
+- Hadoop, Spark, Java, Python, R, ElasticSearch
+- Relational databases
+
+Responsibilities:
+- Develop and maintain data pipelines and workflows
+- Data transformation, cleaning, enrichment
+- Implement SDLC and agile methodology 
+- Analyze business workflows and data needs
+- Design and build analytics dashboards
+- Write queries and scripts to generate reports
+- Construct data solutions and architectures
+- Document data pipelines and assets
+- Evaluate new technologies and platforms

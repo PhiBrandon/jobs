@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience developing in Python and the Django framework
+- Experience designing, building and maintaining application features on the backend  
+- Experience participating in multi-month projects from conception to maintenance with multiple team members
+- Experience working with non-technical teams to explain technical concepts
+
+Responsibilities:
+- Write code in Python and Django to implement backend features and ensure code is well-tested
+- Use tools like Airflow to build/enhance financial data pipelines  
+- Make use of pandas and celery to efficiently calculate data points for securities
+- Design robust data models to store structured data
+- Design, plan, estimate, and ticket features scoped by the product team
+- Work directly with the product team to clarify features and negotiate solutions  
+- Take ownership of projects and see them through the entire lifecycle
+- Perform code reviews for other engineers
+- Document work done both within and outside code repositories
+- Collaborate with engineers to plan, design, and build the platform
+
+https://www.indeed.com/rc/clk?jk=fd53daa023410125&from=jasx&tk=1hd1g2n5fjm7b800&vjs=3

@@ -1,0 +1,20 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Spark
+- Python 
+- SQL
+- AWS data engineering products (S3, RDS, EMR, Glue, Athena...)
+- Airflow
+- Tableau
+- Spatial data
+- Scala
+- Snowflake
+- Machine Learning
+
+Responsibilities:
+- Write Spark, Python, and SQL to perform ETL on billions of location records per day
+- Implement ETL pipelines in AWS EMR + Airflow to support feature stores for customer exports, internal analysis and machine learning use cases.  
+- Write complex SQL, including geospatial, to fulfill customer requests for analysis
+- Build dashboards in Tableau to surface data-driven insights
+- Develop scripts in Python, Spark and Postgis to acquire and curate spatial data

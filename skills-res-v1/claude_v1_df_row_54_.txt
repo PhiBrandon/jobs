@@ -1,0 +1,17 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 10+ years of software development experience using Java or similar object-oriented languages for backend development
+- Deep expertise with relational database skills and concepts 
+- Experience with Postgres and non-relational databases like MongoDB
+- Experience with AWS
+- Experience building scalable systems and architectures
+- Experience with database performance tuning
+
+Responsibilities:
+- Design and evolve the architecture for the query layer that powers Clari’s product suite and platform
+- Contribute to all aspects of the data platform, from extracting and ingesting data to modeling, transforming, and managing large volumes of data
+- Mentor junior engineers and help grow their careers  
+- Write scalable, robust, and fully tested software for deployment in production environments
+- Create and improve tooling and processes to help reduce development friction and enable greater productivity
+- Contribute to the growth of Clari by being a brand ambassador and assisting in hiring

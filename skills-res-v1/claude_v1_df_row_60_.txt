@@ -1,0 +1,26 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Advanced knowledge of distributed systems design and development 
+- Strong fluency in Java programming
+- Experience with JVM performance tuning and optimization
+- Experience diagnosing performance bottlenecks
+- Experience with concurrency, sockets, networking, operating systems, memory management, runtimes, portability
+- Experience troubleshooting issues 
+- Experience with streaming systems like Kafka and Pulsar
+- Experience working in DevOps environments
+- Experience with databases like Oracle, MySQL, MariaDB, SQLServer
+- 10+ years of experience with Java or similar language
+- Experience building and operating large-scale systems
+- Experience with data structures, algorithms, object-oriented design, design patterns
+
+Responsibilities:
+- Design and build highly scalable and performant solutions  
+- Design software that is simple to use and customizable
+- Build reusable, scalable and clean code following best practices
+- Design tools, libraries and frameworks with long term priorities
+- Lead work cross-functionally and mentor junior team members
+- Work with product owners to implement requirements
+- Manage projects with technical risk at the team level
+- Explore new technologies to improve capabilities
+- Be a mentor and promote knowledge sharing

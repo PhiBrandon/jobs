@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience with Hadoop-based technologies (Cloudera, Hortonworks, MapReduce, Hive, HDFS)
+- Experience with NoSQL technologies (e.g., MongoDB, Cassandra) 
+- Python
+- Flask, FastAPI, or other microweb framework equivalent
+- An Object Relational Mapping toolkit like SQLAlchemy or equivalent
+- Github
+- Data analysis libraries such as Pandas
+- AWS S3, CloudTrail, Lambda, ECS Fargate
+- Terraform
+
+Responsibilities:
+- Leads initiatives utilizing big data solutions to provide actionable insights 
+- Engineers big data solutions and multi-tiered data environments
+- Designs data models using Enterprise Data modeling tools 
+- Builds high-performance algorithms, prototypes, and data models using programming languages
+- Analyzes and develops data set processes for data ingestion, modeling, mining
+- Integrates Big Data solutions with SAP technologies

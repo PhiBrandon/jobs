@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- Proficiency in SQL
+- Experience with ETL/ELT processes
+- Knowledge of Azure services like Azure Synapse, Azure SQL Database
+- Familiarity with Python, PowerShell/Bash scripting
+- General knowledge of cloud architecture and technologies like IaaS, PaaS, SaaS
+
+Responsibilities:
+
+- Design and implement cloud solutions on Azure 
+- Translate business requirements into technical architecture
+- Migrate existing systems and data to Azure as needed
+- Write automation scripts using PowerShell, Python, etc.
+- Configure and manage Azure services like VMs, Storage, Networking
+- Implement security controls like Azure AD, Security Center, NSGs
+- Monitor and optimize resources for performance and availability
+- Provide guidance to team members on Azure best practices
+- Keep up-to-date on cloud technologies and evaluate new options
+
+The key skills highlighted are strong SQL and data engineering skills, as well as general Azure cloud knowledge. The focus is on designing and building cloud data and analytics solutions on the Azure platform. Responsibilities revolve around migration, security, optimization, and enablement of the technical team.

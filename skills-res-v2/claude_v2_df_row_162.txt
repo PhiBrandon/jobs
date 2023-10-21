@@ -1,0 +1,24 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Data engineering experience (5+ years)  
+- SQL writing against complex databases for data extraction (3+ years)
+- Spark for building and maintaining ETL pipelines (3+ years)  
+- Python coding (3+ years)
+- AWS services such as Glue, Athena, Lambda, S3, etc. (3+ years)  
+- GitHub, version control 
+- CI/CD pipelines
+- Data visualization tools like Tableau, Looker, PowerBI
+- Analytical and interpersonal skills
+
+Responsibilities:
+- Develop and maintain data pipelines 
+- Conduct advanced data engineering and analytics
+- Collaborate with data science team 
+- Provide input into strategies 
+- Execute proofs of concept
+- Document database designs including data models, metadata, ETL specs, etc.
+- Build dynamic reports and dashboards
+- Drive adoption of CI/CD frameworks
+- Work through ambiguity in a fast-paced environment
+- Manage multiple tasks with minimal supervision

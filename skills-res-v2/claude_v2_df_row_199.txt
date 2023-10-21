@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python, Java, Scala programming
+- Experience with Spark, Kafka, Airflow, MySQL, Druid, Spinnaker, Kubernetes 
+- Experience with GCP or AWS cloud platforms
+- SQL and query optimization
+- Data pipeline development and management
+- Scaling systems to handle large data volumes
+- Debugging and automation skills
+- Git and agile development processes
+
+Responsibilities:
+- Develop reliable and scalable data pipelines 
+- Implement real-time and batch data processing systems
+- Monitor, analyze and operate data infrastructure
+- Design data systems to handle hundreds of millions of users
+- Collaborate with product and business teams on data features
+- Convert data streams into valuable information
+- Improve performance and scale of data systems

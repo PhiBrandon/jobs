@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python scripting
+- Automation testing 
+- Monitoring tests
+- ArcGIS Velocity
+- Workflow Manager
+- Geotrigger
+- ArcGIS Enterprise, ArcGIS Online, ArcGIS Pro
+- Complex enterprise systems
+
+Responsibilities:
+- Design, build, test, and release high quality software
+- Identify product requirements and advocate for customer needs  
+- Research industry standards and specifications to translate requirements to design
+- Develop automated testing systems to ensure software quality
+- Provide documentation, demonstrations and support for products
+- Collaborate in team design efforts
+- Understand business trends and customer needs
+
+https://www.indeed.com/rc/clk?jk=ad5d4ac0639f9242&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

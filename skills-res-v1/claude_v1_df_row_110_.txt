@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 10+ years of IT experience focusing on enterprise data architecture and management
+- Experience with Databricks required 
+- 8+ years experience in Conceptual/Logical/Physical Data Modeling & expertise in Relational and Dimensional Data Modeling
+- Experience with ETL and ELT tools such as SSIS, Pentaho, and/or Data Migration Services
+- Advanced level SQL experience (Joins, Aggregation, Windowing functions, Common Table Expressions, RDBMS schema design, Postgres performance optimization)
+- Experience with AWS environment, CI/CD pipelines, and Python (Python 3)
+
+Responsibilities:
+- Plan, create, and maintain data architectures 
+- Obtain data, formulate dataset processes, and store optimized data
+- Identify problems and inefficiencies and apply solutions
+- Create, maintain, and manage ETL/ELT pipelines
+- Create, maintain, and manage data transformations
+- Maintain/update documentation
+- Monitor data pipelines 
+- Create, maintain, and manage data pipeline schedules
+- Create, maintain, and manage data quality gates
+- Support AI/ML teams with optimizing feature engineering code
+- Maintain PCIS Reporting Database data lake with optimizations and maintenance

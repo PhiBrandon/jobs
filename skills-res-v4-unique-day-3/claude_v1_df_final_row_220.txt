@@ -1,0 +1,14 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 12+ years of experience as Lead
+- Primary focus on Glue, S3, Redshift, Lambda, PySpark, Spark
+- AWS Step function, NoSQL DB like Dynamo DB and AWS Data Migration Service
+- 2 years of relevant AWS experience with services mentioned above 
+- Experience in data security or governance and performance improvement
+
+Responsibilities:
+- Work with clients to define digital strategy and design/implement digital solutions 
+- Focus is on AWS services and tech stack
+
+https://www.indeed.com/rc/clk?jk=67ac721633aee65d&from=jasx&tk=1hd6h6bheiolg800&vjs=3

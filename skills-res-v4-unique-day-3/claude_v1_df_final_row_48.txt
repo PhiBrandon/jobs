@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL
+- ELT/ETL experience  
+- Azure generalist
+- Azure Synapse
+- Powershell/bash
+- Python
+
+Responsibilities:
+- Design and architect cloud-based solutions on the Azure platform, including infrastructure, networking, security, and application layers
+- Collaborate with clients and project managers to understand business requirements and translate them into technical solutions
+- Develop technical architecture and design documents that outline the proposed solution 
+- Evaluate existing systems and applications to determine if they can be migrated to the cloud
+- Develop and implement cloud automation scripts using PowerShell or other scripting tools
+- Configure and manage Azure services such as Virtual Machines, Storage Accounts, Virtual Networks, and App Services
+- Implement and manage Azure security measures
+- Monitor and optimize Azure resources to ensure maximum performance, availability, and scalability
+- Provide guidance and mentorship to other technical team members on Azure technologies 
+- Stay up-to-date with the latest cloud technologies and trends
+
+https://www.indeed.com/rc/clk?jk=88983c081a8a400b&from=jasx&tk=1hd1fru0j2f35000&vjs=3

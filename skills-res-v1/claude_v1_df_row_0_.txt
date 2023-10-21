@@ -1,0 +1,24 @@
+ Here are the extracted skills and responsibilities from the job description:
+
+Skills:
+- Deep understanding of PySpark using Databricks or AWS Glue or AWS EMR and cloud-based databases such as Snowflake
+- Proficiency in workflow management tools like Airflow 
+- Healthcare industry experience
+- Familiarity with healthcare data standards, terminologies, and regulations, such as HIPAA and GDPR
+- Strong Knowledge in Big Data Technologies, Databricks, AWS Services, and PySpark
+- Strong knowledge of SQL and NoSQL databases, as well as data modeling and schema design principles
+- Knowledge of container orchestration systems such as Kubernetes
+- AWS or Azure cloud services for data storage, processing, and analytics
+- Python programming
+
+Responsibilities:
+- Design, develop, and maintain scalable, reliable, and secure data pipelines to process large volumes of structured and unstructured healthcare data using PySpark and cloud-based databases
+- Collaborate with data architects, data scientists, and analysts to understand data requirements and implement solutions  
+- Leverage AWS or Azure cloud services for data storage, processing, and analytics, optimizing cost and performance
+- Utilize tools like Airflow for workflow management and Kubernetes for container orchestration
+- Develop and implement data ingestion, transformation, and validation processes to ensure data quality
+- Monitor and troubleshoot data pipelines, proactively identifying and resolving issues
+- Establish and enforce data engineering best practices, ensuring compliance with regulations
+- Continuously evaluate and adopt new tools, technologies, and frameworks to improve infrastructure
+- Mentor and guide junior data engineers, fostering collaboration and growth
+- Collaborate with cross-functional teams to align efforts with organizational goals and strategies

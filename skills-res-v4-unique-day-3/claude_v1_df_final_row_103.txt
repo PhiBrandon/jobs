@@ -1,0 +1,25 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Design & implementation experience with distributed applications 
+- Expertise in databases architectures and data pipeline development
+- Experience building data lakes in Redshift
+- Expertise in designing and implementing AWS-based solutions like Redshift, AWS Glue, Lambda, AWS Athena, AWS QuickSight
+- Proficiency in data analytics, data transformation (ETL/ELT), data integration, data warehousing, data lake architecture 
+- Experience extracting and ingesting data from various sources using AWS Glue, AWS AppFlow, Lambda etc. 
+- Experience with technologies like CDK, CloudFormation, Terraform
+- Knowledge of Finance, Mathematics, Statistics
+- AWS Certification
+
+Responsibilities:
+- Build and maintain the company's internal data lake
+- Establish connections from data lake to business intelligence tools  
+- Configure AWS services to support ETL and data warehousing
+- Build and maintain the process for syncing data lake with AWS QuickSight
+- Create efficiencies and improve data governance
+- Build processes to help teams analyze and forecast KPIs  
+- Create data visualizations and dashboards  
+- Collaborate across teams to understand data and reporting needs
+- Automate and simplify reporting and data analysis
+
+https://www.indeed.com/rc/clk?jk=60ee2be8d11b8703&from=jasx&tk=1hd1g5htglell801&vjs=3

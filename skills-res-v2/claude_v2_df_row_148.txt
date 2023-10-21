@@ -1,0 +1,16 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Azure Data Engineering
+- RDBMS
+- Airflow 
+- ADF
+- API
+- ETL Knowledge
+- Python
+- Communication
+
+Responsibilities:
+- Provide L1 support - job monitoring, re-run failed jobs, analyze reasons for failures, bug fixes
+- Strong Expertise in Azure Cloud
+- 8+ Years of Experience

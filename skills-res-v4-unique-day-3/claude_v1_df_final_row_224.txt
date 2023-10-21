@@ -1,0 +1,21 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Python 3
+- SQL  
+- PySpark
+- AWS (S3, Redshift, Glue)
+- GIT
+- Dataset analysis
+- ETL processes
+- Data lake architecture
+
+Responsibilities:
+- Perform dataset analysis and transformations using Python 3 and SQL
+- Work with AWS services for data storage, processing, and deployment
+- Use GIT for version control and effective code management
+- Implement ETL processes to prepare data for analysis
+- Develop and maintain a Data Lake architecture for efficient data storage and retrieval
+- Leverage PySpark to process large datasets and perform distributed computing tasks
+
+https://www.indeed.com/rc/clk?jk=11466c7b4a6cfcce&from=jasx&tk=1hd6h75sii6mo800&vjs=3

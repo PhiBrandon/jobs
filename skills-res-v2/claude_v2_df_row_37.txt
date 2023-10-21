@@ -1,0 +1,22 @@
+ Here are some of the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- Azure Data Factory, Azure Data Lake, Azure Data Warehouse, Power BI
+- ETL processes, data pipelines, data warehousing
+- C# and Python programming 
+- SQL Server Database, Azure SQL
+- Data modeling, data lakes
+- GitHub, Visual Studio, DevOps
+
+Responsibilities:
+
+- Build data pipelines, ETL processes, data warehouse
+- Design and develop data pipelines to extract, transform and load data
+- Optimize data processes for performance and reliability  
+- Implement data validation, testing, QA processes
+- Work with structured and unstructured datasets
+- Develop documentation for data pipelines and dictionaries
+- Monitor and troubleshoot data pipeline issues
+- Collaborate with stakeholders to understand data requirements
+- Support applications and projects as needed

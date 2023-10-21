@@ -1,0 +1,26 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years experience as a Site Reliability Engineer, Infrastructure Engineer, or similar roles focusing on data infrastructure and security. 
+- Strong expertise in cloud technologies, particularly AWS. 
+- Proficiency in Infrastructure as Code tools like Terraform. 
+- Experience with containerization and orchestration tools like Kubernetes.
+- Familiarity with CI/CD pipelines and related tools.
+- Strong problem solving and troubleshooting skills.
+- Experience with data technologies like databases, data warehousing, data lakes.
+
+Responsibilities:
+- Architect and implement self-service data infrastructure solutions.  
+- Design, provision, and manage infrastructure using tools like Terraform.
+- Collaborate with teams to integrate data services.
+- Develop automation scripts using tools like bash.  
+- Manage CI/CD pipelines for consistent deployments.
+- Implement robust monitoring and alerting solutions.
+- Manage user authentication and authorization.
+- Implement role-based access control.
+- Manage real-time streaming data architecture using technologies like Kafka.
+- Ensure timely processing of streaming data.
+- Implement containerization using Kubernetes.
+- Handle on-call rotations and incident response.
+- Document architecture and processes.
+- Enable ML experimentation and MLOps flows.

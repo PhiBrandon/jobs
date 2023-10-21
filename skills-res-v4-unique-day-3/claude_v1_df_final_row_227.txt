@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience with data warehousing, methodologies, modeling techniques, design patterns, and technologies.  
+- Experience in writing advanced SQL (DML & DDL), including Stored Procedures, Indexes, user defined functions, windows functions, correlated subqueries and CTE's, and related data query and management technology
+- Coding ability in R, Python, and Shell Scripting to build and deploy Pipelines
+- Working knowledge of Git, or similar collaborative code management software
+- Experience with data integration tools such as FiveTran, DBT, Informatica, Matillion, or similar ETL/ELT tools
+- Experience with Snowflake’s data platform
+- Healthcare data acquisition, ingestion, processing, and analytics knowledge 
+
+Responsibilities:
+- Develop and maintain data sources within Crossover’s enterprise data warehouse
+- Assist with recommendations for data architecture, data storage, data integration, data quality, and data models
+- Contribute to design sessions based on technical requirements, and build data models 
+- Assist with ETL, ELT, and reverse-ETL design and development initiatives
+- Create and maintain data model standards
+- Migrate Enterprise Workloads to Snowflake using industry standard methodologies
+- Design, deliver cloud native, hybrid, and multi-cloud Workloads
+- Document system design, architecture and changes
+- Design and support production job schedules, monitoring, and performance tuning
+- Build automated, scalable, and sustainable solutions while minimizing defects
+- Assist stakeholders with data-related technical issues
+
+https://www.indeed.com/rc/clk?jk=d7a6a168405310c5&from=jasx&tk=1hd6h75sii6mo800&vjs=3

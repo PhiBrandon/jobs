@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- Experience with data engineering and ETL processes
+- Knowledge of cloud data analytics platforms like Databricks 
+- Programming skills in Python, SQL, PowerShell
+- Experience with data transformation techniques
+- Data modeling and database design skills 
+- Data analysis skills (descriptive, diagnostic, predictive, prescriptive)
+- Performance analysis and tuning skills
+- Experience with data warehouse and big data solutions 
+- Experience with machine learning models
+
+Responsibilities:
+
+- Serve as a technical consultant to implement analytics solutions and produce ETL scripts
+- Use PowerBI/dashboards to support problem identification and resolution
+- Develop and maintain documentation on design and operational aspects of the platform
+- Assist in troubleshooting issues and resolving them
+- Build awareness and drive adoption of modern technologies
+- Effectively communicate with and influence stakeholders across the organization
+- Operate as a trusted advisor for technology, providing guidance on use cases and implementation

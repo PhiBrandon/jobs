@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Expertise in data center site operations including equipment installation, power, cooling, cabling, etc.  
+- Knowledge of data center design and optimization strategies
+- Mechanical engineering background
+- Ability to create technical drawings and training materials
+- Excellent verbal and written communication skills
+
+Responsibilities:
+- Provide consulting to customers on data center site design, preparation, and operations
+- Create best practices, documentation, and training materials on data center site operations
+- Conduct site surveys and oversee physical installation and commissioning of equipment
+- Serve as subject matter expert on data center site operations within Arista's services team
+- Interface with Arista product team and partners on customer site requirements
+- Deliver training to customers and partners on best practices for Arista data center installations

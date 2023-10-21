@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience as an HR Data Engineer or similar role focusing on HR systems, data warehousing, and data migration
+- Knowledge of HR data management, data integration techniques, ETL processes, and data warehousing 
+- Expertise working with HR systems like Workday
+- Proficiency with SQL and scripting languages for data manipulation
+- Familiarity with data governance, privacy regulations, and security
+- Experience designing and implementing data warehousing solutions
+- Strong analytical and problem-solving abilities
+- Effective communication and collaboration skills
+- Project management experience
+
+Responsibilities:
+- Lead the data migration strategy and process to migrate from existing HR systems to Workday
+- Establish an HR Data Mart to centralize HR data and enable advanced analytics
+- Design, develop, and maintain ETL processes for data migration  
+- Implement rigorous data validation and testing
+- Define data mapping rules and transform data for migration
+- Ensure compliance with data governance, security, and regulations
+- Document processes and provide training
+- Lead the data migration project and Data Mart implementation
+- Identify opportunities to improve processes and optimize the HR data ecosystem
+
+https://www.indeed.com/rc/clk?jk=2dbc3a3fcff92774&from=jasx&tk=1hd1fvosi2gtk000&vjs=3

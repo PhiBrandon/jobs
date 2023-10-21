@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python
+- SQL databases like PostgreSQL 
+- Big data technologies like Databricks and Spark
+- AWS for building cloud resident data pipelines
+- Agile software tools like Jira 
+- Mature DevOps practices using GIT, Docker, and CI servers like Jenkins
+
+Responsibilities:
+- Design, develop and maintain data pipelines, infrastructure, and systems 
+- Translate business problems into technical solutions
+- Develop and implement data engineering strategies and best practices
+- Monitor and troubleshoot data pipelines to ensure data quality and availability
+- Conduct research on industry trends and evaluate new technologies
+- Build and maintain data lakes
+- Manage the software development lifecycle and DevOps aspects
+- Collaborate with data scientists to understand data requirements
+- Create new data validation methods and analysis tools

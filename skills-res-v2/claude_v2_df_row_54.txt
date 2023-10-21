@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Software development experience with Java or similar object-oriented languages 
+- Expertise with relational databases like Postgres and non-relational databases like MongoDB
+- Experience building scalable systems and architectures
+- Database performance tuning
+- AWS experience
+
+Responsibilities:
+- Design and evolve the query layer architecture 
+- Learn and contribute to all aspects of the data platform
+- Mentor junior engineers and maintain engineering standards
+- Write robust, scalable, and tested software for production 
+- Create and improve tooling and processes to enable productivity
+- Contribute to growth by being a brand ambassador and hiring great talent

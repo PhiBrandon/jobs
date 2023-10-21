@@ -1,0 +1,25 @@
+ Based on the job description, here are the key skills and responsibilities I extracted for the Data Engineer role:
+
+Skills:
+
+- SQL and relational databases (PostgreSQL, MySQL)
+- Data modeling techniques and tools 
+- Designing and optimizing data pipelines using ETL/ELT (Informatica, Spark, Airflow, AWS Glue)
+- Data warehousing 
+- Cloud data platforms (Snowflake, AWS, GCP, Azure)
+- Version control (Git) 
+- Agile software development
+- Java 8, REST APIs, Spring Boot
+- Alteryx
+- UNIX scripting
+
+Responsibilities:
+
+- Develop, maintain and optimize data pipelines 
+- Design and implement scalable data models
+- Collaborate with teams to understand data needs and deliver solutions 
+- Identify and resolve data quality issues
+- Continuously monitor and improve data pipelines
+- Provide technical guidance and mentorship to junior team members
+- Work with data scientists, analysts and engineers to integrate data solutions
+- Stay updated on emerging data engineering technologies and best practices

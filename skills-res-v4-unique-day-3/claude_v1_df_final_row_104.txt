@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 2+ years of professional experience in data engineering environments
+- 2+ years of experience with SQL and programming in Python, Java, or Scala  
+- Experience with data pipelines processing larger than 10TB of data
+- Experience working in cloud environments like GCP or AWS
+- Expert debugging skills and enthusiasm for automation
+- Comfortable with development tools like Git and Confluence 
+
+Responsibilities:
+- Develop high-quality reliable data pipelines that convert data streams into valuable information
+- Design, implement and deploy both real time and batch data processing pipelines  
+- Develop tools to monitor, debug, analyze and operate data infrastructure
+- Design and implement data technologies that can scale for hundreds of millions of users
+- Collaborate with product and business teams to deliver new features
+
+https://www.indeed.com/rc/clk?jk=afe7bc4e3d93a349&from=jasx&tk=1hd1g5htglell801&vjs=3

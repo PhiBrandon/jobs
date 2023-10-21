@@ -1,0 +1,28 @@
+ Here are the key skills and responsibilities extracted from the Twin Health job description:
+
+Skills:
+- Data warehousing and business intelligence solutions 
+- Data modeling
+- Data acquisition and integration
+- Building data pipelines using Python, PySpark or Scala
+- SQL scripting and writing complex queries
+- AWS, AWS Athena, Glue, Data Pipeline
+- Salesforce Health Cloud, Marketing Cloud, NetSuite schemas
+- ETL/ELT processes with complex data transformations
+- Problem solving and troubleshooting
+- Communication skills
+
+Responsibilities:  
+- Design, develop and manage the data warehouse
+- Design and implement data flows and models
+- Develop data pipelines and integrate data sources
+- Automate and optimize data processing workloads
+- Translate business needs into data models
+- Create data models for reporting
+- Ensure data quality and governance
+- Respond to ad hoc reporting requests
+- Collaborate with stakeholders on technical designs
+- Analyze query performance and tuning
+- Work in an agile environment
+
+https://www.indeed.com/rc/clk?jk=3b61441b9b1ff9fa&from=jasx&tk=1hd6h75sii6mo800&vjs=3

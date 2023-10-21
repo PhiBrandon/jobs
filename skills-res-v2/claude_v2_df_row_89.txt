@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities I extracted from the job description:
+
+Skills:
+- Scala
+- Spark 
+- Hadoop
+- Python
+- AWS EMR
+- Airflow
+- Jenkins
+- AWS Redshift
+- Teradata
+- Git/GitHub
+- Confluence
+
+Responsibilities:
+- Write complex unit and integration tests for data processing code
+- Work with DevOps engineers on CI/CD and IaC  
+- Read specs and translate them into test designs and test automation
+- Perform code reviews and develop processes for improving code quality

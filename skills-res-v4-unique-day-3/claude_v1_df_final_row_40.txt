@@ -1,0 +1,25 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years' experience with network technologies including network design and deployments of Campus and Data Center networks. Knowledge of leaf-spine architectures highly desired.  
+- 5+ Years’ minimum experience with Cisco-based technologies focusing on infrastructure and voice
+- Expert knowledge in Ethernet, VLANs, VxLAN, EVPN, IP Routing, TCP/IP, OSPF, BGP, eBGP, Multicast, QoS
+- Background in Perl, Python, Scripting for creating network automation
+- Excellent customer service and verbal communication skills
+- Excellent written skills and the ability to do related documentation and ticket tracking
+
+Responsibilities:
+- Provide advanced post-sales support for a large Data Center networking deployment for a large customer
+- Review customer network designs for an EVPN, VxLAN, leaf-spine architecture and make recommendations for deployment  
+- Migrate or interconnect to/from Cisco, Juniper and other vendors to Arista infrastructure
+- Assist with implementation and change controls
+- Assist with proof of concepts (POC) and in-depth testing to validate design scenario
+- Provide interface to TAC and internal development teams and the customer
+- Designing Network solutions utilizing extensive experience with routing protocols including advanced BGP design as well as extensive EVPN/VXLAN experience.
+- Establish and maintaining strong relationships with key partners
+- Continue training to maintain expertise
+- Meet Service Level Agreements (SLAs) for sales and clients
+- Maintain professional relationships with teammates, partners, and clients
+- Some travel may be required within assigned territory
+
+https://www.indeed.com/rc/clk?jk=019fe648ac2dfa54&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

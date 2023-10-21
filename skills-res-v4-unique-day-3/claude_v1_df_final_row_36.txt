@@ -1,0 +1,22 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 7+ years of relevant experience in data engineering, especially in data pipeline cleanup and ETL processes
+- Direct experience with Customer Data Platforms (CDP) such as Segment, Rudderstack, or Treasure Data  
+- Mastery of SQL with hands-on experience in BigQuery and MySQL
+- Proficient in Google Cloud Platform services, particularly BigQuery and Google Analytics 4
+- Experience with modern programming languages like Python, R, JavaScript, and PHP
+- Exceptional problem-solving and communication skills
+- Proven expertise in data schemas and data cleaning principles
+
+Responsibilities:
+- Diagnose and Resolve Issues: Troubleshoot and fix data issues within existing pipeline
+- ETL Development: Design, implement, and maintain ETL processes for BigQuery and MySQL  
+- Data Cleansing: Develop and implement data validation and transformation solutions
+- Data Integration: Utilize Segment for optimized data collection, integration, and management
+- Stakeholder Collaboration: Work closely with stakeholders to tackle data issues
+- Teamwork: Collaborate with engineering team to refine data models and architectures
+- SQL Optimization: Write and optimize SQL queries for performance 
+- Documentation: Maintain documentation for all data processes and updates
+
+https://www.indeed.com/rc/clk?jk=0213c2c18b4e7a68&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

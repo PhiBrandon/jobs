@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL Development 
+- Python or PowerShell Development
+- Creation and execution of unit tests for SQL code
+- Data model and data warehousing concepts
+- Snowflake
+- Git source control  
+- Build and release pipeline development using Azure DevOps or GitHub Enterprise
+- ETL and data engineering work in a data warehouse environment
+- Implementing software development solutions utilizing Agile Methodology
+
+Responsibilities:
+- Design, implementation, and testing of data transformation code using SQL
+- Develop process and scripts using a language such as Python or PowerShell to support data and file operations
+- Create and maintain a security model to secure access to a database
+- Implement build and release pipelines to automate instantiation of cloud services, run schema/DDL, etc.
+
+https://www.indeed.com/rc/clk?jk=c7bc15ce61ba752a&from=jasx&tk=1hd95mfqo28gs002&vjs=3

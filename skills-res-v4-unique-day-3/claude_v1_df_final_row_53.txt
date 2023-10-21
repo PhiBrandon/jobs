@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years hands-on software engineering experience
+- Advanced CS fundamentals including data structures, algorithms, and distributed systems 
+- Good understanding of database fundamentals
+- Background in database tooling, database internals, schema design, or building components for large scale data processing systems
+- Systems programming skills with fluency in Java, JavaScript or Python
+- Track record of identifying and implementing creative solutions with data from multiple sources
+
+Responsibilities:
+- Create a framework that enables development and testing before production
+- Design a visualization framework to visualize queries across environments 
+- Develop a service to automatically find and resolve data corruption
+- Responsible for creating a testing platform to find correctness and reliability issues
+- Create an automated system to safely orchestrate feature rollouts in production
+- Identify infrastructure gaps and design/implement automated solutions
+- Contribute to design, development and maintenance of existing projects  
+- Help ensure effective data governance and security
+
+https://www.indeed.com/rc/clk?jk=bc15c50a09fd93ff&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+- Implement changes to legacy NCIC system in FBI's CJIS division
+- Data profiling, design, management, and test data generation 
+- 12+ years data management/database administration experience
+- 8+ years data engineering/analysis experience 
+- Top Secret security clearance required
+- Experience with CJIS systems and data
+- AWS/Azure cloud experience preferred
+- Agile development familiarity preferred  
+- SAFe experience preferred
+- Data visualization and reporting experience
+- Designing data architecture and working with stakeholders
+- Analyzing large data sets
+- Optimization modeling familiarity 
+- Full-time remote role with $100k-$140k salary

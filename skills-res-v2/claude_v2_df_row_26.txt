@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong SQL proficiency and Snowflake expertise (preferred)
+- Data modeling skills
+- Proficiency with data visualization tools like Tableau, Power BI, Excel
+- Python or other programming language experience (nice to have) 
+- Analytical and problem-solving abilities
+- Healthcare domain expertise and familiarity with data models (preferred)
+- Ability to translate business needs into analysis requirements 
+- Intellectual curiosity and ability to explore beyond immediate problems
+- Excellent communication skills for conveying insights
+- Eagerness to learn new technologies and methodologies
+
+Responsibilities:
+- Collaborating with cross-functional teams like UX, Product, Clinicians 
+- Leveraging data to test hypotheses and provide insights
+- Generating insights to improve patient outcomes and reduce medical waste
+- Creating intuitive dashboards and visualizations 
+- Taking ownership over analytics processes and insights
+- Keeping user needs in focus
+- Learning and adapting quickly in a startup environment
+- "Rolling up sleeves" and taking initiative

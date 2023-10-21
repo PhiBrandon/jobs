@@ -1,0 +1,28 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Apache Spark
+- PySpark  
+- Cloud databases (Snowflake, AWS, Azure)
+- Data engineering  
+- SQL and NoSQL databases
+- Data modeling
+- Big data technologies
+- Workflow tools (Airflow, Kubernetes)
+- Programming languages (Python)
+- AWS/Azure cloud services
+- Databricks
+- Healthcare data standards (HIPAA, GDPR)
+
+Responsibilities:
+- Design, develop and maintain scalable data pipelines 
+- Process large volumes of structured and unstructured data
+- Collaborate with data teams to understand requirements
+- Leverage cloud services to optimize cost and performance
+- Ensure data quality, consistency and reliability
+- Monitor and troubleshoot pipelines to minimize downtime
+- Enforce data engineering best practices and compliance
+- Mentor junior data engineers  
+- Align work with organizational goals and strategies
+
+https://www.indeed.com/rc/clk?jk=2865c3b2b6437bd7&from=jasx&tk=1hd1fm1o6iman800&vjs=3

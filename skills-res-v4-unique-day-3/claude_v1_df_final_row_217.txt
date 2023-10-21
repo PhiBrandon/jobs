@@ -1,0 +1,18 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 2+ years of experience with scalable ETL workflows/development, extract, cleanse, and process disparate data sources
+- Experience with cleaning and transforming data utilizing Python and/or SQL, specifically complex SQL queries 
+- Familiarity with acquiring data from disparate data sources using APIs and SQL
+- Ability to develop scripts and programs for converting various types of data into usable formats
+
+Responsibilities:
+- Support defining a comprehensive future-state ADE data model by informing the total number of unique data elements  
+- Assess the ability to accelerate the data integration process using new data tools
+- Extract, cleanse, and process disparate data sources
+- Clean and transform data utilizing Python and/or SQL, specifically complex SQL queries
+- Acquire data from disparate data sources using APIs and SQL
+- Develop scripts and programs for converting various types of data into usable formats
+- Support project team to scale, monitor, and operate data platforms
+
+https://www.indeed.com/rc/clk?jk=45a231ffe43c577a&from=jasx&tk=1hd6h6bheiolg800&vjs=3

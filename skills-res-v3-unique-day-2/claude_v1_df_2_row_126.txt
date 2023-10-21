@@ -1,0 +1,29 @@
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- Extensive knowledge of data principles, patterns, processes, and practices  
+- Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy
+- Experience with SQL database design, data modeling
+- Demonstrated written and oral communication skills
+- Basic understanding of network and data security architecture
+- Strong knowledge of industry trends
+- Knowledge in a minimum of two of the following technical disciplines: data warehousing, data management, analytics development, data science, application programming interfaces (APIs), data integration, cloud, servers and storage, and database management
+- Experience building cost effective and performance driven solutions using elastic architectures in Microsoft Azure leveraging Cosmos, Azure Data Factory, Azure Synapse and Databricks Platforms
+- Experience with SQL and NoSQL applications on Big Data Platforms
+- Experience with SSAS Tabular models, Power BI, Dataflows and DAX
+- Experience with Azure Data Platform stack: Azure Data Lake, Azure Synapse, Data Factory and Databricks
+- Experience with Python, Spark and SQL  
+- Any experience with streaming technologies like Kafka, IBM MQ and EventHub
+- Experience with Google cloud Platform is a plus
+
+Responsibilities:
+- Define high-level migration plans to address gaps between current and future states
+- Present opportunities with cost/benefit analyses to leadership 
+- Lead analysis of technology environment to detect deficiencies and recommend solutions
+- Acquire data from primary/secondary sources and maintain databases
+- Promote reuse of data assets including data catalog management
+- Analyze and organize raw data
+- Build data systems and pipelines
+- Evaluate business needs and objectives
+- Interpret trends and patterns 
+- Conduct complex data analysis and report results

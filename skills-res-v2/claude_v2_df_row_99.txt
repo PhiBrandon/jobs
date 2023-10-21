@@ -1,0 +1,15 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Expertise with FHIR standards and resource types
+- Proficient in Java programming, with some Python and Bash scripting
+- Strong database design and data modeling skills, especially in healthcare context
+- Knowledge of healthcare data privacy regulations like HIPAA
+
+Responsibilities:  
+- Implement FHIR standards within a Medicare data warehouse
+- Ingest and transform healthcare data into FHIR format
+- Create and maintain FHIR data models and mappings  
+- Ensure accuracy, efficiency and security of FHIR data integration
+- Maintain documentation of FHIR implementations and data flows
+- Stay up-to-date on evolving FHIR standards and best practices

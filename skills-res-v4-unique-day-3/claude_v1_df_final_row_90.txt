@@ -1,0 +1,17 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Azure Data Factory 
+- Microsoft Dataverse
+- ETL processes
+- Data warehousing concepts
+- Power BI
+
+Responsibilities:
+- Design, develop, and deploy data pipelines using Azure Data Factory
+- Integrate Microsoft Dataverse to streamline data flow and improve operational efficiency
+- Work closely with healthcare clients to understand their data requirements and provide solutions
+- Ensure data quality and compliance with healthcare regulations
+- Collaborate with cross-functional teams to deliver on project milestones
+
+https://www.indeed.com/rc/clk?jk=2d5efc02e5091f2d&from=jasx&tk=1hd1g2n5fjm7b800&vjs=3

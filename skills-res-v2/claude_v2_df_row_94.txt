@@ -1,0 +1,17 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Software engineering experience 
+- Computer science fundamentals including data structures, algorithms, and distributed systems
+- Database fundamentals and tooling 
+- Systems programming in Java, JavaScript or Python
+
+Responsibilities:
+- Create a framework to understand impact of features before enabling in production
+- Design visualization framework for queries in all environments 
+- Develop service to find and resolve data corruption 
+- Create testing platform to find correctness and reliability issues
+- Automate feature rollout process at scale
+- Identify and implement solutions for infrastructure gaps
+- Contribute to design, development and maintenance of existing projects
+- Manage data governance and security

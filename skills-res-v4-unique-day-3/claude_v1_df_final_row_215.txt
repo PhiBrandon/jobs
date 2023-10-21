@@ -1,0 +1,28 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Snowflake
+- SQL  
+- Data Modelling
+- ETL tools (SAP BODS, Informatica)
+- Statistical analysis software packages (SAS, SPSS, etc.)
+- Business intelligence and analytics platforms
+- Statistical programming 
+- Programming languages such as Scala, Python
+- Cloud Data technologies (Snowflake, AWS or GCP)
+
+Responsibilities:
+- Apply advanced statistical data modeling techniques to analyze large datasets
+- Design, develop and deploy algorithms to support business decision making
+- Manage major/complex projects and coach team members
+- Design data solutions including modeling, ETL, documentation, diagrams
+- Lead development and execution of domain-specific analytics solutions  
+- Work cross-functionally with stakeholders
+- People management including hiring, performance management, promotions
+- Optimize data architecture, processing, and analytics
+- Analyze data patterns and suggest improvements
+- Adhere to development processes and rapid prototyping
+- Create centralized data warehouse support processes and train team
+- Technical direction and coaching for data and analytics teams
+
+https://www.indeed.com/rc/clk?jk=c323d27b302a6ce8&from=jasx&tk=1hd6h6bheiolg800&vjs=3

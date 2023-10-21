@@ -1,0 +1,23 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- 10+ years designing complex data models for OLTP and OLAP 
+- 10+ years designing and implementing large-scale data warehouses
+- 5+ years experience with Azure Data Lake including performance tuning
+- 5+ years experience with multi-tenant data warehouses
+- 5+ years experience with data governance
+- Experience with Change Data Capture, Azure Databricks, Delta Lake, etc. 
+- Experience with data lake storage formats
+- Experience with slowly changing dimensions
+- Experience with data orchestration tools like Airflow
+- Experience with Microsoft SQL and Power BI
+
+Responsibilities:
+- Design, implement, and deliver large-scale, multi-tenant, near real-time data warehouses
+- Design complex data models for both transactional and analytical use cases
+- Design and implement large-scale data warehouses at the architecture level
+- Work with Azure Data Lake and employ performance tuning techniques
+- Handle data governance requirements
+- Work with change data capture solutions for structured and unstructured data 
+- Be well-versed in Azure Databricks technologies
+- Implement data integration through APIs, web services, etc.

@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- In-depth knowledge of FHIR (Fast Healthcare Interoperability Resources) standards and resource types
+- Expert-level Java programming abilities, with some familiarity in Python and Bash scripts  
+- Strong data modeling and database design skills for healthcare contexts
+- Proficiency in designing and implementing data ingestion and transformation processes
+- Experience identifying and resolving issues related to FHIR data integration, data quality, and performance
+- Commitment to staying updated on healthcare industry best practices and evolving standards
+
+Responsibilities:
+- Lead implementation of FHIR standards within a Medicare data warehouse
+- Ingest healthcare data into FHIR resources through ETL processes 
+- Create and maintain data mappings to transform data formats into FHIR-compliant data
+- Design and maintain the FHIR-based data model to meet API system needs
+- Implement security measures and access controls to protect sensitive healthcare data
+- Maintain documentation for FHIR implementations, data flows, and transformation processes
+
+https://www.indeed.com/rc/clk?jk=b151e97f7474d1c8&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

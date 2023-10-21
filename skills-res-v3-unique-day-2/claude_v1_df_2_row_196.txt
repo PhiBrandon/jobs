@@ -1,0 +1,26 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3+ years of QA experience with testing methodologies, tools, and best practices
+- Experience with automation testing tools 
+- Experience with Test Management platforms like TestRail
+- Experience with AWS cloud services like S3, Lambda
+- Experience with Linux command line tools
+- Experience using Git for version control 
+- Proficient in defect tracking and root cause analysis with tools like Jira
+- Strong communication, organization, and problem solving skills
+- Experience with data testing
+- Experience with SQL and NoSQL databases like MongoDB  
+- Experience with Python or other scripting languages
+- Experience with Pandas for Python
+- Experience with Docker
+- Experience with deployment pipelines
+
+Responsibilities:
+- Develop automated tests for web and data applications
+- Extend and maintain existing test frameworks
+- Plan, document, review and execute tests using appropriate methodology 
+- Collaborate on requirements and test plan creation
+- Support agile data pipeline development with frequent production deployments
+- Work closely with teams to define testing strategies
+- Advocate for changes to improve user experience

@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python, Java, or Scala programming
+- SQL (Postgres) and NoSQL (MongoDB, Cassandra, Redis) databases 
+- Search engines like ElasticSearch
+- Time-series databases like InfluxDB, Druid, Prometheus
+- Data structures, algorithms, and distributed systems
+
+Responsibilities:
+- Take on progressive roles and learn more about design and architecture
+- Collaborate across teams including data engineering, front end, product management, and DevOps  
+- Take ownership of challenging problems
+- Communicate effectively through documentation and explaining thought processes
+- Work comfortably in an agile environment
+- Remain curious about technology and the industry as a constant learner
+
+https://www.indeed.com/rc/clk?jk=6c954cb5fbc38370&from=jasx&tk=1hd6hm9p3irpg800&vjs=3

@@ -1,0 +1,27 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data engineering 
+- Building and maintaining data lakes
+- Establishing data connections and pipelines
+- AWS services (Redshift, Glue, Lambda, Athena, Quicksight)
+- Data analytics, transformation, integration, warehousing
+- Data lake architecture
+- Data visualization and dashboarding 
+- Finance, mathematics, statistics
+- AWS certifications
+
+Responsibilities:
+- Build and maintain company's internal data lake
+- Establish data connections to BI tools like Quicksight
+- Configure AWS services for ETL and data warehousing 
+- Sync data lake with Quicksight
+- Create efficiencies and improve data governance
+- Build processes to help teams measure and forecast KPIs
+- Create data visualizations and dashboards 
+- Evaluate and adapt complex techniques for data warehousing
+- Translate data into insightful dashboards
+- Design and implement AWS-based solutions
+- Extract and ingest data from various sources
+- Work across departments to understand needs
+- Manage multiple projects and stakeholder requests

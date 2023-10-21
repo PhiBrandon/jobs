@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3+ years of experience writing and deploying high-quality production code
+- Experience architecting and improving system performance on cloud data warehouses  
+- Experience writing and managing complex SQL queries
+- Have made significant and meaningful development contributions to team projects involving distributed systems operating at scale
+- Excitement to learn and improve, comfort with ambiguity
+- Communication skills to share highly technical information with technical and non-technical teammates
+- Deeply inquisitive. Always asking why we do things and how we can do them better.
+
+Responsibilities:
+- Work collaboratively with a small team of engineers to reinvent a system already processing petabytes of data every day
+- Play a key role in transforming Activations Back End systems to being cloud-agnostic, multi-regional, and fundamentally more extensible  
+- Building new pipelines and products with SQL on cloud data warehouses
+- Help shape the future of our big data technology platform
+- Develop our data processing pipelines using technology such as Spark, Dataproc, and Kubernetes
+- Research and experiment strategies to optimize the performance and efficiency of petabytes of data processing
+- Provide operational support for our team’s production systems
+- Share the remarkable work through tech talks, blog posts, whitepapers, and conference participation.
+- Learn and grow in your role and career.
+
+https://www.indeed.com/rc/clk?jk=97f5548d6f257ea6&from=jasx&tk=1hd440jnukecp800&vjs=3

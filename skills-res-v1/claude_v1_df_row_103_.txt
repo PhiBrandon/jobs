@@ -1,0 +1,20 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- GCP
+- Data Warehousing 
+- GIT
+- Airflow 2 years
+- Python 3 Years
+- SQL
+- Spark 3 Years 
+- ETL
+- Informatica 5 years (preferred) 
+- SQL 6 years (preferred)
+- Data warehouse 7 years (preferred)
+
+Responsibilities: 
+- 9+ years of overall experience is mandatory
+- Strong proficiency in core technologies including Airflow, Python, SQL and Spark is required
+- Familiarity with mandatory technologies including GCP, Data Warehousing and GIT is required
+- Contract position working remotely for 40 hours per week

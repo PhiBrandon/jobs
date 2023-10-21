@@ -1,0 +1,15 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 3+ Years Experience in Data Engineering
+- ETL pipeline experience  
+- Experience using SQL, Python, Data Tools and AWS
+- Knowledge of Postgres, Go and C++ is beneficial
+- Degree in Computer Science
+- Great Communicator and team player
+
+Responsibilities:
+- Develop and maintain data pipelines, including ETL
+- Automate tasks, optimize data delivery, and build scalable data infrastructure using SQL and AWS
+- Construct analytics tools for actionable insights by collaborating with cross-functional teams
+- Ensure data security, develop data tools for analytics, and enhance data system functionality

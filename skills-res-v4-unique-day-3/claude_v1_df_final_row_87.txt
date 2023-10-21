@@ -1,0 +1,20 @@
+ Here are some key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python
+- Spark 
+- SQL
+- AWS services like S3, RDS, EMR, Glue, Athena
+- Airflow
+- Tableau
+
+Responsibilities:
+- Write ETL pipelines using Spark, Python and SQL to ingest and process billions of location records daily
+- Implement ETL pipelines in AWS EMR and Airflow  
+- Write complex SQL queries including geospatial queries
+- Build dashboards in Tableau to visualize and report on data
+- Develop data acquisition and curation scripts using Python, Spark and Postgis
+- Support customer data requests and analyses
+- Maintain data integration pipelines and scalable tools to support customers
+
+https://www.indeed.com/rc/clk?jk=00fe614f1245546c&from=jasx&tk=1hd1g2npm2f32000&vjs=3

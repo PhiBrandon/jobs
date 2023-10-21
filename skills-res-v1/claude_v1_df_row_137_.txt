@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong foundations in software engineering
+- Deep hands-on experience in complex system design and data pipeline and architectures, scale and performance, tuning
+- Experience with Docker and Kubernetes 
+- Experience with public/private cloud environments like OpenShift, Kubernetes, AWS, GCP
+- Experience in security engineering, cryptography, authentication protocols
+- Experience with CI/CD pipelines and tools like Git, Jenkins, CircleCI, SonarQube 
+- Experience with Terraform
+- Problem solving abilities
+- Excellent communication skills
+- Knowledge of monitoring tools like Grafana, Prometheus
+- Certifications in CISSP, CISM, CISA desired
+
+Responsibilities:
+- Provide technical and thought leadership
+- Collaborate with teams to solve problems  
+- Develop technical strategies for IaaS engineering domain
+- Own accountability for quality, usability, performance of solutions
+- Mentor and coach other engineers
+- Share best practices and improve processes
+- Analyze costs and support resource requirements
+- Determine operational processes and measure outcomes
+- Take on-call and operations support

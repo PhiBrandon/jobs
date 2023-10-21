@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Excellent understanding of computer science fundamentals, data structures and algorithms
+- Strong object-oriented software design and patterns knowledge 
+- Strong knowledge of Restful API, relational and NoSql databases
+- Writing clean, simple, and tested code
+- Java, Oracle DB, NoSQL, NodeJS, Spring framework
+
+Responsibilities:
+- Design complex, scalable distributed systems within eBay's data infrastructure and media platform
+- Launch critical projects & lead all phases of the software development lifecycle
+- Develop innovative solutions that meet market needs 
+- Create testing harness/infrastructure/test cases/automation  
+- Estimate engineering effort, mitigate project risks, plan implementation, and rollout system changes
+- Lead product initiatives, recommend improvements, mentor junior team members
+- Apply technical skills to develop solutions that meet requirements
+- Provide scope on proposed features and bug fixes
+
+https://www.indeed.com/rc/clk?jk=dbbbf7562df97384&from=jasx&tk=1hd95ff4chbht800&vjs=3

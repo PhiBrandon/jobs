@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Expert in geospatial platforms and programming languages like Python
+- Proficient with data management systems like ArcGIS, GEOJSON 
+- Experience with databases and SQL
+- Strong analytical skills and attention to detail
+- Critical thinker with problem solving abilities
+- Project management skills
+- Relationship building and communication skills
+- Time management and ability to work independently
+
+Responsibilities:
+- Lead geospatial data management 
+- Design processes to acquire, organize, analyze and display geospatial data
+- Collect and transfer field boundaries and shapefiles 
+- Clean up and normalize geospatial data
+- Validate and compare map data from different sources
+- Manage remote sensing data acquisition and analysis
+- Integrate remote sensing data with GIS databases
+- Identify trends and insights from geospatial data 
+- Write testable and modular code
+- Enhance flow and analysis of geospatial data
+- Communicate progress and obstacles
+- Lead technical geospatial operations using agile principles

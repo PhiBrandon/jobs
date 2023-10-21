@@ -1,0 +1,14 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 4+ years experience with Hive, HQL/PySpark
+- Experience with Python
+- Knowledge of Hadoop ecosystem including HDFS, Spark, Hive, Sqoop
+- 1 year experience with GCP services like Big Query, Airflow DAG, Dataflow, Beam
+
+Responsibilities:  
+- Extract and create data pipeline workflows using Bigdata tools like Hive, HQL/PySpark
+- Analyze large datasets from multiple sources and perform data validation
+- Write optimized SQL/HQL queries 
+- Build data migration plans with stakeholders
+- Problem-solve and communicate analytical insights

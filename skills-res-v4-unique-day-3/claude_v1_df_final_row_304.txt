@@ -1,0 +1,20 @@
+ Based on the job description, here are the key skills and responsibilities for the Data Engineer role:
+
+Skills:
+- Experience with multi-modal databases like PostgreSQL, graph databases, AWS services like S3
+- Strong SQL and data analysis skills  
+- Experience with ETL pipelines for structured and unstructured data
+- Experience with AWS ecosystem, tools like Redshift, Glue
+- Experience with ML Ops and working with data science teams
+- Experience with Graph databases like Neo4j
+
+Responsibilities:
+- Create and maintain a scalable ETL data pipeline for ingesting and transforming multiple large datasets
+- Create and maintain a multi-modal data storage system on AWS  
+- Work with data science team to enable ML Ops
+- Query and analyze data using SQL
+- Help development and data science teams with data processing and integration
+- Clearly document processes, methodologies and tools
+- Manage technical projects and deliverables
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D6GBkCh8qDOKp8Q8Je90DE9vUrmQqPUpTEHGF5kpqBlXdYvOV26Rfr3QQlsqhJNC2ByknejdY85tMHZqy12fKI9ayhdlRi_QvXMWCU0S-2wD8aryJK1JQi64fHaArw_PYN8ZT9U1TFXyL5GYHNm8xzyJuXSxjj328Ku3Hp4jtKKPp1B_T69CJsLLorPkNxEdqhO8lp64dxjBkc-W5R-qrpgUOyo1pUthWww_0DjuxxF2qtA-Ba0hzu-flPJ4Ti2SGnGXGDXcCpD64nmCtLRvk7YRw8YlIDd8WcWkjHkzUQWi7n0sjP6a-1-KG5LeKTkqlaS8SjRSsOlnb3SukYFIlnW_aLr6wwVsKmis96mQvOEiOgNVDOu3JgvN3CnQS7mZxWx8n2uClGC6W2qgu600TKAjLWih5f6RhVWdNMnTPrec4Ma8ZSaBt4PMDzFWjwFsKiS_e5F6be8zuNmResm7D7X_uvNvT8NzzBiJHnPM3xngqloNsIBltB98JJTjvc1uCC7JUAU7wqRmniLqUNkuon9kr0h1N4YAOLgfdXyxbLO-oIz7e2Ew13vNwlwF6U6eATLCRmUX4Ma7g9NEP1fsD3&xkcb=SoCj-_M3JmrH7SxcpR0PbzkdCdPP&p=4&fvj=1&vjs=3&jsa=7574&tk=1hd6hi1iggaj8801&from=jasx&wvign=1

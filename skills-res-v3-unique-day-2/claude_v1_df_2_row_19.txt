@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience leading data engineering and cross functional teams to implement scalable and fine-tuned ETL/ELT solutions
+- Experience developing and updating ETL/ELT scripts 
+- Hands-on experience with application development, relational database layout, development, data modeling
+- Knowledge of Informatica, Cloud platforms like Azure, Cloud databases like Snowflake and Azure SQL  
+- Knowledge of at least one programming language like SQL, Python
+- Knowledge of database design and implementation concepts
+- Knowledge of data exchange formats and data movement concepts
+- Strong technical, analytical and problem solving skills
+- Strong organizational and communication skills
+
+Responsibilities:
+- Lead the team to design, configure, implement, monitor and manage data integration frameworks
+- Develop and maintain data infrastructure systems like data warehouses, data lakes
+- Provide guidance on modeling data warehouse solutions in the cloud or on-premise 
+- Oversee delivery of engineering data initiatives and projects
+- Enforce best practices for data auditing, scalability, reliability and performance
+- Interpret data, analyze results and provide ongoing reports
+- Improve job knowledge by attending training and participating in professional networks
+- Guide and mentor less experienced staff

@@ -1,0 +1,30 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong knowledge of enterprise architecture principles and best practices
+- Proficiency in designing and implementing solutions using various technologies and platforms  
+- Excellent problem-solving and analytical skills
+- Outstanding communication and interpersonal abilities
+- Project management skills
+- Cloud computing expertise (e.g. AWS, Azure, Google Cloud Platform)
+- Knowledge of DevOps practices and tools
+- Familiarity with microservices architecture
+- Familiarity with graph databases
+- Experience with containerization and orchestration technologies (e.g. Docker, Kubernetes)
+- Strong understanding of data architecture and database technologies 
+- Knowledge of cybersecurity best practices
+- Excellent presentation and facilitation skills
+
+Responsibilities:
+- Solution design
+- Architecture planning  
+- Technical leadership
+- Risk assessment
+- Documentation
+- Vendor evaluation
+- Prototyping
+- Performance optimization
+- Ensuring security and compliance  
+- Collaboration
+
+https://www.indeed.com/rc/clk?jk=c9f696550a62823e&from=jasx&tk=1hd1fpkd42j42000&vjs=3

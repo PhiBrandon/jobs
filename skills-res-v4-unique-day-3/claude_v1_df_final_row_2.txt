@@ -1,0 +1,18 @@
+ Here are the relevant skills and responsibilities extracted from the job description:
+
+Skills:
+- Extensive experience as a Data Engineer or similar role, with a focus on Scala, Java, and Python programming languages. 
+- Proven expertise in Apache Spark, HBase, and Hive, with the ability to process and manipulate large datasets effectively.
+- Familiarity with AWS services (e.g., EMR, S3, Redshift) is a plus.
+- Experience with data migration from on-premises to cloud environments is desirable.
+- Strong problem-solving skills and attention to detail.
+- Excellent communication and teamwork abilities.
+
+Responsibilities:
+- Develop Data Processing Solutions: Leverage your expertise in Scala (60%), Java, and Python to design, develop, and maintain data processing solutions that operate at scale.
+- Big Data Mastery: Utilize your in-depth knowledge of Big Data technologies, including Apache Spark, HBase, and Hive, to process and manipulate large datasets efficiently.  
+- Cloud Expertise: Contribute to the migration of data processing systems from on-premises to the cloud.
+- Data Migration: Collaborate on data migration initiatives.
+- Data Handling: Employ best practices in data handling, ensuring the integrity, security, and accessibility of data assets while complying with relevant regulations.
+
+https://www.indeed.com/rc/clk?jk=334af16420b57c82&from=jasx&tk=1hd1fm1o6iman800&vjs=3

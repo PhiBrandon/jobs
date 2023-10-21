@@ -1,0 +1,38 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL/TSQL development 
+- SSIS package development
+- Data modeling
+- ETL construction
+- Data analysis
+- Report development
+- Relational databases 
+- Database structures and design
+- Systems design
+- Data management
+- Data warehouse
+- MS Access
+
+Responsibilities:
+- Manage and manipulate structured data
+- Build business intelligence tools 
+- Conduct analysis
+- Perform normalization operations
+- Assure data quality
+- Create specifications to structure data
+- Create product specifications and models  
+- Develop data solutions to support analyses
+- Perform analysis, interpret results
+- Develop actionable insights and recommendations
+- Partner with stakeholders to understand requirements
+- Develop tools, models, dashboards, visualizations, decision aids for analysis
+- Produce and manage analytics delivery to stakeholders
+- Use BI, data visualization, query, analytic and statistical software
+- Work directly with stakeholders to deliver quality data solutions
+- Provide visibility, analytical, ad hoc and development capabilities
+- Leverage data from different functional areas
+- Build, maintain and adhere to a structured data governance process  
+- Identify and participate in integrity issue and problem resolution
+
+https://www.indeed.com/rc/clk?jk=445662e46d0fc401&from=jasx&tk=1hd1fm1o6iman800&vjs=3

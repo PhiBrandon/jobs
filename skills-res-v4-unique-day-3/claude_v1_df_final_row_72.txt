@@ -1,0 +1,17 @@
+ Here are some key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience operating and improving the reliability of data storage and processing systems (relational databases, data warehouses, data lakes and distributed processing systems)
+- Understanding of stream processing and operating streaming solutions (using Kafka/Kinesis or similar tools) 
+- Experience planning, provisioning, scaling and maintaining reliable data processing systems in AWS or GCP
+- Familiarity with Python and maintaining ETL jobs using Airflow or similar tools
+- Experience with AWS data ecosystem (Aurora, DocumentDB, OpenSearch, Redshift, Glue/Spark, MSK/Kafka, Kinesis, Debezium, S3/Hudi, MWAA/Airflow)
+
+Responsibilities:
+- Operate, improve and extend the company's existing data infrastructure
+- Support teams working on improving performance of reports, listings, searches and other data/analytics services  
+- Collaborate with DevOps team to identify and remediate data infrastructure performance or reliability issues
+- Work with ETL and streaming solutions
+- Review features/requirements and help design and implement solutions
+
+https://www.indeed.com/rc/clk?jk=c7bdf04e7b7bd148&from=jasx&tk=1hd1fvosi2gtk000&vjs=3

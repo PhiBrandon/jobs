@@ -1,0 +1,19 @@
+ Here are some of the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Understanding customer needs and extracting common problem structures 
+- Ability to analyze and extract value from data at scale
+- Building efficient, maintainable production-grade data pipelines
+- Previous experience building data products at scale
+- Experience with Databricks or Spark
+- Experience with data products in marketing, fraud detection, or credit underwriting
+
+Responsibilities:
+- Designing and developing data products to solve customer pain points  
+- Delivering scalable, high-quality data products
+- Analyzing complex data and engineering problems
+- Balancing customer impact, reliability, scalability, data quality 
+- Working directly with customers to design products based on learnings
+- Tackling difficult data problems with principled, metrics-driven approach
+
+https://www.indeed.com/rc/clk?jk=5e030fc53b9ee4f1&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

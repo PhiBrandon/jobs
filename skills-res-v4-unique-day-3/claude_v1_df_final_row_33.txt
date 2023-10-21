@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Proficiency in Python
+- Familiarity with Postgres, Elasticsearch, HTML/CSS/JS
+- Strong understanding of web services and distributed systems 
+- Problem-solving skills and attention to detail
+- Experience with web crawling, Django, workflow systems, distributed databases, Hadoop, Ansible, Linux
+- GitLab, GitHub, Sentry, Grafana, JIRA
+
+Responsibilities:
+- Collaborate with team to understand user needs, design features, support web crawling/preservation, improve performance/reliability
+- Implement, test, and maintain software across their technology stack 
+- Develop, monitor, and maintain the Archive-It partner application  
+- Improve a distributed system orchestrating web crawls and post-processing for preservation/indexing
+- Participate in code reviews to ensure quality/stability
+- Document architecture, software, and features
+
+https://www.indeed.com/rc/clk?jk=438a072845b56b63&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3

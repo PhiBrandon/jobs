@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL and T-SQL development experience 
+- Python development experience
+- Experience with Azure Data Factory, Azure Data Lake, Databricks
+- Familiarity with data modeling for visualization tools like Tableau and Power BI
+- Experience working with very large datasets
+- Knowledge of object-oriented programming
+
+Responsibilities:
+- Implementing, maintaining and supporting data management solutions
+- Program/project delivery experience  
+- Designing, building and deploying data solutions
+- Owning the entire data pipeline creation process from business requirements to production
+- Comfort working across different teams (innovation, production/maintenance)
+- Mentoring other data engineers
+- Understanding business requirements and dealing with ambiguity
+- Building data pipelines and workflows
+
+https://www.indeed.com/rc/clk?jk=ead9ad56f5aa8781&from=jasx&tk=1hd43k4db21ci002&vjs=3

@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 10+ years of industry experience designing, constructing and overseeing operations in complex datacenter environments. 
+- Experience with the handling, installation and servicing of large scale IT equipment in the DC.
+- Experience creating technical drawings, documenting methodologies and training DC staff to execute operations.
+- Excellent written and verbal skills and ability to effectively communicate with all Arista, partner and customer levels.
+
+Responsibilities:
+- Provide expert consulting to customers including site design assistance, proactive site prep. for installation, demonstration of best practices, creating training material and delivering training to customers and partners
+- Help customers successfully plan and optimize their Data Center physical space, mechanical, cabling and other site infrastructure to receive Arista equipment and operate it in the highest performing and most efficient manner.  
+- Interface with mechanical engineers in the Arista product team to understand detailed requirements, translate these into best practices for field installation
+- Have expertise in site requirements for all Arista Data Center products including equipment installation logistics, proper handling of components, size/weight/rack considerations, airflow/cooling requirements, power requirements, cable management
+- Understand overall DC design and optimization including floorplan/rack layouts, power distribution/resiliency, cooling strategies, cable layout strategies, equipment density/cable length considerations
+
+https://www.indeed.com/rc/clk?jk=6492b9f12e5769ae&from=jasx&tk=1hd1foafmk78p800&vjs=3

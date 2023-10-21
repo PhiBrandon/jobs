@@ -1,0 +1,12 @@
+ Key Skills and Responsibilities:
+
+- Utilize SQL and NoSQL to build and manage relational database systems
+- Maintain data warehouses, perform ETL processes 
+- Collaborate with data scientists to implement machine learning models
+- Work with data APIs 
+- Use programming languages like Python, Java, Scala for data solutions
+- Manage database systems 
+- Data warehousing and ETL experience
+- Proficiency in Python and another programming language like Java or Scala
+- Experience with data APIs and integrating data 
+- Analytical and problem-solving skills

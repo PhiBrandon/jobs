@@ -1,0 +1,20 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Pyspark 
+- Python
+- Azure Data Factory (ADF)
+- Azure Databricks
+- Agile/Scrum
+- Data Engineering experience of 10+ years
+- Enterprise Data Warehousing Concepts experience of 8+ years
+- SQL queries
+- Snowflake experience 
+
+Responsibilities:
+- Work as a Senior Data Engineer
+- Have a consulting mindset and be proactive in their approach and communication
+- Strong skills in the technologies listed above 
+- Minimum of 8 years experience in Azure Data Factory, Azure Databricks, Pyspark, Python
+- Minimum of 10 years of overall Data Engineering experience
+- Work remotely

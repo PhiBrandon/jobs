@@ -1,0 +1,25 @@
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- AWS, Spark, Scala, Python, Airflow, EMR, Redshift, Athena, Snowflake, ECS, DevOps Automation, Integration, Docker, Build and Deployment Tools
+- Data warehouse architecture and associated diagrams  
+- Extract, Transform, and Load (ETL) data engineering
+- Data visualization tools like Tableau, Alteryx
+- Version control systems like Git
+- Analytics tools used in Amazon Web Services (AWS)
+
+Responsibilities:
+- Develop Agile environments leveraging advanced engineering practices 
+- Develop generic data frameworks and data products
+- Create data warehouse architecture and documentation
+- Deliver business requirements documents
+- Analyze and improve long running queries
+- Migrate existing systems to cloud architecture
+- Configure continuous monitoring systems
+- Develop, test and integrate ETL pipelines
+- Perform data testing, governance and quality assurance
+- Create documentation like test plans, SOPs, knowledge base articles
+- Administer analytics tools and licenses
+- Participate in planning, development and requirements accommodation
+- Compile quarterly reports using data science methodology
+- Inventory analytics tools licenses

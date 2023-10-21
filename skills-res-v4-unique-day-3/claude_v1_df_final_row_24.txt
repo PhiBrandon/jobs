@@ -1,0 +1,29 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Python
+- NodeJs 
+- Typescript
+- MongoDB
+- DynamoDB
+- NoSQL databases
+- Linear algebra
+- Statistics
+- Deep learning concepts
+- AWS
+- Google Cloud
+- Azure
+- Pandas
+- PyTorch
+- PySpark
+
+Responsibilities:
+- Building scalable robust infrastructure for data ingestion, storage, and sampling
+- Communicate complex technical concepts effectively to client executives
+- Develop custom data tools tailored to meet specific client requirements
+- Create and maintain comprehensive technical documentation
+- Provide technical support to resolve complex issues escalated from customer support teams
+- Collaborate with cross-functional teams to diagnose and troubleshoot production incidents
+- Report results back to the customer in clear non-technical language
+
+https://www.indeed.com/rc/clk?jk=4eb3da80458c4c7f&from=jasx&tk=1hd1fpkd42j42000&vjs=3

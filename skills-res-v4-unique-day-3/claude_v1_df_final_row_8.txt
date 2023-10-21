@@ -1,0 +1,23 @@
+ Here are some key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL
+- Python 
+- Data modeling
+- Data pipelines 
+- ETL processes
+- Data transformation
+- Database management (BigQuery experience is preferred)
+- Data quality monitoring
+- Documentation 
+- Data engineering 
+
+Responsibilities:
+- Build and maintain data pipelines to move data from source systems to data warehouse
+- Transform and model data using SQL and Python
+- Monitor data pipelines for errors and data quality issues  
+- Improve data quality, reliability, efficiency and performance while optimizing costs
+- Document data models, schemas, business logic etc.
+- Collaborate with engineers and product managers to understand data requirements
+
+https://www.indeed.com/rc/clk?jk=28162dd96d9b7a0d&from=jasx&tk=1hd1fm1o6iman800&vjs=3

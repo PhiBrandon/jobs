@@ -1,0 +1,26 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL development
+- Microsoft SQL Server
+- SQL
+- Azure data services
+- Python programming
+- Power BI
+- Data modeling
+- Data warehousing and big data technologies
+- Google Bigquery
+- Postgresql
+
+Responsibilities:
+- Develop, construct, test, and maintain ETL processes using SSIS and Python
+- Design and implement relational and non-relational database systems using SQL Server 
+- Leverage Azure data services for scalable solutions
+- Develop analytical tools and solutions using Power BI
+- Optimize and automate data delivery processes  
+- Establish routines for database tasks to improve performance
+- Devise and implement effective data cleaning and validation procedures
+- Collaborate with cross-functional teams to align data solutions with business objectives
+
+https://www.indeed.com/rc/clk?jk=e1d633e960423d61&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

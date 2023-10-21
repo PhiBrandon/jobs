@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- T-SQL
+- ETL processes (SSIS, Azure Data Factory, IBM InfoSphere DataStage) 
+- SQL programming and performance tuning
+- Data visualization tools (Tableau, Power BI)
+- Dimensional data modeling (Kimball technique)
+
+Responsibilities:
+- Requirements gathering  
+- Designing data warehouse and analytics architecture
+- Developing ETL processes
+- Testing and documenting processes
+- Maintaining data warehouse and analytics systems
+- Creating reports and dashboards  
+- Documenting business rules and metadata
+- Participating in project planning
+- Providing on-call support
+- Communicating designs to leadership
+- Maintaining relevant domain knowledge
+
+https://www.indeed.com/rc/clk?jk=15fd4f1c42b1c5c0&from=jasx&tk=1hd43l8mokhqg800&vjs=3

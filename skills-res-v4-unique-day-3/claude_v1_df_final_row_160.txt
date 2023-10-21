@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Intermediate or better working knowledge of Microsoft Azure Data and Analytics Services
+- Experience in creating solutions with Azure Data Factory, Azure Synapse, Azure Data Lake, and Azure SQL Server
+- Exceptional communication skills 
+- Excellent time management skills
+- Experience with T-SQL for DDL and DML applications
+- Experience with Azure Active Directory Security Groups and Role-Based Access Controls
+- Experience with SSIS, SSAS 
+- Experience with PowerShell and Python
+- Prior Professional Services or Consulting
+
+Responsibilities:
+- Support the execution of Power BI projects
+- Create Data Storage Solutions with SQL Server and Data Lakes
+- Develop ETL Pipelines with Azure Data Factory
+- Provision Azure Subscriptions and Resources  
+- Develop Automation Solutions using languages such as PowerShell and Python
+
+https://www.indeed.com/rc/clk?jk=45cf7e5b6edba0bb&from=jasx&tk=1hd43uovekcmr800&vjs=3

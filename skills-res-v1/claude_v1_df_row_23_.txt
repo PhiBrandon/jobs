@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Building and managing data pipelines 
+- Python and SQL
+- APIs (REST, Websockets, etc.)
+- Cloud infrastructure like AWS
+- Data modeling, database design, and query optimization
+
+Responsibilities:
+- Designing and building ETLs, data pipelines, and APIs
+- Optimizing research and transaction infrastructure  
+- Implementing APIs for data querying and access
+- Acquiring and ingesting data to enable internal research and externally facing data projects
+- Delivering internal data projects like dashboards and visualizations
+- Working closely with the Data Engineering Lead to execute high impact data-related work across the firm

@@ -1,0 +1,28 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 4+ years of experience developing data movement and engineering applications 
+- 3+ years utilizing Structured Query Language optimization on platforms including Redshift, Oracle, Postgres
+- 3+ years utilizing programming languages such as Python
+- 3+ years of experience in Informatica Big Data Management Solution on AWS Cloud
+- 3+ years of experience working on Elastic Map Reduce using AWS Cloud services
+- 3+ years of experience in Informatica PowerCenter (or comparable tool)  
+- 3+ years of experience with Architecture Design and Data Modeling
+- 2+ years of experience scheduling jobs using Autosys (or comparable distributed scheduler)
+
+Responsibilities:
+- Participate in analysis, design, and ETL development as part of Agile/Scrum team
+- Architect, implement and support big data initiatives using AWS, Informatica and Python
+- Lead developers, designers and analysts on project efforts to add new data sources
+- Understand data mapping, modeling methodologies to reduce redundancy 
+- Liaise with business partners on requirements, design, testing and production
+- Perform technical tasks like estimating, analysis, design, construction and testing
+- Assist analysts with data solution design and implementation
+- Develop, enhance and support Informatica workflows and processes
+- Maintain knowledge on developments/trends and incorporate in solutions
+- Participate in and enhance organizational initiatives
+- Identify and direct process improvements across teams
+- Provide expertise to stakeholders on complex assignments
+- Provide direction on complex assignments and initiatives
+
+https://www.indeed.com/rc/clk?jk=7dba33f9aebd660e&from=jasx&tk=1hd1g40sjjm7l801&vjs=3

@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Expertise in Apache Spark and other cloud technologies
+- Mastery of relational SQL and NoSQL databases 
+- Expertise with data modeling, ETL/ELT tools, data integration
+- Strong programming skills in Python, Java, Scala
+- Expertise in AWS cloud technologies, REST APIs, HTML5
+- Experience with data engineering tools like Hadoop, Spark, Kafka, Databricks
+- Expertise in data analysis and working with unstructured datasets
+- Strong communication and documentation skills
+
+Responsibilities:
+- Supervise data engineering team and projects  
+- Design scalable data architectures and systems
+- Establish database build processes and data modeling solutions
+- Lead data security, extraction, integration and quality processes
+- Optimize queries and tune performance of data systems
+- Perform data analysis to solve complex business problems
+- Guide research, adoption of best practices and technical standards
+- Mentor and collaborate with other engineers
+- Validate, test and debug data pipelines and systems
+
+https://www.indeed.com/rc/clk?jk=6d6399c51c6d5573&from=jasx&tk=1hd43l8mokhqg800&vjs=3

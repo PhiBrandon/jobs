@@ -1,0 +1,28 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data analysis and analytics
+- ETL development and integration
+- Big data architecture and implementation 
+- Data modeling and mapping
+- SQL optimization and querying
+- Python programming
+- Informatica PowerCenter
+- Unix/Linux and Windows scripting
+- Job scheduling tools like Autosys
+- Technical specification creation
+- Mentoring other developers
+
+Responsibilities:
+- Participate in analysis, design, and ETL development for Agile/Scrum team
+- Architect and implement big data solutions on AWS 
+- Lead developers on adding data sources to enterprise data platform
+- Create data models and mappings 
+- Collaborate with business partners on requirements, design, testing, and production
+- Perform technical tasks like estimation, analysis, requirements, design, construction, and testing
+- Assist teams with data solutions and integration design
+- Develop and support Informatica workflows for data extraction and transformation
+- Maintain knowledge on emerging trends and incorporate into solutions
+- Identify and implement process improvements 
+- Provide expertise and direction to team members on complex projects
+- Lead and mentor other developers on the team

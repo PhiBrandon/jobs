@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL 
+- Programming languages like Java, Scala, Python
+- ETL/ELT pipelines
+- Data modeling 
+- Data warehousing 
+- Workflow orchestration (Airflow, DbT, etc)
+- Cloud services (AWS, GCP, Azure, etc)
+- Batch/microbatch/streaming data processing
+- Financial/compliance data
+- Data governance
+- Open source big data technologies
+
+Responsibilities:
+- Design, build and maintain ETL/ELT pipelines
+- Develop integrations with third party systems for data ingestion
+- Provide analytics and visualization tools for insights
+- Collaborate with cross-functional teams on data modeling and management
+- Build scalable infrastructure for data processing
+- Ensure data accuracy and quality for transparency and compliance needs
+- Identify and pursue high impact projects with minimal guidance (for senior roles)

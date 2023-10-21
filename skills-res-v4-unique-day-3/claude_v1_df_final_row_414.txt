@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 4 years of experience working with data analysis
+- 4 years of experience with SQL or Hive QL
+- 4 years of experience developing and maintaining data warehouses in big data solutions  
+- 4 years of experience with Big Data development using Hadoop
+- 4 years of experience with Hive, BigQuery , Impala OR Spark
+- 4 years of experience automating the data pipelines/processes
+- 4 years of experience with Hadoop ecosystems (HDFS, YARN, Hive, HBase, Sqoop, Spark, and or Hue)  
+- 3 years of experience utilizing Agile Development Methodology
+- 3 years of experience with Git Repositories
+
+Responsibilities:
+- Work closely with a multidisciplinary agile team to build high quality data pipelines
+- Design, develop, optimize, and maintain data architecture and pipelines  
+- Solve complex data problems to deliver insights
+- Create data products for analytics and data scientist team members 
+- Advise, consult, mentor and coach other data professionals
+- Lead evaluation, implementation and deployment of emerging analytic tools
+- Develop and deliver communication plans on analytic data engineering
+- Partner with business analysts and architects to develop technical architectures
+
+https://www.indeed.com/rc/clk?jk=1cc34471192a5294&from=jasx&tk=1hd95mfqo28gs002&vjs=3

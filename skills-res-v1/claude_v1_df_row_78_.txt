@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Spark 
+- Scala
+- Python
+- AWS (EMR, Redshift, Teradata)
+- Git and GitHub
+- Airflow
+- Jenkins
+
+Responsibilities:
+- Build data processing pipelines using Spark
+- Work on data analytics and reporting systems for CMS
+- Write unit and integration tests for data processing code
+- Read specifications and design/automate tests 
+- Collaborate with DevOps on CI/CD and infrastructure as code
+- Perform code reviews to improve quality
+- Help others learn Spark and inform design decisions
+- Debug runtime problems
+- Work in dynamic Agile teams

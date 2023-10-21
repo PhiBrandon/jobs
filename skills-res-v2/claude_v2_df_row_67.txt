@@ -1,0 +1,17 @@
+ Here are the key skills and responsibilities I extracted from the job description:
+
+Skills:
+- Experience with large scale datastores like Cassandra, ElasticSearch, Kafka, Zookeeper, and Spark
+- Experience operating large-scale, business-critical Linux environments 
+- Experience with cloud platforms, preferably AWS
+- Ability to work effectively with distributed teams
+- Strong communication skills, verbal and written
+- Information security experience preferred but not required
+- Bachelor's degree in CS, CIS, Engineering or related field
+
+Responsibilities:
+- Maintain deep understanding of data components and use it to operate and automate clusters
+- Work with engineering to roll out new products and features  
+- Develop infrastructure services to support devops
+- Troubleshoot time-sensitive production issues 
+- Keep petabytes of critical business data safe, secure and available

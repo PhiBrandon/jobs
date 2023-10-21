@@ -1,0 +1,31 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Java 
+- Python
+- JavaScript
+- HTML5
+- Linux (RedHat)
+- Windows
+- jQuery
+- JSON
+- CSS
+- AJAX
+- SQL (JDBC)
+- Agile methodologies (Scrum)
+- IDEs like Eclipse, IntelliJ
+- Debugging tools
+
+Responsibilities:
+- Design, develop, test, debug and implement software 
+- Ensure system improvements are implemented and monitored
+- Generate software engineering policies, standards and procedures
+- Develop proficiency in listed programming languages and technologies
+- Use debugging tools to troubleshoot issues  
+- Contribute to development of innovative solutions
+- Write test cases to validate requirements
+- Collaborate effectively in a team environment
+- Facilitate team discussions
+- Familiarity with SDLC processes
+
+https://www.indeed.com/rc/clk?jk=8b7d96de56a29c5d&from=jasx&tk=1hd1fvosi2gtk000&vjs=3

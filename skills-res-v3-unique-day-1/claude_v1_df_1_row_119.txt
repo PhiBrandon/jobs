@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Required Skills:
+- Databricks/py-spark - 4+ years of experience 
+- Cloud experience - 4+ years of cloud experience
+- AWS - 6 years of experience
+- Databricks - 4 years of experience 
+- Pyspark - 4 years of experience
+
+Nice to Have Skills:
+- Software engineering background
+- AWS experience
+- Experience with Typescript
+
+Responsibilities:
+- Contract position working remotely
+- 8 hour shift schedule
+- 7-8 years of overall experience required
+- Minimum 6 years of AWS experience required

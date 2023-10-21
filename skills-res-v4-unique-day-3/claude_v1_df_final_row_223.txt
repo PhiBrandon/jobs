@@ -1,0 +1,20 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Python (PySpark)
+- AWS (Glue, DMS, IAM, RDS)  
+- Databricks (Unity Catalog, workflow, Live Table)
+- Apache technologies (NiFi, Airflow)
+- SQL
+- Data modeling and ETL
+- Hadoop/Spark
+- Cloud data pipelines (AWS, Databricks)
+
+Responsibilities:
+- Designing and implementing data pipelines in cloud environments 
+- Migrating and developing data solutions in AWS cloud
+- Building and implementing data pipelines using Databricks
+- Writing complex SQL queries across large volumes of data
+- Knowledge of data lake architecture best practices
+
+https://www.indeed.com/rc/clk?jk=f120f0ae5b708e07&from=jasx&tk=1hd6h75sii6mo800&vjs=3

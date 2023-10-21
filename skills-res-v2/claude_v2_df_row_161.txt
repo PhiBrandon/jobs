@@ -1,0 +1,15 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Spark, Python, SQL for ETL on large datasets
+- Implementing ETL pipelines in AWS EMR + Airflow
+- Writing complex SQL including geospatial 
+- Building Tableau dashboards
+- Python, Spark, and Postgis for acquiring and curating spatial data
+
+Responsibilities:
+- Write Spark, Python, and SQL code to perform ETL on large location datasets
+- Implement and maintain ETL pipelines using AWS EMR, Airflow for data exports, analysis, and ML
+- Write complex SQL including geospatial to fulfill customer analysis requests  
+- Build Tableau dashboards to surface data insights
+- Develop scripts to acquire and curate spatial data

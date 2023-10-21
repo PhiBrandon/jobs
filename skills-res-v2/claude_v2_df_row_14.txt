@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL
+- Python
+- Data pipeline building and maintenance 
+- Data transformation and modeling
+- Data quality monitoring
+- Documentation
+- Creative problem solving
+- Analytical mindset
+
+Responsibilities:
+- Build and maintain data pipelines from sources to data warehouse
+- Transform and model data using SQL and Python
+- Monitor pipelines and improve data quality/reliability 
+- Document data models, schemas, logic, pipelines, etc.
+- Collaborate with product and engineering teams on data requirements
+- Report to Director of Data & Analytics

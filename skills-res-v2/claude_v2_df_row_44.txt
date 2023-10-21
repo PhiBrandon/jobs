@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Building scalable robust infrastructure for data ingestion, storage, and sampling
+- Proficiency in Python, NodeJs, Typescript
+- Database experience, particularly NoSQL databases (MongoDB, DynamoDB, etc) 
+- Solid understanding of linear algebra, statistics and deep learning concepts
+- Experience working with audio, visual, and/or text datasets and models
+- Experience with AWS, Google Cloud, Azure, and On-Premises
+
+Responsibilities:
+- Communicate complex technical concepts effectively to client executives
+- Develop custom data tools tailored to meet specific client requirements
+- Create and maintain comprehensive technical documentation
+- Provide technical support to resolve complex issues escalated from customer support teams
+- Collaborate with cross-functional teams to diagnose and troubleshoot production incidents
+- Work extended hours when needed
+- Occasionally work from or travel to client’s location

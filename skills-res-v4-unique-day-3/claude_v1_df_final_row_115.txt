@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Knowledge and understanding of Informatica including Cloud version (IICS)
+- Knowledge and understanding of Cloud Platforms (ie. Azure)  
+- Knowledge and understanding of Cloud Databases (ie. Snowflake, Azure SQL)
+- Knowledge and understanding of at least one programming language (i.e., SQL, NoSQL, Python)
+- Knowledge and understanding of database design and implementation concepts
+- Knowledge and understanding of data exchange formats
+- Knowledge and understanding of data movement concepts
+- Strong technical and analytical and problem solving skills
+- Strong organizational and communication skills
+
+Responsibilities:
+- Lead the team to design, configure, implement, monitor, and manage all aspects of Data Integration Framework
+- Develops and maintains infrastructure systems including data access APIs
+- Provides guidance and performs work related to Modeling Data Warehouse solutions
+- Oversees the delivery of engineering data initiatives and projects  
+- Enforces the implementation of best practices for data auditing, scalability, reliability and performance
+- Interprets data, analyzes results using statistical techniques, and provides ongoing reports
+- Designs, manages, and conducts quality control procedures for data sets
+- Improves data delivery engineering job knowledge by attending educational workshops
+
+https://www.indeed.com/rc/clk?jk=227119efc149cadc&from=jasx&tk=1hd43l8mokhqg800&vjs=3

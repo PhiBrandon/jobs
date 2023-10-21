@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python and SQL
+- Apache Spark 
+- Big data processing
+- Hadoop, Spark, Java, Python, R, ElasticSearch
+- Relational database concepts
+- Palantir Foundry
+
+Responsibilities:
+- Design, develop and maintain data pipelines and workflows
+- Handle data pipelines for extraction, transformation, cleaning and enrichment
+- Implement projects using agile methodology 
+- Query and analyze data to understand complexity and structures
+- Review and analyze business workflows and user data needs
+- Design and implement business performance dashboards
+- Write reports highlighting KPIs
+- Build applications using SQL and Python scripts to manipulate data
+- Design, build and maintain end-to-end data solutions
+- Construct workflow charts and diagrams
+- Document end-to-end data pipeline processes
+- Document data assets for information management
+- Provide ad hoc team/business support as needed
+- Explore and evaluate new technologies

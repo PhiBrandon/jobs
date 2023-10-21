@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Troubleshooting data issues 
+- Designing and implementing ETL processes
+- Data cleansing and validation
+- SQL optimization
+- Stakeholder collaboration
+- Documentation
+
+Responsibilities:
+- Diagnose and resolve data pipeline issues
+- Develop and maintain ETL processes for BigQuery and MySQL
+- Implement data validation and cleansing 
+- Utilize Segment for data collection and integration
+- Work with stakeholders on data quality issues
+- Write performant SQL queries 
+- Document data processes and updates

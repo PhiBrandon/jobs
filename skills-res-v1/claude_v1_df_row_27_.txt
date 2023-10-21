@@ -1,0 +1,34 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Systems engineering 
+- Software development
+- Business analysis
+- Verbal and written communication
+- Concise writing
+- Ability to communicate technical content to broad audiences
+- Executing Agile, Scrum, and Kanban methodologies
+- Soliciting and documenting use cases and designs for system requirements 
+- Use of system management tools such as Azure DevOps, Jira, Redmine, or similar system
+- Developing and executing testing and acceptance plans
+- Tracking bugs, issues and resolutions
+- Performing data analysis and reporting
+- Knowledge of government system security policies (ATO process)
+- Flexibly pivot to varying needs of the project while maintaining situational awareness
+- Knowledge of the Microsoft Azure ecosystem
+- Experience with Data Lakes and preferably Data Lakehouses
+- Experience working with federal IT systems 
+- Experience working with SQL developers (or knowledge of SQL)
+- Prioritizing and communicating requirements and system development activities
+- Communicating impact of requirement changes on active development activities
+- Executing and presenting trade space of alternatives with cost benefit analysis
+- Supporting Authority to Operate (ATO) activities and other production system processes
+- Experience in developing advanced data visualizations
+
+Responsibilities:
+- Work directly with the customer to capture and formalize requirements
+- Track and communicate solution and system development activities  
+- Design and execute test plans
+- Help support the identification of alternative application solutions
+- Work with developers and engineers
+- Consider security and infrastructure implications of changes

@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL fluency (CTEs, window functions) 
+- Data modeling, ETL/ELT, data pipelines, data warehousing
+- Power BI, Tableau, or similar visualization tools
+- Programming for data transformation (MS SQL Server, Oracle, Snowflake)
+- Analyzing data quality issues and troubleshooting 
+- Automating report creation and sharing
+- Acquiring and incorporating external data sets
+
+Responsibilities:
+- Design, develop and maintain scaled data systems, reports, dashboards
+- Write production-quality data transformation code 
+- Ensure data, systems, architecture, business logic, and metrics are well documented
+- Support business analytics projects and solve complex data challenges
+- Draw insights from data and communicate findings to stakeholders
+- Provide customer service through project execution and timely delivery

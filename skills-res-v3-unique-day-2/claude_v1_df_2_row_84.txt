@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python 
+- SQL
+- Apache Spark
+- Hadoop
+- Java
+- Relational databases
+
+Responsibilities:
+- Craft and maintain data pipelines
+- Enhance data quality
+- Implement agile methodologies for project execution
+- Develop data pipelines for accident and health workstreams 
+- Apply ETL methodologies
+- Ensure data quality
+- Build performance dashboards
+- Generate automated reports 
+- Use SQL and Python for data manipulation
+- Create end-to-end data solutions
+- Utilize Apache Spark
+- Document pipeline processes and data assets

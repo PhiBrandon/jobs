@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data migration planning
+- Data validation and reconciliation 
+- Data management software configuration (Komprise)
+- Scripting (Python, PowerShell)
+- Storage platforms (Isilon, NetApp) administration
+- Problem solving
+- Communication
+
+Responsibilities:
+- Understand data migration requirements 
+- Design and develop a data migration plan
+- Perform assessments and identify target data
+- Orchestrate and monitor the migration process
+- Conduct pre-migration validation tests
+- Address issues during migration
+- Verify successful migration completion
+- Integrate with the NetApp environment
+- Document the migration process
+- Provide knowledge transfer and training
+
+https://www.indeed.com/rc/clk?jk=7f7a185825ef7e9f&from=jasx&tk=1hd6h82eqk7eu800&vjs=3

@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- Expertise in HR systems and data, Workday experience preferred
+- Proficiency in SQL, Python, R and other scripting languages
+- Experience with ETL processes, data integration, and data warehousing 
+- Knowledge of data governance, privacy regulations, and security protocols
+- Data modeling, dimensional design, and analytics skills
+- Project management and stakeholder collaboration abilities  
+
+Responsibilities:
+
+- Lead data migration strategy and execution for move to Workday
+- Implement HR Data Mart and analytics architecture 
+- Develop ETL processes to extract, transform and load data into Workday
+- Perform data validation, testing and issue resolution 
+- Define data mapping rules from legacy systems to Workday
+- Ensure compliance with data governance and security policies
+- Document processes and train teams on new data environment
+- Manage data migration and HR Data Mart projects 
+- Continuously improve HR data management and analytics capabilities

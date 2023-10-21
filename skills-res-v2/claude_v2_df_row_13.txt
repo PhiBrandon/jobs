@@ -1,0 +1,13 @@
+ Here are some key skills and responsibilities extracted from the job description:
+
+- Create data models to extract and transform data from various sources into usable formats
+- Maintain data integrity through backup and recovery procedures 
+- Improve database performance through structure optimization and indexing
+- Research and identify new technologies to apply to projects
+- Analyze data to find patterns and insights for business strategies
+- Develop new applications and features using existing data 
+- Maintain existing applications by updating code and adding new features
+- Design and implement security measures to protect data
+- Recommend infrastructure changes to improve storage and performance
+
+The experience level required is 10 years as an AWS Data Engineer. This is a remote full-time contract role with an hourly salary range of $40.34 - $86.70.

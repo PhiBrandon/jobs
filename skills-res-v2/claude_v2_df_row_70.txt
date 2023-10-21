@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Statistical modeling and machine learning
+- Python programming 
+- SQL
+- Data visualization
+- Communication and presentation
+- Ability to work in fast-paced agile environment
+- Ability to deal with ambiguity 
+
+Responsibilities:
+- Apply statistical and machine learning models to optimize products and minimize risks
+- Design, run, and analyze experiments 
+- Develop metrics and dashboards to guide product development 
+- Drive data collection and refinement
+- Partner with cross-functional teams to shape product strategy 
+- Communicate insights clearly to stakeholders
+- Build explanatory and predictive models
+- Handle large datasets and identify patterns
+- Create and productionize machine learning models
+- Evaluate model performance

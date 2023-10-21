@@ -1,0 +1,28 @@
+ Based on the job description, here are the key skills and responsibilities of a Senior Data Engineer - Scala:
+
+Skills:
+- Scala
+- Spark 
+- Spark Engine
+- Spark Dataset API
+- Hadoop
+- Python
+- AWS EMR
+- Airflow
+- Jenkins
+- AWS Redshift
+- Teradata
+- Git
+- Github
+- Confluence
+
+Responsibilities:
+- Write complex unit and integration tests for all data processing code
+- Work with DevOps engineers on CI, CD, and IaC 
+- Read specs and translate them into test designs and test automation
+- Perform code reviews and develop processes for improving code quality
+- Build data processing pipelines that derive information from large sets of government data
+- Be the go-to on the team for Spark, the Spark Engine, and the Spark Dataframe API
+- Use knowledge of Spark to teach others, inform design decisions, and debug runtime problems
+
+https://www.indeed.com/rc/clk?jk=dc6d198d707948d7&from=jasx&tk=1hd1fsp38k6pu800&vjs=3

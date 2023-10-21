@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities I extracted from the job description:
+
+Skills:
+
+- 3+ years experience with Snowflake, AWS, and data engineering tools
+- Proficiency in SQL, Python, Scala
+- Experience with ETL/ELT, DBT, Spark, Kafka, Airflow
+- Knowledge of data modeling, warehousing, lakes, optimization 
+- Understanding of data governance, quality, security
+- Cloud experience with AWS services like Redshift, S3, Lambda
+- CI/CD and DevOps tools like GitHub, Jira
+
+Responsibilities:
+
+- Design, build and maintain data pipelines, architectures, integration
+- Implement ELT processes and data warehousing solutions 
+- Ensure reliability, scalability and efficiency of data systems
+- Collaborate with cross-functional teams on data requirements 
+- Contribute to data governance and quality assurance
+- Document processes and data flows
+- Troubleshoot issues and optimize performance 
+- Assess and design database schemas aligned to business needs
+- Participate in Agile team ceremonies and continuous improvement

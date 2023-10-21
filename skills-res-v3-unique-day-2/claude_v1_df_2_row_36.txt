@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data Engineering (OLTP) 
+- Data Modelling (OLTP)
+- Dimensional modeling 
+- Database Design
+- Data Migration
+- Domain, ETL Validation, Databricks
+- SQL and NoSQL databases
+- Spark/Scala
+- Data analysis and BI solutions
+- Data warehousing implementation
+- Data profiling and discovery
+- 6+ years experience in areas like: Data Engineering, Enterprise Data Architecture, Data Modeling Solutions Designing, Data Analysis and BI Solutions Delivery 
+
+Responsibilities:
+- Design and development of ETL solutions
+- Create data migration strategies 
+- Design, develop, enhance data models  
+- Deploy and maintain data warehouses/marts
+- Understand existing data models and create target models
+- Collaborate on new data models with teams
+- Resolve technical issues and perform testing
+- Support implementation activities

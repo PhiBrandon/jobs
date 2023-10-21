@@ -1,0 +1,24 @@
+ Based on the job description, here are the key skills and responsibilities of a Data Engineer:
+
+Skills:
+- Programming languages: Java, Scala, Python 
+- Databases: RDBMS, NoSQL, Cloud data warehousing services like Snowflake
+- Machine learning
+- Distributed systems/microservices 
+- Streaming data technologies: Spark Streaming, Kafka, Kinesis, Flink
+- Public clouds: AWS, Azure, Google Cloud
+- DevOps tools: Ansible, Terraform
+- Hadoop ecosystem: HDFS, MapReduce, Pig, Hive, HBase
+- NoSQL technologies: MongoDB, Cassandra
+
+Responsibilities:
+- Design, develop, test and implement technical solutions 
+- Collaborate with Agile teams and across teams
+- Work on streaming data applications
+- Perform unit testing and code reviews
+- Collaborate with product managers to deliver cloud-based solutions
+- Stay up to date with emerging technologies
+- Mentor other engineers
+- Solve complex business problems
+
+https://www.indeed.com/rc/clk?jk=7df0841eea60802f&from=jasx&tk=1hd1ft1i8joou800&vjs=3

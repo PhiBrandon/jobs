@@ -1,0 +1,28 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python 
+- SQL
+- Data engineering 
+- Apache Spark
+- Big data processing
+- Cluster computing frameworks like Apache Spark
+- Relational database concepts
+
+Responsibilities:
+- Design, develop and maintain data pipelines and workflows
+- Extract, transform, load (ETL) data cleansing and transformation
+- Test data pipelines for data curation, parsing, cleaning and enrichment
+- Implement projects using Agile methodology 
+- Utilize database management systems and programming languages
+- Review and analyze business workflows and user data needs
+- Design and implement business performance dashboards
+- Write customized reports highlighting KPIs
+- Build applications to manipulate, monitor and improve data quality
+- Design and maintain end-to-end data solutions 
+- Construct workflow charts and diagrams
+- Document data pipelines, assets and processes
+- Provide ad hoc support to business teams
+- Evaluate new technologies and platforms
+
+https://www.indeed.com/rc/clk?jk=22cd2b66172d9b52&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3

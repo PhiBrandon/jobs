@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Big data tools and technologies such as Hadoop, Hive, NoSQL, Spark, Python, SAS, Teradata, Oracle, Informatica
+- SQL and data warehousing 
+- Problem-solving, analytical, and communication skills
+- Spark, Python, Google Cloud Technologies, Databricks
+
+Responsibilities:
+- Design and engineer big data solutions and analytics platforms
+- Ingest, transform, and deliver data for analytics uses
+- Code and maintain ETL/ELT data pipelines  
+- Work with architects, data scientists, and business teams on analytics projects
+- Operate and execute big data and analytics projects
+- Follow standards and patterns for high performance data pipelines
+- Keep current on big data technologies and make recommendations
+- Contribute to large cross-functional analytics programs
+- Maintain customer relationships

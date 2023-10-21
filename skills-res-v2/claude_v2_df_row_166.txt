@@ -1,0 +1,36 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- Data engineering 
+- Data integration
+- Data modeling  
+- Data warehousing
+- Data analytics
+- Data pipelines
+- Algorithms
+- Prototyping
+- Prescriptive and predictive modeling
+- Identifying patterns and relationships in data
+- Communicating technical assessments to non-technical individuals
+- Data analysis and visualization
+- Programming skills (Python, Spark, SQL, Scala)
+- Cloud technologies (Azure)
+- Databricks certification 
+
+Responsibilities:
+
+- Migrate data into a Databricks environment
+- Create data systems and pipelines
+- Build and maintain data warehouses
+- Conduct complex data analysis 
+- Identify trends and patterns in data
+- Provide data reports and visualizations for decision-making
+- Provide technical assistance on using data engineering
+- Identify and resolve technical debt
+- Ensure quality of deliverables
+- Recommend new technical approaches  
+- Document technical deliverables
+- Support proposal development 
+- Execute Agile methodologies
+- Manage multiple technical tasks

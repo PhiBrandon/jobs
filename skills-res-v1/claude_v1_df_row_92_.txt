@@ -1,0 +1,17 @@
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- Data product engineering 
+- Data analysis and extraction at scale
+- Building efficient, production-grade data pipelines
+- Understanding customer needs
+- Extracting common problem structures across customers
+
+Responsibilities:
+- Design and develop data products that solve customer pain points  
+- Deliver scalable, high-quality data products that customers love
+- Talk to customers and solve their problems in a repeatable way
+- Adopt a principled, metrics-driven approach to difficult data problems
+- Operate transparently and collaboratively
+- Develop products that take an innovative data-first approach to solving high-value customer problems
+- Tackle complex data and engineering problems while balancing various factors like customer impact, reliability, scalability, data quality

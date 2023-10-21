@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience with large scale datastores using technologies like Cassandra, ElasticSearch, Kafka, Zookeeper, and Spark
+- Experience with large-scale, business-critical Linux environments  
+- Experience operating within the cloud, preferably Amazon Web Services
+- Proven ability to work effectively with both local and remote teams
+- Track record of making great decisions, particularly when it matters most
+- Rock solid communication skills, verbal and written
+- Experience in the information security industry preferred
+- Bachelor’s degree in an applicable field, such as CS, CIS or Engineering
+
+Responsibilities:
+- Maintain a deep understanding of the data components and use that understanding to operate and automate properly configured clusters
+- Work with Engineering to roll out new products and features  
+- Develop infrastructure services to support the CrowdStrike engineering team’s pursuit of a full devops model
+- Work closely with Engineering and Customer Support to troubleshoot time-sensitive production issues
+- Keep petabytes of critical business data safe, secure, and available
+
+https://www.indeed.com/rc/clk?jk=86616a549b160eb2&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

@@ -1,0 +1,28 @@
+ Here are some key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong data infrastructure and data architecture skills 
+- Operational skills to drive efficiency and speed
+- Project management leadership
+- Data engineering to improve companies
+- Cross-functional collaboration
+- Business requirements analysis 
+- Prototype development
+- Data cleaning and preprocessing
+- Data analysis and dashboard development 
+- SQL and NoSQL databases
+- Data modeling and design
+- Communication skills
+- Delivering high quality results
+
+Responsibilities:
+- Understand business requirements and convert to technical requirements
+- Extract, process and store large volumes of data 
+- Design, build and maintain data pipelines  
+- Ensure data quality, accuracy, completeness and consistency
+- Maintain documentation for data management
+- Optimize systems for easier data development  
+- Understand data needs and visualize insights
+- Analyze and visualize data to provide actionable insights
+
+https://www.indeed.com/rc/clk?jk=0e319a6994ef9d47&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

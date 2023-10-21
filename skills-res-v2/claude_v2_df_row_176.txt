@@ -1,0 +1,18 @@
+ Based on the job description, the key skills and responsibilities for the Data Engineer role are:
+
+Skills:
+- Proficiency in SQL query design and implementation
+- Experience with relational data warehouse systems and optimization techniques
+- Ability to build and optimize large-scale data pipelines and architectures 
+- Knowledge of data science concepts, machine learning algorithms, and statistical analysis
+- Programming skills in Python, Java, C#
+- Strong analytical and problem-solving skills
+
+Responsibilities:
+- Design, implement and maintain scalable data pipelines for data collection, processing and storage
+- Develop and maintain ETL processes for data integration and transformation 
+- Design and implement optimal data models to support analytics and machine learning
+- Monitor and optimize performance of data pipelines and databases
+- Identify and resolve data pipeline bottlenecks and issues
+- Stay up-to-date on latest advancements in data engineering and data science
+- Share knowledge and mentor junior team members

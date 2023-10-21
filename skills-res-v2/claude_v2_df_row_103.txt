@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- GCP
+- Data Warehousing  
+- GIT
+- Airflow (2 years)
+- Python (3 years)
+- SQL
+- Spark (3 years)  
+- ETL
+
+Responsibilities:
+- Design, develop, and maintain data pipelines and workflows
+- Build and optimize data warehouses 
+- Develop ETL processes for data integration
+- Work with large datasets and data pipelines
+- Produce analytics and reporting from data pipelines and warehouses
+- Write and optimize SQL queries and database procedures
+- Implement best practices for data warehouse architecture and ETL processes

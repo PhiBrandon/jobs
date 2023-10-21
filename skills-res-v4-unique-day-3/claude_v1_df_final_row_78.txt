@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 8+ years experience in development, design, test and implementation of complex database programs using Oracle and third-party tools
+- 4+ years hands-on development using Oracle PL/SQL
+- Experience with oracle functions, procedures, triggers, packages & performance tuning  
+- 2+ years experience developing solutions hosting within major cloud providers like OpenShift, Kubernetes, AWS, Google Cloud and Azure
+- Experience using Agile/SAFE, CI/CD, DevOps tools
+- Support for open-source software community
+- Strong communication, analytical problem solving, and presentation skills
+
+Responsibilities:
+- Design, test and implement complex database programs
+- Hands-on development using Oracle PL/SQL
+- Provide technical assistance and troubleshooting support
+- Develop solutions for cloud platforms  
+- Follow Agile/DevOps methodologies
+- Build relationships across teams
+- Take initiative and ownership of work
+- Automate processes and use Git/CI/CD
+
+https://www.indeed.com/rc/clk?jk=6ca598d4286ea230&from=jasx&tk=1hd1g273r2gvn004&vjs=3

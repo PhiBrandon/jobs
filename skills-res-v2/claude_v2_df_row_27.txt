@@ -1,0 +1,27 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Systems engineering
+- Software development 
+- Business analysis
+- Requirements gathering and documentation
+- Agile/Scrum methodology
+- Azure DevOps or similar tools
+- Data analysis and reporting
+- Data visualization
+- SQL development
+- Microsoft Azure ecosystem
+- Data Lakes/Data Lakehouses
+
+Responsibilities:
+- Capture and document business requirements and use cases
+- Develop system architectures and data schema
+- Track and communicate system development activities
+- Design and execute test plans
+- Support identification of application solutions 
+- Work with SQL developers and Azure engineers
+- Consider security and infrastructure implications
+- Prioritize and communicate requirements and development activities
+- Communicate impact of requirement changes
+- Execute trade-off analyses of alternative solutions
+- Support Authority to Operate (ATO) and production system processes

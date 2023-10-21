@@ -1,0 +1,46 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 7-10 years of experience with Informatica Cloud IDMC platform – Batch and Real Time Integration
+- 5-7 years of experience with Snowflake and SQL Server 
+- Experience using source control tools such as GIT
+- Advanced experience with SQL
+- Experience working with Informatica Cloud Data Governance/Data Catalog tool
+- 5-7 years of experience with Performance Tuning and Optimization methodologies
+- Demonstrated experience with Data Warehouse/Data Lakehouse design, development and testing
+- Experience with Kimball & Inmon Data Warehouse methodologies
+- Experience working with dimensional models
+- Experience understanding change data capture concepts and related implementation options
+- Proficiency in data formats such as XML, CSV and JSON
+- Proficiency in typical integration technologies such as HTTP, JMS, JDBC, REST, SOAP, WebServices and APIs 
+- Proficiency with Java
+- Ability to work in an agile matrix managed environment
+- Ability to multitask, prioritize, and manage time efficiently
+- Accurate and precise attention to detail
+- Excellent analytical, quantitative, and organizational skills
+- Ability to document procedures and build work instructions
+- Knowledge of Microsoft Office and Office 365
+
+Responsibilities:
+- Design, develop, and maintain Cloud Data Warehouse and analytics architecture
+- Gather and document business requirements  
+- Create and document technical needs and designs for ETL processes and databases
+- Design, develop, and support new and current ETL processes  
+- Consolidate and optimize available data warehouse infrastructure
+- Design and implement ETL procedures for intake of data from both internal and external sources
+- Design and implement ETL processes and architecture to ensure accurate functioning of analytics
+- Ensure that all design and code is compliant with data governance rules and standards
+- Provide support for Data Governance processes by populating metadata and data lineage into Data Catalog tool
+- Collaborate with business and technology stakeholders in ensuring data warehouse architecture development and utilization
+- Carry out monitoring, tuning, and database performance analysis
+- Perform the design and extension of data marts, meta data, and data models
+- Ensure all data warehouse architecture code are maintained in a version control system
+- Manage aspects of the warehouse such as data sourcing migration, quality, design and implementation
+- Identify, research, and resolve technical problems as well as answer user questions
+- Serve as a point of escalation and resolution for data integrity or performance issues and outages
+- Serve as a technical resource to other teams and projects for developing database integrations with other corporate systems
+- Implement integrations via APIs and/or no-code/low code middleware tools as appropriate to fulfill defined requirements
+- Evaluate current system capabilities to identify changes that need to be made
+- Develops and maintains all system related documentation
+
+https://www.indeed.com/rc/clk?jk=94d26c8b78c2188d&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

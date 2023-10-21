@@ -1,0 +1,26 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Practical working knowledge of engineering, implementing, operating, and supporting a Data Loss Prevention Platform
+- Understanding of end-to-end implications of DLP implementation 
+- Experience with data protection and cloud tooling (DLP, Data Security, Encryption and CASB)
+- Working knowledge of Cloud Security and supporting Technologies (AWS, Azure, GCP)
+- Experience of information protection and data classification technologies
+- Understanding of vulnerability assessment tools, methodologies, and frameworks 
+- Ability to analyze and interpret vulnerability scan results and data protection requirements, identify risks, and recommend appropriate actions
+- Experience in monitoring and supporting IDS/IPS, Firewall, SIEM, DLP, vulnerability management tools, and log aggregation hardware/software
+- Understanding of networking and infrastructure 
+- Working knowledge of IAM technologies such as AD, AAD, SAML, OAUTH, LDAP, Kerberos, and OpenID
+- Working knowledge of Access Control and supporting concepts
+- Knowledge of ITIL frameworks
+- Strong problem solving and troubleshooting skills
+- Execution capabilities
+
+Responsibilities:
+- Designing, deploying, and maintaining technology to support Sentara Health’s data protection and vulnerability management strategies  
+- Ensuring the security and integrity of the organization's sensitive data and information assets
+- Conducting vulnerability assessments
+- Implementing data protection controls
+- Collaborating with cross-functional teams to mitigate risks
+
+https://www.indeed.com/rc/clk?jk=3d3d61d35b4b3598&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

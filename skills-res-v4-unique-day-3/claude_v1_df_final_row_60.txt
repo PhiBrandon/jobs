@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experienced user of Power BI
+- Experience developing scalable, reliable, and high-impact solutions leveraging the Azure cloud platform 
+- Experience designing, implementing, and maintaining Power BI reports, dashboards, and visualizations
+- Strong collaboration and experience working with remote teams
+- Experience with data transformation tools like AWS Glue, Azure Data Factory, Talend, EAI
+- Knowledge of Azure Data Factory, Azure Data Lake, SQL DW, SQL, Azure App Service
+- Experience with cloud data tools like Microsoft Azure, Amazon S3
+- Knowledge of Python
+- Knowledge of DevOps processes and Infrastructure as Code
+
+Responsibilities:
+- Translate business requirements to technical solutions 
+- Analyze current business practices and identify opportunities to leverage Azure Data & Analytics services
+- Support planning and implementation of data design services
+- Deliver architectures for data solutions using Azure cloud data technologies
+- Design and build Azure Data Pipelines using Databricks
+- Develop and maintain data warehouse schemas, architectures, and databases
+- Expose data to users using Power BI or other visualization platforms
+- Implement metrics and monitoring processes
+
+https://www.indeed.com/rc/clk?jk=16c48fc80404f2f3&from=jasx&tk=1hd1ft1i8joou800&vjs=3

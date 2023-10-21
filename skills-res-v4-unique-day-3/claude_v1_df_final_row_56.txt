@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python 
+- SQL
+- Data modeling
+- ETL pipeline development
+- Data warehousing
+- Cloud platforms like AWS, Azure, Google Cloud
+- Cloud orchestration tools like Airflow, Dagster, Prefect
+- Problem solving
+- Communication
+
+Responsibilities:
+- Design, build, and maintain efficient data pipelines from various sources
+- Perform data cleansing and validation to ensure data quality
+- Act as a data evangelist within the company 
+- Collaborate with leadership, engineers, product managers on data requirements
+- Work with Business Analysts to identify opportunities for automated data acquisition
+- Develop and implement data governance policies
+
+https://www.indeed.com/rc/clk?jk=38d10858e6384637&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Software development experience with languages like Python, Java, C#, C/C++
+- Understanding of statistics and proficiency with data analysis
+- Experience processing and integrating various types of medical data 
+- Experience selecting and organizing data for training/validating algorithms
+- Hands on experience with AWS technologies for data intensive tasks
+- Experience creating data pipelines to transform raw data into insights
+- Familiarity with machine learning libraries like pandas and scikit-learn
+
+Responsibilities:
+- Define technical requirements and plan for validation/release activities
+- Design and code data pipelines to transform raw data 
+- Perform exploratory research with physiological data
+- Develop, test, and document proof-of-concept algorithms/tools
+- Participate in software development life cycle, testing, and regulatory submissions
+- Update design history files and participate in risk management
+- Develop and monitor testing regimes for code/data integrity
+- Maintain documentation and clean codebase

@@ -1,0 +1,27 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Azure Databricks
+- PySpark
+- Scala 
+- Snowflake (at least for 1 resource)
+- ADF
+- CICD
+- Airflow
+- SQL
+- Cloud Databases
+- Understanding of Agile methodologies
+
+Responsibilities:
+- Understand business requirements
+- Understand source systems, data formats, and data sources
+- Design and build data ingestion pipelines  
+- Design and build complex data processing pipelines
+- Assist with data-related technical issues and support stakeholder data needs
+- Build programs for data quality checks
+- Provide operational support
+- Ensure pipelines adhere to enterprise standards, usability, and performance
+- Involve in system testing, UAT, and code deployment activities
+- Coordinate with offshore team regularly
+
+https://www.indeed.com/rc/clk?jk=647e801f97a01cca&from=jasx&tk=1hd43k4db21ci002&vjs=3

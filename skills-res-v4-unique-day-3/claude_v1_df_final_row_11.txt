@@ -1,0 +1,28 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Data migration strategy development 
+- Data engineering
+- Data integration across multiple data types and sources
+- Day-to-day operations of data-driven systems to ensure timely and secure data processing and transfer
+- System design evaluation and improvement for high availability and low latency
+- Data integration and migration planning and design
+- Data pipeline development for various data sources and consumers
+- Code development for performance and reliability of data extraction and processing  
+- Application maintenance (upgrades, patches, configuration)
+- Cloud computing experience (AWS)
+- Data lakes/warehouses (DeltaLake)
+
+Responsibilities:
+- Provide support for data migration, integration of existing systems  
+- Develop integration and migration plans
+- Build and implement integration and migration plans
+- Manage, store, parse and manipulate data across pipelines
+- Assist with maintenance of data applications/tools
+- Collaborate with teams on requirements 
+- Participate in agile/scrum teams following best practices
+- Advocate for lean-agile principles like API design, testing, version control
+- Drive technical strategy and progress on objectives
+- Generate technical strategy documentation for diverse audiences
+
+https://www.indeed.com/rc/clk?jk=fdd1d18770845207&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

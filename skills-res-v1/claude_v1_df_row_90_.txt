@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Programming languages: Java, Scala, Python 
+- Databases: RDBMS, NoSQL, Cloud data warehousing services like Snowflake
+- Big data technologies: Cassandra, Accumulo, HBase, Spark, Hadoop, HDFS, AVRO, MongoDB, Zookeeper
+- Streaming data: Spark Streaming, Kafka, Kinesis, Flink
+- Public clouds: AWS, Azure, Google Cloud
+- DevOps: Ansible, Terraform
+- Agile methodologies
+- Hadoop ecosystem: MapReduce, Pig, Hive, HBase
+- UNIX/Linux commands
+
+Responsibilities:
+- Collaborate with teams to design, develop, test, and support technical solutions
+- Work with a team of developers experienced in machine learning, microservices, and full stack systems  
+- Stay on top of tech trends and learn new technologies
+- Collaborate to deliver cloud-based solutions
+- Perform testing and code reviews
+- Solve complex business problems
+- Mentor other engineers

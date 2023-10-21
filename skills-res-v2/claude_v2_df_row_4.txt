@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL/TSQL development 
+- SSIS package development
+- Data modeling and ETL
+- Data analysis and report development
+- Working with relational databases, structures and design
+- Data management, data warehousing
+
+Responsibilities:
+- Work in an Agile framework, utilize agile tools like RallyDev
+- Build, maintain and adhere to data governance processes
+- Ensure data quality and accuracy
+- Identify and resolve data issues 
+- Build business intelligence tools like segmentation, dashboards, visualizations, decision aids, business case analysis
+- Perform analysis, interpret results, develop insights and recommendations 
+- Manage and protect data, adhere to legal/regulatory requirements 
+- Define long-term strategies for process and data/reporting improvements
+- Review and identify appropriate data infrastructure 
+- Develop business context diagrams, analyze project requirements
+- Collaborate with stakeholders to identify business requirements
+- Track progress and update project documentation

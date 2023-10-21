@@ -1,0 +1,23 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Data engineering 
+- Data modeling and analysis using SQL, Python, PySpark, Jupyter notebooks
+- Apache Spark, Databricks, Kafka
+- Azure Data Factory, Azure cloud technologies
+- Programming languages like Python
+- Databases like Snowflake, Netezza, Oracle, SQL Server, MySQL, Teradata
+- DevOps practices and tools like Azure DevOps, Gitlab
+- Data modeling and pipelines using metadata-driven approach
+
+Responsibilities:
+- Build complex data pipelines and ingestion systems
+- Perform data modeling, analysis and wrangling  
+- Automate data quality testing and auditing frameworks
+- Answer business queries by analyzing data
+- Lead engineering team and set standards/best practices
+- Design metadata-driven data platforms for self-service
+- Setup data monitoring, alerting and support SLAs
+- Continuously improve processes, adopt new technologies
+- Train and support business/tech teams on data
+- Document data flows, models and support processes

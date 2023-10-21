@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Proficiency in Python
+- Familiarity with Postgres, Elasticsearch, HTML/CSS/JS 
+- Understanding of web services and distributed systems
+- Problem-solving, attention to detail
+- Linux experience preferred
+
+Responsibilities:
+- Collaborate with team to understand needs, design features, support crawling and preservation
+- Implement, test and maintain software across tech stack
+- Develop, monitor and maintain the Archive-It partner application
+- Improve distributed system for web crawls, preservation, indexing, deduplication
+- Participate in code reviews 
+- Document architecture, software and features

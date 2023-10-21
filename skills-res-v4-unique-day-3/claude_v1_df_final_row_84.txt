@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of software engineering experience, with at least 2+ years in data engineering
+- Python and SQL 
+- Architecting solutions on AWS and designing for scale
+- DevOps experience and ability to operationalize code
+- Data analysis
+- Testing/validations for data pipelines  
+
+Responsibilities:
+- Designing, implementing, deploying and operating data pipelines and platforms
+- Writing code for data pipelines and reviewing others' code
+- Prototyping and iterating tools for data review 
+- Determining the data roadmap and prioritizing tasks
+- Analyzing current and future data sets 
+- Being a leader on the data team
+
+https://www.indeed.com/rc/clk?jk=f8bf5f4c80df4dc1&from=jasx&tk=1hd1g2n5fjm7b800&vjs=3

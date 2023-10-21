@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data pipeline, database, and cloud platform design, building, and maintenance
+- Data integration, transformation, and warehousing 
+- SQL, T-SQL, Microsoft SQL Server, SSIS
+- Data analysis and problem-solving
+- Statistical modeling and machine learning (preferred)
+
+Responsibilities:
+- Manage research databases and platforms 
+- Integrate and transform health data from various sources into research-ready formats
+- Build and maintain datasets and data marts
+- Monitor and maintain data pipelines 
+- Design new research data pipelines and platforms
+- Create scripts and programs to automate data operations
+- Prepare technical documentation and metadata
+- Provide technical consultation to research partners and personnel
+- Perform other duties as requested by the research team

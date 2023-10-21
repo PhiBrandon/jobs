@@ -1,0 +1,15 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience with relational databases, data warehouses, data lakes, and distributed processing systems
+- Knowledge of stream processing and solutions like Kafka/Kinesis
+- Proficiency in Python
+- Familiarity with ETL tools like Airflow
+- Knowledge of AWS data services (Aurora, DocumentDB, OpenSearch, Redshift, Glue, MSK, Kinesis, etc)
+
+Responsibilities:
+- Operate, improve, and extend existing data infrastructure
+- Support performance improvements for reports, listings, searches, and analytics
+- Collaborate with DevOps to identify and fix data infrastructure issues 
+- Work with ETL and streaming solutions
+- Review features and requirements, design and implement solutions with data engineers, data scientists, developers, and designers

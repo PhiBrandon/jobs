@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Advanced knowledge of distributed systems design and development 
+- Strong fluency in Java programming
+- Experience with JVM performance tuning and optimization
+- Advanced working knowledge of concurrency, sockets, networking, operating systems, memory management, runtimes, portability
+- Experience diagnosing issues and troubleshooting
+- Nice to have: Experience with streaming systems (Kafka, Pulsar, etc.), Kafka, relational databases, DevOps environment
+
+Responsibilities:
+- Design and build highly innovative interactive high performant solutions with scalability and quality
+- Design software that is simple to use and allows customization 
+- Build high-quality, scalable, and reusable code enforcing best practices
+- Design tools, libraries and frameworks with long term platform mindset  
+- Lead and coordinate work cross functionally to improve architecture
+- Work with product owners to understand requirements and own code
+- Contribute to new products/features and enhance existing products
+- Manage projects with technical risk at team level
+- Explore and evaluate new technologies to improve platform
+- Be a mentor and promote knowledge sharing
+
+https://www.indeed.com/rc/clk?jk=e56b7ba5eba022d3&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

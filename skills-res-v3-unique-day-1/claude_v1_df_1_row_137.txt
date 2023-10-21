@@ -1,0 +1,25 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong foundations in software engineering
+- Deep hands-on experience in complex system design and data pipeline and architectures, scale and performance, tuning, with good knowledge on Docker and Kubernetes 
+- Professional experience in software development at least one modern programming language, including Go, Python, Java, or Rust
+- Hands-on experience with public and/or private cloud environments (OpenShift, Kubernetes, Azure, AWS, GCP, etc.)
+- Experience and technical knowledge of security engineering, system and network security, authentication and security protocols and cryptography
+- Experience in CI/CD pipeline and related open-source tools like GIT/Jenkin/CircleCI/SonarQube and knowledge in Terraform will be big plus
+- Demonstrated ability to design and implement resilient, scalable, and efficient solutions
+- Strong problem-solving abilities and a proactive approach to identifying and mitigating risks
+- Excellent communication skills, able to communicate complex technical concepts to technical and non-technical stakeholders
+- Knowledge on Open-source monitoring software like Grafana and Prometheus
+
+Responsibilities:
+- Lead the strategy and execution of a technical roadmap that will increase the velocity of delivering products and unlock new engineering capabilities
+- Focus on multiple areas and provide technical and thought leadership to the enterprise
+- Collaborate with product managers, team members, customers, and other engineering teams to solve our toughest problems  
+- Develop and execute technical software development strategy for the IaaS Engineering domain, while optimizing for performance and efficiency
+- Own accountability for the quality, usability, and performance of the solutions
+- Be a role model and mentor, helping to coach and strengthen the technical expertise and know-how of our engineering and product community. Influence and educate executives
+- Consistently share best practices and improve processes within and across teams
+- Analyze cost and forecast, incorporating them into business plans
+- Determine and support resource requirements, evaluate operational processes, measure outcomes to ensure desired results, demonstrate adaptability and sponsor continuous learning
+- Take on-call and operation support

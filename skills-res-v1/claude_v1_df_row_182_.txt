@@ -1,0 +1,18 @@
+ Here are some key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL and Python programming
+- Data engineering 
+- Database management (Snowflake, AWS, MongoDB)
+- Data orchestration tools like Dagster and Airflow
+- Strong problem-solving, analytical, communication and organizational skills
+
+Responsibilities:
+- Design, develop and maintain data pipelines 
+- Ingest and transform data from various sources
+- Ensure data quality, integrity and pipeline reliability
+- Document data pipelines and systems
+- Monitor and optimize pipeline performance
+- Troubleshoot data issues and provide technical support
+- Collaborate with data scientists and analysts  
+- 3+ years experience working with large databases

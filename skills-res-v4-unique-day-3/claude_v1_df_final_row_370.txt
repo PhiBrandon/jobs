@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data analysis of large database tables 
+- Data warehousing architecture, design and implementation/migration
+- Extract-Transform-Load (ETL) development 
+- ETL concepts, tools, and data structures
+- Relational databases and query tools/BI tools like Power BI or OBIEE
+- Hadoop ecosystem including HDFS, YARN, Hive, Pig, Spark, Kafka, Storm
+- Cloud platforms like AWS, Azure
+- Continuous Integration & Continuous Development tools 
+- Excellent communication and problem solving skills
+
+Responsibilities:
+- Data analysis of large databases to understand structures and patterns
+- Assisting with data needs and supporting data collection 
+- Implementing cloud techniques and workflows
+- Responding to data queries/analysis requests
+- Documenting data definitions
+- Source code control using GitLab
+- Multitasking and working in both team and independent environments
+
+https://www.indeed.com/rc/clk?jk=2e42f3bb52125beb&from=jasx&tk=1hd95ff4chbht800&vjs=3

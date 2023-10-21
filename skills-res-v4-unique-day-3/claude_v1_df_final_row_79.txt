@@ -1,0 +1,17 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Azure Data Engineering
+- RDBMS 
+- Airflow
+- ADF (Azure Data Factory)
+- APIs
+- ETL Knowledge
+- Python
+- Communication
+
+Responsibilities:
+- Provide Level 1 support for job monitoring, re-running failed jobs, analyzing reasons for failures, and bug fixes
+- Strong expertise in Azure Cloud
+
+https://www.indeed.com/rc/clk?jk=e7aca82a03dbb9b5&from=jasx&tk=1hd1g273r2gvn004&vjs=3

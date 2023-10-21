@@ -1,0 +1,15 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Demonstrated expertise in Data Center Infrastructure Management (DCIM) 
+- Proficient in using DCIM software, with a specific emphasis on Sunbird DC Track
+- Experience with ServiceNow is highly desirable
+- Expertise in Subird DC Track DCIM Software is a critical factor for this role
+- Familiarity with other DCIM software solutions, such as PowerIQ and TigerEyes 
+
+Responsibilities:
+- Serve as the primary owner and administrator of the DCIM platform, responsible for its day-to-day operations, maintenance, and periodic audits
+- Collaborate with cross-functional teams to ensure seamless integration and operation of data center infrastructure
+- Stay updated with industry best practices and emerging technologies to recommend and implement improvements in data center operations
+
+https://www.indeed.com/rc/clk?jk=15a24cf7d36918c8&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3

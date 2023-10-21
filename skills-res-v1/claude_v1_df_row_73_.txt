@@ -1,0 +1,29 @@
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- Data Engineering
+- Azure 
+- Kubernetes
+- Machine Learning
+- Python
+- Spark
+- Jupyterhub
+- MLflow
+- Databricks
+- Kubeflow
+- HELM
+- Argo Workflow
+
+Responsibilities:
+- Develop, implement, and maintain technical software applications
+- Lead and coach a small team
+- Design, develop, test, deploy machine learning pipelines using Kubernetes/AKS
+- Participate in design reviews to decide on technologies and deliverables
+- Work closely with data and science teams to understand data and models
+- Implement real-time workflows and integrate with models
+- Develop distributed ML pipelines for training and inference 
+- Build scalable backend APIs for data collection
+- Deploy applications in AKS using DevOps tools like GitLab, Jenkins, Docker, Helm
+- Review code and provide feedback to ensure best practices
+- Debug, track, and resolve issues
+- Perform functional, benchmark, and performance testing

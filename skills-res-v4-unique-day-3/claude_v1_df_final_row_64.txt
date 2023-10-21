@@ -1,0 +1,17 @@
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Strong knowledge of AWS services like S3, RDS, EC2, Lambda, SQS, SNS, Redshift 
+- Experience with Java and databases like Oracle, PostgreSQL
+- Python development with 10+ years of experience
+- Experience with AWS Lambda functions
+- Experience with AWS SNS and SQS
+
+Responsibilities:
+- Develop solutions using AWS services like S3, RDS, EC2, Lambda, SQS, SNS, Redshift
+- Work with Java and relational databases
+- Develop Lambda functions
+- Leverage AWS SNS and SQS in solutions
+- Preferred experience with Java, Python, Redshift
+
+https://www.indeed.com/rc/clk?jk=6154aa92888e85ea&from=jasx&tk=1hd1ft1i8joou800&vjs=3

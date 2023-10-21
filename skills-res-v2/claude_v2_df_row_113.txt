@@ -1,0 +1,12 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong knowledge of AWS services (S3, RDS, EC2, Lambda, SQS, SNS, Redshift)
+- Strong Python development experience (10+ years)
+- Knowledge of Java and databases (Oracle, Postgres)
+
+Responsibilities:
+- Develop and maintain AWS architecture using services like S3, RDS, EC2, Lambda, SQS, SNS, Redshift
+- Write Python code for AWS data engineering tasks 
+- Integrate AWS services with databases like Oracle and Postgres
+- Experience working with large datasets in AWS

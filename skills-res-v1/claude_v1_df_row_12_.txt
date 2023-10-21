@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data management 
+- Database administration
+- Data engineering
+- Data analysis
+- Data profiling
+- Data design
+- Data visualization
+- Report building
+- Analyzing large data sets
+- Optimization models
+- Agile development
+- Scaled Agile Framework (SAFe)
+
+Responsibilities:
+- Implement changes to legacy NCIC system 
+- Enable agile development of new N3G system
+- Perform data profiling, design, management 
+- Generate test data
+- Work with IT and business stakeholders on data architecture
+- Synthesize and analyze extremely large datasets

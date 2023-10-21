@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL and T-SQL code development 
+- Python programming
+- Databricks
+- Azure Data Factory
+- Data lake technologies like ADLS Gen. 2, AWS S3, AWS Glue
+- Logical data modeling for visualization tools like Tableau, Power BI, Sigma
+- Object-oriented programming
+- Pandas library 
+
+Responsibilities:
+- Implementing, maintaining and supporting data management solutions
+- Program/project delivery
+- Designing, building and deploying data solutions
+- Working with very large datasets
+- Owninging the entire data/analytics process from business requirements to production
+- Mentoring other data engineers
+- Building data pipelines in Azure Data Lake
+- Being able to deal with ambiguity and learn new technologies

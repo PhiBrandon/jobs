@@ -1,0 +1,36 @@
+ Here are the key skills and responsibilities I extracted from the job description:
+
+Skills:
+- Python programming for big data management 
+- PostgreSQL or other relational databases
+- Docker
+- Kubernetes 
+- Git
+- Generative AI/Large language models (LLMs)
+- GIS tools like ESRI
+- Amazon Web Services 
+- Elasticsearch
+- Data pipeline tools like Pachyderm
+- Handling large (100+ Gb) datasets
+- Climate action data like emissions, targets, plans
+- Geographical data (physical and political)
+- Satellite and remote sensing data 
+- RESTful web APIs
+- Engineering leadership
+- Open source project management
+- Machine learning for data analysis
+
+Responsibilities:
+- Design, build and maintain data pipelines
+- Import and update large datasets into databases
+- Define and maintain database schemas 
+- Optimize schemas for APIs and web apps
+- Collaborate with software engineers 
+- Mentor junior data engineers
+- Define and maintain data processes
+- Develop schedules, estimate tasks
+- Work with product managers 
+- Coordinate with open source contributors
+- Define interoperability standards
+- Participate in team building
+- Other duties as assigned

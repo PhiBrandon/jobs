@@ -1,0 +1,30 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3+ years of real-world data engineering development experience in Snowflake and AWS (certifications preferred)
+- Proficient in Snowflake services like snowpipe, stages, stored procedures, views, materialized views, tasks and streams
+- Strong programming skills in SQL 
+- Knowledge of data security measures in Snowflake like role-based access control and data encryption
+- Proficient in programming languages like Python, Scala
+- Knowledge of SDLC tools like Jira, GitHub, CI/CD, code repositories
+- Experience with data integration from various sources
+- Understanding of data modeling and database design principles
+- Experience with ELT/ETL tools and custom integration solutions
+- Experience with distributed data technologies like Spark, DBT, Kafka
+- Experience designing data warehousing solutions in AWS with Redshift  
+- Experience with orchestration using Apache Airflow
+- Expert knowledge of AWS services like Lambda, Kinesis, S3, EC2, IAM, CloudWatch, Redshift
+- Understanding of data quality and governance 
+
+Responsibilities:
+- Develop and maintain data pipelines to move data from source to destination
+- Ensure reliability, scalability and efficiency of data systems
+- Configure and manage Snowflake data warehousing and data lake solutions
+- Collaborate with product, engineering and data teams on requirements
+- Contribute to data quality assurance efforts
+- Evaluate new technologies and expand skills
+- Design and implement data governance strategies  
+- Document data engineering processes and flows
+- Address complex data issues and resolve bottlenecks
+- Assess best practices and design schemas
+- Participate in Agile processes and continuous improvement

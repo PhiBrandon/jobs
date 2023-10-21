@@ -1,0 +1,22 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Expertise in building and supporting big data systems that help utility companies and people reduce their energy usage and carbon footprint.
+- Hands-on usage of a data mocking or masking tool to ensure that private customer data remains secure. 
+- Google Cloud Platform (Preferred), AWS or other cloud service provider experience.
+- Understanding of the agile software development lifecycle including: scoping, detailed design, effort estimation, implementation, debugging, maintenance and support.
+- Demonstrable knowledge of how to write effective unit and functional tests.
+- Experience using a data masking or mocking tool such as Tonic or Mockaroo.
+- Experience with Apache Airflow, Matillion, Python, Spark or other data engineering tools.
+- Experience building data pipelines or ETL/ELT processes. 
+- Experience with cloud infrastructure and SaaS environments.
+
+Responsibilities:
+- Work with data ingestion team, platform team SRE and other stakeholders to ensure systems operate efficiently by resolving issues and proactively implementing stability and automation improvements.  
+- Focus on hands-on usage of a data mocking or masking tool to ensure private customer data remains secure.
+- Be capable of prioritizing work to adhere to a deliverable schedule and ensure successful delivery that exceeds expectations.
+- Be ready, able and willing to collaborate with a partner or colleague to help solve problems.
+- Have a strong eye for detail and quality of code.
+- Dig into hard problems and enjoy experimenting to come up with simple, pragmatic solutions.
+
+https://www.indeed.com/rc/clk?jk=21025ed51ea9aa9f&from=jasx&tk=1hd43k4db21ci002&vjs=3

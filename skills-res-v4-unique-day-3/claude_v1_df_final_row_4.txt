@@ -1,0 +1,41 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Data pipeline development 
+- Data integration
+- Data transformation and processing
+- SQL
+- Data modeling
+- Software engineering principles
+- Data orchestration using ADF, Airflow etc
+- Experience with real-time and batch data
+- Cloud deployments on AWS, Azure or GCP
+- Hive, HBase, Presto
+- Window functions and advanced SQL features
+- DevOps tools, Git workflow, CI/CD pipelines
+- Data governance
+- Agile/scrum methodologies
+- Azure Data Factory 
+- Azure Databricks
+- Snowflake
+- Shell scripting 
+- Python
+- Apache Spark and related big data technologies
+- Apache Kafka
+- Kubernetes and Docker
+- Cloud infrastructure automation like Terraform
+- Machine learning and AI model development
+
+Responsibilities:
+- Develop and maintain data pipelines 
+- Ensure smooth data flow from sources to destinations
+- Integrate data from multiple sources
+- Develop data transformation routines
+- Contribute to frameworks and best practices
+- Implement data governance standards
+- Design analytic pipelines with business/product teams  
+- Explore new tools and techniques for cloud environment
+- Monitor data pipelines and systems
+- Develop monitoring tools, alerts and error handling
+
+https://www.indeed.com/rc/clk?jk=7f70c2bb5373b7a9&from=jasx&tk=1hd1fm1o6iman800&vjs=3

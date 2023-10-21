@@ -1,0 +1,26 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong foundations in software engineering
+- Deep hands-on experience in complex system design and data pipeline and architectures, scale and performance, tuning
+- Experience with Docker and Kubernetes  
+- Experience with public/private cloud environments like OpenShift, Kubernetes, AWS, Azure, GCP
+- Experience in security engineering, cryptography, authentication protocols
+- Experience with CI/CD pipelines and tools like Git, Jenkins, CircleCI, SonarQube 
+- Experience with Terraform
+- Problem solving abilities
+- Communication skills
+- Knowledge of monitoring tools like Grafana and Prometheus
+
+Responsibilities:
+- Provide technical and thought leadership
+- Collaborate with teams to solve problems  
+- Develop technical strategy for the domain
+- Own accountability for solution quality, usability, performance
+- Mentor and strengthen technical expertise of others
+- Share best practices and improve processes
+- Analyze costs and support resource requirements
+- Determine and support resource needs
+- Take on-call and operations support
+
+https://www.indeed.com/rc/clk?jk=9db0754fcf79928c&from=jasx&tk=1hd1fvosi2gtk000&vjs=3

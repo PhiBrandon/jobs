@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience in application development
+- 5+ years of experience designing, developing, operationalizing and maintaining complex data applications at enterprise scale  
+- 3+ years of experience creating software for retrieving, parsing and processing structured and unstructured data
+- 3+ years of experience building scalable ETL/ELT workflows for reporting and analytics
+- Experience creating solutions within a collaborative, cross-functional team environment
+- Ability to develop scripts and programs for converting various types of data into usable formats and support project team to scale, monitor and operate data platforms
+- Experience with Python, SQL, Scala, Java, Unix/Linux, AWS, Azure, GCP, Spark, Databricks, Hadoop, Hive, AWS EMR, Kafka, MongoDB, Cassandra, AWS Redshift, MySQL, Snowflake
+- Experience with Agile engineering practices
+
+Responsibilities:
+- Implement data engineering activities on mission-driven projects
+- Deploy and develop pipelines and platforms that organize and make disparate data meaningful
+- Work with and guide a multi-disciplinary team in a fast-paced, agile environment
+- Use experience in analytical exploration and data examination while managing the assessment, design, building and maintenance of scalable platforms
+- Manage the retrieval, parsing and processing of structured and unstructured big data
+- Build scalable ETL/ELT workflows for reporting and analytics
+- Develop scripts and programs to convert data into usable formats
+- Scale, monitor and operate data platforms

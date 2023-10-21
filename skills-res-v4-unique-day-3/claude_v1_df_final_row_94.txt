@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Expertise in data analysis and wrangling using SQL, Python, Databricks
+- Experience designing and building complex data pipelines in an agile environment 
+- Expert SQL knowledge on databases like Snowflake, Netezza, Oracle, SQL Server, MySQL, Teradata
+- Hands-on experience building metadata driven data pipelines using Azure Data Factory, Databricks/Spark for Cloud Data Lakes
+- Experience working in a multi-developer environment using source control tools like Azure DevOps or Gitlab
+- Functional knowledge of technologies like Terraform, Azure CLI, PowerShell, Kubernetes, Docker
+- Knowledge of reporting tools like Power BI, Tableau, OBIEE
+
+Responsibilities:
+- Build data pipelines, model and prepare data, perform complex data analysis
+- Lead and guide a team, evangelize design patterns and coding standards
+- Define data standards, design patterns, accelerators with engineering teams  
+- Create and maintain data ingestion, quality testing and audit frameworks
+- Build and automate data ingestion, transformation and aggregation pipelines
+- Setup and promote self-service metadata driven data pipelines  
+- Setup and improve data quality monitoring, auditing and alerting
+- Evaluate process automation options and review architecture designs
+- Adhere to and enhance design principles and documentation
+- Participate in data training and literacy programs
+- Respond to SLA-driven production data quality or pipeline issues
+
+https://www.indeed.com/rc/clk?jk=651209e06d4f7358&from=jasx&tk=1hd1g3s5pjfnq801&vjs=3

@@ -1,0 +1,14 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 4+ years of experience in data extraction and creating data pipeline workflows on Bigdata (Hive, HQL/PySpark) 
+- Knowledge of Data Engineering concepts
+- Experience in analyzing large data sets from multiple data sources, perform validation of data
+- Knowledge of Hadoop eco-system components like HDFS, Spark, Hive, Sqoop
+- Experience writing codes in Python
+- Knowledge of SQL/HQL to write optimized queries
+- Hands on with GCP Cloud Services such as Big Query, Airflow DAG, Dataflow, Beam etc.
+
+Responsibilities:
+- Ability to build a migration plan in collaboration with various stakeholders
+- Analytical, problem-solving and excellent comm skills

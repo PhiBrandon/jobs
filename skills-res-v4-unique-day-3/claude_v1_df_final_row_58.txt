@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience with Microsoft database and BI technologies, including Azure Data Lake Storage, Azure Data Factory, Azure SQL DW, Azure Synapse, Databricks, Spark, and Python
+- Knowledge of cloud data analytics platforms
+- Programming skills in PowerShell, Python, SQL
+- Experience with data transformation techniques 
+- Data modeling and database design skills
+- Strong communication, collaboration skills
+
+Responsibilities:
+- Implement analytics solutions and produce ETL scripts  
+- Use PowerBI/dashboards to support problem identification and resolution
+- Develop and maintain documentation on operational and design aspects of platforms
+- Troubleshoot and resolve issues
+- Build awareness and drive adoption of modern technologies
+- Effectively communicate with and influence stakeholders
+- Operate as a trusted advisor for technology domains
+- Define and implement strategies for extracting, transforming, and loading data
+- Prepare data for various types of analysis like descriptive, diagnostic, predictive etc.
+- Perform data analysis, tuning and testing
+
+https://www.indeed.com/rc/clk?jk=4e41a47b763034ef&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

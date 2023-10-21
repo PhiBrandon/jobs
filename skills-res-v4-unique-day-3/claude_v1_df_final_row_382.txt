@@ -1,0 +1,30 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data architecture, design, and delivery of data solutions
+- Data visualization and business intelligence tools 
+- AWS data architecture, design, data modeling, and optimization
+- Experience designing solutions across disparate structures using Redshift and other AWS tools/services
+- Collaboration with multiple stakeholders 
+- Business requirements gathering and data solution design
+- Problem solving and issue resolution
+
+Responsibilities:
+- Focuses on data architecture, design, and delivery of data solutions
+- Designs, implements, and maintains data solutions based on requirements
+- Provides feedback on data architecture, design, and solutions
+- Identifies needed data sources and delivers optimal solutions 
+- Partners with teams to ensure all needed data is incorporated
+- Develops and maintains automated processes 
+- Develops data quality metrics and ensures standards compliance
+- Leads analysis, planning and implementation of data solutions
+- Serves as a liaison with functional groups around data and BI
+- Conducts business data analysis to support reporting and decisions
+- Leverages external reporting solutions to support data needs
+- Understands and supports the data ecosystem
+- Creates processes for data movement and aggregation
+- Designs models for combining data from sources
+- Ensures governance standards are followed 
+- Reviews and modifies existing assets as needed
+
+https://www.indeed.com/rc/clk?jk=51e0161aa5f1d9c6&from=jasx&tk=1hd95ff4chbht800&vjs=3

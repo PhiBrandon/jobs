@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years experience in SQL Query Design, SQL Performance Tuning and Query Optimization
+- 5+ years of relevant experience in Data Warehouse Design,Data Warehouse Technical Architectures, Development and Implementation 
+- 5+ years of relevant experience in ETL Development, ETL Implementation, Unit Testing, Troubleshooting and Support of ETL Processes
+- 2+ years of relevant experience with the application of Data Science principles and data modeling.
+- Proficiency in SQL Query Design and Implementation
+- Strong Experience with Relational Data Warehouse Systems
+- Knowledge of data science concepts, machine learning algorithms, and statistical analysis.
+- Programming skills in languages such as Python, Java, or C# required.
+- Strong analytical and problem-solving skills
+
+Responsibilities:
+- Design, implement, and maintain scalable data pipelines to collect, process, and store data from various sources.
+- Ensure data quality, accuracy, and consistency throughout the pipeline.  
+- Design and implement data models for predictive analytics, machine learning, and data exploration.
+- Optimize data structures and storage to support efficient querying and analysis.
+- Work closely with cross-functional teams to integrate data from diverse sources, including databases, APIs, and external data providers.
+- Develop and maintain ETL processes to transform and enrich raw data into actionable insights.
+- Monitor and optimize the performance of data pipelines and databases to meet business requirements.
+- Identify and resolve bottlenecks and performance issues.
+- Stay up-to-date with the latest advancements in data engineering and data science technologies.
+- Share knowledge and mentor junior team members.

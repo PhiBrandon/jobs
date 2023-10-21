@@ -1,0 +1,29 @@
+ Based on the job description, here are the key skills and responsibilities for the Data Engineer role:
+
+Skills:
+- Python 
+- SQL
+- Hadoop
+- Spark
+- Java
+- R
+- ElasticSearch
+- Palantir Foundry
+- Relational database concepts
+
+Responsibilities:
+- Development and support of data pipelines
+- Handle data pipelines for data curation, parsing, cleaning, transformation and enrichment
+- Work with ETL methodologies  
+- Implement projects using agile methodology
+- Review and analyze business workflows and user data needs
+- Design and implement business performance dashboards
+- Write queries/programs to generate reports and KPIs
+- Build applications using SQL and Python to manipulate data
+- Design, build and maintain end-to-end data solutions  
+- Have working knowledge of Apache Spark and big data processing
+- Construct workflow charts and diagrams
+- Document end-to-end data pipeline process
+- Document data assets for information management
+- Provide ad hoc team/business support
+- Explore and evaluate new technologies

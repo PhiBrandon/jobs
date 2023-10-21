@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Network design and deployments of campus and data center networks including leaf-spine architectures
+- Cisco enterprise routing/switching within large data center enterprise customers (Catalyst, Nexus, ASR)  
+- Ethernet, VLANs, VxLAN, EVPN, IP Routing, TCP/IP, OSPF, BGP, eBGP, Multicast, QoS
+- Perl, Python, scripting for network automation
+- Arista configuration and CloudVision
+- Excellent customer service and communication skills
+- Written documentation and ticket tracking skills
+
+Responsibilities:
+- Provide advanced post-sales support for large data center networking deployments
+- Review customer network designs and make recommendations
+- Assist with migration, interconnection and change controls
+- Assist with proof of concepts and testing to validate designs
+- Provide interface to technical support and development teams  
+- Design network solutions using routing protocols and EVPN/VXLAN expertise
+- Establish and maintain partner relationships
+- Meet Service Level Agreements for clients
+- Maintain professional relationships with stakeholders
+- Some travel may be required

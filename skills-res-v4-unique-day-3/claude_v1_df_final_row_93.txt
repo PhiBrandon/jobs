@@ -1,0 +1,25 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL and relational databases (e.g. PostgreSQL, MySQL)
+- Data modeling techniques and tools
+- ETL/ELT frameworks and tools (e.g. Informatica, Apache Spark, Airflow, AWS Glue) 
+- Data warehousing
+- Cloud data platforms (e.g. Snowflake, AWS, Google Cloud, Azure)
+- Version control systems (e.g. Git)  
+- Agile software development
+- JAVA 8, REST APIs, microservices, Spring Boot framework
+- Alteryx
+- UNIX scripting
+
+Responsibilities:
+- Develop, maintain and optimize data pipelines
+- Design and implement data models 
+- Collaborate with cross-functional teams on data needs
+- Work with data scientists, analysts and engineers  
+- Identify and resolve data quality issues
+- Monitor and improve data pipelines and processes
+- Stay up to date on data trends and technologies
+- Provide technical guidance and mentorship
+
+https://www.indeed.com/rc/clk?jk=46368a3a77ba0041&from=jasx&tk=1hd1g40sjjm7l801&vjs=3

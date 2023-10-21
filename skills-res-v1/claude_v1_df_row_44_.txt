@@ -1,0 +1,18 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Python, NodeJs, Typescript
+- Database experience, particularly NoSQL databases (MongoDB, DynamoDB, etc) 
+- Linear algebra, statistics and deep learning concepts
+- Data exploration, visualization, cleaning, and analytics for real-world data modeling
+- AWS, Google Cloud, Azure, and On-Premises
+- Pandas, PyTorch, PySpark
+
+Responsibilities:
+- Building scalable robust infrastructure for data ingestion, storage, and sampling
+- Communicate complex technical concepts effectively to client executives 
+- Develop custom data tools tailored to meet specific client requirements
+- Create and maintain comprehensive technical documentation
+- Provide technical support to resolve complex issues escalated from customer support teams
+- Collaborate with cross-functional teams to diagnose and troubleshoot production incidents
+- Report results back to the customer in clear non-technical language

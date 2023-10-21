@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3+ years experience with MS SQL Server and Snowflake
+- 3+ years experience with ETL/ELT Tools (ex. Mulesoft, API, Informatica) 
+- 3+ years experience using Power BI, Tableau, or similar data visualization tool
+- Expert SQL fluency
+- Experience in data modeling, ETL/ELT, data pipelines, EDW
+- Experience building data warehouse infrastructure and BI tables
+- Strong analytic, problem solving, and troubleshooting skills
+
+Responsibilities:
+- Design, develop and maintain scaled, automated, user-friendly systems, reports, dashboards
+- Write complex data transformation code 
+- Analyze projects for data quality issues and resolve issues
+- Automate standard report creation and sharing using tools or scripts
+- Convert raw data into consumable information applying business logic
+- Ensure data, systems, architecture, business logic, and metrics are documented
+- Support acquisition of external data sets and incorporate into analytics database
+- Provide insights from data and communicate findings to stakeholders
+- Provide exceptional customer service through project execution

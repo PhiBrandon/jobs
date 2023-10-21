@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data warehousing 
+- Data modeling
+- ETL tools (e.g. Azure Data Factory)
+- SQL and relational databases (SQL Server, Oracle, Postgres, MySQL) 
+- Cloud technologies (Azure, AWS)
+- Coding standards and data governance best practices
+- Communication skills with non-technical stakeholders
+
+Responsibilities:
+- Design and develop data warehouses and ETL pipelines
+- Collaborate with stakeholders to understand data requirements
+- Build data infrastructure including data marts and foundational data layers
+- Capture data from sources and track impacts of business changes
+- Implement performance optimizations 
+- Explore and implement new technologies like AI/ML
+- Adhere to data standards and governance

@@ -1,0 +1,29 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL
+- Python 
+- Snowflake
+- Data modeling
+- Data pipelines
+- ETL
+- Airflow
+- AWS
+- Data analytics
+- Tableau, Power BI
+- Verbal and written communication
+- Problem solving 
+- Critical thinking
+- Time management
+- Collaboration
+- Initiative
+
+Responsibilities:
+- Develop and test data pipelines, debug errors, modify as needed
+- Maintain and enhance tables in Snowflake 
+- Provide support to business partners on CVA metrics
+- Migrate Airflow DAGs to AWS
+- Set enterprise standards for databases, data integration, data access
+- Ensure organization's data architecture aligns with strategic goals
+- Work cross-functionally with teams in Chicago, Michigan, and Geneva
+- Explain CVA logic and metrics impact to stakeholders

@@ -1,0 +1,29 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 8+ years of experience in ETL development techniques
+- 8+ years of experience with data integration and database technologies like Oracle, PostgreSQL, CosmosDB, SQL 
+- 3+ years of experience with Azure cloud services like Azure Data Factory, Synapse Analytics, Logic Apps, Azure Data Lake Storage
+- Experience with scripting languages like JavaScript, shell script, Python
+- Knowledge of data validation, cleansing, transformation, consolidation, deduplication, aggregation, de-aggregation, enrichment
+- Knowledge of API development and testing
+- Bachelor's degree
+
+Nice to have skills:
+- Experience with Agile/Scrum methodologies  
+- Experience with Azure DevOps/CI/CD
+- Experience with reporting tools like Tableau, Power BI
+- Experience with ETL tools, data modeling, relational and NoSQL databases
+- Knowledge of data transaction requirements and business logic
+- Ability to build ETL processes for data migration and integration
+- Ability to adapt to changing needs and meet deadlines
+
+Responsibilities:
+- Moving ETL pipelines from one framework to another
+- Performing ETL testing and troubleshooting
+- Testing data models, system performance, data flows
+- Building documentation for code reuse
+- Identifying data storage requirements  
+- Supporting junior engineers
+- Providing feedback on system designs
+- Balancing multiple projects to meet deadlines

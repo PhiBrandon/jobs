@@ -1,0 +1,27 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- High-level professional and technical skills in support of designing, building, and maintaining data pipelines, databases, and cloud platforms
+- Day to day management of on-premises, cloud, and hybrid research databases and database platforms 
+- Integrating and transforming health-related data from a variety of sources and formats
+- Building and maintaining datasets and data marts
+- Monitoring and maintaining data pipelines to ensure high service availability 
+- Creating scripts and programs to automate data operations
+- SQL proficiency
+- Proficiency with Microsoft SQL Server, including the ability to create and edit complex queries and T-SQL scripts
+- Strong analytical and problem-solving skills
+- Experience with cloud and/or hybrid cloud/on-premises database architectures
+- Knowledge of specialized and complex statistical modeling and/or machine learning techniques
+
+Responsibilities:
+- Performing day to day management of databases and database platforms  
+- Integrating and transforming health data from various sources
+- Building and maintaining datasets and data marts
+- Monitoring and maintaining data pipelines
+- Designing new research data pipelines and platforms
+- Creating scripts and programs to automate data operations
+- Preparing and maintaining technical documentation and metadata
+- Providing technical support to research partners and investigators
+- Performing other duties as requested by the research team
+
+https://www.indeed.com/rc/clk?jk=d2dcb51303834420&from=jasx&tk=1hd1g5htglell801&vjs=3

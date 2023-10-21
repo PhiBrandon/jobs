@@ -1,0 +1,17 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Required Skills:
+- Minimum 3 years of experience using Azure Data Lake, Data Factory and/or Data Bricks. 
+- Minimum 3 years of experience working with SAP technologies such as Hana or BW.
+- Minimum 3 years of experience working in an IT environment independently and in teams.
+- Solid understanding and application of business concepts, procedures and practices.
+
+Preferred Skills:  
+- Experience with DevOps Version Control and Storyboarding.
+- Experience with data and reporting using data from ERP systems such as SAP.
+- Experience with regulatory tools for document archiving and document control.
+- Ability to perform in a regulated and/or validated environment.
+- General knowledge of a variety of alternatives and their impact on business.
+- Experience with other reporting tools such as Snowflake, BOBJ, Tableau
+
+https://www.indeed.com/rc/clk?jk=350077b572417b1d&from=jasx&tk=1hd6h6bheiolg800&vjs=3

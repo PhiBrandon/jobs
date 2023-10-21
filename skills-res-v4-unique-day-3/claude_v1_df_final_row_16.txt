@@ -1,0 +1,34 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Systems engineering 
+- Software development
+- Business analysis
+- Communication skills
+- Technical writing
+- Azure ecosystem
+- Data lakes/Data lakehouses
+- SQL
+- Agile/Scrum/Kanban methodologies
+- User stories, use cases, requirements documentation
+- System management tools like Azure DevOps, Jira, Redmine
+- Testing and acceptance planning
+- Issue/bug tracking
+- Data analysis and reporting 
+- Government security policies/ATO process
+- Data visualization
+
+Responsibilities:
+- Capture and document business requirements 
+- Design and guide technical solutions
+- Track and communicate development activities
+- Design and execute test plans
+- Support identification of application solutions
+- Work with developers 
+- Consider security and infrastructure implications
+- Prioritize and communicate requirements/development
+- Analyze impact of changes
+- Present alternatives and cost-benefit analyses
+- Support ATO and production processes
+
+https://www.indeed.com/rc/clk?jk=e2317b3154109084&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

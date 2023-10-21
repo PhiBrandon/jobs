@@ -1,0 +1,17 @@
+ Based on the job description, here are the key skills and responsibilities for the Staff Data Engineer role:
+
+Skills:
+- Strong CS fundamentals 
+- Ability to reverse engineer websites and APIs
+- Strong experience with relational databases (Postgres preferred) and SQL
+- Some professional programming experience in NodeJS with TypeScript
+- Experience with deployments on cloud platforms (AWS preferred)
+- Functionally fluent in English
+
+Responsibilities:
+- Design, develop and maintain scalable, reliable and performant data pipelines to ingest, process and store large datasets
+- Maximize data quality and freshness across multiple sources 
+- Optimize data architectures and database queries for performance and scalability
+- Stay updated with latest technologies and trends in data engineering
+
+https://www.indeed.com/rc/clk?jk=cebc0b8cc9a9f1a0&from=jasx&tk=1hd1g26uejoov800&vjs=3

@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- Azure Data Factory - 5+ years experience required
+- Microsoft Dataverse - 3+ years experience preferred  
+- Power BI - 5+ years experience required
+- ETL processes - 10+ years experience required
+
+Responsibilities:
+
+- Design, develop and deploy data pipelines in Azure Data Factory
+- Integrate Microsoft Dataverse to improve data flow 
+- Understand client data requirements, especially in healthcare sector
+- Ensure data quality and compliance with regulations
+- Collaborate with teams to meet milestones

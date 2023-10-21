@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong technical skills in databases like Microsoft SQL Server including creating complex queries and scripts
+- Experience with data warehousing techniques like ETL  
+- Strong analytical and problem-solving skills
+- Knowledge of cloud and hybrid databases
+- Proficiency with SQL
+- Understanding of statistics and machine learning
+
+Responsibilities:
+- Managing research databases and database platforms
+- Integrating and transforming healthcare data from different sources  
+- Building and maintaining datasets and data marts
+- Designing new data pipelines and platforms
+- Automating data operations with scripts
+- Documenting and maintaining metadata
+- Providing technical support to research teams
+- Performing other duties as requested

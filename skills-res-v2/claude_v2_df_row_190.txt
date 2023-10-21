@@ -1,0 +1,26 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data modeling
+- ETL/ELT development
+- Cloud infrastructure 
+- Hadoop/MapReduce
+- Statistical analysis
+- Data warehousing
+- Dimensional modeling
+- OLAP
+- SQL
+- NoSQL databases
+
+Responsibilities:
+- Lead and manage data engineering teams
+- Design, implement and manage data integration frameworks
+- Develop and maintain data infrastructure like warehouses and lakes
+- Create data collection frameworks and ETL/ELT pipelines
+- Enforce best practices for data management 
+- Conduct quantitative analysis and translate data into insights
+- Improve data delivery through learning and networking
+- Support long term data initiatives and ad-hoc analysis
+- Model data warehouse solutions in cloud or on-premise
+- Oversee delivery of data engineering projects

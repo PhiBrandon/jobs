@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities I extracted:
+
+Skills:
+- 7+ years experience with data solutions
+- 3+ years experience coding in Python, Scala or similar languages
+- 3+ years experience developing data pipelines in AWS, Azure or Snowflake
+- 2+ years experience with real-time data streaming tools like Kafka and Kinesis  
+- 3+ years experience with MPP databases like Snowflake, Redshift
+- 2+ years experience with serverless ETL like AWS Glue, Matillion
+- 1+ years experience with big data technologies like Hadoop, Spark, MongoDB
+- Agile software development experience 
+
+Responsibilities:
+- Build, deploy and maintain scalable data pipelines 
+- Work with stakeholders on requirements for real-time and batch data solutions
+- Design, code, configure and document data ingestion, streaming, processing, transformation and loading 
+- Own and improve key infrastructure components
+- Cross-train team members and learn from them
+- Ensure solutions meet requirements for functionality, performance, availability, scalability and reliability
+- Perform development, QA and devops as needed
+- Keep up with big data and analytics trends and tools
+- Mentor junior engineers, create documentation and runbooks
+- Deliver on goals

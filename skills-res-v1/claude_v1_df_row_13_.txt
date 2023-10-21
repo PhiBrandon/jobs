@@ -1,0 +1,22 @@
+ Based on the job description, here are the key skills and responsibilities of an AWS data engineer:
+
+Skills:
+- Data modeling
+- Database design and optimization 
+- Data analytics
+- Software development
+- Infrastructure design
+- Data security
+
+Responsibilities:
+- Create data models to store data from various sources 
+- Maintain data integrity through backup and recovery procedures
+- Identify opportunities to improve performance through database optimization
+- Research new technologies that can be applied to projects
+- Analyze data to find patterns and insights  
+- Develop new applications using existing data sets
+- Maintain existing applications by updating code and adding new features
+- Design and implement security measures to protect data
+- Recommend infrastructure changes to improve storage and performance
+
+The job description emphasizes that AWS data engineers have 10+ years of experience in related roles. Their main responsibilities involve modeling, managing and analyzing enterprise data through the AWS platform.

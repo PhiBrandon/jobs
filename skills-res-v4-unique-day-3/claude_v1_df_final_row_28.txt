@@ -1,0 +1,30 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- AWS, Spark, Scala, Python, Airflow, EMR, Redshift, Athena, Snowflake, ECS, DevOps Automation, Integration, Docker, Build and Deployment Tools
+- Version control using Git 
+- Data analytics platforms like Alteryx Server, Tableau Server
+- Amazon Web Services (AWS)
+- Data governance
+- Writing technical documentation
+- Communication skills
+- Customer service skills
+- Time management and prioritization
+- ITIL v4 foundation knowledge
+
+Responsibilities:
+- Develop data warehouse architecture and documentation
+- Deliver business requirements documents
+- Analyze and improve long running data warehouse queries  
+- Migrate existing systems to cloud architecture
+- Develop ETL data engineering pipelines
+- Perform data testing and create test plans
+- Perform data governance functions like quality assessment and risk tracking
+- Create user acceptance test plans
+- Maintain version control using Git
+- Administer analytics tools and licenses
+- Compile quarterly reports using data science
+- Participate in task planning to develop analytics capabilities
+- Maintain tool/license inventories
+
+https://www.indeed.com/rc/clk?jk=979d7c241a393d79&from=jasx&tk=1hd1fq96gk6pu800&vjs=3

@@ -1,0 +1,29 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data pipeline building
+- Data modeling and preparation
+- Complex data analysis 
+- Data pipeline automation
+- AI/ML engineering
+- Data ingestion
+- Data quality testing
+- Metadata driven data pipelines
+- Data analysis and wrangling using SQL, Python, Databricks
+- Cloud development 
+- Software development lifecycle
+- Version control
+- Agile/Scrum
+
+Responsibilities:
+- Build and automate data pipelines using Azure Data Factory, Databricks, Snowflake, Kafka
+- Set up metadata driven data pipelines
+- Set up data quality monitoring and alerting 
+- Conduct complex data analysis to answer business questions
+- Create and maintain data ingestion, quality testing and audit frameworks
+- Respond to production data issues
+- Document data flow diagrams, data models, mappings
+- Follow data security best practices
+- Train others on data skills
+- Work in a fast-paced Agile/Scrum environment
+- Identify and implement DevOps practices

@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL Server development 
+- Data Integration 
+- T-SQL, complex SQL queries
+- Database performance tuning 
+- ETL processes
+- Data Warehousing concepts
+- Object oriented programming
+- Microservices, SOA, RESTful APIs
+- Agile/DevOps methodologies
+
+Responsibilities:
+- Collaborate with stakeholders and team members 
+- Integrate databases with other applications
+- Design, develop and implement database solutions for data integration
+- Provide guidance on database best practices and standards
+- Create technical design documentation 
+- Translate requirements into specifications for test-driven development
+- Troubleshoot production issues
+- Drive technology direction and choices
+- Improve performance of source code
+- Make recommendations based on experience and research

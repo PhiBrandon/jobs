@@ -1,0 +1,15 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Snowflake
+- dbt
+- Rudderstack
+- Real-time Data Streaming
+- Python
+- SQL
+
+Responsibilities:
+- Architect and design efficient and reliable data pipelines (ETL) 
+- Educate teams and identify gaps in existing systems and processes
+- Partner with stakeholders to understand requirements and build data solutions
+- Manage delivery of dashboards, tools, and data visualizations

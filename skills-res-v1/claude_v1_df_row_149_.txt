@@ -1,0 +1,16 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL and NoSQL to build and manage relational database systems
+- Python and at least one other programming language like Java or Scala  
+- Data APIs and integrating data into software applications
+- ETL tools
+- Machine learning concepts
+
+Responsibilities:
+- Manage database systems (SQL and NoSQL)
+- Maintain data warehouses and perform ETL 
+- Collaborate with data scientists to implement machine learning models
+- Develop data solutions using programming languages
+- Retrieve and optimize data using data APIs
+- Ensure efficient data operations and business goal alignment

@@ -1,0 +1,20 @@
+ Based on the job description, these appear to be the key skills and responsibilities:
+
+Skills:
+- Python and Django development 
+- Building and maintaining backend features
+- Designing robust data models
+- Working with financial data pipelines and calculations
+- Using tools like Airflow, pandas, and celery
+
+Responsibilities:
+- Writing efficient, well-tested code
+- Importing and processing financial data 
+- Calculating data points for securities
+- Designing and estimating features 
+- Taking projects from dev to production
+- Performing code reviews
+- Documenting work and processes
+- Collaborating with other engineers
+- Working with product team on solutions
+- Taking ownership of projects and code

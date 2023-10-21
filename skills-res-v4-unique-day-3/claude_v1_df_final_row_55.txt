@@ -1,0 +1,36 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Geospatial programming 
+- Analytics
+- Data engineering
+- SQL
+- Python
+- GIS platforms like ArcGIS, GEOJSON
+- Data management systems
+- Agriculture sales/business development
+- Crop production
+- Data validation/verification/quality assurance
+- Analytical skills 
+- Geospatial data visualization
+
+Responsibilities:
+- Lead overall geospatial data management program
+- Design scalable processes for acquiring, organizing, analyzing and displaying geospatial data
+- Interface with growers and partners to collect field data
+- Clean up, correct and adjust geospatial data 
+- Validate, normalize and resolve discrepancies in maps and data
+- Ensure quality and format of maps 
+- Manage geospatial data for remote sensing projects  
+- Integrate remote sensing data with GIS and other spatial data
+- Analyze and interpret remote sensing data 
+- Assist and train on technical issues
+- Present best practices to partners and farmers
+- Build automated geospatial workflows
+- Identify geospatial trends and insights  
+- Write clean, testable code
+- Enhance flow, analysis and presentation of spatial data
+- Communicate priorities, obstacles and progress
+- Lead technical geospatial operations agilely
+
+https://www.indeed.com/rc/clk?jk=96205e6a1d6acd47&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

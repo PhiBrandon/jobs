@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong SQL proficiency 
+- Experience with data visualization tools like Tableau, Power BI, Sigma
+- Data modeling skills
+- Familiarity with programming languages like Python
+- Analytical and problem-solving abilities
+- Business acumen to translate business needs to data analysis
+- Communication skills
+
+Responsibilities:
+- Perform data analysis and generate insights and dashboards 
+- Leverage datasets to test hypotheses and bring insights
+- Generate insights to improve patient outcomes and reduce medical waste
+- Work collaboratively across teams including product, technology, operations 
+- Continuously learn and share knowledge
+- Take ownership of analyses and processes
+- Keep user needs in focus in a startup environment

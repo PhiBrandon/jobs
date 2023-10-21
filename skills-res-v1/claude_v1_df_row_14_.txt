@@ -1,0 +1,20 @@
+ Here are the main skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL 
+- Python
+- Data modeling
+- Data pipelines
+- Data warehousing (BigQuery, dbt)
+- Data integration tools (Airbyte, Stitch, Fivetran)  
+- Orchestration tools (Dagster, Airflow, dbt Cloud)
+- Metadata tools (DataHub, OpenMetadata)
+- BI/dashboard tools (Looker, Superset, PowerBI)
+
+Responsibilities:
+- Build and maintain data pipelines to move data into cloud data warehouse
+- Transform and model data using SQL and Python  
+- Monitor data pipelines for errors and data quality issues
+- Improve data quality, reliability, efficiency and performance while optimizing cost
+- Document data models, schemas, business logic, pipelines and other metadata
+- Collaborate with engineers and PMs to understand data requirements

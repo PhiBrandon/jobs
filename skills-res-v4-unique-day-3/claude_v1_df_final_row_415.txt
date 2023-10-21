@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Big data tools: AWS Services (S3, GLUE, Postgres, Lambda and Sagemaker etc.)
+- Relational SQL and NoSQL databases  
+- Analysis and visualization software such as R, RStudio, Python, and Tableau
+- Data pipeline and workflow management tools
+- Advanced SQL knowledge 
+- Experience with relational databases and query authoring (SQL)
+- Experience manipulating, processing, and extracting value from large datasets
+- Excellent written, oral and presentation skills
+
+Responsibilities:
+- Maintain support and be the primary contact for managing, triaging, and resolving issues related to Clinical data managed outside of the Electronic Data Capture System (EDC).
+- Experienced in the utilization of AWS services and infrastructure to support large and complex data platforms.
+- Hands-on database administrator skills to manage or identify root cause and resolve issues stemming from the management of structured and/or unstructured data sources. 
+- Experience contributing to the building and optimizing data pipelines, architectures, and data sets.
+- Supporting and working with cross-functional teams in a dynamic environment.
+
+https://www.indeed.com/rc/clk?jk=05cfb82e458953ee&from=jasx&tk=1hd95mfqo28gs002&vjs=3

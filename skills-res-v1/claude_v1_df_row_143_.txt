@@ -1,0 +1,38 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years SQL Server 2008/2014
+- 5+ years Data Integration technologies and principles  
+- Advanced knowledge of T-SQL including complex SQL queries
+- Advanced knowledge of index design and T-SQL performance tuning techniques
+- Advanced experience integrating data from structured and unstructured formats: flat files, XML, EDI, JSON, EXCEL
+- Advanced knowledge and experience in online transactional (OLTP) processing and analytical processing (OLAP) databases and schemas
+- Advanced knowledge of Data Warehousing methodologies and concepts
+- Experience with TDD / BDD
+- Experience with BI Tools is a plus
+- Basic understanding of object oriented programming
+- Experience in distributed architectures such as Microservices, SOA, and RESTful APIs
+- Continuous Integration
+- Cucumber, Gherkin
+- Jira
+- Agile / DevOps values
+
+Responsibilities:
+- Analysis, design, documentation, development, unit testing, and support of Data Integration and database objects
+- Provide support and guidance regarding Data Integration and T-SQL best practices and development standards  
+- Promote approved agile methodologies, leading design and development efforts for the agile team
+- Coach, guide, and mentor team members
+- Collaborate with stakeholders and development team members to achieve business results
+- Work closely with engineers to integrate databases with other applications
+- Lead design, development, and implementation of database applications and solutions
+- Recommend guidance regarding Data Integration, T-SQL best practices, and standards
+- Create and propose technical design documentation
+- Have a deep understanding of business processes and enabling technology platform
+- Translate requirements into common language for BDD or TDD
+- Participate in industry networks to ensure awareness of standards, trends and best practices
+- Provide support for investigating and troubleshooting production issues
+- Promote establishment of group standards and processes
+- Participate in communities of practice 
+- Continually improve performance of source code using industry standards
+- Help drive technology direction and choices
+- Make recommendations based on experience and research

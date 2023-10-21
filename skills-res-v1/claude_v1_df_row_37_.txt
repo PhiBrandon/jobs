@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Microsoft SQL Server Database 2019 and above, including Azure SQL
+- Azure Data Factory, Azure Data Lake, Azure Devops , Azure Data warehouse
+- Microsoft Power BI and Power Query with DAX and M Language
+- Azure Analysis service—Tabular Cube
+- Amazon Athena and Redshift
+- Development tools (Visual Studio)
+- C#, Python, R
+- Version control tools like GitHub
+
+Responsibilities:
+- Build Azure data factory pipeline, Azure Data Lake, Datawarehouse, Power BI Reports and dashboards
+- Design, develop, and maintain data pipelines and ETL processes  
+- Optimize and troubleshoot data pipelines
+- Implement data validation, testing, and quality assurance
+- Work with large datasets and employ appropriate data storage solutions
+- Develop and maintain documentation for data pipelines and processes
+- Monitor and resolve data pipeline issues
+- Collaborate with stakeholders to understand data requirements
+- Support applications and projects as needed

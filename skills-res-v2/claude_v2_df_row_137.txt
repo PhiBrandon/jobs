@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- Software engineering expertise including modern languages like Go, Python, Java, or Rust
+- Experience with cloud platforms like AWS, GCP, Azure, Kubernetes, Docker
+- Knowledge of security engineering, cryptography, authentication protocols
+- CI/CD pipeline experience with tools like Git, Jenkins, CircleCI, Terraform
+- Monitoring tools like Grafana and Prometheus
+- Certifications like CISSP, CISM, CISA
+
+Responsibilities:
+
+- Provide technical and thought leadership, collaborate to solve problems
+- Develop and execute technical software strategy, optimize for performance 
+- Design and implement resilient, scalable, efficient solutions
+- Be a role model and coach to strengthen engineering expertise
+- Share best practices, improve processes, analyze costs
+- Support resource requirements, evaluate processes, measure outcomes
+- Take on-call and operations support

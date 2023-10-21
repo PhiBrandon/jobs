@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- Proficient in SQL, Microsoft SQL Server, and SSIS
+- Experience with Azure data services and Power BI
+- Python programming
+- Data modeling and warehousing
+- Problem-solving and analytical skills
+- Communication skills to explain technical concepts
+- Healthcare industry experience
+
+Responsibilities: 
+
+- Develop, test and maintain ETL processes using SSIS and Python
+- Design and implement databases in SQL Server
+- Leverage Azure data services like Data Factory and SQL Data Warehouse
+- Create analytics tools and dashboards in Power BI
+- Optimize and automate data delivery processes 
+- Ensure data integrity, availability and confidentiality
+- Collaborate with cross-functional teams to align data solutions with business goals

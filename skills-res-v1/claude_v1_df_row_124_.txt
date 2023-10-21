@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python 
+- SQL
+- Spark
+- Linux/shell scripting
+- AWS services: S3, Lambda, Redshift, Lake Formation, Glue ETL, Kinesis, DMS, Glue catalog/Crawlers
+- Git
+- Jira
+- Airflow/Orchestration
+
+Responsibilities:
+- Build data pipelines to transfer data from source systems to AWS  
+- Perform ETL and ELT processes
+- Develop and maintain scalable data pipelines and new API integrations
+- Collaborate to improve data models and facilitate data-driven decisions
+- Implement processes to monitor data quality and ensure accuracy
+- Write tests and contribute to documentation
+- Perform data analysis to troubleshoot issues
+- Design data integrations and quality framework
+- Work closely with engineers, PMs, and analysts

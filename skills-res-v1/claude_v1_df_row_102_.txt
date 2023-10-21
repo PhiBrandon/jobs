@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Python and SQL
+- Data modeling 
+- ETL pipeline development
+- Data warehousing
+- AWS, Azure, or Google Cloud
+- Airflow, Dagster, or Prefect
+- Hadoop, Hive, Spark
+- AWS S3, AWS Athena, AWS Glue
+- Distributed systems
+
+Responsibilities:
+- Design, build, and maintain efficient data pipelines from various sources
+- Perform data cleansing and validation to ensure data quality
+- Identify opportunities for automated data acquisition  
+- Develop and implement data governance policies
+- Collaborate with leadership, engineers, and product managers on data solutions
+- Understand data requirements and align with business objectives
+- Work with analysts to deliver high-quality data that drives insights

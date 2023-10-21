@@ -1,0 +1,23 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Expertise in cloud technologies like Apache Spark 
+- Proficiency in data modeling and database design
+- Strong SQL and programming skills (Python, Java, Scala)
+- Experience with big data tools like Hadoop, Spark, Kafka, Databricks
+- Expertise in ETL/ELT processes and data integration
+- Analytical skills for working with structured and unstructured data
+- Communication, documentation, and mentorship abilities
+
+Responsibilities:
+- Architecting and supervising data lake and data warehouse systems 
+- Designing data pipelines and extract processes  
+- Translating business requirements into data models
+- Researching and solving complex business problems with data
+- Monitoring and optimizing Spark SQL queries
+- Ensuring data quality through profiling and validation
+- Documenting and reverse engineering data integration processes
+- Ingesting and transforming various data types from multiple sources
+- Supporting business/functional requirements with scalable solutions
+- Improving ongoing reporting/analysis processes  
+- Mentoring and leading a data engineering team

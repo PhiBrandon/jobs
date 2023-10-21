@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong working experience utilizing Python and Databricks
+- Software development experience 
+- Understanding of security, secure coding/testing and data structures
+- Comprehensive knowledge of software development, practice, concepts and technology
+- Proficiency with various software languages and platforms such as Java, Oracle, Azure etc.
+- Experience with related technology stack and platforms
+- Experience with building and sustaining effective relationships with immediate team and stakeholders
+
+Responsibilities:
+- Define technical specifications and development requirements 
+- Develop and enhance product/applications to solve business problems
+- Adopt DevOps mindset by applying automation, continuous integration and delivery
+- Foster innovation by applying best practices and learning emerging technologies
+- Serve as application expert and provide technical recommendations
+- Advise and mentor junior team members 
+- Communicate difficult concepts and recommendations

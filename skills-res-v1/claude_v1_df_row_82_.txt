@@ -1,0 +1,22 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL
+- ELT/ETL experience 
+- Azure (generalist knowledge)
+- Azure Synapse
+- PowerShell/Bash
+- Python
+
+Responsibilities:
+- Design and architect cloud-based solutions on the Azure platform
+- Collaborate with clients and project managers to understand requirements and design solutions
+- Develop technical design documents and diagrams 
+- Evaluate existing systems for migration to cloud
+- Implement and manage Azure services like VMs, storage, databases, networking
+- Implement and manage Azure security measures
+- Monitor and optimize Azure resources 
+- Provide guidance to other teams on Azure technologies
+- Stay up-to-date with latest cloud technologies and trends
+
+The position is focusing more on a data engineer role with an emphasis on SQL, ETL/ELT experience, and Azure technologies like Synapse. Being able to write basic SQL queries would be important for the interview.

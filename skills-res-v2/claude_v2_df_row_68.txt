@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities I extracted from the job description:
+
+Skills:
+- Expert knowledge of networking technologies including Ethernet, VLANs, VxLAN, EVPN, IP routing, TCP/IP, OSPF, BGP, multicasting, QoS
+- Proficiency with Cisco products like Catalyst, Nexus, ASR switches and routers
+- Experience with data center technologies like OpenStack, SDN, NFV, load balancing, virtualization, Linux 
+- Automation skills using Python, Perl, scripting
+- Strong verbal and written communication skills
+
+Responsibilities:
+- Provide advanced technical support and guidance to customers for data center network deployments 
+- Review and recommend improvements on customer network designs and architectures
+- Migrate or interconnect different vendor equipment like Cisco, Juniper to Arista 
+- Assist with implementation, testing, change control, and automation using Python, Ansible, Chef
+- Work closely with TAC, engineering teams, and customers 
+- Design network solutions leveraging BGP, EVPN, VxLAN skills
+- Establish relationships with partners, provide ongoing training
+- Meet service level agreements and exercise independent judgement
+- Travel to customer sites when required

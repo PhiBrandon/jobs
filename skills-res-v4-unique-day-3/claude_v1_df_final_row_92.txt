@@ -1,0 +1,27 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Technical skills including data integration, data modeling, data warehousing, scripting for data integration/analysis 
+- Analytical and communication skills
+- Understanding of data integration work
+- Experience with cloud technologies (Azure), data science, machine learning, decision support tools and programming languages like Python, Spark, SQL, Scala
+- Databricks Certified Data Engineer Associate or equivalent certification
+
+Responsibilities:
+- Creating effective technological solutions for working with and improving processes and systems with big data
+- Data integration including developing data models, maintaining data warehouses/analytics environments, writing integration/analysis scripts  
+- Conducting complex data analysis and reporting results
+- Analyzing and organizing raw data, building data systems/pipelines, algorithms and prototypes
+- Evaluating business needs/objectives, interpreting trends and patterns
+- Developing tools, workflows or products supporting data management initiatives
+- Identifying patterns/relationships across data sets and communicating technical assessments
+- Providing relevant data reports for decision making
+- Providing technical assistance and building understanding of effective data use
+- Identifying and resolving technical issues 
+- Ensuring quality of deliverables
+- Preparing, analyzing and briefing recommendations for new technical approaches
+- Documenting deliverables and providing training
+- Supporting proposals and past performance references
+- Managing and ensuring successful completion of multiple technical tasks
+
+https://www.indeed.com/rc/clk?jk=90d55aeca2904404&from=jasx&tk=1hd1g3ucrjm7b801&vjs=3

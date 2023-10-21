@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Development of complex Python scripts
+- Experience with Scala, Spark, PySpark, Presto, Ranger, Hadoop, Hive, etc. 
+- Experience with Amazon Web Services (AWS) like S3, EMR, Databricks, AWS Glue, Redshift, etc.
+- Design and development of ETL/ELT processes for large datasets 
+- Web services development using RESTful/SOAP APIs and web scraping
+- Data modeling with databases like PostgreSQL
+- Experience with Git and GitLab
+- Technical documentation writing
+- Financial/capital markets data experience
+- AWS certifications
+
+Responsibilities:
+- Provide support across the data lifecycle including ETL, data modeling, etc. 
+- Support adoption of cloud technologies like Spark, Databricks, Scala on AWS
+- Design, develop and tune ETL processes for large datasets  
+- Migrate datasets from on-prem to AWS
+- Cooperate with stakeholders across the SEC
+- Develop data models, architectures and documentation
+- Create technical guidance documents
+- Work independently with stakeholders
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BWrJOJIc9CpN6yMpv0V0AydpTkzwx7H4nhH8WAx3qz9DFPmyzxY6nkFs2NPrIYzV9U3hcwjKaVA33BgMnWMd4v82SJXW57QvVteSBjEghI4CKLr4s-c_H_ClqiqWF9tzO7sptnKtrlhohHAmwGl4AO6yiT79N_KfFBX4u0ZAjiFobWpkFW-oTgzb629thYEstYrkZDTnngfOVnBQyesf2tUgboUIxXmiYGfvE1YiAK3AevTI70hqJhj48jImR9GNRI2smRV9c5ycAZ_d1gb3cJA9HM9mxmqjJPzEZRAc7xtWt8f4dBrc4a3tdZzSY8rxXk7vRupvkfdDGQzqQiXTCkWeSnlLihKTc9EAsdfhTjCmDItr5oA2VhtABa3QLOKhLB1W2Vd1c1Z2hKabG8_f-fSMC2Fpt_qWwqvgmw3di0_nhvrXW1R09NcDNpLE0qE-Liw9uJZiEqk5RlJwZ1BWUCnRykA8zPHMgL2NJsjUds1SH2NOanepGVaaxdfu11tOM1Sf5hZuT_WSM-DzG0QX9Y4011kcsPs3IQ4pPjeTBvD3ktadjnCjOa2ivqegPEAm6_LQtvfsCb1hsqe31TIFQO3mQ_swd4fznIdGcI7U0BM43oL7jLHyqxakes_amvJ-MFk9Vaw4BO-x8If8NYFvXXkn5JGXthW5PYdgax9kZW_HfJ961retTYT5V4It9VbT3Q0yco86nZJHsWZZuCl6EdKn85IF5reniRU9mf3y0gQA%3D%3D&xkcb=SoCg-_M3JpCnpdRkAB0NbzkdCdPP&p=6&fvj=0&vjs=3&jsa=8129&tk=1hd95a3qqi9hs800&from=jasx&wvign=1

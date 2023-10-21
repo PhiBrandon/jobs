@@ -1,0 +1,25 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Python 
+- SQL
+- Hadoop
+- Spark
+- Java
+- Relational databases
+
+Responsibilities:
+- Crafting and maintaining data pipelines
+- Enhancing data quality
+- Implementing agile methodologies for project execution
+- Developing data pipelines for various workstreams
+- Applying ETL methodologies
+- Ensuring data quality
+- Building performance dashboards
+- Generating automated reports
+- Working with SQL and Python for data manipulation
+- Creating end-to-end data solutions
+- Utilizing Apache Spark
+- Documenting pipeline processes and data assets
+
+https://www.indeed.com/rc/clk?jk=4539c1f9e485ed4e&from=jasx&tk=1hd43sbgnkiai800&vjs=3

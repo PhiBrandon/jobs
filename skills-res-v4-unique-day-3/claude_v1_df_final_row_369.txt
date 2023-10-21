@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL and Python for data processing and analysis
+- Databricks and PySpark for developing cloud data pipelines  
+- Azure Cloud and Azure DevOps
+- Datorama and Salesforce Marketing Cloud
+- Data gathering and analysis
+- Market research
+- Cross-functional collaboration
+- Industry knowledge
+
+Responsibilities:
+- Design, build, and optimize data pipelines, architectures, and datasets to support marketing analytics  
+- Develop and maintain code using Databricks, SQL, Python, and PySpark to ensure efficient data processing
+- Manage marketing and sales data workflows using tools such as Datorama and Salesforce Marketing Cloud
+- Collaborate with cross-functional teams to understand and address their data needs
+- Support the IT organization to implement data solutions in an enterprise fashion
+- Utilize Cloudera and Azure DevOps to enhance data infrastructure and manage data workflows
+- Identify opportunities to improve data quality, reliability, and accessibility
+- Troubleshoot and resolve data-related issues to minimize disruptions
+- Mentor junior team members and share best practices in data engineering
+
+https://www.indeed.com/rc/clk?jk=2a6492ae7ded8c78&from=jasx&tk=1hd95ff4chbht800&vjs=3

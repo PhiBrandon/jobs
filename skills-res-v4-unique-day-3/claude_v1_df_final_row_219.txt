@@ -1,0 +1,20 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 6+ years of professional software development experience
+- Experience building high quality data pipelines with comprehensive unit tests
+- Solid understanding of system architectures from machine to network level
+- Experience with Apache Spark and Delta Lake
+- Python experience
+- Experience with data modeling 
+
+Responsibilities:
+- Design and implement mission critical data pipelines
+- Help create high-quality data products for data consumers  
+- Write well-designed, testable, performant code using Apache Spark and Delta Lake
+- Lead development of a world-class data lake meeting healthcare compliance requirements
+- Collaborate with data science team to build datasets for model development
+- Mentor and coach other engineers to build a data-first culture
+- Contribute to all phases of development lifecycle
+
+https://www.indeed.com/rc/clk?jk=f1db132bcf22f966&from=jasx&tk=1hd6h6bheiolg800&vjs=3

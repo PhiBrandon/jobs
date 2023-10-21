@@ -1,0 +1,19 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Extensive experience with Scala, Java, and Python programming 
+- Expertise in Apache Spark, HBase, and Hive
+- Familiarity with AWS services like EMR, S3, Redshift
+- Data migration experience 
+- Bachelor's degree in Computer Science, Data Science or related field
+- Problem-solving and attention to detail
+- Communication and teamwork abilities
+
+Responsibilities: 
+- Develop data processing solutions using Scala, Java and Python
+- Leverage expertise in big data technologies like Apache Spark, HBase and Hive
+- Migrate data processing systems from on-premises to cloud  
+- Ensure integrity, security and accessibility of data assets
+- Comply with relevant regulations
+- Collaborate on data migration initiatives
+- Transition data systems to modern cloud platforms

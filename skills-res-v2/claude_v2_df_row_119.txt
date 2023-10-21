@@ -1,0 +1,10 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Must Have:
+- Databricks/py-spark - 4+ years of experience
+- Cloud experience - 4+ years
+
+Nice to have:
+- Software engineering background
+- AWS experience
+- Experience with Typescript

@@ -1,0 +1,29 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- SQL 
+- Python
+- Data engineering
+- Database management
+- Object oriented programming
+- System architecture
+- Programming languages
+- Apache Spark
+- Big data processing
+- Distributed computing
+- Data analysis
+- Data structures 
+
+Responsibilities:
+- Design, develop and maintain data pipelines and workflows
+- Handle data extraction, transformation, loading and enrichment
+- Implement ETL methodologies and agile development practices  
+- Query and analyze data to design business performance dashboards
+- Generate automatic reports on key performance indicators
+- Build applications to manipulate, monitor and improve data quality
+- Design data solutions and architecture supporting processes
+- Maintain documentation for pipelines, assets and specifications
+- Provide ad hoc team/business support as needed
+- Evaluate new technologies and platforms
+
+https://www.indeed.com/rc/clk?jk=5bcbbacaaee9d357&from=jasx&tk=1hd1fm1o6iman800&vjs=3

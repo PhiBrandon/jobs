@@ -1,0 +1,12 @@
+ Skills:
+- Scala, Java, Python programming
+- Apache Spark, HBase, Hive 
+- AWS services like EMR, S3, Redshift
+- Data migration from on-premises to cloud
+
+Responsibilities:
+- Develop data processing solutions using Scala, Java, Python
+- Process and manipulate large datasets using Apache Spark, HBase, Hive
+- Migrate data processing systems from on-premises to cloud using AWS
+- Collaborate on data migration initiatives  
+- Ensure integrity, security and accessibility of data assets

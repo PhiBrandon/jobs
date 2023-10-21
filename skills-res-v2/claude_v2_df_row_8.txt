@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+
+- Data pipeline development with ETL experience 
+- Data integration across various sources like databases, APIs, etc.
+- Data transformation and processing
+- SQL, Python, Apache Spark, Kafka, Snowflake, Azure Data Factory
+- Data governance and monitoring
+- Cloud experience with Azure, AWS, or GCP
+
+Responsibilities:
+
+- Develop and maintain data pipelines for ETL
+- Integrate data from multiple sources into a unified data foundation
+- Transform and process data for analysis and reporting 
+- Implement data governance standards
+- Monitor data pipelines and systems for issues
+- Work with business and technical teams on requirements and solutions
+- Contribute to frameworks and best practices for pipeline development
+- Partner with other teams on architecture and tools for the data platform

@@ -1,0 +1,20 @@
+ Here are some key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience working with data at scale
+- Experience working in a cloud environment like GCP, AWS, Azure  
+- Experience with data modeling and creating data pipelines
+- Experience with DBT or similar data frameworks
+- Experience helping organize disparate data needs and workflows
+- Curiosity to understand business needs and translate them to data solutions
+
+Responsibilities:
+- Develop data models and pipelines to enable reporting, modeling and machine learning
+- Develop a content knowledge graph combining multiple data sources  
+- Ensure data quality, perform data audits
+- Improve performance of data/analytics infrastructure
+- Leverage Google Cloud tools and services to bring data workloads to production
+- Collaborate with backend engineering and data teams  
+- Be an advocate of data-driven thinking and communicate data and metrics to the entire company
+
+https://www.indeed.com/rc/clk?jk=2ea2f8e64c5398d4&from=jasx&tk=1hd95mfqo28gs002&vjs=3

@@ -1,0 +1,36 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience in controls environments (PLC programming not required)
+- Experience in IIOT & Data systems 
+- Experience in Enterprise level SCADA systems
+- Systems thinking - the ability to see how parts interact with the whole (big picture thinking)
+- Problem solving
+- Knowledge of the business for which the systems architecture is being developed
+- Excellent documentation skills
+- Customer service orientation
+- Proficiency with computer systems on an administrative and user basis for standard Microsoft Office applications, as well as Visio
+- Collaborative with a focus on Team participation and consensus building
+- Ability to develop and nurture improved performance 
+- Analytical mind and business acumen
+- Problem-solving aptitude
+- Solid understanding of database design principles
+- Excellent oral and written communication skills with a keen sense of customer service
+
+Responsibilities:
+- Provide detailed advice regarding applications and executing specialized tasks
+- Provide support and assistance on initiatives and ensure optimal delivery architecture in support of projects
+- Design and develop scalable ETL packages
+- Build test scenarios to enable thorough testing and validation to support accuracy of data transformation
+- Define and implement data stores based on system and consumer requirements 
+- Assess, analyze, develop, document and implement changes based on requests for change
+- Assess and analyze release components
+- Modelling tests in coordination with testers maintaining and administering the tools and methods
+- Ensuring information exchange with configuration management
+- Ensure release processes and procedures are maintained and followed
+- Investigates operational needs and problems, and opportunities, contributing to the recommendation of improvements in automated and non-automated components of new or changed processes and organization
+- Develop and build systems, products, and services that contribute toward increased top line revenue & profits
+- Develop and build systems and services that protect the company, customers, employees, and assets
+- Develop enterprise level IIOT & SCADA projects using best in class methodologies and techniques
+
+https://www.indeed.com/rc/clk?jk=107fdf5f44447f8a&from=jasx&tk=1hd6hkmagh0mj800&vjs=3

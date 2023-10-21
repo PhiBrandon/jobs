@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Data engineering 
+- Cloud engineering
+- Database management
+- Python or R programming
+- SQL (MySQL, SQLite, Oracle)
+- Experience with sensor data, time series data, IOT
+- Experience with Azure Gov or AWS
+
+Responsibilities:
+- Build data pipelines 
+- Shape data
+- Perform ETL (extract, transform, load) tasks
+- Support 4 data scientists by engineering data for their projects
+- Work on top secret DOD cleared government projects
+- Obtain security clearance after being hired

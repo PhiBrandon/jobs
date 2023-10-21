@@ -1,0 +1,27 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Solution design 
+- Architecture planning
+- Technical leadership
+- Risk assessment
+- Documentation
+- Vendor evaluation
+- Prototyping
+- Performance optimization
+- Security and compliance
+- Collaboration
+
+Responsibilities:
+- Develop and implement cutting-edge technical solutions
+- Work closely with stakeholders to understand needs and design robust and scalable data and microservices solutions  
+- Collaborate with business and technical teams to design holistic solutions
+- Develop and maintain technology roadmaps
+- Provide technical guidance to development teams
+- Identify and mitigate technical risks   
+- Create and maintain architecture documentation
+- Assess and recommend third-party tools and services
+- Develop proof-of-concept and prototype solutions
+- Continuously monitor and optimize system performance
+- Ensure compliance with security standards and address vulnerabilities
+- Foster collaboration between cross-functional teams

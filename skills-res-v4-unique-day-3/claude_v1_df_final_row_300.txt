@@ -1,0 +1,21 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 12+ years of experience in design and development of complex web-based, high transaction, high volume, distributed systems offered in a SaaS model 
+- Bachelor's degree in Computer Science/Engineering or Technology related field, or equivalent work experience
+- Formal skills with C#, .Net, web services, Microservice Architecture, ORM frameworks, RDBMS, NoSQL, data stores, build/continuous integration, data modeling, database design, messaging middleware systems and protocols
+- Experience with cloud technologies: Azure, GCP, AWS 
+- Knowledge of distributed architectures and design patterns, and best practices
+
+Responsibilities:
+- Drive continuous improvement of systems and ensure applications are implemented according to standards
+- Evaluate and recommend technology strategies where gaps exist 
+- Collaborate with product owners and business partners to understand and refine requirements
+- Evaluate legacy applications and make recommendations for improvements
+- Document detailed application design and implement best practices
+- Perform code and design reviews
+- Keep up with new technologies and apply when appropriate
+- Collaborate with security to ensure compliance
+- Mentor team members
+
+https://www.indeed.com/rc/clk?jk=3417ee3c65b91eed&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

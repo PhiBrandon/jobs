@@ -1,0 +1,19 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Scala 
+- Apache Spark
+- Streaming technologies (e.g. Kafka, Kinesis, Flink)
+- Machine Learning (nice to have)
+- Looker (nice to have)
+- Additional server-side programming languages like Golang, C#, Ruby (nice to have)
+
+Responsibilities:
+- Build next generation data warehouse 
+- Build event stream platform
+- Translate user requirements for reporting and analysis into actionable deliverables
+- Enhance automation, operation, and expansion of real-time and batch data environment
+- Manage numerous projects in an ever-changing work environment
+- Extract, transform, and load complex data into the data warehouse using cutting-edge technologies
+- Build processes for topnotch security, performance, reliability, and accuracy
+- Provide mentorship and collaborate with team members

@@ -1,0 +1,26 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 7+ years of experience in working with data solutions
+- 3+ years of experience coding in Python, or Scala or similar scripting language
+- 3+ years of experience in developing data pipelines in AWS Cloud Platform, Azure, or Snowflake at scale  
+- 2+ years Experience in designing and implementing data ingestion with Kafka, Kinesis or similar tools
+- 3+ years experience working with databases like Snowflake, Redshift or similar MPP databases
+- 2+ years experience working with Serverless ETL processes like Lambda, AWS Glue, Matillion or similar  
+- 1+ years experience with big data technologies like Hadoop, Spark, Cassandra, MongoDB or other open source big data tools
+- Experience designing, documenting, and defending designs for large distributed computing systems
+- Demonstrated ability to learn new technologies quickly and independently
+- Excellent verbal and written communication skills
+- Strong interpersonal skills and a desire to work collaboratively
+- Experience participating in an Agile software development team
+
+Responsibilities:
+- Building, deploying, and maintaining scalable Data Pipelines  
+- Working closely with SMEs, Data Modeler, Architects, Analysts on requirements
+- Contributing design, code, configurations, and documentation for data ingestion, processing and loading solutions
+- Owning key components of the infrastructure and improving it continuously
+- Cross-training other team members and continuously learning new technologies
+- Ensuring solutions meet requirements in functionality, performance, availability etc
+- Performing development, QA, and dev-ops roles  
+- Keeping up with current trends in big data and evaluating tools
+- Mentoring Junior engineers and creating documentation
