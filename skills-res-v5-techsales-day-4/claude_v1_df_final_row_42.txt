@@ -1,0 +1,18 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Deep knowledge of modern Kotlin and Android SDK
+- Strong background in reactive UI patterns (RxJava/Flow)
+- Experience architecting and building libraries, SDK, and tools 
+- Knowledge of standard networking protocols TCP/UDP
+- Experience integrating with 3rd party libraries
+- Experience with peer-to-peer networks and building distributed systems
+- Experience with both SQL and NoSQL databases
+
+Responsibilities:
+- Building an Android-based point-of-sale and operations platform 
+- Working on challenging problems in an environment where you can have a large impact
+- Solving problems with new and emerging technologies like distributed databases, real-time syncing, message queues, and distributed transactions
+- Owning/managing specific aspects of the development process like implementation, testing, or deployment
+
+https://www.indeed.com/rc/clk?jk=1578f15b98d4618d&from=jasx&tk=1hdh0hgq2j225800&vjs=3

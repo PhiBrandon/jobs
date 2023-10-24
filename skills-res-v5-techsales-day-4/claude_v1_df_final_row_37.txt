@@ -1,0 +1,27 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 7+ years of experience in a customer facing technical role  
+- Comfort and confidence in client-facing interactions
+- Ability to work both pre and post sale
+- Strong Linux system administration experience including networking
+- Experience with authentication and authorization systems like LDAP, Kerberos, AD, and IAM
+- Hands-on experience with cloud based services like AWS, Azure and GCP
+- Hands-on experience with the Kubernetes ecosystem for setup, administration, troubleshooting and tuning
+- Experience with the Hadoop and/or Spark ecosystem for setup, administration, troubleshooting and tuning
+- Experience with Python
+- Some knowledge of Java, nice to have
+- Some knowledge in ML Ops
+
+Responsibilities:
+- Work with the Customer Success team and customers to jointly identify near and longer-term priorities and define the associated engagement plan
+- Manage milestones with Customer Success Manager and customer and contribute to deliverables, provide regular status updates and proactively identify and mitigate issues/risks 
+- Centralize the technical information about clients and take part to the account strategy and with the other members of the account team
+- Play an active role contributing to the growth and scalability of the Field Engineering team through robust documentation, continuous process optimization, and peers upskilling
+- Work with Customer resources as a primary technical advisor, providing guidance and hands-on support on platform architecture, operations, best practices, security, data management, compute resources, ML-Ops, Monitoring, etc.
+- Help clients troubleshoot the implementation of the product within their systems.
+- Ensure that feature requests are effectively recorded and communicated to product and R&D
+- Advise client tech leaders on choices around new companion technologies and tech strategies around Dataiku
+- Support innovative approaches around Dataiku (edge computing, deep learning, advanced MLOps, for example)
+
+https://www.indeed.com/rc/clk?jk=24a09343453af933&from=jasx&tk=1hdh0hgq2j225800&vjs=3

@@ -1,0 +1,24 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Deep technical background with AWS solutions. AWS Certified Solutions Architect or equivalent AWS certifications  
+- 7+ years of experience in solution architecture, cloud technology, and AWS services
+- Sales acumen and track record of successful solution selling
+- Experience with Cloud focused SI/GSI organizations
+- Strong understanding of cloud computing concepts, infrastructure, and best practices
+- Excellent communication and technical presentation skills
+- Knowledge of consulting, integration, and technical advisory in DevOps space
+
+Responsibilities:
+- Architect and design AWS-based solutions that meet client needs emphasizing scalability, security, reliability, and cost-effectiveness
+- Ideating, Developing, and Promoting EPAM’s AWS offerings  
+- Engage with clients to understand business requirements, challenges, and objectives
+- Provide technical expertise and guidance during sales cycle to build trust with clients
+- Collaborate with clients on long-term cloud strategy and roadmap development
+- Develop comprehensive proposals and presentations showcasing benefits of solutions
+- Participate in RFP/RFI responses and presentations
+- Educate Customer Success team on Alliance initiatives and how EPAM/partner technologies provide value collectively
+- Enable partner Go-To-Market teams on EPAM's solution and value
+- Work with business and delivery leaders to support end-to-end sales cycle
+
+https://www.indeed.com/rc/clk?jk=cff3da875874ac64&from=jasx&tk=1hdh0efooi9h8800&vjs=3

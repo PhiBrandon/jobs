@@ -1,0 +1,31 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Project management 
+- Vendor relationship management
+- Product and website management
+- Microsoft Office, Microsoft Project, Google Suite
+- JIRA, Scrum, Agile, Confluence, Content Management Systems, JSON and XML feeds, API data integration
+- Written and verbal communication
+- Client support
+
+Responsibilities:
+- Manage the project of launching localized websites  
+- Oversee developers and work with affiliates to launch websites
+- Configure and understand website analytics
+- Manage the entire lifecycle of the localization platform
+- Maintain FAQs and documentation
+- Manage the product steering committee and boards
+- Serve as a liaison for MLS agreements, ListSync, and ListTrac products
+- Escalate any issues with those products
+- Schedule and run meetings with affiliates
+- Create epics for website launches 
+- Participate in daily scrums with developers
+- Configure reports for launched websites
+- Meet with affiliates monthly for updates and feedback
+- Report any technical issues or enhancement requests
+- Facilitate MLS agreement implementations  
+- Help facilitate Anywhere DataSync/dashAPI and brand requirements
+- Help facilitate and communicate ListTrac requirements and issues
+
+https://www.indeed.com/rc/clk?jk=b5da7d142fc3a0bd&from=jasx&tk=1hdgutttli38o801&vjs=3

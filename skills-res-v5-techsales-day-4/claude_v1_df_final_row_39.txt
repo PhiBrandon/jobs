@@ -1,0 +1,28 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Full-stack web and mobile application development
+- Strong business acumen  
+- Java including Spring Boot framework
+- DevOps and continuous delivery principles and tools
+- Angular/TypeScript/Ionic/NgRx
+- Kafka and event driven architecture
+- Relational and NoSQL Databases (Oracle, MySQL, MongoDB)
+- Microservice architecture
+- Docker and Kubernetes
+- WebLogic, Tomcat
+- AWS or other public cloud infrastructure and services
+
+Responsibilities:
+- Architect, design, and support team members to deliver digital solutions
+- Synthesize business requirements and translate them to appropriate technology solutions
+- Think strategically and balance short-term needs with longer-term business priorities  
+- Monitor technology trends such as emerging standards for new technology opportunities
+- Engage in hands-on review and design of the software, including technical review and analysis of source code
+- Prototype and productize new concepts/ideas in an agile way
+- Escalate roadblocks and other challenges to leadership as appropriate
+- Create detailed system requirement specifications and technical design documents for complex applications
+- Develop high-quality code with the corresponding unit tests, analytics, and telemetry
+- Partner with product owner and scrum master to lead sprint planning and other agile ceremonies
+
+https://www.indeed.com/rc/clk?jk=0e7463698d50b512&from=jasx&tk=1hdh0hgq2j225800&vjs=3

@@ -1,0 +1,32 @@
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 3+ years of experience as end-user of a CRM, customer support system, or marketing automation system  
+- 3+ years of experience leading and building digital first, omni-channel programs
+- Gainsight experience as a super-user
+- Experience working in customer success, or equivalent understanding of key customer success principles
+- Demonstrated experience in project management, business analysis, and problem-solving 
+- Experience working in cross-functional teams
+- Excellent written, oral and presentation skills
+- Gainsight administration experience, or Gainsight Associate Administrator (Level 1) Certification
+- CRM administration experience or certification
+- Customer-facing experience, especially as a Customer Success Manager
+- Strategic thinking and prioritization
+- Problem solver with a systems mindset
+- Self-starter, demonstrating leadership of owned projects
+- Experience interacting with senior leadership and managers
+- Experience in operations for customer success, sales, support, services, or marketing
+- Experience in data analysis, business intelligence, and design of reports and dashboards
+- Understanding of data structures, data modeling, and database management
+
+Responsibilities:
+- Collaborate with cross-functional end users to gather business requirements that impact Gainsight, Salesforce and other solutions within the tech stack  
+- Collaborate with the Business Systems team to help design CX solutions, UAT and manage the release to end users
+- Manage day-to-day support of Gainsight users, including fielding questions, ad-hoc customizations, design and implementation of core functionality, workflow adjustments, and reporting/analytics
+- Help users to develop an understanding of contributors to customer health, sources of customer risk/churn, and positive trends
+- Collaborate with other members of the operations team to help drive continuous improvements to existing processes along with designs of new ones.
+- Become a subject matter expert on Digital Customer Success operations, strategy, and data, including the customer journey, service offerings, and customer outcomes
+- Maintain expertise in Gainsight and other relevant software by staying up to date on new features, trends, and related technologies
+- Identify opportunities for improvement of existing tools and processes, including adopting new features in each Gainsight major release
+
+https://www.indeed.com/rc/clk?jk=fc418d734110b6b5&from=jasx&tk=1hdgus02rii0v801&vjs=3

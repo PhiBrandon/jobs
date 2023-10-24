@@ -1,0 +1,652 @@
+
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of experience as the primary technical point of contact for customers, engaging with them to understand their cybersecurity requirements and challenges
+- 5+ years of experience working with customers to design and architect solutions that detect and counter cyber threats effectively 
+- 3+ years of experience with conducting product demonstrations and proofs of concept to showcase the capabilities and benefits of our solution to potential customers
+- Experience in working closely with the product development team to provide feedback on customer needs and contribute to product enhancements and roadmap planning
+- Ability to assist customers in the post-sales phase by addressing technical issues, ensuring successful deployments, and providing ongoing support as needed
+- Ability to build rapport with clients with a customer-focused mindset
+- Bachelor's degree in Computer Science or Information Security
+
+Responsibilities:
+- Provide technical expertise and support during the sales process
+- Work closely with customers to understand their unique cybersecurity challenges and design tailored solutions  
+- Collaborate with sales, engineering, and product teams to ensure customers receive the best possible experiences
+- Address technical issues, ensure successful deployments, and provide ongoing support to customers
+
+https://www.indeed.com/rc/clk?jk=0c8979ca6b7e8eab&from=jasx&tk=1hdh0fogmj31t801&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Deep knowledge of modern Kotlin and Android SDK
+- Strong background in reactive UI patterns (RxJava/Flow)
+- Experience architecting and building libraries, SDK, and tools 
+- Knowledge of standard networking protocols TCP/UDP
+- Experience integrating with 3rd party libraries
+- Experience with peer-to-peer networks and building distributed systems
+- Experience with both SQL and NoSQL databases
+
+Responsibilities:
+- Building an Android-based point-of-sale and operations platform 
+- Working on challenging problems in an environment where you can have a large impact
+- Solving problems with new and emerging technologies like distributed databases, real-time syncing, message queues, and distributed transactions
+- Owning/managing specific aspects of the development process like implementation, testing, or deployment
+
+https://www.indeed.com/rc/clk?jk=1578f15b98d4618d&from=jasx&tk=1hdh0hgq2j225800&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Proven ability to organize virtual teams working from different locations
+- Experience leading teams using hybrid, agile methodologies  
+- Excellent client facing and communication skills
+- Expert knowledge of Dynamics 365 CRM, CE, Azure, Power Platform
+- Familiar with all aspects of CRM delivery projects
+- Strong advocacy for standards and best practices
+
+Responsibilities:
+- Lead the delivery team through all project stages
+- Primary customer point of contact
+- Author architecture, migration, security and other documentation  
+- Lead daily scrum sessions as scrum Product Owner
+- Manage delivery team resources and task completion
+- Ensure deliverables meet quality standards and impress customers
+- Assist with project planning, timeline, scope and resource assignment
+- Prioritize backlog and remove impediments for delivery team
+
+https://www.indeed.com/rc/clk?jk=d07e9730fd7e1da5&from=jasx&tk=1hdh0hgq2j225800&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Experience in optical fabrication (generating, grinding, lapping, polishing, sub-aperture polishing, ion beam figuring, magnetorheological finishing, interferometry, optical testing)
+- Experience in data analysis, experimental design, statistical analysis, and frequency analysis 
+- Knowledge of machine control software, metrology instrument software, mathematical analysis software and MS office 
+- Excellent written and oral communication skills
+
+Responsibilities:
+- Provide process support for existing customers including training, process optimization, and troubleshooting
+- Provide technical support to sales by performing capability analyses and demonstrations  
+- Support sales meetings by providing technical information
+- Provide software and process support to existing customers remotely or on-site
+- Communicate customer feedback to drive product improvements
+- Participate in continuous improvement engineering projects
+- Support trade show exhibitions including setup, demonstrations, and discussions
+- Participate in technical meetings and conferences to stay up to date
+- Present papers on new capabilities of the company's technology
+
+https://www.indeed.com/rc/clk?jk=7c315a6b8e79d638&from=jasx&tk=1hdh0efooi9h8800&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Full-stack web and mobile application development 
+- Java including Spring Boot framework
+- Angular/TypeScript/Ionic/NgRx
+- Kafka and event driven architecture
+- Relational and NoSQL Databases (Oracle, MySQL, MongoDB)
+- Docker and Kubernetes
+- Microservice architecture
+- AWS or other public cloud infrastructure and services
+- Atlassian products: Bamboo, Bitbucket, Jira
+
+Responsibilities:
+- Develop detailed system requirement specifications and technical design documents for complex features
+- Develop high-quality code for web and mobile applications  
+- Write unit test cases to verify quality, performance, and functionality
+- Conduct and participate in code reviews as part of oversight into team delivery
+- Develop, coordinate, and release application bug fixes
+- Support junior team members by reviewing and reinforcing practices to develop high quality code
+- Participation in sprint planning and other agile ceremonies
+- Work with minimal supervision; provide regular status updates
+- Escalate roadblocks and other challenges to leadership as appropriate
+
+https://www.indeed.com/rc/clk?jk=9bcf36ce0c7c232c&from=jasx&tk=1hdh0hgq2j225800&vjs=3
+
+ Here are some of the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 4+ years' experience 
+- Project leadership
+- Solution architecture
+- Technical guidance
+- Presentation skills
+- Customer stakeholder management
+- Methodology and process improvement
+- Software engineering direction
+- Requirements gathering
+- Development lifecycle participation
+- Software testing
+- Mentoring others
+- Incident management
+
+Responsibilities: 
+- Lead project teams and customer program/project efforts
+- Provide subject matter expertise and primary client liaison
+- Work on Rightsline projects including implementations, enhancements, integrations, support
+- Guide deployment activities and provide technical guidance  
+- Create and deliver presentations to clients
+- Educate on Rightsline best practices
+- Identify, design and implement business solutions to improve approach
+- Perform project management activities
+- Knowledge of customizing Rightsline modules
+- Full lifecycle implementation of Rightsline modules
+- Develop solutions to enhance Rightsline financial modules  
+- Build data analytics solutions
+- Participate in all aspects of development lifecycle
+- Interpret business strategy for deployment 
+- Undertake analysis of requirements
+- Advocate for ongoing productivity improvement and reuse
+- Estimate maintenance costs realistically
+- Work as part of a team or lead teams to negotiate deals
+- Recognize when alternative perspectives are required
+
+https://www.indeed.com/rc/clk?jk=79993a7710c69cad&from=jasx&tk=1hdh0hgq2j225800&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- IT consulting and managing client accounts 
+- Contract negotiation to maximize client satisfaction
+- Acquiring and maintaining an in-depth understanding of clients' IT environments
+- Identifying and addressing current and future client IT challenges
+- Strategically aligning and promoting the company's offerings to meet client needs
+- Collaboration skills to create holistic IT solutions aligned with client goals
+- Effective communication and coordination between clients, sales, and delivery
+- Communicating the business impact of technology and benefits of solutions
+- Conducting Strategic Business Review meetings with senior executives
+
+Responsibilities:
+- Provide IT consulting and account management for assigned clients
+- Negotiate contracts to enhance client satisfaction
+- Maintain knowledge of clients' IT environments and business challenges
+- Identify and address current and future client IT challenges  
+- Collaborate with engineers to design solutions
+- Act as liaison between clients, sales, and delivery
+- Communicate solution benefits to decision-makers
+- Conduct Strategic Business Review meetings
+- Be the primary point of contact for clients
+- Cultivate and maintain client relationships
+- Ensure end-to-end client satisfaction
+
+https://www.indeed.com/rc/clk?jk=95e8823decf0dd8b&from=jasx&tk=1hdh0fogmj31t801&vjs=3
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Problem solving 
+- Technical and mechanical solutions
+- Project management
+- Proof-of-concept testing
+- Sales
+- Verbally communicate technical solutions to clients
+- Excel
+
+Responsibilities:
+- Work closely with engineers and test plant
+- Prepare and set-up proof-of-concept lab tests  
+- Project manage customized equipment builds 
+- Provide technical support to customers
+- Foster relationships with prospects and customers
+- Develop quotes; enter orders
+- Work closely with outside sales representatives
+- Find and develop new leads
+- Manage sales of parts
+- Attend trade shows
+- Travel as needed, up to 25%
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AIiLXtwtv0BDns9BiY4ItblantFozdL6jLmLxNvS8mvmRUTOianGJGqg7X_qvLXUM5B7UrPaUxk7tUMGE6NQUH1gLWB--EK47oj2LLcWAHq7Jt_awjkPU26SYdVpFAStEGdsJh7SxC_Vowea2XfyjJs9Zcvd73cuVzvVbPJOjcdXahdkgBMSQkGRVN7V1coLgfHrWmXnCT6v3pIRAZEhAQrgZc_e25YZfBiZ8DnFMulfSAWLOQDdLMYbGpzhM8BaySzDSoplkeV8dyplv7qxpNjiagHLHkc-rf0S6EjJ9A-TwUr_OmB7s1wAWov6vaziX3EpLzbZYkWMuXlpIG1cpNHS0FTb-5WOOK3CqelNYRzyq5vrKzZS4ESrTz-BjX_Kiht53WnILJ2eM9A1henp31r6zZFHUuTX8MjormcMCdh8_stiu4jRKKqhCg-Uve3Dc9W9Q57k9W0ydTd7fjoLdzYEPBmDU2Ca_tok8Q9lamY9n6Mjo6JSHAkTWpwlGioE1PrXdYZvl7m6HBEPynrq5Q1_8RWUfsXRTAL67hcyJBBC7ifvHYswy1qRK9NrUgwL0Rj50H5BQxYn18V2qnOrmR13Qxq2eGXj-STsvQHgBXF4_vorfMYedFL9HU-iBGg4i3--R1UtghP90xeEwDb_cQYMEy9TuCol0HLM6bDyDxdivZaQoodCXd&xkcb=SoBn-_M3JxJMDawY6x0GbzkdCdPP&p=13&fvj=1&vjs=3&jsa=4724&tk=1hdh0gujeje0n801&from=jasx&wvign=1
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 5+ years of management experience, senior management and/or director level experience 
+- At least 10+ years of experience in support services  
+- Experience in technical or commercial management of software support services or software development or customer care around IT/Application services
+- Basic understanding of inter-networking/security and SAAS market
+- Experience with WebSense or BlueCoat is a plus
+- Bachelor's degree or relevant education/equivalent experience
+
+Responsibilities:
+- Lead high producing team of 40+ technical account managers  
+- Responsible for operational excellence and engaging with top customers
+- Focus on customer satisfaction, productivity, training, employee retention and growth
+- Report to VP and provide senior leadership and strategy
+- Act as a change agent to promote department initiatives and innovation
+- Formulate and implement premium support strategy 
+- Collaborate across departments to represent customer voice
+- Act as ultimate escalation point for customer support issues
+- Provide leadership to manageers and staff
+- Meet with customers at multiple levels internally and externally
+- Liaise with peers to work on customers for retention, reference or new deals
+
+https://www.indeed.com/rc/clk?jk=ba78eb39c3e2d753&from=jasx&tk=1hdh0efooi9h8800&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Collaboration with Contact Centers, Unified Communications, VOIP, Video Conferencing and other telecommunications experience.
+- Excellent written communications skills. 
+- Strong attention-to-detail.
+- Excellent oral presentation skills.
+
+Responsibilities:
+- Planning and designing and delivering solutions for multi-vendor Unified Communications Solutions.
+- Serve as an escalation point for Engineers, Sr. Engineers and Consultants.  
+- Troubleshoot complex technology issues.
+- Assess Customer environment and make recommendations on solutions and improvements.
+- Provide deployment and implementation services of multi-vendor solutions in a Unified Communications environment.
+- Be available to meet customers’ IT needs.
+- Maintain multiple advanced manufacturer specific advanced certifications.
+- Assist in creating and/or responding to Bill-of-Materials (BOM) and Statements of Work (SOW).
+- Be available as a pre-sales resource for sales team members, as necessary.
+
+https://www.indeed.com/rc/clk?jk=e6545738bd3b9414&from=jasx&tk=1hdh0hgq2j225800&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Deep technical background with AWS solutions. AWS Certified Solutions Architect or equivalent AWS certifications  
+- Sales acumen and a track record of successful solution selling. Past experience sales carrying quota is a plus
+- Strong understanding of cloud computing concepts, infrastructure, and best practices. Such as K8S, Containers, Serverless, Microservices, IaC, CI/CD Pipelines, etc
+- Experience with technical pre-sales or as a professional in the field of information technology
+- Excellent communication and technical presentation skills, with the ability to convey complex technical information to non-technical audiences
+- Knowledge of all or most of the following categories in the DevOps space: Consulting, Integration, and or Technical Advisory
+
+Responsibilities:
+- Architect and design AWS-based solutions that meet client needs, emphasizing scalability, security, reliability, and cost-effectiveness
+- Ideating, Developing, and Promoting EPAM’s AWS offerings  
+- Engage with clients to understand their business requirements, challenges, and objectives
+- Provide technical expertise and guidance during the sales cycle to build trust with clients
+- Collaborate with clients on long-term cloud strategy and roadmap development 
+- Develop comprehensive proposals and presentations showcasing the benefits of proposed solutions
+- Participating in RFP/RFI responses and presentations
+- Educate the Customer Success team on initiatives and how EPAM/Alliance partner technologies provide value
+- Enable Alliance partner's Go-To-Market team on EPAM’s solution and value
+- Work with business and delivery leaders to support end-to-end sales cycle
+
+https://www.indeed.com/rc/clk?jk=cff3da875874ac64&from=jasx&tk=1hdh0efooi9h8800&vjs=3
+
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Excellent verbal and written communication skills
+- Strong presentation skills 
+- Ability to perform product demonstrations
+- Mechanical skills and ability to operate computers/equipment
+- Comfort working in a technical environment
+- Organized and analytical to solve sales issues
+- Knowledge of industrial materials processing technology
+
+Responsibilities:
+- Pursue leads, qualify prospects, and manage entire sales process
+- Generate new leads through marketing, calls, referrals
+- Present technology at trade shows and events
+- Convey customer needs to product teams 
+- Travel throughout sales territory (minimum 50%)
+- Use Salesforce CRM to maintain customer database
+- Resolve customer issues promptly 
+- Meet or exceed sales goals
+- Adhere to company policies
+
+https://www.indeed.com/rc/clk?jk=e740defbd89bb54b&from=jasx&tk=1hdh0gujeje0n801&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Understanding of acoustic treatments and noise control concepts for automotive, construction and aerospace applications
+- Knowledge of programming languages including Python, MATLAB, C++, Fortran, PCL, DMAP  
+- Experience in numerical acoustics and Computational Assisted Engineering (CAE)
+
+Responsibilities:
+- Provide support to regional sales teams to ensure achievement of revenue goals
+- Work with customers to support use of Actran product and maintain customer satisfaction
+- Teach public and customized classes, conduct seminars on new product releases
+- Assist sales in developing implementation plans for new customers 
+- Coordinate and execute benchmarks as required
+- Assist sales in understanding technical requirements of prospective clients
+- Develop territory support plans and monitor technical activities of key accounts  
+- Deliver application consulting and technical support to strategic clients
+- Provide quick starts, mentoring and technical support for product suite
+- Interact with customers to help with best practices for simulation
+- Develop customized training classes and deliver to existing/prospective customers
+- Up to 25% international travel required to visit/train customers
+
+https://www.indeed.com/rc/clk?jk=7bea4fda42df940a&from=jasx&tk=1hdh0fogmj31t801&vjs=3
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- Full-stack web and mobile application development
+- Strong business acumen  
+- Java including Spring Boot framework
+- DevOps and continuous delivery principles and tools
+- Angular/TypeScript/Ionic/NgRx
+- Kafka and event driven architecture
+- Relational and NoSQL Databases (Oracle, MySQL, MongoDB)
+- Microservice architecture
+- Docker and Kubernetes
+- WebLogic, Tomcat
+- AWS or other public cloud infrastructure and services
+
+Responsibilities:
+- Architect, design, and support team members to deliver digital solutions
+- Synthesize business requirements and translate them to appropriate technology solutions
+- Think strategically and balance short-term needs with longer-term business priorities  
+- Monitor technology trends such as emerging standards for new technology opportunities
+- Engage in hands-on review and design of the software, including technical review and analysis of source code
+- Prototype and productize new concepts/ideas in an agile way
+- Escalate roadblocks and other challenges to leadership as appropriate
+- Create detailed system requirement specifications and technical design documents for complex applications
+- Develop high-quality code with the corresponding unit tests, analytics, and telemetry
+- Partner with product owner and scrum master to lead sprint planning and other agile ceremonies
+
+https://www.indeed.com/rc/clk?jk=0e7463698d50b512&from=jasx&tk=1hdh0hgq2j225800&vjs=3
+
+ Here are the specific skills and responsibilities extracted from the job description:
+
+Skills:
+- 7+ years of experience in a customer facing technical role  
+- Comfort and confidence in client-facing interactions
+- Ability to work both pre and post sale
+- Strong Linux system administration experience including networking
+- Experience with authentication and authorization systems like LDAP, Kerberos, AD, and IAM
+- Hands-on experience with cloud based services like AWS, Azure and GCP
+- Hands-on experience with the Kubernetes ecosystem for setup, administration, troubleshooting and tuning
+- Experience with the Hadoop and/or Spark ecosystem for setup, administration, troubleshooting and tuning
+- Experience with Python
+- Some knowledge of Java, nice to have
+- Some knowledge in ML Ops
+
+Responsibilities:
+- Work with the Customer Success team and customers to jointly identify near and longer-term priorities and define the associated engagement plan
+- Manage milestones with Customer Success Manager and customer and contribute to deliverables, provide regular status updates and proactively identify and mitigate issues/risks 
+- Centralize the technical information about clients and take part to the account strategy and with the other members of the account team
+- Play an active role contributing to the growth and scalability of the Field Engineering team through robust documentation, continuous process optimization, and peers upskilling
+- Work with Customer resources as a primary technical advisor, providing guidance and hands-on support on platform architecture, operations, best practices, security, data management, compute resources, ML-Ops, Monitoring, etc.
+- Help clients troubleshoot the implementation of the product within their systems.
+- Ensure that feature requests are effectively recorded and communicated to product and R&D
+- Advise client tech leaders on choices around new companion technologies and tech strategies around Dataiku
+- Support innovative approaches around Dataiku (edge computing, deep learning, advanced MLOps, for example)
+
+https://www.indeed.com/rc/clk?jk=24a09343453af933&from=jasx&tk=1hdh0hgq2j225800&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Hands-on, customer-driven, results-oriented 
+- At least 5 years of experience in payments, fintech, banking, accounts payable, accounts receivable, sales, and customer acquisition
+- Go-to-market expertise around payments, APIs, technology, software, SaaS, invoicing, data solutions, and/or AI
+- Entrepreneurial, relentless, persistent, driven, tenacious, charismatic, energetic, and proactive
+- Excellent consultative/solution sales, communication, critical thinking, problem-solving, and relationship-building skills
+
+Responsibilities:  
+- Go-to-market execution for document AI and invoicing API technology
+- Close new revenue-generating deals in payments, fintech, banking, and financial services
+- Prospect, conduct lead generation, provide demos, build relationships, gather requirements, present tailored pricing and solutions, and close customers from startups to enterprises
+
+https://www.indeed.com/rc/clk?jk=a0b7d63aec11efab&from=jasx&tk=1hdh0hgq2j225800&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Cisco collaboration and AV technologies 
+- Conference room technologies including SIP video connectivity, Cisco telepresence endpoints, AMX, Crestron, Biamp
+- Cloud collaboration meeting platforms like Zoom, MS Teams, Webex
+- Audiovisual system design, integration and maintenance
+- Troubleshooting audio and video equipment
+- API development  
+
+Responsibilities:
+- Design, implement and manage Cisco collaboration and AV technologies
+- Provide audio-visual and video conferencing support for meetings  
+- Design audio and video hardware systems for meeting spaces
+- Manage and support video support vendors and platforms
+- Collaborate on AV requirements and design conferencing solutions
+- Ensure compatibility of conferencing technologies and platforms
+- Maintain and program large-scale video media walls and financial data systems
+- Lead AV integration projects from start to finish
+- Maintain documentation of AV systems, diagrams and configurations
+- Develop user guides and manuals and provide trainings
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AuKz8EBO1xHDEL7V2YF9xF3dC_I9B9i-Zw2Jh8clPMK1OPPd--Yhs6lwFFfB0l7Qy0zgIb5loTkfTyEAspo4uvV0tVXNCfKRoxnAkstbjPTgYkV5cVLZvs-q2riIxVbxMP1ZzvhtMECO464t5N0zIVjKZb6dF1KzdSPupAaGWqe-vNdVxwiYYLEs_0LBautrH0dx-mlFeBqsMMJiiQj1m-eMeGc7LsRyQ3KKW5ygvGhYPqcMISEfOkQPXYEocIPER0cJKlXZb98fd_n0MlzXSWD4fWW_BaVOOwfZb8L-8jJrRRZSuSEGLvS_wL78LM78bqrK2BcZjrp1ejiluq6zkN69gy-y2jvyO66Qe7QShobkHi4dRD6dGJ-ib4VjGs5vZTZnLoGIEo1WX8DPqzB8Cb4EBAoFupjxKwYtmAqOkVc0ihmfryrE7themwdgcv8eyHa52WfVF63TAdfBvzUz7GZTYMAszXoa_kCvn_egUkIvFOZ7GjrvKpHKZKGbozSHr8Ux608lJnwVod1w_CAtbU4DEprW1Y89_sSqB-dQ8I8I5wp4NGV2OrMmnF6nDB4ZSiFeKVr2X7sqJJjzAAMnL5ixVtCpfB8WIVV1zEb4He_qrtNCVzg_0wGrfV7HJ3OQVyfF8FwoLorkiw79OD5EWVd41se-wNgJPOrCtTnncF0NXH8OG7FrknzeQrvvfRVybYIVh3l80ij5nFAqTl9v1QojGLdgLoCO0KuCLT9BR-KU1CfafHDHDDDFgMmFJniesJQoZmrTRKrsnWZhaqQKRQhRwTD3qjz24VolvEA-PtUA2i_FO-RpAHxR8zci8tWmpiEhk1lL2jLSNCWdzBAQN69ijkbPC1dJRkZt_3yoGkbIlrzppcAEP-AFvWMGIP4V_QvXeoOMvfWqMkeAfSe5YlaK-097DA5x2zZX9xvIVWhmhN5obvROwg4zipdzQ_FsczyVEM78mnouMpT6iYv_zOn6vIRuAzETeNAl03SkJ3L21A3bTgwES_dIA2-7eeVKkSSliM9Tep79VU9OXq3Sii_DUBJ5zyiLBDKQMdNc2Btv-34jh7UwnB_intRKfl_K5sxdw4yC1Rx8wdWjhXY6MZivMLZW9Vb3svtL54pA6hKAxTJ9sBlHrL8nixJoRFoIw%3D&xkcb=SoDT-_M3JxJMDawY6x0HbzkdCdPP&p=12&fvj=0&vjs=3&jsa=4724&tk=1hdh0gujeje0n801&from=jasx&wvign=1
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Deep product expertise with Voltaiq software 
+- Technical troubleshooting
+- Data visualization
+- Computer networking
+- Strong communication and collaboration
+- Problem solving
+- Troubleshooting 
+- Organization
+- Thriving in a startup environment
+
+Responsibilities:
+- Help solve customers' battery engineering problems
+- Maximize customer engagement and utilization of software
+- Understand customer needs and identify solutions 
+- Monitor customer health and address issues
+- Provide technical support across customer lifecycle
+- Contribute to product development based on customer feedback
+- Participate in internal R&D projects 
+- Travel to customer sites and trade shows
+
+https://www.indeed.com/rc/clk?jk=984120de6faafca8&from=jasx&tk=1hdh0fogmj31t801&vjs=3
+
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- 5+ years of IT experience with managed services, networking, system administration, data protection and cloud
+- Excellent communication skills 
+- Organized with attention to detail
+- Self-motivated and proactive
+- Ability to work independently and as part of a team
+- Focused on customer success
+- Process oriented
+
+Responsibilities:
+- Evaluate and assess existing IT environments and business workflows
+- Determine solution requirements and sizing
+- Communicate proposed solutions and designs to clients
+- Advise clients on product solutions, offerings, and licensing models 
+- Work cross-functionally with different teams
+- Work with manufacturers on solution builds and positioning
+- Participate in certification processes
+- Build and maintain client relationships
+- Perform proof of concepts
+- Participate in internal processes to deliver client solutions
+- Develop knowledge of company's managed services offerings
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DvKTmZaQLkFn0osqGdBn_YX4IKWGHuxvmGEzRGhWyJNbeSHl5b1b9bYvE6ILi_r7ekAw7nctb8s7So5V-J_hIqTZ1uLBQSzKFkfX45cf_nq1R8r7TX6BmjLzzMJX3hA9jyBDcoxZMYZKkuBZHatJB3t04W0gpzZhbKWx2m5DZbvLkOHDJNUcYOPcjTlfy7VsyYTYZwNK1J9j8INQhi_-MzDorIcKpiRhV37edzjjeXCDsA8QpbA89eJ2WL4R8oHowKxcGWuvEVtC44Kw-tB69aoTVcGNJe15UeTNc8nOB3JSWT_kh6nzBnvLBTqkNxF4D37FyRDhy9FW37qYxa9ylTULTrVDF_Zt9W0nnPFXRXNWRUx0k5vTFg78s0_fWpmrn3GuTjkSuzW3tajqBUp1qJu_wrmSdRZzvtebIEbzmjegBsAO_dhkw46mEq9tVecjB4llUKjk-e7AhIOTbK1OVDaEmtFxBk7Q-ZdoBkpTcy6PUBOGNbLyg6Wqn6cUWpU-AxQHY1wWjVUpkaFS6cIFEt1yDsZAaIslAWq6i0ZeD0Lre2kCrPjxTjdgN3FPwa3uCmof6XRSP9nETGqOzENOga&xkcb=SoBd-_M3JxJMDawY6x0AbzkdCdPP&p=11&fvj=1&vjs=3&jsa=4724&tk=1hdh0gujeje0n801&from=jasx&wvign=1
+
+ Based on the job description, here are the key skills and responsibilities for the Applications Engineer role:
+
+Skills:
+- 3+ years of experience as a Civil or Mechanical Engineer
+- Proficient in AutoCAD and Civil3D 
+- Experience in topographical analysis
+- Excellent writing and communication skills
+- Coding experience with AutoCAD scripting
+- PV design and performance modeling experience
+- Work experience in solar tracking 
+
+Responsibilities:
+- Provide technical and engineering guidance on sales proposals
+- Design PV layouts and tracker configurations 
+- Generate and manage project bills of materials
+- Prepare customer deliverables like equipment layouts, designs
+- Estimate site grading costs
+- Provide technical support and product education to customers
+- Share product ideas with R&D team
+- Coordinate with other departments to streamline projects
+- Develop tools to improve proposal and documentation processes
+- Manage third-party vendors
+- Document and formalize processes
+
+https://www.indeed.com/rc/clk?jk=57cf6d085bd957b5&from=jasx&tk=1hdh0efooi9h8800&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 3-5+ years technology sales experience in an inside or field sales capacity 
+- Demonstrated success with a consistent track record of quota overachievement
+- Entrepreneurial spirit who is adept at taking on new challenges
+- Highly creative and willing to fail fast and iterate quickly to get results
+- Preferably Cisco CCNA and Cisco Meraki Solutions Specialist certifications
+
+Responsibilities:
+- Position and sell Meraki Vision (MV) and Meraki Things (MT) technology 
+- Drive new business development strategy within assigned territory
+- Configure and design network systems across enterprise customers
+- Close new deals and expand existing Meraki install base  
+- Develop creative demand generation strategies to drive sales
+- Evangelize IOT story and business value to partners and customers
+- Maintain accurate quarterly forecasting for territory
+- Collaborate within Cisco teams to drive holistic IOT strategy
+- Develop pipeline of short, mid, and long-term business
+- Identify impactful use cases to transform customer businesses
+- Empower extended teams to unlock Cisco's sales and partner potential
+- Create and maintain clear work systems and communications
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dwb_YIohz4zuU9-hizYTxpAJ9-qZQvsILXUPhgrrTAx1TYtkr7S8WxTNXlGLMW_niO9ctww0s7BH-ao59jScltmLisDz19Uf7oiVGQ5csc8asAYKO6BaFv-Iv2xQoLsiRbxoLU-EndwC5pmzKLbMpsSU6O9Gx2-xICLK1sKO-4GC7aN3NNW36Q-SbLW63saTZShTDt7su1RqZuOZ5ve3nj6ieTAZbViQimpIy0vEUs69MfgMODmb5z1vrzbU06k7T_ssJN492kC1DFg37pqBk81Wj-YxPW_syBd3rhXk_sJviPjlLje6sgeHgQ7AjxeU14tTbNYKkq3tPtjRYqK6aCjO_qlTZWip4yiQ1SNUtDKM02JpjUrUg3YCSizUuH44sG-yoHPQdXINJkb2EKvEjszkG2JLfTXAARaC52zba1yg0QytwuAmCbH3OONgaX2_TUhOEmgBsP1eHpSmfheKf5knT1p9kL0k-iaVg6S5R7eLgKz4RPGm7lrBPIlYK899tXqvMlNz3uxndnh70eM-cCo5LjD4zK2rGO7eEMf_43s0bxySgbb0EyOLGNZwk01wuC_GIjFsyls7xySzVWGyOm8FHNBf_5kj9gc_31Q446ddk-W8j6hOPa&xkcb=SoCn-_M3JxJMDawY6x0LbzkdCdPP&p=0&fvj=1&vjs=3&jsa=4724&tk=1hdh0gujeje0n801&from=jasx&wvign=1
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Strong technical knowledge in computer networking and cloud platforms 
+- Excellent communication and presentation skills for delivering product demos and interacting with clients
+- Ability to analyze customer requirements and propose effective solutions
+- Project management skills to ensure successful implementation of solutions
+- Sales-oriented mindset with a focus on achieving targets and driving revenue growth
+
+Responsibilities:
+- Conduct technical sales activities, including product demonstrations and presentations to potential clients
+- Collaborate with the engineering team to identify customer needs and provide appropriate solutions  
+- Analyze customer requirements and recommend suitable products or services
+- Provide pre-sales support by answering technical questions and addressing customer concerns
+- Work closely with project management teams to ensure successful implementation of solutions
+- Stay up-to-date with industry trends and advancements in computer networking technologies
+- Build and maintain strong relationships with customers to drive sales and achieve targets
+
+https://www.indeed.com/rc/clk?jk=3cb3a35e2f9d54e7&from=jasx&tk=1hdh0gujeje0n801&vjs=3
+
+ Based on the job description, the key skills and responsibilities of the Solutions Architect role include:
+
+- Act as a subject matter expert and technical thought leader, providing direction and advice throughout the project life cycle.
+
+- Contribute deep knowledge of processes and technologies to project teams. 
+
+- Collaborate with other subject matter experts and project teams as needed.
+
+- Mentor other design engineering staff members. 
+
+- Conceptualize system designs and determine system requirements. 
+
+- Provide technical expertise and recommendations to support project tasks performed by others.
+
+- Monitor development of bills of materials and documentation. 
+
+- Generate design documentation such as functional descriptions and sketches. 
+
+- Research and recommend technology options for clients.  
+
+- Contribute to construction drawing packages and support documentation.
+
+- Monitor project testing, commissioning, and configuration.
+
+- Support projects during the build phase.
+
+- Provide regular project updates to leadership.
+
+- Maintain expertise through ongoing learning and industry involvement.
+
+- Experience with audio/video systems in sports venues is required.
+
+So in summary, as the Solutions Architect I would act as a technical leader and subject matter expert, contributing my knowledge and expertise throughout the project life cycle to conceptualize designs, determine requirements, provide recommendations, develop documentation, and support projects from design through deployment.
+
+https://www.indeed.com/rc/clk?jk=87a81662aea150a3&from=jasx&tk=1hdh0efooi9h8800&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- IT solutions design including network design, cloud infrastructure, enterprise ERP solutions
+- Server operating systems 
+- Tools like Visio for visual data representation
+- Data analysis and problem solving
+- Staying up to date with IT trends
+
+Responsibilities:
+- Analyze customer IT requirements and needs
+- Collaborate with cross-functional teams to gather needs
+- Develop and implement software/infrastructure solutions 
+- Create visual representations of data
+- Identify patterns and insights from data analysis
+- Provide process improvement recommendations based on data
+- Generate documentation like Statements of Work
+- Create Managed Services Agreements
+
+https://www.indeed.com/rc/clk?jk=c48859e85799a792&from=jasx&tk=1hdh0fogmj31t801&vjs=3
+
+ Based on the job description, here are the key skills and responsibilities:
+
+Skills:
+- Technical knowledge and design expertise 
+- Strong communication skills
+- Customer service orientation
+- Ability to obtain expert-level certifications like Aruba ACMP, ACDP, ACSP, ACDNS or Cisco CCDP/CCNP
+- Knowledge of security solutions and their integration with networking and wireless
+
+Responsibilities:
+- Delivering network designs and technical guidance to customers
+- Conducting trainings and webinars 
+- Performing demonstrations of solutions
+- Staying up to date on latest trends and offerings
+- Meeting with customers in person and virtually  
+- Participating in RFI/RFP responses and solution proposals
+- Obtaining relevant manufacturer certifications
+- Implementing proposed architectures when necessary
+- Developing demonstrations and delivering them to customers
+- Contributing to network statements of work and diagrams
+- Supporting sales by providing solutions, proposals reviews, BOMs, pricing inputs
+- Working with manufacturer teams
+- Maintaining deadlines and being a team player
+
+https://www.indeed.com/rc/clk?jk=779fb22dfc653869&from=jasx&tk=1hdh0hgq2j225800&vjs=3
+
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- 15+ years of experience in travel/airline domain  
+- Assessment of client IT needs and making recommendations
+- Demonstrating IT services/solutions and their benefits
+- Negotiation skills
+- Sales goal setting and tracking progress
+- Building and maintaining customer relationships
+- In-depth market research
+- Presenting to senior levels/executives
+- Knowledge of Agile, DevOps, Cloud Computing, Data Science, etc. 
+- Consulting experience
+- Excellent communication and interpersonal skills
+- Ability to multitask and prioritize
+- Attention to detail
+
+Responsibilities:
+- Developing an effective US sales strategy and acquiring new customers
+- Extending and developing an IT services business portfolio  
+- Preparing sales visits and presentations
+- Providing technical advice after sales
+- Gaining familiarity with industry trends and products
+- Assisting with marketing literature and website features
+- Attending trade exhibitions and industry events
+- Examining customer IT requirements and helping with sales pitches
+- Selling IT solutions by mapping them to customer needs
+- Working with diverse client and internal teams across time zones
+
+https://www.indeed.com/rc/clk?jk=155b1924cd775b98&from=jasx&tk=1hdh0hgq2j225800&vjs=3

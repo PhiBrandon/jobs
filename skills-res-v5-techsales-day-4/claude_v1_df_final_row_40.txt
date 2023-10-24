@@ -1,0 +1,25 @@
+ Here are the key skills and responsibilities extracted from the job description:
+
+Skills:
+- Full-stack web and mobile application development 
+- Java including Spring Boot framework
+- Angular/TypeScript/Ionic/NgRx
+- Kafka and event driven architecture
+- Relational and NoSQL Databases (Oracle, MySQL, MongoDB)
+- Docker and Kubernetes
+- Microservice architecture
+- AWS or other public cloud infrastructure and services
+- Atlassian products: Bamboo, Bitbucket, Jira
+
+Responsibilities:
+- Develop detailed system requirement specifications and technical design documents for complex features
+- Develop high-quality code for web and mobile applications  
+- Write unit test cases to verify quality, performance, and functionality
+- Conduct and participate in code reviews as part of oversight into team delivery
+- Develop, coordinate, and release application bug fixes
+- Support junior team members by reviewing and reinforcing practices to develop high quality code
+- Participation in sprint planning and other agile ceremonies
+- Work with minimal supervision; provide regular status updates
+- Escalate roadblocks and other challenges to leadership as appropriate
+
+https://www.indeed.com/rc/clk?jk=9bcf36ce0c7c232c&from=jasx&tk=1hdh0hgq2j225800&vjs=3
