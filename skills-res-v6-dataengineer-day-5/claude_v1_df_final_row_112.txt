@@ -1,0 +1,18 @@
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Big Data
+- Spark  
+- HIVE
+- AWS
+- Kubernetes
+- Data Bricks
+
+Years of experience required:
+- 7+ years as a Data Engineer
+- Spark: 5 years (preferred)
+- AWS: 5 years (preferred) 
+- Data Bricks: 5 years (preferred)
+- Kubernetes: 5 years (preferred)
+
+https://www.indeed.com/rc/clk?jk=f5777b4056e4e7e0&from=jasx&tk=1hd43l8mokhqg800&vjs=3

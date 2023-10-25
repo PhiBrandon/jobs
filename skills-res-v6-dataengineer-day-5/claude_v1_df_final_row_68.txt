@@ -1,0 +1,25 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 7+ years of experience in working with data solutions
+- 3+ years of experience coding in Python, Scala or similar scripting language
+- 2+ years Experience in designing and implementing data ingestion with real-time data streaming tools  
+- 3+ years experience working with MPP databases such as Snowflake, Redshift
+- 2+ years experience working with Serverless ETL processes  
+- 1+ years experience with big data technologies like Hadoop, Spark, Cassandra, MongoDB
+- Experience designing, documenting, and defending designs for key components in large distributed computing systems
+- Demonstrated ability to learn new technologies quickly and independently
+- Demonstrated ability to achieve stretch goals in a very innovative and fast paced environment
+- Excellent verbal and written communication skills, especially in technical communications
+- Strong interpersonal skills and a desire to work collaboratively
+- Experience participating in an Agile software development team
+
+Technologies:
+- Python, Scala or similar scripting language  
+- AWS Cloud Platform, Azure, Snowflake
+- Kafka, Kinesis, SAP/Client or other cloud integrations
+- Snowflake, Redshift, MPP databases
+- Lambda, AWS Glue, Matillion or similar serverless ETL processes
+- EMR, Hadoop, Spark, Cassandra, MongoDB or other open source big data tools
+
+https://www.indeed.com/rc/clk?jk=a03e6162d11ae269&from=jasx&tk=1hd1fvcrnllot800&vjs=3

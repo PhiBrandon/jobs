@@ -1,0 +1,25 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL development
+- SQL
+- Python
+- Data modeling
+- Data analytics
+- Data visualization
+- Agile methodology
+- Documenting processes and specifications
+
+Technologies:
+- Apache Spark
+- Big data processing 
+- Distributed cluster computing (Apache Spark)
+- Relational databases
+- Hadoop
+- ElasticSearch
+- Python
+- SQL
+- R
+
+https://www.indeed.com/rc/clk?jk=22cd2b66172d9b52&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3

@@ -1,0 +1,29 @@
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- SQL
+- PL/SQL 
+- Data modeling
+- Data visualization with tools like Tableau, Domo
+- Data engineering
+- Data pipeline development
+- Data quality processes 
+- Data governance
+- Agile methodologies
+- Collaboration
+
+Technologies: 
+- Postgres
+- MongoDB
+- Couchbase
+- Kafka
+- Snowflake
+- Debezium (CDC tooling) 
+- Docker
+- JSON
+- Git
+- Microservices architecture
+- AWS
+- GitLab
+
+https://www.indeed.com/rc/clk?jk=448b77327ddb466d&from=jasx&tk=1hdjautnrj4ij800&vjs=3

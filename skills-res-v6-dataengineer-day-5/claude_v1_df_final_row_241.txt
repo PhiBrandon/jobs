@@ -1,0 +1,15 @@
+ The relevant skills and technologies extracted from the job description are:
+
+Skills:
+- ETL experience with Matillion tool 
+- Snowflake experience
+- Strong SQL experience
+
+Technologies:
+- Matillion (ETL tool)
+- Snowflake (Data warehouse)
+- SQL
+- Informatica (ETL tool)
+- BODS (Extract, transform, and load - ETL tool)
+
+https://www.indeed.com/rc/clk?jk=efbd2611031a4f0d&from=jasx&tk=1hd6h9l2djtch81e&vjs=3

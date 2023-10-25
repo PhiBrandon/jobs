@@ -1,0 +1,20 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Building and maintaining data pipelines and ETLs
+- Database design and query optimization
+- API design (REST, Websockets etc)
+- Cloud infrastructure configuration (AWS preferred)
+- Python and SQL
+
+Technologies: 
+- Data pipelines
+- ETL frameworks
+- Databases
+- APIs
+- Cloud infrastructure (AWS preferred)
+- Python
+- SQL
+
+https://www.indeed.com/rc/clk?jk=713aaea093a693fd&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

@@ -1,0 +1,28 @@
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Programming in Python, Java, Scala 
+- SQL (Postgres)
+- NoSQL (MongoDB, Cassandra, Redis)
+- Search engines (ElasticSearch)
+- Time-series databases (InfluxDB, Druid, Prometheus)
+- Computer science fundamentals: data structures, algorithms, distributed systems
+- Agile methodology
+- Documentation and communication
+- Team collaboration 
+- Problem solving
+
+Technologies:
+- Python 
+- Java
+- Scala
+- PostgreSQL
+- MongoDB
+- Cassandra 
+- Redis
+- ElasticSearch
+- InfluxDB
+- Druid
+- Prometheus
+
+https://www.indeed.com/rc/clk?jk=6c954cb5fbc38370&from=jasx&tk=1hd6hm9p3irpg800&vjs=3

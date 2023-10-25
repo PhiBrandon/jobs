@@ -1,0 +1,29 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 3+ years of real-world data engineering development experience
+- Snowflake development experience
+- Proficient in Snowflake services like snowpipe, stages, stored procedures, views etc.  
+- Strong SQL skills
+- Programming skills in Python, Scala
+- Data modeling and database design principles
+- ELT/ETL tool experience  
+- Apache Airflow experience
+- Data integration experience from various sources
+- Cloud computing skills in AWS
+- Data quality and governance understanding
+- Problem solving skills
+
+Technologies: 
+- Snowflake
+- AWS (Snowflake certified preferred)
+- Python
+- Scala
+- SQL
+- Apache Airflow
+- Spark/PySpark
+- DBT
+- Kafka
+- AWS services: Lambda, Kinesis, S3, Lake Formation, EC2, ECS/ECR, IAM, CloudWatch, Redshift etc.
+
+https://www.indeed.com/rc/clk?jk=b7211874c261a672&from=jasx&tk=1hd1g1f082gvk000&vjs=3

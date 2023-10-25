@@ -1,0 +1,25 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Python
+- SQL
+- Data modeling
+- ETL pipeline development
+- Data warehousing
+- Data management fundamentals
+- Data storage principles
+- Problem solving
+- Communication
+- Data governance
+
+Technologies: 
+- Python
+- SQL
+- AWS (S3, Athena, Glue)
+- Cloud platforms (AWS, Azure, Google Cloud)
+- Cloud orchestration tools (Airflow, Dagster, Prefect)
+- Big data technologies (Hadoop, Hive, Spark)
+- Distributed systems
+
+https://www.indeed.com/rc/clk?jk=38d10858e6384637&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

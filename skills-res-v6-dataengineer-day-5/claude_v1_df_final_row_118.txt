@@ -1,0 +1,14 @@
+ Key skills and tech extracted from the job description:
+
+Skills:
+- ETL
+- Python 
+- SQL
+- AWS (Apache Airflow, Kafka, Streaming Data)
+
+Other Tech:
+- RAPP (current vendor they are transitioning from)
+- AWS
+- Redshift
+
+https://www.indeed.com/rc/clk?jk=34d9149b4a61c486&from=jasx&tk=1hd43l8mokhqg800&vjs=3

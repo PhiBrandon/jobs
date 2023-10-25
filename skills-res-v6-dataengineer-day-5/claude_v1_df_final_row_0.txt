@@ -1,0 +1,31 @@
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- Apache Spark  
+- PySpark
+- Data engineering
+- Data pipelines
+- Airflow
+- Kubernetes
+- SQL
+- NoSQL databases
+- Data modeling
+- Schema design
+- Cloud technologies
+- Problem solving
+- Communication
+- Collaboration
+
+Tech:
+- AWS 
+- Azure
+- Databricks
+- PySpark
+- Spark
+- Snowflake
+- Airflow
+- Kubernetes
+- Docker
+- SQL/NoSQL databases
+
+https://www.indeed.com/rc/clk?jk=2865c3b2b6437bd7&from=jasx&tk=1hd1fm1o6iman800&vjs=3

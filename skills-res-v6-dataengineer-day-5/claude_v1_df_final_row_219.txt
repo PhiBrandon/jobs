@@ -1,0 +1,18 @@
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- 6+ years of professional software development experience
+- Experience building high quality data pipelines with comprehensive testing 
+- Strong problem solving and technical troubleshooting skills
+- Experience designing systems and solutions at scale
+- Ability to work independently with minimal supervision
+- Experience mentoring and guiding other engineers
+- Experience with data modeling
+- Python experience
+
+Tech:
+- Apache Spark
+- Delta Lake
+- API and microservices architecture
+
+https://www.indeed.com/rc/clk?jk=f1db132bcf22f966&from=jasx&tk=1hd6h6bheiolg800&vjs=3

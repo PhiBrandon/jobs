@@ -1,0 +1,24 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Experience with FHIR (Fast Healthcare Interoperability Resources) standards 
+- Expert Java programming abilities
+- Familiarity with Python and Bash scripts
+- Strong data modeling and database design skills
+- Experience designing and implementing data ingestion/transformation processes  
+- Knowledge of healthcare data integration and data quality
+- Ability to document implementations and processes
+- Commitment to staying updated on healthcare standards and best practices
+
+Technologies:
+- FHIR (Fast Healthcare Interoperability Resources)
+- Java
+- Python
+- Bash scripts
+- Database design and implementation
+- ETL (Extract, Transform, Load) processes
+- Data modeling
+- APIs
+- HIPAA compliance
+
+https://www.indeed.com/rc/clk?jk=b151e97f7474d1c8&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

@@ -1,0 +1,24 @@
+ Based on the job description, here are the key skills and technologies:
+
+Skills:
+- SQL
+- Data warehousing 
+- Problem solving
+- Communication
+- Analytical skills
+
+Technologies:
+- Hadoop
+- Hive 
+- NoSQL
+- Spark
+- Python
+- SAS
+- Teradata
+- Oracle
+- Informatica
+- Google Cloud Technologies
+- Databricks
+- Cloud certifications like GCP, AWS, Azure
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dtmpfj98iB4C0jJJOWen3Era3IQfJzNZ4PFwBIKpo80CvlYmJYyffHOwy26mz3iNMuQaWfydZNaRB4htGwveySDwsdOtMP0srpXKAxJfXqhZah1I5V6HTeCm_4CjUcUkWhOaQhoZKcFqsUbmE_W_ayfXwg4C-EWaJkU9g2Kfk9G3u7iBrFylhZqkga7RYx9ahLi0QvkLMWN_gRZIwjTjhIeNJ8IlmHnFowBIayWeA93U4Rc7Yf15lcS_KFTVIcCzvdiFRWHQWgi0ytqgMQrajhE_T4WGznOiRaE79uVDEBEEDtNmz5ZWCy0L7uZDh9mrYXciIs2ySd29L-pb9GPtcUlh-1EhGrznwEpoCbmA-K72FOEAwr00CyV4SOGmTVdxZTYK539qXOhuQSpQTNbKhrXpMy4TD0J8ZOQE9iuCwqsaH6lEgeUo0wpAxwlsWNy776Fd0hl_k14YnoxDJI3acxiERcR32PMC1wvkNORwrZjiOV0Ehtx0saHbtstN95PhYj3W7gP6ZcxlQBh3_kcWDqQ4SF_E0ELLY01D_U6Y-U_hsnZOhXSoku7mKn6Qu-DvhxiCU9zolWfrOBvpNxowTcXoRxdGY8TNm-i7sJIyFg_w%3D%3D&xkcb=SoC8-_M3JhXpNEW-cB0LbzkdCdPP&p=0&fvj=1&vjs=3&jsa=9925&tk=1hd1fpnavjm7b800&from=jasx&wvign=1

@@ -1,0 +1,31 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL processes
+- Data integration
+- Data transformation
+- Data pipelines development
+- Data modeling
+- SQL
+- Data governance
+- DevOps
+- Agile/scrum methodologies
+- Python
+- Monitoring and issue resolution
+
+Technologies: 
+- Snowflake
+- Azure Data Factory
+- Spark
+- Kafka
+- Hive/HBase/Presto
+- Azure Databricks
+- Airflow
+- Git
+- Kubernetes 
+- Docker
+- Terraform
+- Cloud computing platforms (AWS, Azure, GCP)
+
+https://www.indeed.com/rc/clk?jk=7f70c2bb5373b7a9&from=jasx&tk=1hd1fm1o6iman800&vjs=3

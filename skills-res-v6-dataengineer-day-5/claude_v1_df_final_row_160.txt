@@ -1,0 +1,30 @@
+ Here are the key skills and technologies mentioned:
+
+Skills:
+- Microsoft Azure Data and Analytics Services 
+- Azure Data Factory
+- Azure Synapse 
+- Azure Data Lake
+- Azure SQL Server
+- Data storage solutions
+- ETL pipelines
+- Provisioning Azure subscriptions and resources
+- Automation (PowerShell, Python)
+- Project management
+- Communication
+- Time management
+- Multitasking
+
+Technologies: 
+- Microsoft Azure
+- Azure Data Factory
+- Azure Synapse
+- Azure Data Lake 
+- Azure SQL Server
+- PowerShell
+- Python
+- T-SQL
+- SSIS
+- SSAS
+
+https://www.indeed.com/rc/clk?jk=45cf7e5b6edba0bb&from=jasx&tk=1hd43uovekcmr800&vjs=3

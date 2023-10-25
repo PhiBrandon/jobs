@@ -1,0 +1,28 @@
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- SQL development 
+- Python programming
+- Data modeling
+- Logical modeling for analytics tools
+- Object-oriented programming
+- Data analytics
+- Mentoring others
+- Deal with ambiguity/unknowns
+
+Tech:
+- Snowflake
+- Python 
+- Databricks
+- Azure Data Factory
+- Azure Data Lake 
+- AWS S3
+- AWS Glue
+- SQL/T-SQL
+- Tableau
+- Power BI
+- Sigma
+- Pandas library
+- Large dataset experience
+
+https://www.indeed.com/rc/clk?jk=ead9ad56f5aa8781&from=jasx&tk=1hd43k4db21ci002&vjs=3

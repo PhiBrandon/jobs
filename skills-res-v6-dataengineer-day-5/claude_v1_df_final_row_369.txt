@@ -1,0 +1,31 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data modeling
+- Data pipeline development and optimization
+- Data integration
+- SQL
+- Python
+- PySpark
+- Databricks
+- Azure Cloud
+- Azure DevOps
+- Datorama
+- Salesforce Marketing Cloud
+- REST APIs
+- SFTP
+- Project management
+
+Technologies: 
+- Databricks
+- SQL
+- Python 
+- PySpark
+- Cloudera
+- Azure Cloud
+- Azure DevOps
+- Datorama
+- Salesforce Marketing Cloud
+
+https://www.indeed.com/rc/clk?jk=2a6492ae7ded8c78&from=jasx&tk=1hd95ff4chbht800&vjs=3

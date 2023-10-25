@@ -1,0 +1,33 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Java
+- Scala 
+- Python
+- Data engineering
+- Data warehousing
+- Data analytics
+- Large-scale solutioning
+- Operationalization of data warehouses, data lakes and analytics platforms within Cloud environments
+- Design, build and test scalable data ingestion pipelines
+- Perform ETL/ELT processes
+- Work with business stakeholders to gather requirements
+- Provide support and cross-training
+- Collaborate for continuous improvements
+
+Technologies: 
+- Apache Kafka
+- Splunk
+- Google Cloud Platform technologies:
+  - Dataflow
+  - DataProc 
+  - Cloud Composer
+  - Big Query
+  - Cloud Storage
+  - GKE
+  - Airflow
+- CI/CD pipelines
+
+The role involves building a data and analytics platform, designing and developing scalable data pipelines and ETL processes, and collaborating with business teams on requirements and improvements. Strong experience with Java, Scala, Python and cloud data technologies on GCP is required.
+
+https://www.indeed.com/rc/clk?jk=184b3221fe14409e&from=jasx&tk=1hdjafq3r2cc7000&vjs=3

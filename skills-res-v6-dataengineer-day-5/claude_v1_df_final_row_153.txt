@@ -1,0 +1,21 @@
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- ETL methodologies 
+- Data quality
+- SQL
+- Python
+- Apache Spark
+- Documentation
+- Communication
+- Organization
+- Collaboration
+
+Tech:
+- Hadoop
+- Spark
+- Java
+- Python
+- Relational databases
+
+https://www.indeed.com/rc/clk?jk=4539c1f9e485ed4e&from=jasx&tk=1hd43sbgnkiai800&vjs=3

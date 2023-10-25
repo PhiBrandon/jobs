@@ -1,0 +1,30 @@
+ Here are the relevant skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- SQL
+- Python
+- Java
+- Scala
+- Streaming data pipelines
+- Batch data processing
+- Data monitoring and debugging
+- Data architecture design
+- System performance optimization
+- Automation
+- Agile development
+
+Technologies: 
+- Spark
+- Kafka
+- Airflow
+- MySQL
+- Druid
+- Spinnaker 
+- Kubernetes
+- GCP (Google Cloud Platform services like Dataproc, Dataflow, BigQuery, Big Table)
+- AWS (Amazon Web Services)
+- Git
+- Confluence
+
+https://www.indeed.com/rc/clk?jk=afe7bc4e3d93a349&from=jasx&tk=1hd1g5htglell801&vjs=3

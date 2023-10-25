@@ -1,0 +1,12 @@
+ Required skills and technologies:
+- Azure Data Lake: 3 years experience (required)
+- Data Factory and/or Data Bricks: 3 years experience (required) 
+- SAP technologies such as Hana or BW: 3 years experience (required)
+
+Preferred skills and technologies:
+- DevOps Version Control and Storyboarding (experience preferred)
+- Data reporting using data from ERP systems such as SAP (experience preferred)  
+- Regulatory tools for document archiving and document control (experience preferred)
+- Snowflake, BOBJ, Tableau (experience preferred)
+
+https://www.indeed.com/rc/clk?jk=350077b572417b1d&from=jasx&tk=1hd6h6bheiolg800&vjs=3

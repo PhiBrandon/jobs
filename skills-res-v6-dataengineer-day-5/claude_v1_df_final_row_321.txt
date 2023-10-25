@@ -1,0 +1,31 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software engineering 
+- Backend software development
+- Data engineering
+- Data management
+- Data modeling
+- ETL processes
+- Data warehousing
+- Problem solving
+- Documentation
+- Mentorship
+
+Technologies:
+- Python
+- Javascript 
+- Typescript
+- Go
+- Java
+- Apache Spark
+- Relational and NoSQL databases  
+- AWS
+- GCP
+- Docker
+- Kubernetes
+- Airflow
+- Prefect
+- Great Expectations
+
+https://www.indeed.com/rc/clk?jk=7430eb68479730fd&from=jasx&tk=1hd958u85jqvd802&vjs=3

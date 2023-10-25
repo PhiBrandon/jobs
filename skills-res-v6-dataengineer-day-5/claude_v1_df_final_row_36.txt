@@ -1,0 +1,26 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering
+- ETL process development and maintenance  
+- Data cleaning and validation
+- Data integration
+- SQL optimization
+- Documentation  
+- Problem solving
+- Communication
+- Data schemas
+- Data quality and integrity issues
+
+Technologies:
+- Segment (Customer Data Platform)
+- BigQuery
+- MySQL 
+- Google Cloud Platform (GCP), particularly BigQuery and Google Analytics 4
+- Python
+- R
+- JavaScript 
+- PHP
+- SQL
+
+https://www.indeed.com/rc/clk?jk=0213c2c18b4e7a68&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

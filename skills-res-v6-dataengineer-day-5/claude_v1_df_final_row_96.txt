@@ -1,0 +1,27 @@
+ Here are the key skills and tech extracted from the job description:
+
+Skills:
+- SQL query design 
+- SQL performance tuning and query optimization
+- Data warehouse design
+- ETL development
+- Data modeling
+- Data integration
+- Performance tuning
+- Continuous learning
+- Mentoring
+- Problem solving
+
+Tech:
+- SQL
+- Relational data warehouses (e.g. Data Warehouse Management Systems)  
+- 'Big data' data pipelines and architecture
+- ETL processes
+- Python
+- Java
+- C#
+- Data science concepts
+- Machine learning algorithms
+- Statistical analysis
+
+https://www.indeed.com/rc/clk?jk=e6243931b07ddf9f&from=jasx&tk=1hd1g3s5pjfnq801&vjs=3

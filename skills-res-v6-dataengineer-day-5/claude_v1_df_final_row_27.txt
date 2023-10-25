@@ -1,0 +1,26 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- System configuration and development on Cloud MDM and Reltio 
+- Software configuration and development
+- Data cleansing
+- Data mapping  
+- Data governance
+- Master data management
+- Integration across complex ERP landscapes
+- Developing data standards and definitions
+- Mapping master data and integration from legacy to target environments
+- Configuring and managing MDM entities
+- Agile methodology
+- Presenting technical concepts
+- Collaboration
+
+Technologies: 
+- Reltio
+- SAP
+- Cloud MDM
+- SaaS 
+- Denodo
+- Mulesoft
+
+https://www.indeed.com/rc/clk?jk=705fe8793dda2171&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3

@@ -1,0 +1,38 @@
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Python/Java programming
+- SQL
+- ETL tools: AWS Glue, Informatica Suite, SSIS, Infoworks
+- Data modeling
+- Data warehousing/business intelligence
+- XML
+- XSLT
+- .NET Framework 
+- C#
+- Java
+- JavaScript
+- jQuery
+- LINQ
+- MVC Framework
+- ASPX
+- Angular.js
+- Bootstrap
+- Knockout
+- Business Intelligence
+- ETL techniques
+- Data modeling
+- Meta data repository
+- MS SQL Server
+
+Tech:
+- AWS (cloud infrastructure, S3, Redshift, DynamoDB, EC2)
+- Hadoop
+- Spark
+- Teradata
+- SQL Server
+- MS Access
+- HIVE
+- HBase
+
+https://www.indeed.com/rc/clk?jk=6b0246ca2a37effe&from=jasx&tk=1hd6h6bheiolg800&vjs=3

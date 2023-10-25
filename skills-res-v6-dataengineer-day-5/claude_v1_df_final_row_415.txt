@@ -1,0 +1,22 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL
+- Data analysis and visualization (Tableau, R, Python) 
+- Data pipeline design and management
+- Big data engineering (AWS services like S3, Glue, Postgres, Lambda, Sagemaker)
+- Relational and NoSQL database administration
+- Troubleshooting data platforms 
+- Supporting cross-functional teams
+
+Technologies:
+- SQL 
+- Tableau
+- R
+- Python
+- AWS (S3, Glue, Postgres, Lambda, Sagemaker)
+- Relational databases
+- NoSQL databases
+- Data pipeline tools
+
+https://www.indeed.com/rc/clk?jk=05cfb82e458953ee&from=jasx&tk=1hd95mfqo28gs002&vjs=3

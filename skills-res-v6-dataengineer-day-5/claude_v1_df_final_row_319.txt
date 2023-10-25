@@ -1,0 +1,40 @@
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Backend Java development 
+- Python development
+- MongoDB development
+- MySQL/MariaDB development
+- Microservice design and development using Spring
+- Automation testing frameworks like Karate, Cucumber
+- Testing libraries: JUNIT, TestNG, Spock
+- Webservices
+- Cloud computing with AWS
+- Kubernetes
+- Cyber security aspects including data protection, encryption, anonymization
+
+Tech:
+- Spring
+- Karate
+- Cucumber  
+- JUNIT
+- TestNG
+- Spock
+- MongoDB
+- MySQL/MariaDB
+- AWS
+- Kubernetes
+- Pandas
+- Scikit
+- Databricks
+- Snowflake
+- Kafka
+- Spark
+- Flink
+- JSON schema
+- NewRelic
+- DataDog
+- Gradle
+- GitHub
+
+https://www.indeed.com/rc/clk?jk=4e37d548afe793c2&from=jasx&tk=1hd958u85jqvd802&vjs=3

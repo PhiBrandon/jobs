@@ -1,0 +1,36 @@
+ Here are the main skills and technologies extracted from the job description:
+
+Skills:
+- Python
+- Java 
+- Rust
+- Go
+- AWS 
+- Azure
+- GCP
+- Hadoop
+- Hive
+- Spark
+- Kafka
+- Airflow
+- PostgreSQL
+- MongoDB
+- Neo4J
+- Redis
+- Cloud computing
+- Data pipelines
+- Batch data analytics
+- Problem-solving
+- Critical thinking
+- Excellent communication
+- Leadership
+
+Tech:
+- Linux 
+- Windows
+- Private cloud
+- Public cloud
+- Apache Kafka
+- Event processing systems
+
+https://www.indeed.com/rc/clk?jk=23a44fa83da2854b&from=jasx&tk=1hd95mfqo28gs002&vjs=3

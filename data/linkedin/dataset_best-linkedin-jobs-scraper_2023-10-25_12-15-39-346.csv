@@ -1,0 +1,383 @@
+﻿"company","criteria/0/title","criteria/0/value","criteria/1/title","criteria/1/value","criteria/2/title","criteria/2/value","criteria/3/title","criteria/3/value","datePosted","description","employmentType","id","industry","link","location","title"
+"ICF","Seniority level","Entry level","Employment type","Full-time","Job function","Information Technology","Industries","Business Consulting and Services","2023-10-25T04:37:27.000Z","* We are open to supporting 100% remote work anywhere within the US. * 
+
+
+Our IT Modernization division is an information technology and management consulting department that offers integrated, strategic solutions to its public and private-sector clients. ICF has the expertise, agility, and commitment to design, build, and operate high-performance IT engines to support all aspects of our client’s business. 
+Job Description
+The Data Engineer will use a variety of full-stack software languages and tools to build a data processing system for health care data in a major Health & Sciences agency. The system will be built on and Azure infrastructure and will integrate data from both internal and external data sources. The Data Engineer will create new pipelines and build reusable components at scale to support reporting & analytics data products.
+Based on your experiences and interests, we may ask you as a technology professional to support growth-related activities, including (but not limited to) RFI, RFP, prototypes, and oral presentations. Team members are also expected to uphold and maintain appropriate certifications necessary for their practice expertise.
+You Will
+
+* Write complex queries to transform raw data sources into accessible models by coding.
+* Clean, prepare, transform, and optimize data at scale for integration and consumption.
+* Implement data management projects and restructure current web architecture.
+* Solve complex data issues and perform root cause analysis to proactively resolve product issues.
+* Own the data pipeline and support systems failures.
+
+
+Requirements
+
+* Must have previous experience working with any CDC Center, Institute, or Office or specific CDC application(s) that are in scope for modernization
+* 3+ years of experience programming with Java and/or Kotlin
+* 3+ years of experience working with Azure cloud native technologies
+* 2+ years of experience building a pipeline for Public health/health care data (HL7, FHIR, vocabulary, and HHS data standards)
+* 2+ years experience with developing ETL pipelines in Azure using tools such as Azure Data factory, Event hubs, Event grid, Azure functions,
+* 2+ years developing data engineering pipeline with Databricks or Spark
+* 2+ years of experience working in Agile teams
+* Familiar with devOps process, CI/CD, security, coding standard and SDLC cycle
+
+
+Preferred
+
+* 1+ year working with technologies such as CosmoDB, AzureSQL, Redis, Synapse
+* 1+ year working with orchestration tool such as Airflow or Oozie
+* Experience working with streaming and batching solutions
+* Experience working with csv, json, xml and complex structures
+
+
+#DMX
+#Indeed
+Working at ICF
+ICF is a global advisory and technology services provider, but we’re not your typical consultants. We combine unmatched expertise with cutting-edge technology to help clients solve their most complex challenges, navigate change, and shape the future.
+We can only solve the world's toughest challenges by building an inclusive workplace that allows everyone to thrive. We are an equal opportunity employer, committed to hiring regardless of any protected characteristic, such as race, ethnicity, national origin, color, sex, gender identity/expression, sexual orientation, religion, age, disability status, or military/veteran status. Together, our employees are empowered to share their expertise and collaborate with others to achieve personal and professional goals. For more information, please read our EEO & AA policy.
+Reasonable Accommodations are available, including, but not limited to, for disabled veterans, individuals with disabilities, and individuals with sincerely held religious beliefs, in all phases of the application and employment process. To request an accommodation please email icfcareercenter@icf.com and we will be happy to assist. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations. Read more about non-discrimination: Know Your Rights and Pay Transparency Statement.
+Pay Range - There are multiple factors that are considered in determining final pay for a position, including, but not limited to, relevant work experience, skills, certifications and competencies that align to the specified role, geographic location, education and certifications as well as contract provisions regarding labor categories that are specific to the position. The pay range for this position is:
+$82,673.00 - $140,544.00
+Nationwide Remote Office (US99)","FULL_TIME","3677646750","Business Consulting and Services","https://www.linkedin.com/jobs/view/data-engineer-azure-based-health-data-system-remote-at-icf-3677646750","Reston, VA","Data Engineer, Azure-based Health Data System (Remote)"
+"Paylocity","Seniority level","Entry level","Employment type","Full-time","Job function","Engineering and Information Technology","Industries","Software Development",,"Job Type
+
+Full-time
+
+Description
+
+When you feel like you belong, work is no longer work – it's personal. At Paylocity, we believe better employees lead to better companies. Workplaces and cultures that care will build the future, and at Paylocity, we’re doing just that. Join us as we develop strategies for change and transform the trajectory of your career!
+
+We give our employees what they need to succeed, including great benefits and perks! We offer medical, dental, vision, life, disability, and a 401(k) match, as well as perks that support you, your family, and your finances. And if it’s career development you desire, we provide that, too! At Paylocity, people matter most and have always been at the heart of our business.
+
+Help Paylocity enhance communication and enable employees to connect, collaborate, and create from anywhere with a position in Product & Technology!
+
+Want to develop the strategies and principles needed to deliver compelling software? Join our team and help us enhance our all-in-one software platform, elevate our one-of-a-kind technology, and improve the employee experience.
+
+Take your career to the next level at one of G2's Top 100 Software Companies. Explore our Product & Technology positions to see where you fit!
+
+Position Overview
+
+The DevSecOps Engineer is responsible for understanding and providing guidance to internal teams on best practices in software security and architecture for Paylocity’s Information Systems. Responsibilities will also include development and maintenance of internal application security tools, and performing threat modeling, static analysis, and dynamic analysis of our web and mobile applications.
+
+Performance Objectives
+
+The below represents the primary responsibilities of the position. Other duties may be assigned as needed.
+
+
+*  Develop, implement, and maintain automated security testing tools and processes to identify vulnerabilities and weaknesses.
+*  Collaborate with software developers to integrate security into the software development lifecycle from design, implementation, testing to release.
+*  Integrate security tools and practices into our CI/CD pipelines ensuring secure code releases.
+*  Proactively identify and address classes of security vulnerabilities, rather than just individual instances.
+*  Provide expert guidance and recommendations for strategic and tactical security architecture topics through risk advisory services.
+*  Support offensive security professionals by suggesting remediation strategies for reported vulnerabilities.
+*  Assist developers in remediating vulnerabilities by providing line-by-line guidance.
+*  Provide training sessions for development teams on software security best practices and coding standards.
+
+
+
+Education And Experience
+
+
+*  Bachelors’ Degree in InfoSec, Computer Science, or a related discipline required.
+*  Minimum 3-5 years’ experience with full-stack web development, DevSecOps, Security Engineering, or a similar role.
+*  Proficiency in scripting languages like Python, Ruby, or Bash.
+*  Familiarity with CI/CD tools such as TeamCity, CircleCI, GitLab, or Jenkins.
+*  Hands-on experience with SAST, DAST, SCA, and API security tools.
+*  Strong knowledge of cloud environments like AWS, Azure, and GCP and their security specifics.
+*  Experience developing and working with Web APIs.
+*  Strong knowledge of Security Token Services, Federated Identity Providers, SAML 2.0, claims-based security and other SSO technologies.
+*  Experience in remediating security vulnerabilities beyond OWASP Top 10.
+
+
+
+Nice To Have
+
+
+*  Experience developing in .NET is a plus.
+*  Experience with NoSQL/MongoDB is a plus.
+*  Functional knowledge of container-based application infrastructure with Docker is a plus.
+*  Experience working with Payroll, HR, Time & Labor Management, and Online Benefits Enrollment applications is a plus.
+*  Experience with writing Burp plugins, opensource security tools, presenting at security conferences, writing technical research papers, or publishing CVEs is a plus.
+
+
+
+EEO and accessibility Statement
+
+Paylocity is an equal-opportunity employer. Paylocity is committed to the full inclusion of all individuals. We recruit, train, compensate, and promote regardless of race, religion, color, national origin, sex, disability, age, veteran status, and other protected status as required by applicable law. At Paylocity, we believe diversity makes us better.
+
+We embrace and encourage our employees’ differences in age, culture, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion or spiritual belief, sexual orientation, socio-economic status, veteran status, and other characteristics that make our employees unique. We actively cultivate these differences through our employee resource groups (ERGs), employee experiences, perspectives, talents, and approaches to drive innovation in the software and services we provide our customers.
+
+We comply with federal and state disability laws and make reasonable accommodations for applicants and employees with disabilities. To request reasonable accommodation in the job application or interview process, please contact accessibility@paylocity.com.
+
+This role can be performed from any office in the US. The pay range for this position is $85,000 - $131,000 /yr; however, base pay offered may vary depending on job-related knowledge, skills, and experience. This position is eligible for an annual bonus and restricted stock unit grant based on individual performance in addition to a full range of benefits outlined here. This information is provided per the relevant state and local pay transparency laws for the location in which this position will be performed. Base pay information is based on market location. Applicants should apply via www.paylocity.com/careers.",,"3731724506",,"https://www.linkedin.com/jobs/view/security-software-engineer-at-paylocity-3731724506","United States","Security Software Engineer"
+"CARIAD, Inc.","Seniority level","Entry level","Employment type","Full-time","Job function","Engineering and Information Technology","Industries","Software Development","2023-10-25T05:11:37.000Z","We are  CARIAD  , an automotive software development team with the Volkswagen Group. Our mission is to make the automotive experience safer, more sustainable, more comfortable, more digital, and more fun. To achieve that we are building the leading tech stack for the automotive industry and creating a unified software platform for over 10 million new vehicles per year. We’re looking for talented, digital minds like you to help us create code that moves the world. Together with you, we’ll build outstanding digital experiences and products for all Volkswagen Group brands that will transform mobility. Join us as we shape the future of the car and everyone around it.
+
+Role Summary
+
+The Software Engineer is responsible for shaping and strengthening the electronics development for CARIAD and VW Group. The Software Engineer will define, develop and deliver production software in embedded environment for High performance computing platform for VW Group in order to create in-house development expertise for connected infotainment and ADAS/AD system. The position will be a member of CARIAD’s technical team and interfaces with multiple stakeholders of VW Group’s technical team members.
+
+Role Responsibilities
+
+ SoC and HCP Software Development 
+
+
+* Contribute to software specification and design of compute boards and custom SoCs
+* Work with internal customers to understand and specify software requirements and deliverables, including safety and security
+* Assist hardware team in bring-up, testing and debugging
+* Develop/integrate bootloaders, device drivers, kernels, hypervisors, upgrade processes, etc to support application requirements
+* Leads SW development for Base-software (BSP), Driver software, MCAL, Bring-up/Debugging software and diagnostic software. 
+* Leads board bring-up and supports hardware design verification. 
+* Develop/integrate processes and tools for software development and automated regression testing
+* Leads performance validation and evaluation of the SW stack. 
+* Contributes to the timely delivery of fully validated, high-quality software features
+
+
+
+ Operational Management 
+
+
+* Work with contract manufacturer closely to build up test software for hardware test setup for ECU bring-up, verification/validation and end of line production. 
+* Identify and mitigate project technology risks and execution risks
+* Monitor compliance with relevant regulations, statutes, Board Directives, process standards (including in respect of Golden Rules and Product Compliance), procedural/operating instructions and occupational safety regulations using appropriate management controls (dual-control principle).
+
+
+
+Years Of Experience
+
+
+*  Bachelor Degree with 5+ years OR Master Degree with 3+ years of software development experience in HPC embedded environment 
+
+
+
+Required Education
+
+
+*  Bachelor’s Degree in Engineering
+
+
+
+Desired Education
+
+
+*  Master’s Degree in Engineering
+
+
+
+Skills
+
+
+* Analytical and conceptual thinking
+* Experience in developing strategies for R&D
+* Communication skills - interpersonal, presentation and written
+* Integration - joining people, processes or systems
+* Influencing and negotiation skills
+* Strategic/visionary minded
+
+
+
+Required Skills
+
+
+* Excellent strategically thinking and communication skills.
+* Deep knowledge of embedded software architecture for HPC SoC and software development processes.
+* Deep understanding of software platform development and corresponding software.
+* Knowledge of typical vehicle EE architectures and automotive development processes.
+* Knowledge of functional safety concept (ISO26262) and implementation of same in software.
+* Knowledge of embedded system software architecture, real-time operating systems, and web framework components and its interfaces
+* Knowledge of connected HPC software components and its peripherals
+* Knowledge of connected vehicle infotainment and communication software systems.
+* Programming languages C, C++, Java, HTML5, and script languages
+
+
+
+Desired Skills
+
+
+* Infotainment and Driver Assistance Systems
+* Consumer electronics SW design architecture
+* Rapid prototyping and validation
+* Approaches for cloud oriented mobile internet applications
+* Connected navigation and driver assistance system technologies
+* User-interface architecture for mobile and automotive systems
+* Experienced with introduction into mass production.
+
+
+
+Work Flexibility
+
+
+* Travel to worldwide locations required
+
+
+
+Compensation
+
+Salary range is dependent on factors such as geographical differentials, credentials or certifications, industry-based experience, qualification and training. In the city of Santa Clara, California, the salary range for this position is $118,000 - $171,150.
+
+CARIAD is an Equal Opportunity Employer. We welcome and encourage applicants from all backgrounds, and do not discriminate based on race, sex, age, disability, sexual orientation, national origin, religion, color, gender identity/expression, marital status, veteran status, or any other characteristics protected by applicable laws.","FULL_TIME","3671215760","Software Development","https://www.linkedin.com/jobs/view/software-engineer-hw-platform-development-at-cariad-inc-3671215760","Santa Clara, CA","Software Engineer - HW Platform Development"
+"Montrose Environmental Group","Seniority level","Entry level","Employment type","Full-time","Job function","Information Technology","Industries","Environmental Services","2023-10-25T09:31:30.000Z","About You
+Are YOU enthusiastic, self-motivated, process driven and interested in joining a growing organization? Are you looking for a work environment that supports your professional growth? Come and join Huco – we’ve been on a growth trajectory that will only be accelerated with our recent acquisition by Montrose Environmental Group.
+We provide quality work, respond quickly and work effectively with supportive teams. Since 2008, Huco focuses solely on the strategy, selection, setup, and support of leading ESG/EHS information management systems to help our customers manage compliance, risk, and return value. This includes air emissions, greenhouse gas, sustainability (ESG), permit tracking, incident management, inspections, audits, observations, occupational health, etc. Our mission is to provide quality work, respond quickly and work effectively with supportive teams.
+Before applying, please watch this 9 min video to validate fit with our firm, and to learn about our recruiting process. http://hucoinc.com/wp-content/uploads/2023/04/Recruiting-About_Huco_MEG-General.mp4
+We are looking for an entry/beginning level IT team member with a proven (database/application) programming/management mindset who is interested in building a niche career focused on ESG & EHS. You can become a subject matter expert in these areas while working with team members with decades of experience. As a small business unit, you will be exposed to a variety of tasks and clients. And if you do great work, you will be recognized and could gain responsibilities at a rapid rate. To be successful, you must be able to follow proven processes with self-guidance.
+You will learn a variety of leading off the shelf applications and help configure them, applying your programming and database skills to help automate the specific requirements of each application. You will work directly with experienced consultants helping them throughout the application implementation lifecycle (with clear focus on building, testing & deploying – while experienced consultants work with the client to define purpose, plan and design).
+Huco is a remote workforce, and you must have the strong interest and ability (self-discipline) to work from a home office – which can be challenging if you are not used to it and/or if frequent and ad-hoc person interaction with your colleagues, partners and customers is important to you. A successful candidate will appreciate the ability to work from home including flexibility, while being able to pro-actively move forward on work without delay. They will also be confident to openly communicate to their teammates, coaches and even ownership to ensure engagement and progression (a two-way street). You will be assigned a coach that works with you regularly in addition to the work you do day-to-day with consultants and project managers.
+All successful employees at Huco have a bold passion for doing what is right for the client, are purpose driven, have strong organizational skills, and have effective communication/leadership skills as they work with staff with varying experience levels and a variety of client personalities. They will also be able to quickly learn and leverage existing proven work processes consistently and help continuously improve (i.e., a pro-active mindset).
+Compensation is a competitive hourly wage. This position can be either part time or full time. We offer awesome perks like vacation time, group benefits, 401K matching and the pleasure of being surrounded by inspiring colleagues and clients who share passion for the industry, and its primary challenges and objectives. Typical work hours at Huco are between 9am – 5pm during weekdays.
+What We Can Offer To You
+At Montrose, we’re not just determined to think about a better way forward for environmental services today and down the road – we’re committed to making it a reality. Our Principles guide us: We Value Our People, We Value Our Community, We Value Our Clients, We Value Our Shareholders. We care for the well-being of our people and offer:
+Competitive Compensation Packages (full-time only for medical benefits, vacation & holidays)
+
+* Competitive medical, dental, and vision insurance coverage
+* Medical, Dependent Care and Transit Flexible Spending Accounts
+* Company paid Life and Disability Insurance and access to additional voluntary programs
+* 401k with a competitive employer match
+* Progressive vacation policies and company holiday to ensure work/life balance for our people
+* A financial assistance program to help support peers in need
+* Access to telemedicine and employee assistance programs
+* Access to best rates in the industry to bring your student loan debt down to size
+
+
+A DAY IN THE LIFE
+
+* Master various information management software applications in ESG and EHS subject areas with provided training materials (self-study with coaching); applied tasks include form configuration, workflow development, custom reporting, XML, advanced configuration using development skills, and data migration/bulk loading.
+* Use advanced database and technical skills for data collection, cleansing, reporting, and testing and for setting up software applications.
+* Support and design reports using HTML and off the shelf BI tools such as Qlik and PowerBI.
+* Analyze data schemas and create data maps & dictionaries to aid streamlined querying/reporting.
+* Use advanced database & technical skills for integration to other systems, data load tools & data collection apps.
+* Become the lead corporate IT resource within Huco focusing on managing SharePoint, Microsoft 365, Power Automate, website, technology software and hardware for virtual staff, etc. (this would be 15% of the overall role).
+* Pro-actively communicate results internally to project managers and technical leads in a clear and succinct manner through instant messages, emails & recurring meetings.
+* Work closely with colleagues and clients in a team based, home office start-up environment.
+
+
+Necessary Qualifications
+To perform this job successfully, individuals must be able to perform each duty and responsibility satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the duties and responsibilities.
+Minimum Qualifications
+
+* 0-2 years of work experience working on IT projects.
+* Ability to work independently (self-driven) within deadlines and budgets, while closely following proven processes.
+* Able to pro-actively communicate clearly and succinctly through written and verbal form.
+* SQL Server skills and ideally certification (queries, scripts, triggers, procedures, install, etc.).
+* SharePoint experience (building libraries, lists and workflows; SharePoint Designer, Power Automate).
+* Java and traditional programming background preferred.
+* Detail oriented with strong organization/logistics skills.
+* Translate complex technical concepts into easy-to-understand language and build solutions for them (scripts/apps).
+* Learn and understand software solutions both from the front and back end.
+* Skilled with a variety of tools (e.g., MS Excel/Word, PowerPoint, Access, Crystal Reports, SQL, Oracle).
+* Interest in the Huco culture, which includes hourly pay, working from home, helping colleagues and clients be successful and grow, and a collaborative entrepreneurial environment.
+* Interest in consulting, environmental, health, safety, social, governance, IT and small business.
+
+
+Pay: $35 to $38 per hour. Offers will be commensurate with qualifications and experience.
+The above statements are intended to describe the general nature of work being performed by people assigned to this classification. They are not to be construed as an exhaustive list of all responsibilities, duties and skills required of employees so classified. If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process, or are limited in the ability or unable to access or use this online application process and need an alternative method for applying, you may contact 949-988-3500 or careers@montrose-env.com for assistance.
+Vaccination against Covid-19 is strongly preferred. All employees will be subject to policies and procedures of the Company that may be dependent on vaccination status.
+MAKE THE MOVE
+Montrose is a leading environmental solutions company focused on supporting commercial and government organizations as they deal with the challenges of today, and prepare for what’s coming tomorrow. With approximately 2,800 employees across over 70 locations around the world, Montrose combines deep local knowledge with an integrated approach to design, engineering, and operations, enabling the Company to respond effectively and efficiently to the unique requirements of each project. From comprehensive air measurement and laboratory services to regulatory compliance, emergency response, permitting, engineering, and remediation, Montrose delivers innovative and practical solutions that keep its clients on top of their immediate needs – and well ahead of the strategic curve.
+We are going to be blunt – the way we work may not suit to everyone. Montrose is fast-paced and dynamic. You are your own boss, but you will get tons of guidance and plenty of support from talented, super-smart colleagues within Montrose.
+Want to know more about Montrose? Visit montrose-env.com! Want to learn more about HUCO and our operation? Visit https://hucoinc.com/!
+Montrose is an Equal Opportunity Employer. Our firm is committed through responsible management policies to recruit, hire, promote, train, transfer, compensate, and administer all other personnel actions without regard to race, color, religion, sex (including pregnancy, sexual orientation, gender expression, and gender identity), national origin, disability, age, genetic information, marital status, citizenship status, military status, and any other class protected by federal, state, or local law.","FULL_TIME","3703412950","Environmental Services","https://www.linkedin.com/jobs/view/esg-jr-data-management-consultant-computer-scientist-pt-or-ft-remote-at-montrose-environmental-group-3703412950","Texas, United States","ESG Jr. Data Management Consultant - Computer Scientist (PT or FT REMOTE)"
+"SAIC","Seniority level","Entry level","Employment type","Full-time","Job function","Engineering and Information Technology","Industries","IT Services and IT Consulting, Defense and Space Manufacturing, and Computer Hardware Manufacturing","2023-10-25T10:14:33.000Z","Job ID 2312607
+
+Location REMOTE WORK, VA, US
+
+Date Posted 2023-09-12
+
+Category Engineering and Sciences
+
+Subcategory Systems Engineer
+
+Schedule Full-time
+
+Shift Day Job
+
+Travel Yes, 10 % of the Time
+
+Minimum Clearance Required Secret
+
+Clearance Level Must Be Able to Obtain None
+
+Potential for Remote Work No
+
+Description
+
+Make a difference for national security by joining a team of dedicated IT professionals who will sustain, modernize and transform the enterprise IT capabilities for the Defense Counterintelligence and Security Agency (DCSA). The National Security & Space Sector of SAIC is seeking a ServiceNow Software Engineer Senior to support a transformational infrastructure program for DCSA.
+
+SAIC is proud to be supporting DCSA in safeguarding our nation’s information. DCSA is the designated oversight authority on the accreditation of classified facilities, information systems, and the insider threat program. This involves security oversight of more than 10,000 companies and approximately 13,000 facilities involved in classified work throughout the DoD and 31 Federal agencies.
+
+Specifically, on the DCSA One IT program, SAIC will provide an enterprise IT solution that delivers highly secured and adaptable IT infrastructure, provides customer support, and cutting-edge technologies that support operations and advance the DCSA mission under a single IT environment (i.e., One IT).
+
+Job Description
+
+Performs software engineering activities in support of the Program Executive Office (PEO) to drive transformative change in IT resource planning and execution using the Acquisition and Budget Management (ABM) Tool and the ServiceNow platform as part of overall transformation efforts to provide innovative, emergent, and continual business process and enterprise IT solution improvements to the DCSA OCIO environment IAW DoD and DCSA OCIO policies, procedures, and data standards. As part of an Agile team, uses a tailored SAFe Agile DevSecOps Scrum process to design, develop, document, test, and debug ServiceNow software. Transforms and integrates software applications using innovative solutions to solve identified problems. Prepares operating instructions and ensures software standards are met. Investigates and applies analytics best practices to deliver Dashboards within ServiceNow to convey digestible and interactive graphics for more informed decision-making capabilities. Performs architecture design, prototyping, proofs of concept, development of standards and test plans, code and module design, and data solution debugging. Performs testing for movement from development to production. Ensures existence of backup and recovery capabilities, as well as disaster recovery/business continuity plans and other procedure and system documentation. Remains abreast of, implements, and executes processes for complying with Government data and security standards. Researches, suggests, and implements emerging technologies, services, and protocols. Provides continuous software/hardware improvement, including integrating tools and information to facilitate data sharing across applications. Discovers, suggests, and implements integration opportunities.
+
+Qualifications
+
+It is required that the ServiceNow Software Engineer Senior have the following qualifications
+
+
+* 
+
+* BA/BS with 5 years of experience in ServiceNow development, or a combination of certifications and/or experience in lieu of a degree 
+* Must have an active Secret clearance
+
+
+ 
+
+Target salary range $125,001 - $135,000. The estimate displayed represents the typical salary range for this position based on experience and other factors.
+
+Covid Policy SAIC does not require COVID-19 vaccinations or boosters. Customer site vaccination requirements must be followed when work is performed at a customer site.","FULL_TIME","3719329758","IT Services and IT Consulting,Defense and Space Manufacturing,Computer Hardware Manufacturing","https://www.linkedin.com/jobs/view/servicenow-software-engineer-virtual-at-saic-3719329758","Virginia, United States","ServiceNow Software Engineer - VIRTUAL"
+"SAIC","Seniority level","Entry level","Employment type","Full-time","Job function","Engineering and Information Technology","Industries","Computer Hardware Manufacturing, Defense and Space Manufacturing, and IT Services and IT Consulting","2023-10-25T09:07:15.000Z","Job ID 2312613
+
+Location REMOTE WORK, VA, US
+
+Date Posted 2023-09-12
+
+Category Software
+
+Subcategory SW Engineer
+
+Schedule Full-time
+
+Shift Day Job
+
+Travel Yes, 10 % of the Time
+
+Minimum Clearance Required Secret
+
+Clearance Level Must Be Able to Obtain None
+
+Potential for Remote Work No
+
+Description
+
+Make a difference for national security by joining a team of dedicated IT professionals who will sustain, modernize and transform the enterprise IT capabilities for the Defense Counterintelligence and Security Agency (DCSA). The National Security & Space Sector of SAIC is seeking a ServiceNow Software Engineer Senior to support a transformational infrastructure program for DCSA.
+
+SAIC is proud to be supporting DCSA in safeguarding our nation’s information. DCSA is the designated oversight authority on the accreditation of classified facilities, information systems, and the insider threat program. This involves security oversight of more than 10,000 companies and approximately 13,000 facilities involved in classified work throughout the DoD and 31 Federal agencies.
+
+Specifically, on the DCSA One IT program, SAIC will provide an enterprise IT solution that delivers highly secured and adaptable IT infrastructure, provides customer support, and cutting-edge technologies that support operations and advance the DCSA mission under a single IT environment (i.e., One IT).
+
+Job Description
+
+Performs software engineering activities in support of the Program Executive Office (PEO) to drive transformative change in IT resource planning and execution using the Acquisition and Budget Management (ABM) Tool and the ServiceNow platform as part of overall transformation efforts to provide innovative, emergent, and continual business process and enterprise IT solution improvements to the DCSA OCIO environment IAW DoD and DCSA OCIO policies, procedures, and data standards. As part of an Agile team, uses a tailored SAFe Agile DevSecOps Scrum process to design, develop, document, test, and debug ServiceNow software. Transforms and integrates software applications using innovative solutions to solve identified problems. Prepares operating instructions and ensures software standards are met. Investigates and applies analytics best practices to deliver Dashboards within ServiceNow to convey digestible and interactive graphics for more informed decision-making capabilities. Performs architecture design, prototyping, proofs of concept, development of standards and test plans, code and module design, and data solution debugging. Performs testing for movement from development to production. Ensures existence of backup and recovery capabilities, as well as disaster recovery/business continuity plans and other procedure and system documentation. Remains abreast of, implements, and executes processes for complying with Government data and security standards. Researches, suggests, and implements emerging technologies, services, and protocols. Provides continuous software/hardware improvement, including integrating tools and information to facilitate data sharing across applications. Discovers, suggests, and implements integration opportunities.
+
+Qualifications
+
+Qualifications 
+
+It is required that the ServiceNow Software Engineer Senior have the following qualifications
+
+
+* BA/BS with14 years or equivalent experience and training
+* 7+ years in ServiceNow development experience
+* Must have an active Secret clearance
+
+
+
+Target salary range $150,001 - $175,000. The estimate displayed represents the typical salary range for this position based on experience and other factors.
+
+Covid Policy SAIC does not require COVID-19 vaccinations or boosters. Customer site vaccination requirements must be followed when work is performed at a customer site.","FULL_TIME","3719328820","Computer Hardware Manufacturing,Defense and Space Manufacturing,IT Services and IT Consulting","https://www.linkedin.com/jobs/view/servicenow-developer-principal-virtual-at-saic-3719328820","Virginia, United States","ServiceNow Developer, Principal - VIRTUAL"

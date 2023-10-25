@@ -1,0 +1,27 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Automated testing
+- Test framework development and maintenance 
+- Test planning, documentation, review, and execution
+- Requirements analysis
+- Collaboration with development teams
+- Defining testing strategies
+- Advocating for improved user experience
+- Problem solving and debugging
+- Communication, organization, and collaboration
+
+Technologies:
+- Web and data application testing
+- Automation testing tools
+- Test management platforms like TestRail
+- AWS cloud services like S3 and Lambda  
+- Linux command line
+- Git
+- Defect tracking tools like Jira
+- SQL and NoSQL databases like MongoDB
+- Python and Pandas
+- Docker
+- Deployment pipelines
+
+https://www.indeed.com/rc/clk?jk=86374b3b92cb99ca&from=jasx&tk=1hd4474bsitkv800&vjs=3

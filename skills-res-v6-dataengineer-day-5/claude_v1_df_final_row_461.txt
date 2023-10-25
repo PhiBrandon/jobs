@@ -1,0 +1,40 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Python development
+- PySpark in AWS Cloud environment
+- Data engineering
+- Data analytics 
+- Data quality
+- Machine learning
+- Data acquisition
+- Data visualization
+- SQL (Oracle, SQL Server)
+- Complex query writing and optimization
+- Debugging  
+- Documentation and training
+- Agile methodologies (Scrum)
+- Project management
+- Stakeholder communication
+- Prioritization and problem solving
+- AWS services (Databricks, AWS Glue, Athena, S3, Redshift, API Gateway, Lambda)
+
+Technologies: 
+- Informatica
+- Databricks
+- AWS
+- Apache Spark
+- ETL tools
+- Source control (GitHub, Bitbucket)  
+- Jenkins
+- Terraform
+- Jira
+- Confluence
+- SAP
+- Siebel
+- JDE
+- BAAN
+- Kafka
+- Kinesis
+
+https://www.indeed.com/rc/clk?jk=aeeb71d0cc5d40c9&from=jasx&tk=1hdjagqsjjgbm800&vjs=3

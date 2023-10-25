@@ -1,0 +1,18 @@
+ The key skills and tech mentioned in this job description are:
+
+Skills:
+- Data governance principles and practices
+- Data quality management
+- Data governance frameworks, policies and procedures
+- Problem solving
+- Attention to detail 
+- Clear communication
+- Interpersonal skills
+
+Tech:
+- Data quality platforms like Anomalo  
+- Data catalog platforms like Alation
+
+The job requires proficiency and experience using the specific data quality platform Anomalo and data catalog platform Alation.
+
+https://www.indeed.com/rc/clk?jk=19d5fafc9fb74494&from=jasx&tk=1hdea7hq42do5000&vjs=3

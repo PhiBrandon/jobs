@@ -1,0 +1,32 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 6+ years of relevant cybersecurity experience 
+- 4+ years of experience administering Splunk SIEM technologies
+- Expertise with CrowdStrike EDR tool
+- Experience with Phantom and ThreatConnect SOAR products
+- Scripting skills like PowerShell, Python
+- Incident response handling
+- Experience communicating technical information to non-technical audiences
+- Experience working with senior leadership
+- Familiarity with Windows and Linux, SQL databases, deployment, patching, administration
+- Experience with Logstash for log collection, parsing and transformation  
+- Experience with NIST compliance standards and documentation
+
+Technologies:
+- Splunk Cloud architecture, design, engineering, configuration, administration
+- Splunk Enterprise Security
+- CrowdStrike
+- Phantom
+- ThreatConnect
+- PowerShell 
+- Python
+- Ansible for automation
+- Git/Gitlab for workflows
+- Logstash
+- Windows/Linux
+- SQL databases
+
+Certifications: Splunk IT Service Intelligence Certified Admin, Splunk Enterprise Security Certified Admin, Splunk Cloud Certified Admin, CCNA, CCNP
+
+https://www.indeed.com/rc/clk?jk=9eb823fbea56740f&from=jasx&tk=1hdjaoshm284l000&vjs=3

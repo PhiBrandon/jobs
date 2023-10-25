@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data modeling
+- ETL
+- Data quality checks
+- Agile methodologies
+
+Primary Technologies:
+- Azure Databricks
+- PySpark
+- Scala 
+- Snowflake
+
+Secondary Technologies:
+- Azure Data Factory (ADF)
+- CI/CD pipelines 
+- Apache Airflow
+- SQL
+- Cloud databases
+
+https://www.indeed.com/rc/clk?jk=647e801f97a01cca&from=jasx&tk=1hd43k4db21ci002&vjs=3

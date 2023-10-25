@@ -1,0 +1,20 @@
+ Here are the specific skills and tech mentioned in the job description:
+
+Mandatory Tech:
+- GCP 
+- Data Warehousing
+- GIT
+
+Core Tech: 
+- Airflow 2years
+- Python - 3 Years
+- SQL
+- Spark - 3 Years
+- ETL
+
+Experience:
+- Informatica: 5 years (Preferred)
+- SQL: 6 years (Preferred) 
+- Data warehouse: 7 years (Preferred)
+
+https://www.indeed.com/rc/clk?jk=879c5ddd69953e54&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

@@ -1,0 +1,26 @@
+ Based on the job description, here are the key skills and technologies:
+
+Skills:
+- SQL
+- NoSQL 
+- Data warehousing
+- ETL
+- Python
+- Java
+- Scala
+- Machine learning concepts
+- Data APIs
+- Analytical skills
+- Problem solving skills
+- Communication skills
+
+Technologies: 
+- Relational databases
+- NoSQL databases
+- Data warehousing tools  
+- ETL tools
+- Programming languages: Python, Java, Scala
+- Machine learning algorithms/models
+- Data APIs
+
+https://www.indeed.com/rc/clk?jk=73eb2333d67e7087&from=jasx&tk=1hd1g27112f34000&vjs=3

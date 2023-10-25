@@ -1,0 +1,22 @@
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Data migration strategy development
+- Data warehousing/data mart implementation 
+- ETL development and optimization
+- Data validation and testing
+- Data mapping and transformation  
+- Data governance and security
+- Documentation and training
+- Project management
+- Continuous improvement
+
+Technologies:
+- Workday (cloud HR platform)
+- Power BI (data visualization)
+- Microsoft Fabric (data platform)  
+- Google BigQuery (data warehouse)
+- SQL (data modeling and querying)
+- Python, R (data manipulation scripts)
+
+https://www.indeed.com/rc/clk?jk=2dbc3a3fcff92774&from=jasx&tk=1hd1fvosi2gtk000&vjs=3

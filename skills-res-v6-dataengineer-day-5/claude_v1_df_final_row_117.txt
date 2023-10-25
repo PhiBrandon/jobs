@@ -1,0 +1,39 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Apache Spark 
+- Cloud technologies
+- Data modeling
+- SQL
+- Data architecture design
+- Data engineering 
+- Data analytics
+- Data integration
+- ETL/ELT
+- Programming (Python, Java, Scala)
+- Reporting tools (Cognos, Tableau)
+- AWS
+- Databases (SQL and NoSQL)
+- Big data tools (Hadoop, Spark, Kafka, Databricks)
+- Version control (GitHub) 
+- Agile methodologies (Jira, Confluence)
+
+Technologies: 
+- Apache Spark
+- Cloud (AWS)
+- Hadoop
+- Spark
+- Kafka 
+- Databricks
+- Python
+- Java 
+- Scala
+- SQL
+- NoSQL databases
+- Cognos
+- Tableau
+- GitHub
+- Jira
+- Confluence
+
+https://www.indeed.com/rc/clk?jk=6d6399c51c6d5573&from=jasx&tk=1hd43l8mokhqg800&vjs=3

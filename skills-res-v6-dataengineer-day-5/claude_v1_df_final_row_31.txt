@@ -1,0 +1,17 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data Center Infrastructure Management (DCIM) 
+- Experience with Sunbird DC Track DCIM software
+- ServiceNow (desirable)
+- Data center operations including power/cooling systems, rack configuration, device management
+- DCIM software applications like PowerIQ and TigerEyes (desirable)
+
+Technologies: 
+- Sunbird DC Track (required expertise)
+- ServiceNow (desirable experience)
+- DCIM software applications in general
+
+The job requires a strong background and expertise specifically in Sunbird DC Track software for DCIM. Other relevant skills include general data center operations, infrastructure management, and experience with additional DCIM and ITSM software.
+
+https://www.indeed.com/rc/clk?jk=15a24cf7d36918c8&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3

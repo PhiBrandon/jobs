@@ -1,0 +1,21 @@
+ Here are some relevant skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data modeling
+- Developing data pipelines
+- Ensuring data quality
+- Improving performance of data/analytics infrastructure
+- Collaborating with backend engineering and data teams
+- Communicating data and metrics
+- Experience working in cloud environments like GCP, AWS, Azure
+- Experience with DBT or similar data frameworks
+- Experience helping organize disparate data needs into a consistent system
+- Data modeling and creating data pipelines
+
+Technologies:
+- Google Cloud Platform tools and services
+- Database tools (DBT mentioned specifically)
+- Cloud platforms like AWS, Azure
+
+https://www.indeed.com/rc/clk?jk=2ea2f8e64c5398d4&from=jasx&tk=1hd95mfqo28gs002&vjs=3

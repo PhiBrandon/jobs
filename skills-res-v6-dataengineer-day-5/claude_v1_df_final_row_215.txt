@@ -1,0 +1,28 @@
+ Here are the specific skills and tech extracted from the job description:
+
+Skills:
+- SQL
+- Data modelling 
+- Statistical data modelling
+- Statistical programming
+- Data architecture design
+- Data analytics
+- Data visualization
+- Prototyping 
+- Software development processes
+- Data governance
+- Data security
+- Data compliance
+- Cloud technologies
+- Programming languages: Scala, Python
+
+Tech:
+- Snowflake
+- SQL 
+- ETL tools: SAP BODS, Informatica
+- Statistical analysis software packages: SAS, SPSS
+- Business intelligence and analytics platforms
+- Cloud technologies: Snowflake, AWS, GCP
+- Programming languages: Scala, Python
+
+https://www.indeed.com/rc/clk?jk=c323d27b302a6ce8&from=jasx&tk=1hd6h6bheiolg800&vjs=3

@@ -1,0 +1,22 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Programming languages: Python, Java, Scala, SQL, Spark  
+- Linux/Unix
+- Version control: Git/Github
+- Software development lifecycle processes 
+- Communication skills
+- Problem solving
+- Data analysis
+
+Technologies: 
+- Cloud platforms: Google Cloud Platform, Pub/Sub, Cloud Storage, BigTable, Big Query, Dataflow, Data Proc, Composer
+- Hadoop ecosystem 
+- Apache packages
+- Streaming applications: Kafka, Flume  
+- Batch processing: Spark, Airflow
+- File formats: Avro, Parquet, JSON
+- Databases: HDFS
+- Development tools: Jenkins, Artifactory, CI/CD pipelines, Terraform
+
+https://www.indeed.com/rc/clk?jk=3203987de4a37c72&from=jasx&tk=1hd1g5e7qk7bn800&vjs=3

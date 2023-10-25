@@ -1,0 +1,30 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Programming: Scala, Java, Python
+- Data engineering
+- Software development and testing 
+- Data pipeline design, building, testing and deployment
+- Data modeling
+- ETL process development
+- Data analytics and visualization 
+- Data quality assurance
+- Cloud computing (Google Cloud Platform)
+- Structured Query Language (SQL) development
+- Version control systems (Git)
+- Continuous integration/delivery (Jenkins)
+- API development
+- Problem solving
+- Communication skills
+
+Technologies:  
+- Hadoop ecosystem (HDFS, Hive, Spark, Streaming, HBase, Kafka, Oozie)
+- Teradata
+- Google BigQuery
+- Looker/Tableau for dashboards
+- Opsgenie, PagerDuty for incident management
+- Shell scripting
+- Web services
+- Common software development tools
+
+https://www.indeed.com/rc/clk?jk=b15ec8b380fddd07&from=jasx&tk=1hd1fpkd42j42000&vjs=3

@@ -1,0 +1,20 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Database management
+- SQL
+- ETL processes monitoring
+- Lead/management experience
+
+Technologies:
+- AWS
+- Azure Cloud 
+- Azure Databricks
+- Azure SQL Database
+- Data structures
+- Power BI
+- Snowflake
+- Relational databases
+
+https://www.indeed.com/rc/clk?jk=e3a2b78dd10fb62c&from=jasx&tk=1hd1foafmk78p800&vjs=3

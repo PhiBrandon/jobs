@@ -1,0 +1,35 @@
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Data pipeline design and development
+- ETL processes 
+- Data modeling
+- SQL
+- Data quality assurance
+- Data validation and testing
+- Troubleshooting data issues
+- Documentation
+- Project management
+- Problem solving
+- Communication
+- Teamwork
+
+Technologies:
+- Microsoft SQL Server 
+- Azure Data Factory
+- Azure Data Lake
+- Azure DevOps
+- Azure Data Warehouse
+- Power BI 
+- Power Query
+- DAX
+- M Language
+- Visual Studio
+- GitHub
+- Amazon Athena
+- Amazon Redshift
+- C#
+- Python
+- R
+
+https://www.indeed.com/rc/clk?jk=daada383998fad4a&from=jasx&tk=1hd1foafmk78p800&vjs=3

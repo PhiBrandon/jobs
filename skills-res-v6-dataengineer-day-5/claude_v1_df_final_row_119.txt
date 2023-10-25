@@ -1,0 +1,31 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 8+ years of experience in ETL development techniques
+- 8+ years of experience with data integration and database technologies including Oracle, Postgres, Cosmos, SQL
+- 3+ years of experience with Azure cloud platforms like Azure Data Factory, Synapse Analytics, Logic Apps, ADLS  
+- Experience with scripting languages like JavaScript, shell script, Python
+- Experience with data analysis, profiling, ETL testing and troubleshooting
+- Knowledge of data validation, cleansing, transformation, aggregation
+- Knowledge of API development and testing
+- Experience with Agile and Scrum methodologies
+- Experience with Azure DevOps or CI/CD
+- Experience with reporting tools like Tableau, Power BI
+
+Technologies:
+- Azure Data Factory 
+- Synapse Analytics
+- Logic Apps
+- Azure Data Lake Storage
+- SQL
+- Oracle
+- PostgreSQL
+- Cosmos DB
+- AWS DynamoDB
+- JavaScript
+- Python
+- Shell script
+- Tableau
+- Power BI
+
+https://www.indeed.com/rc/clk?jk=bcb3fa3a95822e7e&from=jasx&tk=1hd43l8mokhqg800&vjs=3

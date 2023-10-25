@@ -1,0 +1,20 @@
+ Based on the job description, here are the key skills and technologies:
+
+Skills:
+- Oracle GoldenGate installation, configuration and administration
+- Database management systems (e.g. Oracle, SQL Server, MySQL) and SQL
+- Data mapping, transformation and integration  
+- Data migration project management
+- Performance tuning and optimization
+- Data security and compliance
+- Effective communication and collaboration
+- Problem solving and troubleshooting
+
+Technologies:
+- Oracle GoldenGate
+- Oracle
+- SQL Server  
+- MySQL
+- Informatica (preferred)
+
+https://www.indeed.com/rc/clk?jk=efb4cc43afb6f8dd&from=jasx&tk=1hdjagqsjjgbm800&vjs=3

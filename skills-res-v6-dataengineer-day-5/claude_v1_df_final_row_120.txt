@@ -1,0 +1,22 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data modeling 
+- SQL
+- Database administration
+- Data warehousing concepts
+- ETL/ELT principles
+- Agile methodologies
+- Documentation and training
+- Project management
+- Excellent communication skills
+
+Technologies:
+- Snowflake
+- dbt 
+- GitHub
+- Tableau
+- Segment
+- Fivetran
+
+https://www.indeed.com/rc/clk?jk=afa1c3c5c9790b59&from=jasx&tk=1hd43k4db21ci002&vjs=3

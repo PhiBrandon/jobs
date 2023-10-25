@@ -1,0 +1,28 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Network design
+- Data center networking 
+- Switching and routing 
+- Network automation (scripting in Perl, Python)
+- Troubleshooting  
+- Customer service
+- Documentation
+- Consultative skills
+
+Technologies:
+- Arista switching/routing
+- Cisco switching/routing 
+- CloudVision
+- EVPN/VXLAN
+- Leaf-spine network architectures  
+- Ethernet 
+- VLANs
+- OSPF
+- BGP
+- Multicast
+- QoS
+- TCP/IP
+- Scripting (Perl, Python)
+
+https://www.indeed.com/rc/clk?jk=019fe648ac2dfa54&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

@@ -1,0 +1,16 @@
+ Key skills and technologies extracted:
+- Informatica (cloud and on-premise versions)
+- Cloud platforms like Azure 
+- Cloud databases like Snowflake, Azure SQL
+- Programming languages: SQL, Python
+- Database design and implementation concepts
+- Data exchange formats  
+- ETL/ELT techniques and scripts
+- Data modeling
+- Data warehousing concepts
+- Dimensional modeling
+- SQL
+- NoSQL
+- Python
+
+https://www.indeed.com/rc/clk?jk=227119efc149cadc&from=jasx&tk=1hd43l8mokhqg800&vjs=3

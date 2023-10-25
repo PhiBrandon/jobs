@@ -1,0 +1,15 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL processes
+- SQL development
+- Data management
+
+Technologies:
+- Databricks
+- Snowflake 
+- Azure
+- SQL Server
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BTYkY06FZEdAAtNWO-eDAfNklmfZymsMF6eFRONl7rAG-Z7iiNntZQmnz-piRwTeT1fa4JUmDVhBEhqSdYV3nk8vKs5zI85XL4vCJJzDBktKUc4VUEWDZGHBIHYy0Jm9yO_KXvgn9s9bOZt-E20Ubyk8NyiWr7ac5GrFFkor8CSwVYPrpJAYbyR4Gej9iTdD-if_AcTe74ykq2OUfGR7_KG8xrQO0p3hb9AwvV8mWANgODTVQ85wmsiRqJXKlxiO7Pa1VGstUFZC33AanRxt8mS-p3Pfv3ahXgUMkBcd3tShlhnEtHuhDM-QHyxSIEhDIEcBlBTo8Lv0ayPDrEoqaSx54I9tbNEknFZlX09vLzLfZrQpidr83m5ZDpgOhe4cT_QTwEOSaC6e_D54Y66f14zREOx6gXI0j-j5_vQQ8BfKeDskeQ91R2A9TrFchdzVYAqHrir4nAtSu-0j8kW-DTt91ZPqCR5L0l7ig7mFiwB7Ct_5em5vhUteppG-ALP_nIeTvUnbqlOmZnBO_3snvSROv9iRzqHa3kETlmo77ofZxz_zyAnpQ1q4vYYMLLZbMMXSuElQgonqC0nIfQSMDyI69wBO_8uvPI4hv13Zovt4dueNOUl5G-ABwjgfiRlR4%3D&xkcb=SoCm-_M3JmqsksWR7p0FbzkdCdPP&p=14&fvj=1&vjs=3&jsa=5110&tk=1hd6h8q6h2beg000&from=jasx&wvign=1

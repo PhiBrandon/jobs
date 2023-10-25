@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Geospatial programming 
+- Data analytics
+- Data engineering
+- Geospatial data management
+- Spatial data processing, analysis and visualization 
+- Remote sensing data analysis
+- Problem solving
+- Communication
+- Project management
+-attention to detail
+
+Technologies/Platforms:
+- Python 
+- Geospatial platforms like ArcGIS, GEOJSON
+- Databases/SQL
+- Data management systems
+
+The role involves tasks like geospatial data acquisition, cleaning, integration, analysis and visualization. Managing geospatial datasets and processes. Extracting insights from remote sensing data. Collaboration with data science and ag teams. Communication of priorities and progress.
+
+https://www.indeed.com/rc/clk?jk=96205e6a1d6acd47&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

@@ -1,0 +1,19 @@
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Data Engineering
+- Enterprise Data Warehousing Concepts 
+- Pyspark
+- Python
+- Agile/Scrum
+
+Technologies:
+- Azure Data Factory (ADF)
+- Azure Databricks
+- PySpark
+- Python
+- Snowflake (preferred)
+- Kafka (preferred) 
+- Elastic Search (preferred)
+
+https://www.indeed.com/rc/clk?jk=117f6275ba0a1edd&from=jasx&tk=1hd1g5htglell801&vjs=3

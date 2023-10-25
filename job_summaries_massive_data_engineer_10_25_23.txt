@@ -1,0 +1,5192 @@
+
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Experience with FHIR (Fast Healthcare Interoperability Resources) standards 
+- Expert Java programming abilities
+- Familiarity with Python and Bash scripts
+- Strong data modeling and database design skills
+- Experience designing and implementing data ingestion/transformation processes  
+- Knowledge of healthcare data integration and data quality
+- Ability to document implementations and processes
+- Commitment to staying updated on healthcare standards and best practices
+
+Technologies:
+- FHIR (Fast Healthcare Interoperability Resources)
+- Java
+- Python
+- Bash scripts
+- Database design and implementation
+- ETL (Extract, Transform, Load) processes
+- Data modeling
+- APIs
+- HIPAA compliance
+
+https://www.indeed.com/rc/clk?jk=b151e97f7474d1c8&from=jasx&tk=1hd1ft2vcjooh800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 8+ years of experience in ETL development techniques
+- 8+ years of experience with data integration and database technologies including Oracle, Postgres, Cosmos, SQL
+- 3+ years of experience with Azure cloud platforms like Azure Data Factory, Synapse Analytics, Logic Apps, ADLS  
+- Experience with scripting languages like JavaScript, shell script, Python
+- Experience with data analysis, profiling, ETL testing and troubleshooting
+- Knowledge of data validation, cleansing, transformation, aggregation
+- Knowledge of API development and testing
+- Experience with Agile and Scrum methodologies
+- Experience with Azure DevOps or CI/CD
+- Experience with reporting tools like Tableau, Power BI
+
+Technologies:
+- Azure Data Factory 
+- Synapse Analytics
+- Logic Apps
+- Azure Data Lake Storage
+- SQL
+- Oracle
+- PostgreSQL
+- Cosmos DB
+- AWS DynamoDB
+- JavaScript
+- Python
+- Shell script
+- Tableau
+- Power BI
+
+https://www.indeed.com/rc/clk?jk=bcb3fa3a95822e7e&from=jasx&tk=1hd43l8mokhqg800&vjs=3
+
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- Verbal and written communication skills
+- Problem solving skills 
+- Customer service and interpersonal skills
+- Ability to work independently and manage time
+- Good knowledge of data modeling
+- SQL
+- Python
+- Snowflake
+- Data modeling
+- Computer software (like Visual Basic, Oracle etc.)
+
+Education/Experience: 
+- Computer programming or relevant associate's degree required
+- Bachelor's/Master's degree preferred
+- 2-4 years of experience required
+
+Technical Skills (Required):
+- 2+ years experience in Python
+- 2+ years experience with SQL
+- 2+ years experience in Snowflake
+
+Technical Skills (Desired):
+- Airflow experience  
+- AWS experience
+- Data analytics
+- Understanding of Software Development Life Cycle
+- Tableau
+- Power BI
+
+Soft Skills (Required):
+- Verbal and written communication
+- Problem solving
+- Customer service and interpersonal skills 
+- Ability to work independently and manage time
+- Critical thinking
+- Ability to work in a team
+- Being proactive and taking initiative
+- Ability to work off hours when required
+
+Soft Skills (Desired): 
+- Ability to create connections with people outside the team
+- Organization
+- Project management experience with Agile methodology
+
+https://www.indeed.com/rc/clk?jk=a500c31bd71fbb3a&from=jasx&tk=1hd1foafmk78p800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL
+- Data modeling
+- ETL/ELT processes 
+- Data warehousing
+- Data pipelines
+- Data visualization (Power BI, Tableau)
+- Analytics
+- Problem solving
+- Troubleshooting
+
+Technologies:
+- MS SQL Server
+- Snowflake
+- ETL/ELT tools (Mulesoft, Informatica, APIs)
+- Data visualization tools (Power BI, Tableau)
+
+https://www.indeed.com/rc/clk?jk=7a36e7ca655affdd&from=jasx&tk=1hd1g2npm2f32000&vjs=3
+
+ Here are the key skills and technologies mentioned:
+
+Skills:
+- Microsoft Azure Data and Analytics Services 
+- Azure Data Factory
+- Azure Synapse 
+- Azure Data Lake
+- Azure SQL Server
+- Data storage solutions
+- ETL pipelines
+- Provisioning Azure subscriptions and resources
+- Automation (PowerShell, Python)
+- Project management
+- Communication
+- Time management
+- Multitasking
+
+Technologies: 
+- Microsoft Azure
+- Azure Data Factory
+- Azure Synapse
+- Azure Data Lake 
+- Azure SQL Server
+- PowerShell
+- Python
+- T-SQL
+- SSIS
+- SSAS
+
+https://www.indeed.com/rc/clk?jk=45cf7e5b6edba0bb&from=jasx&tk=1hd43uovekcmr800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Python
+- SQL
+- Data modeling
+- ETL pipeline development
+- Data warehousing
+- Data management fundamentals
+- Data storage principles
+- Problem solving
+- Communication
+- Data governance
+
+Technologies: 
+- Python
+- SQL
+- AWS (S3, Athena, Glue)
+- Cloud platforms (AWS, Azure, Google Cloud)
+- Cloud orchestration tools (Airflow, Dagster, Prefect)
+- Big data technologies (Hadoop, Hive, Spark)
+- Distributed systems
+
+https://www.indeed.com/rc/clk?jk=38d10858e6384637&from=jasx&tk=1hd1ft2vcjooh800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data analysis
+- Data architecture 
+- Data modeling
+- Software development 
+- Data engineering (data ingestion, curation, provisioning)
+- Data quality improvement
+- Business process analysis
+- Technology recommendations
+- Agile methodology
+
+Technologies:
+- AWS SDK
+- Docker
+- Kubernetes
+- IT architectures and technical standards
+- Design and development tools
+- Layered systems architectures
+- Agile data engineering concepts and processes
+
+https://www.indeed.com/rc/clk?jk=ae83164544567281&from=jasx&tk=1hd6h6bheiolg800&vjs=3
+
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Data migration strategy 
+- Data engineering
+- Data integration
+- Data modeling
+- Data processing
+- System design
+- Performance optimization
+- Requirements documentation
+- Agile/Scrum 
+- Cloud technologies
+- Automation
+- Troubleshooting
+
+Technologies:
+- AWS DMS/MGN
+- Cloud databases (experience mentioned)
+- Datalake/DeltaLake/Lakehouse
+- Python (experience mentioned for data manipulation)
+
+https://www.indeed.com/rc/clk?jk=fdd1d18770845207&from=jasx&tk=1hd1fn4d0i3at800&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Python programming focused on big data management 
+- PostgreSQL or other relational database
+- Docker
+- Kubernetes
+- Git
+- Generative AI and large language model (LLM) APIs (optional)
+- GIS tools such as ESRI (optional)
+- Machine learning, especially for anomaly detection, pattern recognition, clustering, time series analysis (optional)
+- Remote-sensing and satellite data (optional)
+- Engineering leadership (optional)
+- Open Source project maintainership (optional)
+
+Technologies:  
+- PostgreSQL or other relational database
+- Docker
+- Kubernetes
+- AWS (optional)
+- ElasticSearch (optional) 
+- Data pipeline tools like Pachyderm (optional)
+- RESTful APIs (optional)
+
+https://www.indeed.com/rc/clk?jk=37b5edb36e885430&from=jasx&tk=1hd1fm1o6iman800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data migration planning 
+- Data validation and reconciliation
+- Process monitoring and issue resolution
+- Documentation
+- Knowledge transfer and training
+- Problem-solving
+- Communication
+
+Technologies: 
+- Komprise data management software
+- Isilon storage platform
+- NetApp storage platform
+- Scripting languages like Python and PowerShell
+
+https://www.indeed.com/rc/clk?jk=7f7a185825ef7e9f&from=jasx&tk=1hd6h82eqk7eu800&vjs=3
+
+ Here are some key skills and technologies extracted from the job description:
+
+Skills:
+- Architecting and improving system performance on cloud data warehouses 
+- Writing and managing complex SQL queries
+- Developing data processing pipelines using technologies like Spark, Dataproc, and Kubernetes
+- Researching and experimenting with strategies to optimize performance and efficiency of petabytes of data processing
+- Fostering collaboration and teamwork
+- Sharing technical work through talks, posts, papers and conferences
+
+Technologies: 
+- Spark
+- Dataproc 
+- Kubernetes
+- Cloud data warehouses like Snowflake, SingleStore
+- SQL
+
+https://www.indeed.com/rc/clk?jk=97f5548d6f257ea6&from=jasx&tk=1hd440jnukecp800&vjs=3
+
+ Based on the job description, here are the key skills and technologies:
+
+Skills:
+- Python 3
+- SQL 
+- Data analysis
+- Dataset manipulation
+- ETL processes
+- Problem solving
+- Version control with GIT
+
+Technologies:
+- AWS (S3, Redshift, Glue)
+- PySpark
+- Data lake architecture
+
+https://www.indeed.com/rc/clk?jk=11466c7b4a6cfcce&from=jasx&tk=1hd6h75sii6mo800&vjs=3
+
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- ETL methodologies 
+- Data quality
+- SQL
+- Python
+- Apache Spark
+- Documentation
+- Communication
+- Organization
+- Collaboration
+
+Tech:
+- Hadoop
+- Spark
+- Java
+- Python
+- Relational databases
+
+https://www.indeed.com/rc/clk?jk=4539c1f9e485ed4e&from=jasx&tk=1hd43sbgnkiai800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 5+ years of experience in application development 
+- 5+ years of experience designing, developing, operationalizing and maintaining complex data applications at enterprise scale
+- 3+ years of experience creating software for retrieving, parsing and processing structured and unstructured data
+- 3+ years of experience building scalable ETL/ELT workflows for reporting and analytics
+- Ability to develop scripts and programs for converting various types of data into usable formats
+- Experience with Python, SQL, Scala, or Java
+- Experience with Unix/Linux, including basic commands and Shell scripting
+
+Technologies: 
+- Public cloud platforms like AWS, Microsoft Azure, Google Cloud
+- Distributed data and computing tools like Spark, Databricks, Hadoop, Hive, AWS EMR, Kafka
+- NoSQL databases like MongoDB, Cassandra  
+- Data warehousing systems like AWS Redshift, MySQL, Snowflake
+- Agile engineering practices
+
+https://www.indeed.com/rc/clk?jk=814ba5de32777d5d&from=jasx&tk=1hd1fo8m3llq3800&vjs=3
+
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- 6+ years of professional software development experience
+- Experience building high quality data pipelines with comprehensive testing 
+- Strong problem solving and technical troubleshooting skills
+- Experience designing systems and solutions at scale
+- Ability to work independently with minimal supervision
+- Experience mentoring and guiding other engineers
+- Experience with data modeling
+- Python experience
+
+Tech:
+- Apache Spark
+- Delta Lake
+- API and microservices architecture
+
+https://www.indeed.com/rc/clk?jk=f1db132bcf22f966&from=jasx&tk=1hd6h6bheiolg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Apache Spark 
+- Cloud technologies
+- Data modeling
+- SQL
+- Data architecture design
+- Data engineering 
+- Data analytics
+- Data integration
+- ETL/ELT
+- Programming (Python, Java, Scala)
+- Reporting tools (Cognos, Tableau)
+- AWS
+- Databases (SQL and NoSQL)
+- Big data tools (Hadoop, Spark, Kafka, Databricks)
+- Version control (GitHub) 
+- Agile methodologies (Jira, Confluence)
+
+Technologies: 
+- Apache Spark
+- Cloud (AWS)
+- Hadoop
+- Spark
+- Kafka 
+- Databricks
+- Python
+- Java 
+- Scala
+- SQL
+- NoSQL databases
+- Cognos
+- Tableau
+- GitHub
+- Jira
+- Confluence
+
+https://www.indeed.com/rc/clk?jk=6d6399c51c6d5573&from=jasx&tk=1hd43l8mokhqg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Information security policies, programs and procedures 
+- Data ingestion
+- Designing and implementing data pipelines and architecture
+- Big data technologies (Hadoop, Apache Nifi, Hive, Spark, Kafka, etc.)
+- Cloud platforms (AWS, GCP, Azure)
+- Batch and streaming data processing
+- Data visualization (Tableau)
+- Python
+- Statistical analysis and modeling
+- Source code management (Git)
+
+Technologies: 
+- Hadoop
+- Apache Nifi 
+- Cloud platforms (AWS, GCP, Azure)
+- Spark
+- Kafka
+- Hive
+- Pig
+- Python
+- Tableau
+- Git
+
+https://www.indeed.com/rc/clk?jk=b1473aeba6e7b340&from=jasx&tk=1hd958u85jqvd802&vjs=3
+
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Python/Java programming
+- SQL
+- ETL tools: AWS Glue, Informatica Suite, SSIS, Infoworks
+- Data modeling
+- Data warehousing/business intelligence
+- XML
+- XSLT
+- .NET Framework 
+- C#
+- Java
+- JavaScript
+- jQuery
+- LINQ
+- MVC Framework
+- ASPX
+- Angular.js
+- Bootstrap
+- Knockout
+- Business Intelligence
+- ETL techniques
+- Data modeling
+- Meta data repository
+- MS SQL Server
+
+Tech:
+- AWS (cloud infrastructure, S3, Redshift, DynamoDB, EC2)
+- Hadoop
+- Spark
+- Teradata
+- SQL Server
+- MS Access
+- HIVE
+- HBase
+
+https://www.indeed.com/rc/clk?jk=6b0246ca2a37effe&from=jasx&tk=1hd6h6bheiolg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data operations 
+- Building and supporting big data systems
+- Scripting/programming (experience with Python mentioned)
+- Data engineering (experience with data pipelines/ETL processes mentioned)
+- Cloud infrastructure
+- Software development lifecycle 
+- Unit and integration testing
+- Attention to detail
+- Problem solving
+- Collaboration
+
+Technologies: 
+- Google Cloud Platform (preferred)
+- AWS
+- Apache Airflow
+- Matillion 
+- Python
+- Spark
+- Data mocking/masking tools like Tonic or Mockaroo
+
+https://www.indeed.com/rc/clk?jk=21025ed51ea9aa9f&from=jasx&tk=1hd43k4db21ci002&vjs=3
+
+ Here are the relevant skills and technologies extracted from the job description:
+
+Skills:
+- Data migration
+- Data engineering 
+- Data integration
+- Data warehousing/processing 
+- System design
+- Programming 
+- Testing
+- Documentation
+
+Technologies: 
+- Core systems/databases (mandatory)
+- ETL tools like AWS Glue (mandatory)
+- SQL Server, Oracle, MySQL (mandatory)  
+- Microsoft SSIS (desired)
+- AWS DMS/MGN (desired)
+
+https://www.indeed.com/rc/clk?jk=cab4f56240621034&from=jasx&tk=1hd6hf7p7k2l9800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Object-oriented software design and patterns
+- Distributed systems design
+- Software development lifecycle 
+- Testing/test automation
+- Problem solving
+- Communication
+- Mentoring
+
+Technologies:
+- Java
+- Spring framework  
+- Oracle DB
+- NoSQL databases
+- RESTful APIs
+- Relational and document databases
+- Node.js
+- KV and graph databases
+
+The role involves designing scalable distributed systems for eBay's data infrastructure and media platforms. Technologies include Java, databases like Oracle DB and NoSQL, REST APIs, and frameworks like Spring. Experience with distributed systems, software design patterns, testing and the full development lifecycle are required.
+
+https://www.indeed.com/rc/clk?jk=dbbbf7562df97384&from=jasx&tk=1hd95ff4chbht800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 7+ years of experience in working with data solutions
+- 3+ years of experience coding in Python, Scala or similar scripting language
+- 2+ years Experience in designing and implementing data ingestion with real-time data streaming tools  
+- 3+ years experience working with MPP databases such as Snowflake, Redshift
+- 2+ years experience working with Serverless ETL processes  
+- 1+ years experience with big data technologies like Hadoop, Spark, Cassandra, MongoDB
+- Experience designing, documenting, and defending designs for key components in large distributed computing systems
+- Demonstrated ability to learn new technologies quickly and independently
+- Demonstrated ability to achieve stretch goals in a very innovative and fast paced environment
+- Excellent verbal and written communication skills, especially in technical communications
+- Strong interpersonal skills and a desire to work collaboratively
+- Experience participating in an Agile software development team
+
+Technologies:
+- Python, Scala or similar scripting language  
+- AWS Cloud Platform, Azure, Snowflake
+- Kafka, Kinesis, SAP/Client or other cloud integrations
+- Snowflake, Redshift, MPP databases
+- Lambda, AWS Glue, Matillion or similar serverless ETL processes
+- EMR, Hadoop, Spark, Cassandra, MongoDB or other open source big data tools
+
+https://www.indeed.com/rc/clk?jk=a03e6162d11ae269&from=jasx&tk=1hd1fvcrnllot800&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Strong data analytics skills 
+- Experience working with and maintaining large data sets
+- Ability to build new solutions and enable analysis at scale
+- Proven ability to work in a complex, fast-paced environment
+- Organization and detail orientation
+- Strategic focus
+- Strong written and verbal communication
+
+Technologies:
+- Spark 
+- Spark SQL
+- Data pipelines
+- Database infrastructure
+- Sales and digital advertising platforms
+- Sales systems and tools
+
+https://www.indeed.com/rc/clk?jk=095f064bfba48308&from=jasx&tk=1hd958u85jqvd802&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Software engineering
+- Data pipelines
+- Data validation
+- Scala programming
+- Spark
+- Apache Hadoop
+- Python
+- AWS EMR
+- Airflow
+- Git
+- Confluence
+- AWS Redshift
+- Teradata
+- Agile methodology
+
+Technologies:
+- Scala
+- Apache Spark 
+- Spark Dataframes API
+- Hadoop
+- Python
+- AWS EMR
+- Airflow
+- Jenkins
+- AWS Redshift
+- Teradata
+- Git/GitHub
+- Confluence
+
+https://www.indeed.com/rc/clk?jk=032e33bd776de85e&from=jasx&tk=1hd1fs0bnk7b3800&vjs=3
+
+ Here are some key skills and technologies extracted from the job description:
+
+Skills:
+- Experienced in operating and improving the reliability of data storage and processing systems (relational databases, data warehouses, data lakes and distributed processing systems) 
+- Understanding of stream processing and operating streaming solutions (using Kafka/Kinesis or similar)
+- Experience in planning, provisioning, scaling and maintaining reliable data processing systems in AWS or GCP
+- Comfortable with Python and experience maintaining ETL jobs using Airflow or similar
+- Eager to learn more and loves trying out new solutions independently
+
+Technologies: 
+- AWS data ecosystem: Amazon Aurora MySQL, DocumentDB/MongoDB, OpenSearch/ElasticSearch, Redshift, Glue/Spark, MSK/Kafka, Kinesis, Debezium, S3/Apache Hudi, MWAA/Airflow
+- Kafka/Kinesis
+- Terraform/Ansible
+- Python
+- Airflow
+- AWS or GCP
+
+https://www.indeed.com/rc/clk?jk=c7bdf04e7b7bd148&from=jasx&tk=1hd1fvosi2gtk000&vjs=3
+
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Data protection 
+- Information security 
+- Policy development
+- Security best practices
+- Relationship building
+- Problem solving
+- Project management
+- Communication (written, verbal, interpersonal) 
+- Strategic planning
+- Technology evaluation
+- Innovation
+- Presentation
+- Budgeting
+- Contract management
+
+Technologies: 
+- CIS Control 3 (data protection strategies and solutions)
+- Security technologies 
+- Information security applications
+- Data loss prevention 
+- Microsoft Products (Excel, SharePoint, Teams, Forms, etc.)
+- Healthcare technology landscape
+
+https://www.indeed.com/rc/clk?jk=780bbe8f6d47e19d&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3
+
+ Here are some specific skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL/ELT pipelines
+- Data modeling
+- Data warehousing
+- SQL
+- Programming languages like Java, Scala, Python
+- Workflow orchestration tools like Airflow, Dagster, DBT
+- Cloud technologies like AWS, GCP, Azure
+- Big data systems like Snowflake, BigQuery, Databricks
+- NoSQL databases like Cassandra, HBase, Redis, DynamoDB, Neo4j
+- Financial/compliance data
+- Data provenance and governance
+
+Technologies: 
+- Snowflake
+- BigQuery
+- Databricks
+- MySQL 
+- PostgreSQL
+- Cassandra
+- HBase
+- Redis
+- DynamoDB
+- Neo4j
+- Airflow
+- Dagster
+- DBT
+- AWS
+- Google Cloud
+- Microsoft Azure
+
+https://www.indeed.com/rc/clk?jk=c41c14c5c2c43e9e&from=jasx&tk=1hd1fn4d0i3at800&vjs=3
+
+ Here are some key skills and technologies extracted from the job description:
+
+Skills:
+- Statistical modeling 
+- Machine learning
+- Econometrics
+- Data mining
+- Data visualization
+- SQL
+- Data analysis
+- Model optimization
+- Experiment design
+- Communication
+- Collaboration
+
+Technologies: 
+- Python
+- AWS (cloud environment)
+- MLOps frameworks
+- Git (source code control)
+- PowerBI (business intelligence)
+- A/B testing
+- Agile development
+
+The position involves skills like statistical modeling, machine learning, data mining to analyze large datasets and build predictive and prescriptive models. Technologies mentioned include Python, AWS cloud, MLOps, Git, PowerBI for data visualization and analytics. Experience with A/B testing, cloud environments, SQL and collaboration in an agile setting are also called out.
+
+https://www.indeed.com/rc/clk?jk=8205e7f76522b355&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3
+
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- SQL development 
+- Python programming
+- Data modeling
+- Logical modeling for analytics tools
+- Object-oriented programming
+- Data analytics
+- Mentoring others
+- Deal with ambiguity/unknowns
+
+Tech:
+- Snowflake
+- Python 
+- Databricks
+- Azure Data Factory
+- Azure Data Lake 
+- AWS S3
+- AWS Glue
+- SQL/T-SQL
+- Tableau
+- Power BI
+- Sigma
+- Pandas library
+- Large dataset experience
+
+https://www.indeed.com/rc/clk?jk=ead9ad56f5aa8781&from=jasx&tk=1hd43k4db21ci002&vjs=3
+
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Expert-level skills JavaScript, NodeJS, Webpack, ReactJS or other modern UI frameworks
+- 4+ years of software development experience & strong troubleshooting and debugging skills
+- Experience with data analytics, data visualization, BI tools and Hadoop ecosystem
+- Ability to drive projects end to end
+- Ability to produce high-quality software that is unit tested, code reviewed, and checked in regularly for continuous integration
+- Familiarity with backend Restful API development, preferable in Java
+- Solid background in complicated SQL & data analytics
+- Zeal for learning and adopting new ideas and patterns
+- Strong Computer Science fundamentals, data structures, algorithms, and software design
+
+Tech:
+- Designing and developing a next generation data analytics platform using cutting-edge technologies
+- Data analytics, data visualization
+- JavaScript, NodeJS, Webpack, ReactJS or other modern UI frameworks  
+- Hadoop ecosystem
+- Backend Restful API development in Java
+- SQL
+
+https://www.indeed.com/rc/clk?jk=e43d9fc0f405d53b&from=jasx&tk=1hdjaj0h4j4gl800&vjs=3
+
+ Required skills and technologies:
+- Azure Data Lake: 3 years experience (required)
+- Data Factory and/or Data Bricks: 3 years experience (required) 
+- SAP technologies such as Hana or BW: 3 years experience (required)
+
+Preferred skills and technologies:
+- DevOps Version Control and Storyboarding (experience preferred)
+- Data reporting using data from ERP systems such as SAP (experience preferred)  
+- Regulatory tools for document archiving and document control (experience preferred)
+- Snowflake, BOBJ, Tableau (experience preferred)
+
+https://www.indeed.com/rc/clk?jk=350077b572417b1d&from=jasx&tk=1hd6h6bheiolg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data warehousing
+- Data analytics
+- SQL
+- Data modeling
+- ETL processes
+- Data integration
+- Data architecture
+
+Technologies:
+- Oracle Integrator
+- Data warehouse
+- Analytics data lakehouse
+- SQL
+
+https://www.indeed.com/rc/clk?jk=104d041d2954dd4c&from=jasx&tk=1hdjafq3r2cc7000&vjs=3
+
+ Based on the job description, here are the key skills and technologies:
+
+Skills:
+- Oracle GoldenGate installation, configuration and administration
+- Database management systems (e.g. Oracle, SQL Server, MySQL) and SQL
+- Data mapping, transformation and integration  
+- Data migration project management
+- Performance tuning and optimization
+- Data security and compliance
+- Effective communication and collaboration
+- Problem solving and troubleshooting
+
+Technologies:
+- Oracle GoldenGate
+- Oracle
+- SQL Server  
+- MySQL
+- Informatica (preferred)
+
+https://www.indeed.com/rc/clk?jk=efb4cc43afb6f8dd&from=jasx&tk=1hdjagqsjjgbm800&vjs=3
+
+ Based on the job description, here are some relevant skills and technologies:
+
+Skills:
+- Data engineering
+- Data modeling 
+- SQL
+- ETL/ELT frameworks (Informatica, Apache Spark, Airflow, AWS Glue)
+- Data warehousing
+- Version control (Git)
+- Problem solving
+- Communication
+
+Technologies: 
+- Java
+- PostgreSQL, MySQL (relational databases)
+- Data modeling tools
+- Cloud data platforms (Snowflake, AWS, Google Cloud, Azure)  
+- JAVA 8, REST APIs, microservices, Spring Boot framework
+- Alteryx
+- UNIX scripting
+
+https://www.indeed.com/rc/clk?jk=46368a3a77ba0041&from=jasx&tk=1hd1g40sjjm7l801&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data engineering
+- SQL
+- Python
+- Spark
+- Spatial data
+- AWS data engineering (S3, RDS, EMR, Glue, Athena) 
+- Airflow
+- Tableau
+- Machine learning
+
+Technologies:
+- Spark
+- Python 
+- AWS (S3, RDS, EMR, Glue, Athena)
+- Airflow
+- SQL
+- Tableau
+- Snowflake
+- Scala
+- Postgis
+
+https://www.indeed.com/rc/clk?jk=00fe614f1245546c&from=jasx&tk=1hd1g2npm2f32000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Data Engineer:
+- Python
+- Spark 
+- SQL
+- ETL
+- Tableau (optional)
+
+Data Analyst/Business Analyst:
+- SQL
+- Tableau
+- Informatica
+- Data warehousing
+- Requirements gathering
+- Data analysis
+- Test case development
+- Communication
+
+https://www.indeed.com/rc/clk?jk=2fd16bfd74b3658d&from=jasx&tk=1hd95ofc82ea2001&vjs=3
+
+ Here are some of the key skills and technologies mentioned in the job description:
+
+Skills:
+- Data engineering 
+- Data modeling
+- ETL/ELT design and development
+- SQL 
+- Programming in Python, R, and shell scripting
+- Data warehousing methodologies
+- Data integration
+- Data architecture
+- Data quality
+- Master data management
+- Healthcare analytics
+- Cloud architecture
+
+Technologies: 
+- Snowflake
+- FiveTran
+- DBT  
+- Informatica
+- Matillion
+- Git
+- Health Catalyst
+- Tableau Cloud
+- IAAS, PAAS, SAAS
+
+https://www.indeed.com/rc/clk?jk=fa2210df4da3bf9a&from=jasx&tk=1hd43k4db21ci002&vjs=3
+
+ Here are the key skills and technologies extracted from the Big Data Engineer job description:
+
+Skills:
+- Data warehousing 
+- Data engineering
+- ETL process development
+- Data modeling
+- Agile development
+- Problem analysis
+- Technical testing
+- Documentation
+- Communication
+- Customer service
+- Prioritization
+- ITIL foundations
+
+Technologies: 
+- AWS
+- Spark
+- Scala
+- Python
+- Airflow
+- EMR
+- Redshift
+- Athena
+- Snowflake
+- ECS
+- DevOps automation 
+- Integration
+- Docker
+- Build and deployment tools
+- Version control (Git)
+- Alteryx
+- Tableau
+- Analytics tools
+
+https://www.indeed.com/rc/clk?jk=979d7c241a393d79&from=jasx&tk=1hd1fq96gk6pu800&vjs=3
+
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Data migration strategy development
+- Data warehousing/data mart implementation 
+- ETL development and optimization
+- Data validation and testing
+- Data mapping and transformation  
+- Data governance and security
+- Documentation and training
+- Project management
+- Continuous improvement
+
+Technologies:
+- Workday (cloud HR platform)
+- Power BI (data visualization)
+- Microsoft Fabric (data platform)  
+- Google BigQuery (data warehouse)
+- SQL (data modeling and querying)
+- Python, R (data manipulation scripts)
+
+https://www.indeed.com/rc/clk?jk=2dbc3a3fcff92774&from=jasx&tk=1hd1fvosi2gtk000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL processes
+- SQL development
+- Data management
+
+Technologies:
+- Databricks
+- Snowflake 
+- Azure
+- SQL Server
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BTYkY06FZEdAAtNWO-eDAfNklmfZymsMF6eFRONl7rAG-Z7iiNntZQmnz-piRwTeT1fa4JUmDVhBEhqSdYV3nk8vKs5zI85XL4vCJJzDBktKUc4VUEWDZGHBIHYy0Jm9yO_KXvgn9s9bOZt-E20Ubyk8NyiWr7ac5GrFFkor8CSwVYPrpJAYbyR4Gej9iTdD-if_AcTe74ykq2OUfGR7_KG8xrQO0p3hb9AwvV8mWANgODTVQ85wmsiRqJXKlxiO7Pa1VGstUFZC33AanRxt8mS-p3Pfv3ahXgUMkBcd3tShlhnEtHuhDM-QHyxSIEhDIEcBlBTo8Lv0ayPDrEoqaSx54I9tbNEknFZlX09vLzLfZrQpidr83m5ZDpgOhe4cT_QTwEOSaC6e_D54Y66f14zREOx6gXI0j-j5_vQQ8BfKeDskeQ91R2A9TrFchdzVYAqHrir4nAtSu-0j8kW-DTt91ZPqCR5L0l7ig7mFiwB7Ct_5em5vhUteppG-ALP_nIeTvUnbqlOmZnBO_3snvSROv9iRzqHa3kETlmo77ofZxz_zyAnpQ1q4vYYMLLZbMMXSuElQgonqC0nIfQSMDyI69wBO_8uvPI4hv13Zovt4dueNOUl5G-ABwjgfiRlR4%3D&xkcb=SoCm-_M3JmqsksWR7p0FbzkdCdPP&p=14&fvj=1&vjs=3&jsa=5110&tk=1hd6h8q6h2beg000&from=jasx&wvign=1
+
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Document capture and storage systems 
+- MS Visual Studio
+- MS.NET 
+- C#
+- ASP.NET
+- Visual Basic .NET  
+- TSQL
+- Web Services
+- Entity Framework
+- jQuery
+- Bootstrap
+- RestAPI
+- SOAP
+- SSIS
+- MS SQL Server
+- Java Script
+- XML
+- XSD
+- HTML
+- CSS
+- Written and oral communication
+
+Technologies:
+- Microsoft Windows Server 2008 and 2012
+- Kodak Scanner 4200, 1860, 5850
+- Kodak Capture Pro 4.1, 4.5, 5.4.1, 5.6
+- Document management systems
+- Electronic Document Management Systems (EDMS)
+- HealthPAS Application suite
+- Letter manager solution
+- Microsoft .NET frameworks
+- Web technologies like REST APIs, SOAP
+- Microsoft SQL Server
+- Imaging software
+
+https://www.indeed.com/rc/clk?jk=08240a66dccbc643&from=jasx&tk=1hd6hi1iggaj8801&vjs=3
+
+ Here are the key skills and tech extracted from the job description:
+
+Skills:
+- SQL query design 
+- SQL performance tuning and query optimization
+- Data warehouse design
+- ETL development
+- Data modeling
+- Data integration
+- Performance tuning
+- Continuous learning
+- Mentoring
+- Problem solving
+
+Tech:
+- SQL
+- Relational data warehouses (e.g. Data Warehouse Management Systems)  
+- 'Big data' data pipelines and architecture
+- ETL processes
+- Python
+- Java
+- C#
+- Data science concepts
+- Machine learning algorithms
+- Statistical analysis
+
+https://www.indeed.com/rc/clk?jk=e6243931b07ddf9f&from=jasx&tk=1hd1g3s5pjfnq801&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Network design
+- Data center networking 
+- Switching and routing 
+- Network automation (scripting in Perl, Python)
+- Troubleshooting  
+- Customer service
+- Documentation
+- Consultative skills
+
+Technologies:
+- Arista switching/routing
+- Cisco switching/routing 
+- CloudVision
+- EVPN/VXLAN
+- Leaf-spine network architectures  
+- Ethernet 
+- VLANs
+- OSPF
+- BGP
+- Multicast
+- QoS
+- TCP/IP
+- Scripting (Perl, Python)
+
+https://www.indeed.com/rc/clk?jk=019fe648ac2dfa54&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Java programming
+- Distributed systems design and development 
+- Software engineering skills like code reviews, unit testing, etc. 
+- Experience building and operating large-scale systems
+- Data structures, algorithms and object-oriented design skills
+- Performance tuning and optimization
+- Concurrency, networking, memory management skills
+- Diagnosing issues and troubleshooting
+- Mentoring and knowledge sharing
+
+Technologies:
+- Java 
+- Streaming systems like Kafka, Pulsar
+- Kafka
+- Relational databases like Oracle, MySQL, MariaDB, MSSQL
+- DevOps environment
+
+https://www.indeed.com/rc/clk?jk=e56b7ba5eba022d3&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data backup solutions design and implementation 
+- Disaster recovery and business continuity
+- Backup concepts, methodologies and technologies
+- Cloud backup solutions (AWS, Azure, GCP)
+- Hybrid and multi-cloud backup solutions
+- Large scale and complex backup environments
+- Client needs assessment and solutions translation
+- Troubleshooting and root cause analysis
+- Documentation
+- Collaboration
+- Problem solving
+
+Technologies: 
+- Cohesity DataProtect
+- Backup for various platforms - Windows, Linux, VMware, Hyper-V, SQL Server, Oracle, Exchange, SharePoint etc.
+- Cloud platforms - AWS, Azure, GCP
+
+https://www.indeed.com/rc/clk?jk=8df3ef9ef08ef072&from=jasx&tk=1hd1ft2vcjooh800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data modeling
+- Scripting (Python, SQL, shell scripting)  
+- Data processing
+- ETL/ELT processes
+- Data analysis
+- Schema design
+- Data integration
+- Data quality framework design
+
+Technologies/Tools:
+- AWS services: S3, Lambda, Redshift, Lake Formation, Glue, Kinesis, DMS, Glue catalog/Crawlers
+- Python
+- SQL  
+- Spark
+- Linux
+- Git
+- Jira
+- Airflow/Orchestration tools
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CyQKdz8_lqdlgY-c-amsQST66Z8QjChsyYA8vzcGklWI54h1yaGRml5nZ8zCgFfjK0ZW-ufu-_JHCgbraA_8Fg5ATid4dqS3sKjF52i-1M3_0-M7jyZvHimBaYOdqijbr2o_GnQcYG7gNZLx4-WxgznWbghRNnlHq-GXY6nBkPNqceCYdURQ3TT3immrKviUaPlqf-c_Ib7N-Q0_i_sOXrXBN1vqLBBUi3-4BfTVVixgQFa21zTokCNHLrwz3Kny0Ad23IYAIYfeC_d-rEdT2v5haWsybFd3UNkJ0t79P5xuzLgUur1_DcxTIVo_zkOPIMUDEaZsnbN0I9AGB_So0CcTeVs6N061zI8As2fYAtew8Z5xKsM8ICPSUFtjxKk9wSnYeyfITOW7XC1XRbItQQkvB3GfRObW2uQ8CwkAbHPmVi3ksTfsplb2w2gX85ZpG77ZYLjDKNQ3DrsOeKYW9gA7fjHjPza3iu-T03BvSXuWj8cYVxjdjVKR5AaUXJY0c4qaJPllg0vvLJfrgSosp0otfqB5CqsLSuY3V30mAz5vrQpTRbjswWX0cleaIuMDtEmZGYX13rTMm-A_sJfjuvGutDwZCFKhLhvKVAeszbeA%3D%3D&xkcb=SoDC-_M3JhXw-q2as50FbzkdCdPP&p=14&fvj=1&vjs=3&jsa=8121&tk=1hd1fvosi2gtk000&from=jasx&wvign=1
+
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Database development and administration
+- ETL techniques 
+- SQL
+- Data warehousing
+- Analytical and problem-solving skills
+- Technical documentation and metadata
+- Consulting services
+
+Technologies: 
+- Microsoft SQL Server
+- SSIS
+- Cloud databases
+- Hybrid cloud/on-premises databases
+- Statistical modeling/machine learning
+- Word, Excel, PowerPoint
+- Internet browsers
+
+https://www.indeed.com/rc/clk?jk=d2dcb51303834420&from=jasx&tk=1hd1g5htglell801&vjs=3
+
+ Based on the job description, here are the key skills and technologies:
+
+Skills:
+- SQL
+- Data warehousing 
+- Problem solving
+- Communication
+- Analytical skills
+
+Technologies:
+- Hadoop
+- Hive 
+- NoSQL
+- Spark
+- Python
+- SAS
+- Teradata
+- Oracle
+- Informatica
+- Google Cloud Technologies
+- Databricks
+- Cloud certifications like GCP, AWS, Azure
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dtmpfj98iB4C0jJJOWen3Era3IQfJzNZ4PFwBIKpo80CvlYmJYyffHOwy26mz3iNMuQaWfydZNaRB4htGwveySDwsdOtMP0srpXKAxJfXqhZah1I5V6HTeCm_4CjUcUkWhOaQhoZKcFqsUbmE_W_ayfXwg4C-EWaJkU9g2Kfk9G3u7iBrFylhZqkga7RYx9ahLi0QvkLMWN_gRZIwjTjhIeNJ8IlmHnFowBIayWeA93U4Rc7Yf15lcS_KFTVIcCzvdiFRWHQWgi0ytqgMQrajhE_T4WGznOiRaE79uVDEBEEDtNmz5ZWCy0L7uZDh9mrYXciIs2ySd29L-pb9GPtcUlh-1EhGrznwEpoCbmA-K72FOEAwr00CyV4SOGmTVdxZTYK539qXOhuQSpQTNbKhrXpMy4TD0J8ZOQE9iuCwqsaH6lEgeUo0wpAxwlsWNy776Fd0hl_k14YnoxDJI3acxiERcR32PMC1wvkNORwrZjiOV0Ehtx0saHbtstN95PhYj3W7gP6ZcxlQBh3_kcWDqQ4SF_E0ELLY01D_U6Y-U_hsnZOhXSoku7mKn6Qu-DvhxiCU9zolWfrOBvpNxowTcXoRxdGY8TNm-i7sJIyFg_w%3D%3D&xkcb=SoC8-_M3JhXpNEW-cB0LbzkdCdPP&p=0&fvj=1&vjs=3&jsa=9925&tk=1hd1fpnavjm7b800&from=jasx&wvign=1
+
+ Based on the job description, here are the specific skills and tech mentioned:
+
+Skills:
+- ETL workflows/development
+- Extract, cleanse, and process disparate data sources  
+- Cleaning and transforming data
+- Developing scripts and programs for converting various data formats
+- Acquiring data from disparate sources using APIs and SQL
+- Complex SQL queries
+
+Tech:
+- Python 
+- SQL
+- APIs
+- Data platforms
+
+https://www.indeed.com/rc/clk?jk=45a231ffe43c577a&from=jasx&tk=1hd6h6bheiolg800&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data engineering 
+- Data pipeline design and development
+- Database management
+- Python programming
+- SQL
+- Data visualization
+- Machine learning
+- AWS or GCP cloud technologies
+
+Technologies: 
+- Python
+- SQL
+- AWS or GCP cloud platforms
+- Data visualization and business intelligence tools
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DiMBqcaSMT8lrn_viPgFID_2aewekq0duxyJS2DdWDl6I0UnuoC7mcAdBs-ATn3cQJhn9CDpXovvb6u4GJHRkUdRUIl9WrtWgcaow6jx8ZQ5SWEu_BoYpajof4D9BgI_-yNKjetw9dzBzmkelwLh0MHZlaNz217eTFWNDYV0qnNe01DysLUiwRut5zEeZXmZ1SqpZoykhWwRChAftiz-Unw7e5YdqDk07OQ-6aP5jOEU0qcd7q17d_UI6hlBJe0HsWrP_0SJpi_ry8UddCuYuDnMGZFeG5RRjbxEiCiFg8StOx4NsAbIozMotUTX6VTTmW5eFepaevr46ZLbo3yj6uUhDIR55G3OHQEFglQJ_Kn2_WgHaecOE9gNdITTqAgCFwpWpBuIsmFIsFsDoby-JRrkLb0R8aFxhGVfP_591os19rPAT1xQ_2Fj9CUtgpPKRRDV40EGUB_1Jgoy7UWWeq6M6EEoLha3H-JpIHKMbhNZu6VyDGwae0xEXe-nNkRB42LakC32AxIpXWgvD_6VK1o_AtzQ3dE94yU_YZRn0v9lfvaCNEUyxrP8WZTojmP7l7FYc8WdomRhRFibUix8xKtsJUXTepR-Q2tRL0JEM0QA%3D%3D&xkcb=SoBw-_M3JmrH7SxcpR0GbzkdCdPP&p=13&fvj=1&vjs=3&jsa=7574&tk=1hd6hi1iggaj8801&from=jasx&wvign=1
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Python development 
+- Data modeling
+- ETL/ELT process development
+- Web services development
+- Documentation skills
+
+Technologies:
+- Spark/PySpark
+- Scala 
+- AWS (S3, EMR, Databricks, Redshift, Glue, StageMaker)
+- Databases (PostgreSQL, Amazon RDS)  
+- Data formats (JSON, XML, CSV, Avro, Parquet)
+- Version control (Git, GitLab)
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BWrJOJIc9CpN6yMpv0V0AydpTkzwx7H4nhH8WAx3qz9DFPmyzxY6nkFs2NPrIYzV9U3hcwjKaVA33BgMnWMd4v82SJXW57QvVteSBjEghI4CKLr4s-c_H_ClqiqWF9tzO7sptnKtrlhohHAmwGl4AO6yiT79N_KfFBX4u0ZAjiFobWpkFW-oTgzb629thYEstYrkZDTnngfOVnBQyesf2tUgboUIxXmiYGfvE1YiAK3AevTI70hqJhj48jImR9GNRI2smRV9c5ycAZ_d1gb3cJA9HM9mxmqjJPzEZRAc7xtWt8f4dBrc4a3tdZzSY8rxXk7vRupvkfdDGQzqQiXTCkWeSnlLihKTc9EAsdfhTjCmDItr5oA2VhtABa3QLOKhLB1W2Vd1c1Z2hKabG8_f-fSMC2Fpt_qWwqvgmw3di0_nhvrXW1R09NcDNpLE0qE-Liw9uJZiEqk5RlJwZ1BWUCnRykA8zPHMgL2NJsjUds1SH2NOanepGVaaxdfu11tOM1Sf5hZuT_WSM-DzG0QX9Y4011kcsPs3IQ4pPjeTBvD3ktadjnCjOa2ivqegPEAm6_LQtvfsCb1hsqe31TIFQO3mQ_swd4fznIdGcI7U0BM43oL7jLHyqxakes_amvJ-MFk9Vaw4BO-x8If8NYFvXXkn5JGXthW5PYdgax9kZW_HfJ961retTYT5V4It9VbT3Q0yco86nZJHsWZZuCl6EdKn85IF5reniRU9mf3y0gQA%3D%3D&xkcb=SoCg-_M3JpCnpdRkAB0NbzkdCdPP&p=6&fvj=0&vjs=3&jsa=8129&tk=1hd95a3qqi9hs800&from=jasx&wvign=1
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Systems engineering
+- Software development 
+- Business analysis
+- Requirements gathering and documentation
+- Use case and data modeling
+- Test planning and execution 
+- Issue/bug tracking
+- Data analysis and reporting
+- Verbal and written communication
+- Technical project management
+
+Technologies: 
+- Azure DevOps, Jira, Redmine or similar project management tools
+- Microsoft Azure ecosystem
+- Data lakes and data lakehouses
+- SQL
+- Agile/Scrum/Kanban methodologies
+- Authority to Operate (ATO) processes 
+- Data visualization
+
+https://www.indeed.com/rc/clk?jk=e2317b3154109084&from=jasx&tk=1hd1fn4d0i3at800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL Server 2008/2014
+- Data integration technologies and principles  
+- Advanced T-SQL skills including complex queries, joins, indexes, performance tuning
+- Experience integrating structured and unstructured data formats like flat files, XML, JSON, Excel
+- Data warehousing methodologies and concepts
+- Test Driven Development/Behavior Driven Development  
+- Object oriented programming
+- Microservices, SOA, RESTful APIs
+- Continuous Integration
+- Agile/DevOps methodologies 
+
+Technologies:
+- SQL Server
+- Data integration tools
+- BI tools
+- Cucumber, Gherkin
+- Jira
+
+https://www.indeed.com/rc/clk?jk=d4ed26d290fe9912&from=jasx&tk=1hd1g1f082gvk000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software development 
+- Data engineering
+- Data science
+- Communication skills
+- Documentation
+- Troubleshooting
+- Customer support
+
+Technologies:
+- Python
+- NodeJs 
+- Typescript
+- Databases: MongoDB, DynamoDB, NoSQL
+- AWS
+- Google Cloud
+- Azure
+- Pandas
+- PyTorch 
+- PySpark
+
+https://www.indeed.com/rc/clk?jk=4eb3da80458c4c7f&from=jasx&tk=1hd1fpkd42j42000&vjs=3
+
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Python
+- SQL
+- Data modeling 
+- ETL processes
+- Data warehousing concepts
+- Data engineering
+- Data pipelines
+- Data extraction, transformation, and loading (ETL)
+- Data ingestion, transformation, and storage
+- Data validation and quality checks
+- Code reviews
+- Mentoring junior team members
+- Problem-solving
+- Attention to detail 
+- Communication
+- Collaboration
+
+Technologies:
+- Azure (Azure Data Factory, Azure Databricks, Azure SQL Database, etc.)
+- Python 
+- SQL
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D_sybMACCpf9B-677oK5j6rPldVB6BlrVvFjO_o-GJZbzuF-qh4PxErFUqfUsv_6sRAtmmSLc6DSJNHK7BtyJXJ1yHjCh92kz8dm5wgeoxHaFxEP0BpXXXmxV5OBQ2zuyFFEfLV7aaEUrdjFxxqmfjnf0asGdvXcAi2yBNMvD5XSYbiuuhAv7qWJsoKVnZVvz5gFylHApbSaBEFw7HH15rCW5tl4OtU2-LmHAmmUWPmE-5Xdmti-JOysZo7i6_P-srhV2L2oXWfDXSqVG6NSZAa2VMmxmaXn0Brb_UVedhyPiN1iPshtlSUhs1RyLC1ylOIvj7qsPmMPXbjl70l7Z30zRF6eS-dPClQuPdGHRbS8hQ_XXKaXNkEWbSGz3aF-Zh7wA0MnUB9soTA4RNyZgD_sqNATIhMvhIkQXVJN5gRVU7hDL-0HRkldBkT56vTkv6bzD9xSdKHFpOyVWPkgGVoDCs13TNRY7sM4RJ8VNql65f216AFiuQWyFXDAdU4U5HfLL5msO_pv0kDyJx_fWB77BtfDONlWlU4PRU20j9n5NwlgVEbPq0G_NNRMTOZCax0XIpZYQZBSbtMLn3wBKFUsNaqCxg8mAT9_y0jWefYfgedlK6KCVFw5E0gAgQBhF1j17HSHGOOddGMiQP0qlZ&xkcb=SoA6-_M3Jmqg1iQlSZ0KbzkdCdPP&p=1&fvj=0&vjs=3&jsa=1462&tk=1hd6hbo9gimir801&from=jasx&wvign=1
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 12+ years of experience as a Lead
+- Data engineering 
+- Data security or governance
+- Performance improvement
+
+Technologies: 
+- AWS Glue
+- AWS S3
+- AWS Redshift 
+- AWS Lambda
+- PySpark
+- Spark
+- AWS Step Functions
+- AWS DynamoDB
+- AWS Data Migration Service
+
+The job is focused solely on AWS services and technologies. Relevant experience with Glue, S3, Redshift, Lambda and PySpark is required. Experience with Step Functions, DynamoDB and Data Migration Service is considered an added benefit. The role requires at least 2 years of AWS experience.
+
+https://www.indeed.com/rc/clk?jk=67ac721633aee65d&from=jasx&tk=1hd6h6bheiolg800&vjs=3
+
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- SQL
+- PL/SQL 
+- Data modeling
+- Data visualization with tools like Tableau, Domo
+- Data engineering
+- Data pipeline development
+- Data quality processes 
+- Data governance
+- Agile methodologies
+- Collaboration
+
+Technologies: 
+- Postgres
+- MongoDB
+- Couchbase
+- Kafka
+- Snowflake
+- Debezium (CDC tooling) 
+- Docker
+- JSON
+- Git
+- Microservices architecture
+- AWS
+- GitLab
+
+https://www.indeed.com/rc/clk?jk=448b77327ddb466d&from=jasx&tk=1hdjautnrj4ij800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 10+ years of IT experience focusing on enterprise data architecture and management  
+- 8+ years experience in Conceptual/Logical/Physical Data Modeling & expertise in Relational and Dimensional Data Modeling
+- Experience with ETL and ELT tools such as SSIS, Pentaho, and/or Data Migration Services
+- Advanced level SQL experience
+- Python programming
+
+Technologies:
+- Databricks 
+- AWS
+- Spark
+- PySpark
+- Data lakes
+- Delta Lake
+- Structured streaming
+- ETL/ELT tools
+- Great Expectations (data quality framework)
+- Kafka
+- ksqlDB
+- Docker
+- Jenkins
+- CloudWatch
+- AWS Lambdas
+- DynamoDB
+- S3
+- JSON
+- Confluent/Kafka
+- Schema Registry
+- Avro, ORC (message formats)
+
+https://www.indeed.com/rc/clk?jk=5581f8a1bea3816b&from=jasx&tk=1hd6h6bheiolg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL pipeline development and maintenance
+- SQL
+- Python
+- AWS (experience using AWS data tools)
+- Communication
+- Collaboration
+
+Technologies: 
+- AWS
+- SQL
+- Python
+- Postgres
+- Data tools
+- Go
+- C++
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BlIR6L0eizDKDqkzeZRfLume_DxC2-xIBuckbPXhGlgQ01ftrjl3y36AU3ugZ3jwBaOnc34sn8XbNBVs2KCizg5GI3EZLfAopY5lohbSAwYZAP-cvdW_21imXJW-WA7S8h4lF0k8hETfEB7KuKsUPPSI4RMom8llcUQ7IXNslTkazNARLJv2L8GPEJlc_wIpeOyszi9Oe9PwEkz-0tE9eA6WFoqp8NjXfH17HlrFZ8An4QbGfRIolI4Rm_0ODmDugT_N4nUsrF7Pqlf7Tkbsbp64rmElHqTSvlbZ7I32BNapb-Rsv3e3D4eQ2C4pOrOlH_jL2FxzchsDb2_xlBC4eo4ALbh3IYdlvGC68pJhEE770KHVK0CjNqd78BKg-OSkdPdUkd_N4nUbrBYC-tokQ-8nmTUq0CghuoFbXsXwtUMJgtc_fMHwpQeMuf96Aupvi0xIlqHicQb_wiJKNwdD7IvpxA5KYNS41_2ovoHg6M7pDg1y8kSzKSuQ0clD57ypI4HC9mRxrFA1DX9UMhK833KsXe79ehpeVsda7rMTsh-oWIyR6k8PU3li4S_r18J9W0MciUajHKj8eppNTVLquqF4QGZjb-MODNmMep-DxKUel9PpLqXCTf1PZEnaMfcLr1wMswK1yqTZSvj64NW1J_s7j7NobXUsmQJgweEQL4XhnZcw6aImuQr3VpobaBzU8%3D&xkcb=SoAZ-_M3JkANkHxcpR0BbzkdCdPP&p=10&fvj=0&vjs=3&jsa=4439&tk=1hd440i722a6o002&from=jasx&wvign=1
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- ETL (extract, transform, load) 
+- Data streaming
+- Data warehousing
+- Data pipelines
+- Project management
+- Mentorship
+
+Technologies: 
+- Scala (required)
+- Apache Spark
+- Kafka
+- Kinesis  
+- Flink
+- Looker
+- Golang
+- C#
+- Ruby
+
+The role focuses on building data architectures including migrating to a streaming and big data architecture, defining streaming data feeds, enhancing automation/testing/observability of platforms, and building a data warehouse and event streaming platform.
+
+https://www.indeed.com/rc/clk?jk=3cf3060bcd436793&from=jasx&tk=1hd1ft1i8joou800&vjs=3
+
+ Here are some of the key skills and technologies mentioned in the job description:
+
+Skills:
+- Data engineering 
+- ETL/ELT development
+- Data modeling
+- Data warehousing
+- SQL
+- R, Python, shell scripting
+- Data integration tools like FiveTran, DBT, Informatica, Matillion
+- Cloud computing/infrastructure including IAAS, PAAS, SAAS
+- Git/code version control
+- Healthcare data analytics
+- Master data management
+
+Technologies: 
+- Snowflake data platform
+- Health Catalyst's data analytics platform
+- Tableau Cloud
+
+https://www.indeed.com/rc/clk?jk=d7a6a168405310c5&from=jasx&tk=1hd6h75sii6mo800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL processes
+- Data integration
+- Data transformation
+- Data pipelines development
+- Data modeling
+- SQL
+- Data governance
+- DevOps
+- Agile/scrum methodologies
+- Python
+- Monitoring and issue resolution
+
+Technologies: 
+- Snowflake
+- Azure Data Factory
+- Spark
+- Kafka
+- Hive/HBase/Presto
+- Azure Databricks
+- Airflow
+- Git
+- Kubernetes 
+- Docker
+- Terraform
+- Cloud computing platforms (AWS, Azure, GCP)
+
+https://www.indeed.com/rc/clk?jk=7f70c2bb5373b7a9&from=jasx&tk=1hd1fm1o6iman800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Automated testing
+- Test framework development and maintenance 
+- Test planning, documentation, review, and execution
+- Requirements analysis
+- Collaboration with development teams
+- Defining testing strategies
+- Advocating for improved user experience
+- Problem solving and debugging
+- Communication, organization, and collaboration
+
+Technologies:
+- Web and data application testing
+- Automation testing tools
+- Test management platforms like TestRail
+- AWS cloud services like S3 and Lambda  
+- Linux command line
+- Git
+- Defect tracking tools like Jira
+- SQL and NoSQL databases like MongoDB
+- Python and Pandas
+- Docker
+- Deployment pipelines
+
+https://www.indeed.com/rc/clk?jk=86374b3b92cb99ca&from=jasx&tk=1hd4474bsitkv800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Strong communication skills
+- Strong analytical skills 
+- Research skills
+- Software engineering skills
+- Organization and time management skills
+- Adaptability
+- Collaboration skills
+
+Technologies/Tools:
+- Python 
+- Java
+- Unix/Linux environments
+- Git
+- JavaScript
+- Typescript
+- React
+- REST APIs
+- Data architectures (data mesh, data fabric, data pipelines, etc.) 
+- Cloud technologies (Docker, Kubernetes, etc.)
+- Unit/integration testing
+
+https://www.indeed.com/rc/clk?jk=cbd644ff80fc0c98&from=jasx&tk=1hd6hkmagh0mj800&vjs=3
+
+ Based on the job description, here are some of the key skills and technologies mentioned:
+
+Skills:
+- Solution design
+- Architecture planning 
+- Technical leadership
+- Risk assessment
+- Documentation
+- Vendor evaluation
+- Prototyping 
+- Performance optimization
+- Security and compliance
+- Collaboration
+- Problem solving
+- Analytical skills
+- Communication
+- Project management
+
+Tech/Platforms:
+- Cloud computing (AWS, Azure, Google Cloud)
+- DevOps practices and tools
+- Microservices architecture
+- Graph databases
+- Containerization technologies (Docker, Kubernetes)
+- Data architecture and database technologies  
+- Cybersecurity best practices
+
+Certifications/Frameworks:
+- TOGAF
+- AWS Certified Solutions Architect
+- Microsoft Certified: Azure Solutions Architect Expert
+
+https://www.indeed.com/rc/clk?jk=226571fd23411b51&from=jasx&tk=1hd43l8mokhqg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data analysis
+- Data profiling
+- Data design
+- Data management
+- Test data generation 
+- Data visualization
+- Report building
+- Data architecture design
+- Large data set analysis and synthesis
+- Optimization modeling
+
+Technologies:
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Agile development
+- Scaled Agile Framework (SAFe)
+
+https://www.indeed.com/rc/clk?jk=e65490aaaff7f716&from=jasx&tk=1hd1fn4d0i3at800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Machine learning 
+- Data science
+- Statistical modeling
+- Python
+- SQL
+- Data engineering/MLOps
+- Engineering/product development
+- Communication
+- Problem solving
+
+Technologies: 
+- Python (Pandas, Airflow)
+- SQL
+- Machine learning algorithms (supervised and unsupervised)
+- Google Cloud Platform (BigQuery, ML Engine, APIs)  
+- Data tools like Adobe Analytics, DoubleClick
+- Version control (Git)
+- Project management tools (JIRA, Confluence)
+
+https://www.indeed.com/rc/clk?jk=241a80b3883d2e12&from=jasx&tk=1hdea7hq42do5000&vjs=3
+
+ Here are the specific skills and tech extracted from the job description:
+
+Required skills:
+- Databricks/py-spark – 4+ years of experience  
+- Cloud experience – 4+ years of cloud experience
+- AWS experience - 6 years
+
+Nice to have skills:
+- Software engineering background
+- AWS experience
+- Experience with Typescript
+
+Tech mentioned:
+- Databricks
+- Pyspark 
+- AWS
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BSRaD9lfi1M4GEnG4pnFsPi92N_zg6XQTKM2RXCnXf0V5919SIZyeemH_4jgA_bdpI9HgUwgut0jGaaF2iDLdiYuuvWAuwswCdYF4kR-bJDD_O6Q2L82HD6YXZ3q7Qi33t3scop2VRFHBIB2Q10usrg63hXNqu_Ee38ReI34fzeiOOjPfK-lIfTud6ULu-M1hDvbwRx5LGmO8zabL5QD2y6M-SwEPH3A7dTqmoVZLiQwolSnrYfX0hOehpP07eWDwM4a9EzJXpyhrD_6xsSO3f221I5IZDW1apUJzIKikQbvPlYBg38zrKVHIAwTmvv4jbpS1QrqiOGb3LWHTFceJ4S_lEladPHH6nNb5c91RkYSQC6-suCChSGhszn-k_cAKswpOf_tp2T6MiFHzp5h0gTZISaPmJLHuHzodQqntJ1W6si_Krb-Ag2KTJCYpf4l7yC5FymY4yzrRgMdzKXrQBBvakSyNGiGeQPTzq7qqA_FKTSkpw7WUd0513akBX6lFmemaFun-hor6VrpjjZDHUiKogEx0l_LpWd1MH6q48xQiGhlw1iPdM-XVc0S0-0uEuyekRngLW7Or46HuJNo5n&xkcb=SoBs-_M3JhX_1MWas50FbzkdCdPP&p=14&fvj=1&vjs=3&jsa=4707&tk=1hd1fs0bnk7b3800&from=jasx&wvign=1
+
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Administration of big data systems like Cloudera Data Platform 
+- Administering and engineering relational databases like MySQL, PostgreSQL
+- Apache Solr
+- ETL tools like Ab Initio  
+- BI tools like MicroStrategy
+- Automation tools like Ansible, Terraform, Bit Bucket
+- Cloud computing experience specifically on AWS
+- DevOps practices like CI/CD
+- Troubleshooting 
+- Data modeling
+- SQL
+- Scripting/Programming languages like Python
+
+Tech:
+- Cloudera Data Platform (private and public cloud)
+- Relational databases like MySQL, PostgreSQL 
+- Big data systems
+- Apache Solr
+- ETL tools like Ab Initio
+- BI tools like MicroStrategy  
+- Automation tools like Ansible, Terraform, Bit Bucket
+- Cloud technologies like AWS, S3, DynamoDB, EMR
+- NoSQL databases like MongoDB
+- Programming languages like SQL, Python
+- Hadoop
+- MapReduce
+
+https://www.indeed.com/rc/clk?jk=26e51b9e060db1da&from=jasx&tk=1hd6hkmagh0mj800&vjs=3
+
+ Here are the main skills and technologies extracted from the job description:
+
+Skills:
+- Software engineering experience
+- Software development 
+- Architecture and data modeling
+- Experience leading complex software projects and data platforms/pipelines
+- Building asynchronous and distributed systems
+- Functional or imperative programming (Python specifically mentioned)
+
+Technologies:
+- Database technologies: PostgreSQL, MongoDB, Redis, ElasticSearch
+- Docker and Kubernetes 
+- RabbitMQ
+- Healthcare data standards: HL7, FHIR, DICOM
+- Operating in containerized environments
+
+The role focuses on designing and building a data platform that integrates healthcare data sources, designs data extraction/transformation processes, and builds pipelines to analyze patient data at scale using machine learning. Experience with data warehousing, reporting, and monitoring data platform performance is also mentioned.
+
+https://www.indeed.com/rc/clk?jk=72b83dc7d8aad2ef&from=jasx&tk=1hd6h6bheiolg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Programming languages: Python, Java, Scala, SQL, Spark  
+- Linux/Unix
+- Version control: Git/Github
+- Software development lifecycle processes 
+- Communication skills
+- Problem solving
+- Data analysis
+
+Technologies: 
+- Cloud platforms: Google Cloud Platform, Pub/Sub, Cloud Storage, BigTable, Big Query, Dataflow, Data Proc, Composer
+- Hadoop ecosystem 
+- Apache packages
+- Streaming applications: Kafka, Flume  
+- Batch processing: Spark, Airflow
+- File formats: Avro, Parquet, JSON
+- Databases: HDFS
+- Development tools: Jenkins, Artifactory, CI/CD pipelines, Terraform
+
+https://www.indeed.com/rc/clk?jk=3203987de4a37c72&from=jasx&tk=1hd1g5e7qk7bn800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Cloud data architecture 
+- Big data analytics
+- Database management
+- Data engineering
+- Data migration  
+- Data processing
+- Business intelligence development
+- Technical communication
+- Presentation skills
+- Problem solving
+- Leading projects 
+- Collaboration
+- Agile methodologies
+
+ Technologies:
+- Microsoft Azure: Azure Storage, Azure SQL DB, ADLS, Synapse, Databricks, Azure Data Factory, Azure Data Catalog
+- Programming languages or platforms: Not mentioned  
+- Data visualization tools: Power BI, Tableau, Alteryx
+- CI/CD tools: Azure DevOps
+- Operating systems: Not mentioned
+
+https://www.indeed.com/rc/clk?jk=140b95dd17ad2243&from=jasx&tk=1hdjafq3r2cc7000&vjs=3
+
+ Here are the specific skills and tech extracted from the job description:
+
+Skills:
+- Data engineering
+- Database development 
+- SQL (Oracle PL/SQL)
+- Data warehousing 
+- Business intelligence
+- Cloud technologies (OpenShift, Kubernetes, AWS, Google Cloud, Azure) 
+- Agile/SAFE methodology
+- Continuous Integration/Delivery (CI/CD)
+- DevOps
+- Production support
+- Problem solving
+- Communication
+- Decision making
+- Time management
+- Relationship building
+
+Technologies: 
+- Oracle
+- SQL (Oracle PL/SQL)
+- Third party database tools
+- Git
+- Java
+- Open-source technologies
+- RESTful APIs
+- OpenShift 
+- Kubernetes
+- AWS
+- Google Cloud
+- Azure
+
+https://www.indeed.com/rc/clk?jk=6ca598d4286ea230&from=jasx&tk=1hd1g273r2gvn004&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 3+ years of real-world data engineering development experience
+- Snowflake development experience
+- Proficient in Snowflake services like snowpipe, stages, stored procedures, views etc.  
+- Strong SQL skills
+- Programming skills in Python, Scala
+- Data modeling and database design principles
+- ELT/ETL tool experience  
+- Apache Airflow experience
+- Data integration experience from various sources
+- Cloud computing skills in AWS
+- Data quality and governance understanding
+- Problem solving skills
+
+Technologies: 
+- Snowflake
+- AWS (Snowflake certified preferred)
+- Python
+- Scala
+- SQL
+- Apache Airflow
+- Spark/PySpark
+- DBT
+- Kafka
+- AWS services: Lambda, Kinesis, S3, Lake Formation, EC2, ECS/ECR, IAM, CloudWatch, Redshift etc.
+
+https://www.indeed.com/rc/clk?jk=b7211874c261a672&from=jasx&tk=1hd1g1f082gvk000&vjs=3
+
+ Here are the relevant skills and technologies extracted from the job description:
+
+Skills:
+- Python 
+- Django framework
+- Pandas
+- Airflow
+- Celery
+- Designing robust data models
+- Writing efficient, well-designed, and thoroughly tested code
+- Code reviews
+- Documentation
+- Collaboration
+- Ownership and responsibility
+- Working with non-technical teams
+- Estimating and scoping features
+
+Technologies: 
+- Python
+- Django framework
+- Pandas
+- Airflow
+- Celery
+
+https://www.indeed.com/rc/clk?jk=fd53daa023410125&from=jasx&tk=1hd1g2n5fjm7b800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data warehousing
+- ETL processes
+- SQL
+- Data modeling
+- Data architecture 
+- Data analytics
+- Data pipelines
+- Data governance
+- Communication skills
+
+Technologies: 
+- Azure 
+- AWS
+- Azure Data Factory
+- SQL Server
+- Oracle
+- PostgreSQL
+- MySQL
+- Big Data
+- Machine Learning
+- Predictive modeling
+
+https://www.indeed.com/rc/clk?jk=07b20c6371c1a9da&from=jasx&tk=1hd1g1f082gvk000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data Center Infrastructure Management (DCIM) 
+- Experience with Sunbird DC Track DCIM software
+- ServiceNow (desirable)
+- Data center operations including power/cooling systems, rack configuration, device management
+- DCIM software applications like PowerIQ and TigerEyes (desirable)
+
+Technologies: 
+- Sunbird DC Track (required expertise)
+- ServiceNow (desirable experience)
+- DCIM software applications in general
+
+The job requires a strong background and expertise specifically in Sunbird DC Track software for DCIM. Other relevant skills include general data center operations, infrastructure management, and experience with additional DCIM and ITSM software.
+
+https://www.indeed.com/rc/clk?jk=15a24cf7d36918c8&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 10+ years of software development experience 
+- Object-oriented programming (e.g. Java)
+- Relational database skills and concepts
+- Database performance tuning
+- Project leadership experience
+- Mentoring and growing junior engineers
+- Tooling and process development
+- Brand ambassadorship
+
+Technologies:
+- Postgres
+- MongoDB 
+- AWS (Aurora, S3)
+- Java
+
+https://www.indeed.com/rc/clk?jk=416b51eb49b3f599&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3
+
+ Here are the main skills and technologies extracted from the job description:
+
+Skills:
+- Python
+- Java 
+- Rust
+- Go
+- AWS 
+- Azure
+- GCP
+- Hadoop
+- Hive
+- Spark
+- Kafka
+- Airflow
+- PostgreSQL
+- MongoDB
+- Neo4J
+- Redis
+- Cloud computing
+- Data pipelines
+- Batch data analytics
+- Problem-solving
+- Critical thinking
+- Excellent communication
+- Leadership
+
+Tech:
+- Linux 
+- Windows
+- Private cloud
+- Public cloud
+- Apache Kafka
+- Event processing systems
+
+https://www.indeed.com/rc/clk?jk=23a44fa83da2854b&from=jasx&tk=1hd95mfqo28gs002&vjs=3
+
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Programming in Python, Java, Scala 
+- SQL (Postgres)
+- NoSQL (MongoDB, Cassandra, Redis)
+- Search engines (ElasticSearch)
+- Time-series databases (InfluxDB, Druid, Prometheus)
+- Computer science fundamentals: data structures, algorithms, distributed systems
+- Agile methodology
+- Documentation and communication
+- Team collaboration 
+- Problem solving
+
+Technologies:
+- Python 
+- Java
+- Scala
+- PostgreSQL
+- MongoDB
+- Cassandra 
+- Redis
+- ElasticSearch
+- InfluxDB
+- Druid
+- Prometheus
+
+https://www.indeed.com/rc/clk?jk=6c954cb5fbc38370&from=jasx&tk=1hd6hm9p3irpg800&vjs=3
+
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering
+- Building finance datamarts (general ledger, journal ledger, accounts payable, accounts receivable, fixed assets)
+
+Technologies: 
+- DBT Cloud
+- Snowflake Cloud DB
+- Infor Lawson ERP
+
+https://www.indeed.com/rc/clk?jk=0126d0e3ab279a99&from=jasx&tk=1hd6h6bheiolg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Programming languages: Java, Scala, Python 
+- Databases: RDBMS, NoSQL, Cloud data warehousing services like Snowflake
+- Stream processing: Spark Streaming, Kafka, Kinesis, Flink
+- Cloud: AWS, Microsoft Azure, Google Cloud
+- Configuration management: Ansible, Terraform 
+- Distributed systems: Hadoop stack (MapReduce, Pig, Hive, HBase)
+- Agile methodologies
+- Unix/Linux skills
+
+Technologies: 
+- Programming languages: Java, Scala, Python
+- Databases: RDBMS, NoSQL, Snowflake  
+- Stream processing: Spark Streaming, Kafka, Kinesis, Flink
+- Cloud: AWS, Microsoft Azure, Google Cloud
+- Distributed systems: Hadoop stack, MapReduce, Pig, Hive, HBase  
+- Data platforms: Cassandra, Accumulo, HBase, MongoDB
+- Data pipelines: Apache Spark
+- Cloud configuration: Ansible, Terraform
+
+https://www.indeed.com/rc/clk?jk=7df0841eea60802f&from=jasx&tk=1hd1ft1i8joou800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- ETL 
+- Data engineering
+- SQL development
+- Python or PowerShell development
+- Unit testing 
+- Data modeling
+- Agile methodology
+
+Technologies: 
+- Snowflake
+- Power BI
+- Microsoft Dataverse 
+- Azure Data Lake Storage Gen2
+- Git
+- Azure DevOps or GitHub Enterprise
+
+https://www.indeed.com/rc/clk?jk=c7bc15ce61ba752a&from=jasx&tk=1hd95mfqo28gs002&vjs=3
+
+ Here are the specific skills and tech extracted from the job description:
+
+Skills:
+- Azure Databricks
+- PySpark 
+- Scala
+- Snowflake
+- ADF
+- CICD
+- Airflow
+- SQL
+- Understanding of Agile methodologies
+
+Tech:
+- Azure Databricks
+- PySpark
+- Scala 
+- Snowflake
+- ADF
+- Airflow
+- SQL
+- Cloud Databases
+
+https://www.indeed.com/rc/clk?jk=d4db43c4028922ab&from=jasx&tk=1hd6h75sii6mo800&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data engineering
+- SQL 
+- Python
+- Data quality 
+- Cloud infrastructure (GCP)
+- Docker
+- Terraform/Pulumi
+- Apache Airflow
+- Streaming/real-time data ingestion
+- Data monitoring and alerting
+
+Technologies: 
+- Google BigQuery
+- Snowflake 
+- Amazon Redshift
+- Google Cloud Platform (GCP)
+- Docker
+- CircleCI
+- dbt
+- Git
+- Terraform
+- Pulumi
+- Apache Airflow
+- Astronomer
+- Google Cloud Run
+- Google Cloud Function
+- Google Vertex AI
+- Google App Engine  
+- Google Cloud Storage
+- Google IAM
+
+https://www.indeed.com/rc/clk?jk=261c524a08808e40&from=jasx&tk=1hdjagu34k269800&vjs=3
+
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- Apache Spark  
+- PySpark
+- Data engineering
+- Data pipelines
+- Airflow
+- Kubernetes
+- SQL
+- NoSQL databases
+- Data modeling
+- Schema design
+- Cloud technologies
+- Problem solving
+- Communication
+- Collaboration
+
+Tech:
+- AWS 
+- Azure
+- Databricks
+- PySpark
+- Spark
+- Snowflake
+- Airflow
+- Kubernetes
+- Docker
+- SQL/NoSQL databases
+
+https://www.indeed.com/rc/clk?jk=2865c3b2b6437bd7&from=jasx&tk=1hd1fm1o6iman800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Programming
+- Software development 
+- Debugging 
+- Testing
+- Performance optimization
+- Complex problem solving
+- Technical leadership
+- Mentoring
+- Continuous learning
+- Communication
+- Collaboration
+
+Technologies: 
+- SQL
+- Snowflake
+- Oracle
+- Databricks
+- ETL/ELT tools
+- Data integration
+- Data modeling (dimensional, 3NF, hierarchical)
+- Test-driven development  
+- Defensive programming
+- Data pipelines for data exchange, cleansing, validation, standardization, search and ranking
+
+https://www.indeed.com/rc/clk?jk=cd82b2f3c6950df7&from=jasx&tk=1hd6hi1iggaj8801&vjs=3
+
+ Key skills and tech mentioned in this job description include:
+
+Skills:
+- SQL Server 2008/2014
+- Data integration technologies and principles 
+- Advanced T-SQL skills including complex queries, index design, performance tuning
+- Experience integrating structured and unstructured data formats like flat files, XML, EDI, JSON, Excel
+- Data warehousing methodologies and concepts
+- Object oriented programming 
+- Distributed architectures like microservices, SOA, RESTful APIs
+- Continuous integration
+- Agile/DevOps methodologies like Cucumber, Gherkin, Jira
+
+Tech:
+- SQL Server
+- Data integration tools
+- BI tools
+- Distributed architectures
+- Continuous integration tools
+- Agile/DevOps tools like Cucumber, Gherkin, Jira
+
+https://www.indeed.com/rc/clk?jk=2ca88fbc827420a3&from=jasx&tk=1hd1g2npm2f32000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Java
+- Scala 
+- Python
+- Data engineering
+- Data warehousing
+- Data analytics
+- Large-scale solutioning
+- Operationalization of data warehouses, data lakes and analytics platforms within Cloud environments
+- Design, build and test scalable data ingestion pipelines
+- Perform ETL/ELT processes
+- Work with business stakeholders to gather requirements
+- Provide support and cross-training
+- Collaborate for continuous improvements
+
+Technologies: 
+- Apache Kafka
+- Splunk
+- Google Cloud Platform technologies:
+  - Dataflow
+  - DataProc 
+  - Cloud Composer
+  - Big Query
+  - Cloud Storage
+  - GKE
+  - Airflow
+- CI/CD pipelines
+
+The role involves building a data and analytics platform, designing and developing scalable data pipelines and ETL processes, and collaborating with business teams on requirements and improvements. Strong experience with Java, Scala, Python and cloud data technologies on GCP is required.
+
+https://www.indeed.com/rc/clk?jk=184b3221fe14409e&from=jasx&tk=1hdjafq3r2cc7000&vjs=3
+
+ The relevant skills and technologies extracted from the job description are:
+
+Skills:
+- ETL experience with Matillion tool 
+- Snowflake experience
+- Strong SQL experience
+
+Technologies:
+- Matillion (ETL tool)
+- Snowflake (Data warehouse)
+- SQL
+- Informatica (ETL tool)
+- BODS (Extract, transform, and load - ETL tool)
+
+https://www.indeed.com/rc/clk?jk=efbd2611031a4f0d&from=jasx&tk=1hd6h9l2djtch81e&vjs=3
+
+ Here are the specific skills and tech extracted from the job description:
+
+Skills:
+- Python 
+- PySpark
+- SQL
+- Data modeling
+- ETL processing
+- Architectural best practices in building data lakes
+
+Technologies:
+- Apache NiFi 
+- Informatica BDM
+- Talend
+- AWS (Glue, DMS, IAM, RDS)
+- Hadoop/Spark
+- Databricks (Unity Catalog, workflow, Live Table)
+- Airflow
+
+https://www.indeed.com/rc/clk?jk=f120f0ae5b708e07&from=jasx&tk=1hd6h75sii6mo800&vjs=3
+
+ Here are the relevant skills and technologies extracted from the job description:
+
+Skills:
+- SQL
+- Python 
+- Data engineering
+- ETL design, implementation, maintenance
+- Data modeling
+- Data warehousing
+- Data visualization
+- Leading data-driven projects
+- Defining, interpreting, and executing projects
+
+Technologies:
+- Snowflake
+- dbt
+- Rudderstack 
+- Real-time data streaming
+- Cloud analytics platforms and tools
+- Blockchain/cryptocurrencies (bonus)
+
+https://www.indeed.com/rc/clk?jk=26945eb7798bb1ff&from=jasx&tk=1hd1g5htglell801&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software engineering 
+- Programming (Java, Scala, Python)
+- SQL and NoSQL databases (MySQL, Oracle, PostgreSQL, MongoDB etc.)
+- Data modeling
+- Algorithms
+- Data transformation
+- Testing 
+- Problem solving
+- Attention to detail
+- Communication
+- Collaboration
+
+Technologies: 
+- Hadoop
+- Apache Hive  
+- Kafka
+- Apache Spark
+- SQL and NoSQL databases
+- BigQuery
+- Snowflake
+- Firebolt
+- Amazon Redshift
+- ETL/ELT tools
+- BI tools
+- Virtualized and containerized systems
+- Cloud technologies
+
+https://www.indeed.com/rc/clk?jk=f90735e4bc814f60&from=jasx&tk=1hd95ofc82ea2001&vjs=3
+
+ Key skills and technologies extracted:
+- Informatica (cloud and on-premise versions)
+- Cloud platforms like Azure 
+- Cloud databases like Snowflake, Azure SQL
+- Programming languages: SQL, Python
+- Database design and implementation concepts
+- Data exchange formats  
+- ETL/ELT techniques and scripts
+- Data modeling
+- Data warehousing concepts
+- Dimensional modeling
+- SQL
+- NoSQL
+- Python
+
+https://www.indeed.com/rc/clk?jk=227119efc149cadc&from=jasx&tk=1hd43l8mokhqg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Big data solutions
+- Data modeling
+- Algorithm development
+- Data analysis
+- Python programming
+
+Technologies:
+- Hadoop (Cloudera, Hortonworks)
+- MapReduce, Hive, HDFS
+- NoSQL (MongoDB, Cassandra)  
+- ERwin, Visio for data modeling
+- Python
+- C/C++, Java, Perl, Scala
+- Flask, FastAPI or other micro web frameworks
+- SQLAlchemy or other ORMs
+- Github
+- Pandas for data analysis
+- AWS S3, CloudTrail, Lambda, ECS Fargate
+- Terraform for infrastructure management
+
+Clearances required: 
+- DoD Secret
+- IT-II Security clearance
+- NACLC
+
+https://www.indeed.com/rc/clk?jk=d9235c7fdf0bf5f3&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3
+
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Strong AWS skills: S3, RDS, EC2, Lambda, SQS, SNS, Redshift
+- Java 
+- Python
+- Database experience with Oracle and Postgres
+
+Technologies:
+- AWS 
+- Lambda
+- SQS
+- SNS
+- Redshift
+- Java
+- Python
+- Oracle
+- Postgres
+
+https://www.indeed.com/rc/clk?jk=6154aa92888e85ea&from=jasx&tk=1hd1ft1i8joou800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Designing and implementing big data and BI solutions 
+- Data warehousing
+- Data pipelines
+- Machine learning model execution pipelines
+- Python programming including object-oriented programming and unit testing
+- Parallel processing libraries in Python like Spark
+- Python data analysis libraries
+- Data modeling
+- SQL
+- Agile methodologies like Scrum, Git, Jira, Confluence
+- Cloud technologies like Azure, DevOps, CI/CD
+- Microservices architecture
+- Communication and collaboration
+
+Technologies:
+- Microsoft Azure 
+- Azure data services
+- ETL/ELT tools
+- Python
+- SQL
+- Azure DevOps 
+- Git
+- Jira
+- Confluence
+- Microservices
+- APIs, Web Services, SOAP, REST
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CRsdBggKFjsd2I0WXN7jbirCZuQf4qBYKBRMDPXZZqyp2f8VIHX3n1cIS2cg4x8GGfMdAhLRXL3eXEOUYUqNGaa2M7GrsgWT4jNmftuYccL-veEfnXzrWwXbRfSmlpU1GLyuKtxQ5nQDZXYz6mEBEGjf8NTGgnGKAuX0A_oC0pAG_g4euwYOxgo_8syo_vWe4uKNWqCj4fluClnihoNgGauDOBICz0fSwUMnDsoe-b108Jsw2o5UaeFbOM3S_A9YuvDyFI0bFb_5tscOezgysVMqp_L0PAO0k8Ep8xSAgJYZ_vE_D4eOH2u1xCyzVkSttCX2WFwCMCQPfyCLDuXmVhkDAqGCiF0uOzh4YJxeAOVbuydBEv2LBgXLqAFcmdgYaq_kACLs9TksOP0ZAy-r5GBmuRYs2NFek0M9u9dPPbuVeHxDBEASSews-FPuL8Ifca8PhnCHKQnF6JL2Rf1Jqt0iqdh9QbTnUmDSurZaXE1_I_NtJ7xzJX_Iol3-P0IQ4T-WdstFH-OXH3JAtQSFMdAoKyIVdHQIha18qvZQbehxT_eMgE_kPQJEuv_yLWB6V9hC3BPOsWleXxKexoZduaKd2dZsBMkpYxTA6SyPS0-A%3D%3D&xkcb=SoBb-_M3JzdDyK2C2x0BbzkdCdPP&p=10&fvj=1&vjs=3&jsa=6857&tk=1hdjaj0h4j4gl800&from=jasx&wvign=1
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Application development 
+- Designing, developing, operationalizing and maintaining complex data applications at enterprise scale
+- Developing and maintaining scalable data stores that supply big data
+- Creating software for retrieving, parsing and processing structured and unstructured data
+- Building scalable ETL/ELT workflows for reporting and analytics
+- Creating solutions within a collaborative, cross-functional team environment
+- Experience with Agile engineering practices
+- Public Trust
+- Bachelor's degree
+
+Technologies: 
+- C++, Java, or Python
+- SQL or Scala
+- Spark, Databricks, Hadoop, Hive, AWS EMR, or Kafka
+- Working on real-time data and streaming applications
+- AWS Redshift, MySQL, or Snowflake  
+- UNIX and Linux (including basic commands and Shell scripting)
+
+https://www.indeed.com/rc/clk?jk=755becb02c3bdf0a&from=jasx&tk=1hdjagu34k269800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Site Reliability Engineering 
+- Infrastructure as Code (using tools like Terraform)
+- Automation (scripting in bash/shell)
+- Cloud technologies (experience with AWS)
+- Containerization and orchestration (experience with Kubernetes)
+- Data infrastructure and security
+- Distributed systems and scalability
+- Monitoring and alerting
+- Incident response 
+- Collaboration
+- Documentation
+
+Technologies: 
+- AWS
+- Terraform
+- Kubernetes
+- Kafka
+- Debezium CDC
+- Databases
+- Data lakes
+- Airflow
+- Vault
+- Nomad
+- Consul
+- Service meshes
+- GitOps
+- ChatOps
+- CI/CD pipelines
+- Sagemaker
+- MLOps
+
+https://www.indeed.com/rc/clk?jk=d2f7d960ce9f68e6&from=jasx&tk=1hd1fvosi2gtk000&vjs=3
+
+ Skills and tech extracted:
+
+Skills:
+- Data modeling for OLTP and OLAP 
+- Data warehouse design and implementation
+- Azure Data Lake performance tuning
+- Multi-tenant data warehouse design 
+- Data governance
+- Change Data Capture (CDC)
+- Azure Databricks, Databricks SQL, Unity Catalog, Delta Lake
+- Data lake storage formats
+- Slowly changing dimensions (SCDs) handling
+- Data integration through APIs, Web Services, REST
+- Microsoft SQL technologies including Power BI
+
+Tech: 
+- Microsoft Azure
+- Azure Data Lake
+- Azure Databricks 
+- Delta Lake
+- Databricks SQL
+- Unity Catalog
+- SQL
+- Power BI
+- CDC solutions for structured, semi-structured, and unstructured data
+- Data orchestration tools such as Airflow
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dknu-XJx1lvG7TapgMlWnDguf9J9bebwcn7i5H53jr-drpQ5Li0Kh0ocmNMFc5deE_9wtv9DXwuMqE2mt0p40WQPf2PCXMnynHuk9iib6LchjbRvPjkkC4egmG7QqF7fSptQJF1ivoDgybiTo63AqUuZ1PIr0vteL-AJdzEYaN8RgV2NXCRr0c0KDg3H-vbXWLgH-TMvKCw9ljydPqnptMvZGW_ZmGI6FZvOWoQm4T6_uEpQu0Es2bHuALkGKzPTv_RQNPb0iF8Uo35n-NkCtlP-1nRHp7VuMhDK62sntBPLt_mbiJRDPed-i2RlMHhjZVqSc5lUbhkCer2QUhAnooErSx1SU31qIKR1jPoprU_SKH2xzWpBBiWqwYNEMwnhb2IvG5K_UNr4nvPAxctvBqr-wmNLZj8GNE25iim4ycJ__6_9LIUEibVaXp8lHpV1bsR4kPIqwmAkM7WLtC8GEH2_HgCheJrMNtFOD-kLj5blINUWPyKS361fRlDw4Hf5FwQNegF_3tRAN-4hl_rrGj7RLFgA5a5-qMQyuZJYzMVItfRW7HhKSJzsLIadWE-lPkVs4lw3kWne3ZjUVZLKaJvANSw3XwsetZYnm6N4D3AQPR_qDzHb8g&xkcb=SoDr-_M3JhoFdXxiNZ0cbzkdCdPP&p=8&fvj=1&vjs=3&jsa=2704&tk=1hd1g2l89joov801&from=jasx&wvign=1
+
+ Here are the relevant skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- SQL
+- Python
+- Java
+- Scala
+- Streaming data pipelines
+- Batch data processing
+- Data monitoring and debugging
+- Data architecture design
+- System performance optimization
+- Automation
+- Agile development
+
+Technologies: 
+- Spark
+- Kafka
+- Airflow
+- MySQL
+- Druid
+- Spinnaker 
+- Kubernetes
+- GCP (Google Cloud Platform services like Dataproc, Dataflow, BigQuery, Big Table)
+- AWS (Amazon Web Services)
+- Git
+- Confluence
+
+https://www.indeed.com/rc/clk?jk=afe7bc4e3d93a349&from=jasx&tk=1hd1g5htglell801&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Database management
+- SQL
+- ETL processes monitoring
+- Lead/management experience
+
+Technologies:
+- AWS
+- Azure Cloud 
+- Azure Databricks
+- Azure SQL Database
+- Data structures
+- Power BI
+- Snowflake
+- Relational databases
+
+https://www.indeed.com/rc/clk?jk=e3a2b78dd10fb62c&from=jasx&tk=1hd1foafmk78p800&vjs=3
+
+ The key skills and tech mentioned in this job description are:
+
+Skills:
+- Data governance principles and practices
+- Data quality management
+- Data governance frameworks, policies and procedures
+- Problem solving
+- Attention to detail 
+- Clear communication
+- Interpersonal skills
+
+Tech:
+- Data quality platforms like Anomalo  
+- Data catalog platforms like Alation
+
+The job requires proficiency and experience using the specific data quality platform Anomalo and data catalog platform Alation.
+
+https://www.indeed.com/rc/clk?jk=19d5fafc9fb74494&from=jasx&tk=1hdea7hq42do5000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data integration
+- Data modeling
+- Data warehousing
+- Scripting for data integration and analysis (Python, SQL, Scala)
+- Data analysis
+- Problem solving
+- Collaboration
+- Communication
+- Technical writing
+
+Technologies:  
+- AWS/Azure (Cloud technologies)
+- Databricks
+- Python
+- Spark
+- SQL
+- Scala
+- Azure DevOps / JIRA (Agile project tools)
+
+https://www.indeed.com/rc/clk?jk=90d55aeca2904404&from=jasx&tk=1hd1g3ucrjm7b801&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering
+- SQL programming 
+- Python programming
+- PowerShell programming
+- Data modeling
+- Data warehousing/big data solutions
+- Machine learning 
+- Data transformation
+- ETL processes 
+- Data testing/quality assurance
+- Data visualization with PowerBI/dashboards
+- Effective communication and collaboration
+
+Technologies: 
+- Microsoft SQL Server
+- Azure Data Lake Storage
+- Azure Data Factory 
+- Azure SQL DW 
+- Azure Synapse
+- Databricks
+- Spark
+- Python
+- PowerBI
+- Parquet
+- Avro
+- Azure databricks 
+- Azure PowerShell
+
+https://www.indeed.com/rc/clk?jk=4e41a47b763034ef&from=jasx&tk=1hd1ft2vcjooh800&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data extraction
+- Creating data pipeline workflows 
+- Analyzing large data sets from multiple sources
+- Data validation
+- Problem solving
+- Excellent communication skills
+
+Technologies:
+- Bigdata (Hive, HQL/PySpark) 
+- Python
+- Hadoop ecosystem (HDFS, Spark, Hive, Sqoop)
+- SQL/HQL
+- GCP Cloud Services (Big Query, Airflow DAG, Dataflow, Beam)
+
+https://www.indeed.com/rc/clk?jk=989549b8e8d9773e&from=jasx&tk=1hd1g27112f34000&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data analysis 
+- Data warehousing
+- Extract-Transform-Load (ETL) development
+- Problem solving
+- Programming/software development
+- Database querying
+- Data modeling
+- Report writing
+
+Technologies: 
+- Relational databases (Oracle, MySQL, PostgreSQL, SQL Server)
+- Data warehousing 
+- ETL tools
+- Hadoop ecosystem (HDFS, YARN, Hive, Pig)
+- Big data processing (Spark, Kafka, Storm) 
+- Cloud platforms (AWS, Azure)
+- Version control (GitLab)
+- CI/CD tools
+- BI tools (Power BI, OBIEE)
+
+https://www.indeed.com/rc/clk?jk=2e42f3bb52125beb&from=jasx&tk=1hd95ff4chbht800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software engineering 
+- Backend software development
+- Data engineering
+- Data management
+- Data modeling
+- ETL processes
+- Data warehousing
+- Problem solving
+- Documentation
+- Mentorship
+
+Technologies:
+- Python
+- Javascript 
+- Typescript
+- Go
+- Java
+- Apache Spark
+- Relational and NoSQL databases  
+- AWS
+- GCP
+- Docker
+- Kubernetes
+- Airflow
+- Prefect
+- Great Expectations
+
+https://www.indeed.com/rc/clk?jk=7430eb68479730fd&from=jasx&tk=1hd958u85jqvd802&vjs=3
+
+ Here are some specific skills and technologies mentioned in the job description:
+
+Skills:
+- Data engineering 
+- Data analytics
+- Software engineering
+- Product development
+- Customer interaction/understanding customer needs
+- Problem solving
+
+Technologies:
+- Databricks
+- Spark
+- Data pipelines
+- Working with large datasets at scale
+
+https://www.indeed.com/rc/clk?jk=5e030fc53b9ee4f1&from=jasx&tk=1hd1ft2vcjooh800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data architecture, design and solution delivery
+- AWS data architecture, design and data modeling
+- Data analytics and visualization 
+- ETL tools
+- Statistical analysis
+- Data governance
+- Collaboration
+- Communication
+- Problem solving
+
+Technologies: 
+- AWS (S3, Redshift, Spark, etc.)
+- Hadoop
+- Hive  
+- Microsoft SQL
+- NoSQL
+- Data visualization and business intelligence tools
+
+https://www.indeed.com/rc/clk?jk=51e0161aa5f1d9c6&from=jasx&tk=1hd95ff4chbht800&vjs=3
+
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Data pipeline design and development
+- ETL processes 
+- Data modeling
+- SQL
+- Data quality assurance
+- Data validation and testing
+- Troubleshooting data issues
+- Documentation
+- Project management
+- Problem solving
+- Communication
+- Teamwork
+
+Technologies:
+- Microsoft SQL Server 
+- Azure Data Factory
+- Azure Data Lake
+- Azure DevOps
+- Azure Data Warehouse
+- Power BI 
+- Power Query
+- DAX
+- M Language
+- Visual Studio
+- GitHub
+- Amazon Athena
+- Amazon Redshift
+- C#
+- Python
+- R
+
+https://www.indeed.com/rc/clk?jk=daada383998fad4a&from=jasx&tk=1hd1foafmk78p800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data modeling
+- ETL
+- Data quality checks
+- Agile methodologies
+
+Primary Technologies:
+- Azure Databricks
+- PySpark
+- Scala 
+- Snowflake
+
+Secondary Technologies:
+- Azure Data Factory (ADF)
+- CI/CD pipelines 
+- Apache Airflow
+- SQL
+- Cloud databases
+
+https://www.indeed.com/rc/clk?jk=647e801f97a01cca&from=jasx&tk=1hd43k4db21ci002&vjs=3
+
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- SQL
+- Python
+- R, SAS 
+- Machine learning modeling
+- Data engineering
+- ETL/ELT processes
+- Data modeling
+- Data visualization (e.g. Tableau)
+- Problem solving
+- Communication
+- Project management
+
+Tech:
+- Snowflake
+- Azure ML
+- Databricks
+- Tableau Server
+
+https://www.indeed.com/rc/clk?jk=d81d17fc1c3957ba&from=jasx&tk=1hd443vdui469801&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data engineering
+- Power BI 
+- Azure cloud platform
+- Data modeling
+- ETL/ELT tools (Azure Data Factory, AWS Glue, Talend, EAI)
+- Visualization tools (Power BI, Tableau, Qlik, Cognos TM1) 
+- Programming languages (Python)
+- DevOps (CI/CD)
+- Infrastructure as code
+
+Technologies: 
+- Power BI
+- Azure (Azure Data Factory, Azure Data Lake, SQL DW, SQL, Azure App Service, Azure IoT, Azure HDInsight, Azure Cosmos DB, Azure Databricks, Azure Stream Analytics)
+- AWS (S3)
+- ETL/ELT tools (Azure Data Factory, AWS Glue, Talend, EAI)
+- Relational databases 
+- Python
+- DevOps Tools
+
+https://www.indeed.com/rc/clk?jk=16c48fc80404f2f3&from=jasx&tk=1hd1ft1i8joou800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering
+- Web scraping 
+- Data pipeline development
+- Data modeling 
+- Database optimization
+- SQL
+- TypeScript
+- Node.js
+
+Technologies:
+- PostgreSQL
+- AWS
+- CI/CD
+- Automated testing 
+- GitHub
+- Version control
+
+https://www.indeed.com/rc/clk?jk=cebc0b8cc9a9f1a0&from=jasx&tk=1hd1g26uejoov800&vjs=3
+
+ Based on the job description, here are some key skills and technologies:
+
+Skills:
+- Data engineering 
+- Data warehousing
+- Data analysis
+- SQL
+- Python
+- Java
+- Data modeling
+- ETL processes
+- Statistical analysis
+- Machine learning
+- Communication
+- Problem solving
+
+Technologies:
+- AWS (Amazon Web Services) platform
+- AWS services: Glue, Matillion, Kinesis, Lambda, Step Functions, S3, RDS, Redshift, Neptune, Athena, QuickSight, EMR
+- Hadoop, Spark, Kafka (big data technologies)  
+- Security best practices: IAM, KMS, Cognito
+- DevOps tools like Git
+- Machine learning technologies: SageMaker, Forecast
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BjCBRdhP65IZiSCQvFiT0PZro7cNEJWrEbXymqjdX66e9d72a1Jy_HOjQ52dpIL8AkgL1yEfv-9JIZeBJ9C14brnAEGLkO6K6sWaedQUVCxnbMIJaVDUIPh8mfT27FARVBODpbAVwSfmy_zrADg15OsjE8M-IxUfpX_GdsWbCFj2i6C6Gpz9S0bMQmkU7w4RjUCCQp1MqPA86CVgH6wITZ3LRx5y2hohzytIdTLzym3nburhq0kVMPFCrwJwIN7WIeTm56kEHGhkZyL4Y021zCmgJi8G0sIz4U4czm1nMtOAbNcYU4oWKHmvYOm-DnA256d24euN8CK3EJdO4P_Xsc-1kRiup4cPcyxF5kCsKL-qO0-ylsrozwg_1FZ9yfP_7bxov8Kzr--8cboQNkNUBej8uVzuAXNslbHp_tLuuZETZCXhiIwCbdYJx36wZ7tl2CfZ4Yq79RKQeEMi1LIA-zR01qSoQa8RIL74YQmtrmyoyVGEGIZcWCMWdHbYeE8zwtAjhE3l6UgyCxUxz8-8tZmVgBQ-Kg6M3MMZB8Qt4oH4V8KDp2XnTPYPOroF47bG9WQ7kQCggiIwbqjbZT8kXDjqk8NIQt7Gf8fGAabCQ26DHLTKH8Zok2&xkcb=SoDC-_M3JzdhoWwdyR0CbzkdCdPP&p=9&fvj=1&vjs=3&jsa=8644&tk=1hdjarjmuje3s800&from=jasx&wvign=1
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Expertise in data center site operations including equipment installation logistics, power and cooling requirements, cable management, etc. 
+- Understanding of overall data center design and optimization strategies like floorplan, power distribution, cooling, cable layouts, etc.
+- Ability to create technical drawings, document methodologies and train staff
+- 10+ years of experience designing, constructing and overseeing complex data center environments
+- Experience handling, installing and servicing large-scale IT equipment in data centers
+- Excellent communication and presentation skills
+
+Technologies:
+- Arista Networks data center products including switches, routers, etc.  
+- Cable types like copper and fiber
+- Connector types for pluggable modules
+- Liquid cooling systems
+- Power distribution and resiliency designs
+
+https://www.indeed.com/rc/clk?jk=6492b9f12e5769ae&from=jasx&tk=1hd1foafmk78p800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data modeling 
+- ETL development
+- SQL/T-SQL
+- Data warehousing
+- Data visualization (Tableau, Power BI)
+- Requirements gathering
+- Communication
+- Project planning
+
+Technologies:
+- Microsoft SQL Server 
+- SQL Server Integration Services (SSIS)
+- Microsoft Azure Data Factory
+- IBM InfoSphere DataStage
+- Tableau
+- Power BI
+- Healthcare domains (Epic Clarity, Epic Cadoodle)
+
+https://www.indeed.com/rc/clk?jk=15fd4f1c42b1c5c0&from=jasx&tk=1hd43l8mokhqg800&vjs=3
+
+ Here are the relevant skills and tech mentioned in the job description:
+
+Skills:
+- Data engineering
+- Cloud engineering 
+- Database management
+- SQL (MySQL, SQLite, Oracle)
+- Programming (Python or R)
+- Sensor data processing  
+- Imaging data processing
+- Time series data analysis
+- IOT
+
+Tech:
+- Azure Gov
+- AWS
+- Government security clearance required (ability to obtain one after hiring)
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CpFJQzrgRR8WqXWK1qKKEqALWJw739KlKqr2H-MSI4ehQhkyt7GrkYFAdLCKqicVASi5yZbI4YMJT6zbNaVJQ9VpWTQVt8WNxM99zI9hhByKIns9pnYPaa26fTVfAngNXV5jjAnsIsJcpzAxA-ypRPi1v5DPjTXTN38MCAn2CXvF3yj9sLIp67z0lfd2fFK_BEes-36nURsAHwgBUduNjzH3NLqZ58B4QDR0b1-N2TBhb0sg7InzPSEV4iLNwvPHFyFVZ7nl1ouF5ty-RHCQdmWz52oYpldH-SmzUyXAnvLHs79mwyXwQxXYG3TBHt1K9wb0lEIEqC6QnXWMrpQrt-tL0kpwsuFxIIXAr2cMH1K06v2z5k8SnQhTO4rbSrFsblw_v0B1Fs0L_w7YiSk05vkPdnglSEqdZCZhaKWS0HzJxGvUapwTH4aJHMbt-BJZUuNRShHCeLnJ93EfkWJiCJ-DbLcKmo0PMHepeu6lN3tzXBRLpnbrbEsWJ_lg9-4fABnYD2BLHVm1QB7lyWJY07MWLSUqE1Z2Pw_sJBGq0DbLbG3FRqVw0AIBzwwu9_YCWU_s0fs_BcuU9T1oYoFjQc9Ro584fw0ROeHATs1_ieC6vaSS4qjwiFz098y6jDWHo0EZNuNS0A0v1WGLmjv2zOYI8e4ohiQushAUeW0YyYKGl-24MCGpc8mDsVdlYETYbrdd1R57vQ1gHnzHY0cPvxRhfjg7uIoZuJfKmKEuBiEnpRTxGu6esfwssMrV9oQalEgbQHKPWOfZuu4h2CpttPURbozbT63OlLEEixy9Ibn0NKWOK3dlDo1fYL-M4HXmBcOPFicn97UyjcM4CWm-ueeQmMPzoKTQy_9i4sRgh3vEPIgJdugN63M2SxNRJgoezjB97X3sQl2KVZz0hwIRxb0CCcHZATKQGzax65lhdRfeUPKf9SMQPWoC4rYf6uViefA6DnqwBrykEX67v7BwXjry0ZVgPBCmkY-FDcajXuGIKsVWlf6qpVwtz1k5OIJrKPQ3F8txGwrpKlE_yK2T_4yW5oy7bXo8bgAJzVvtivEGap4nyqeM7F88fu5YlmICq0B4_PfGRuza2XFzxvR0i46NCGwPIzh1oM6wRFZxhYcTsppa_Xacgg1YxF9vmINVNPQm1C6oZtLQVeABvR3ej2jubo90_xWMQFqyO4iD3nGvtP6UTOWVPYw5-AgRhM_JY%3D&xkcb=SoAB-_M3JkPawbyit50ObzkdCdPP&p=4&fvj=0&vjs=3&jsa=4254&tk=1hd43l8mokhqg800&from=jasx&wvign=1
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data modeling
+- Data pipeline development and optimization
+- Data integration
+- SQL
+- Python
+- PySpark
+- Databricks
+- Azure Cloud
+- Azure DevOps
+- Datorama
+- Salesforce Marketing Cloud
+- REST APIs
+- SFTP
+- Project management
+
+Technologies: 
+- Databricks
+- SQL
+- Python 
+- PySpark
+- Cloudera
+- Azure Cloud
+- Azure DevOps
+- Datorama
+- Salesforce Marketing Cloud
+
+https://www.indeed.com/rc/clk?jk=2a6492ae7ded8c78&from=jasx&tk=1hd95ff4chbht800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Network design and deployment
+- Network automation (Python, Chef, Ansible) 
+- Network consulting and support
+- Technical documentation
+- Customer communication
+- Troubleshooting
+- Relationship building
+
+Technologies: 
+- Cisco routing and switching (Catalyst, Nexus, ASR)
+- Leaf-spine data center architectures
+- Ethernet, VLANs, VxLAN, EVPN 
+- IP routing protocols (OSPF, BGP, eBGP)
+- Multicast, QoS
+- Linux, Perl, Python scripting
+- Network virtualization (OpenStack, SDN, NFV)
+- Load balancers
+- Industry certifications (CCIE, JNCIE)
+
+https://www.indeed.com/rc/clk?jk=94a5ae6b3646efe1&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3
+
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- Data/ML engineering (8+ years required)  
+- ETL
+- Data labeling and preparation
+- Data architecture design and implementation
+- AI/ML model operationalization and maintenance
+- SQL and SQL functions (advanced level required)  
+- Data analytics
+- DevSecOps and MLOps
+- Ability to work independently
+- Team player with strong work ethic
+
+Tech:
+- Python
+- Databricks
+- SSIS or Pentaho
+- Postgres 
+- Spark
+- Airflow
+- Kafka
+- Big data environments
+- Cloud services, CPUs and GPUs
+
+https://www.indeed.com/rc/clk?jk=b58aac4026ea6a1e&from=jasx&tk=1hdjagqsjjgbm800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Python 
+- PostgreSQL
+- Elasticsearch
+- HTML/CSS/JS
+- Problem solving
+- Attention to detail
+- Ability to work independently and collaboratively
+- Documenting architecture, software and features
+
+Technologies:
+- Django
+- Distributed systems
+- Web crawling  
+- Web services
+- Workflow systems (Temporal, Airflow)
+- Distributed databases (Cassandra, Scylla)
+- Hadoop
+- Ansible
+- GitLab
+- GitHub
+- Sentry
+- Grafana
+- JIRA
+- Linux (experience with Ubuntu)
+
+https://www.indeed.com/rc/clk?jk=438a072845b56b63&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3
+
+ Specific skills and tech extracted from the job description:
+
+Skills:
+- Data analysis
+- SQL 
+- Hive QL
+- Data warehousing in big data solutions
+- Big Data development using Hadoop
+- Hive, BigQuery, Impala, Spark
+- Automating data pipelines/processes  
+- Hadoop ecosystems (HDFS, YARN, Hive, HBase, Sqoop, Spark, Hue)
+- Agile Development Methodology
+- Git Repositories
+
+Tech:
+- Hadoop
+- HDFS
+- YARN  
+- Hive
+- HBase
+- Sqoop
+- Spark
+- Hue
+- BigQuery
+- Impala
+- SQL
+- Hive QL
+- Git
+
+https://www.indeed.com/rc/clk?jk=1cc34471192a5294&from=jasx&tk=1hd95mfqo28gs002&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software development
+- Data structures and algorithms 
+- Analytical skills
+- SQL
+- NoSQL (MongoDB, Cassandra)
+- Programming languages (Python, Node, Scala, Go)
+- Cloud platforms (AWS, GCP)
+- Workflow tools (Airflow, AWS Step Function)
+- APIs
+- Machine learning (Scrapy, scikit-learn, TensorFlow)
+- Emerging data technologies
+- Working in fast-paced dynamic environments 
+- Managing multiple projects concurrently
+
+Technologies:
+- ETL pipelines
+- Data marts
+- Cloud services (AWS Redshift, Kinesis, EMR, GCP BigQuery, Dataflow, Pub/Sub)  
+- Databases (PostgreSQL, MySQL)
+- Big data tools (Hadoop, Spark, Kafka)
+- Data warehousing (Snowflake, Redshift)
+- Payment processing
+- REST APIs
+
+https://www.indeed.com/rc/clk?jk=06686c071e983d15&from=jasx&tk=1hdjafq3r2cc7000&vjs=3
+
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- Machine learning 
+- Big data
+- Multi-modal data
+- Data privacy
+- Algorithm design
+- Software engineering
+- Data analysis
+- Problem solving
+- Troubleshooting
+- Effective communication
+- Collaboration
+
+Tech:
+- Python
+- AWS (Sagemaker, Athena, Glue, Quicksight, S3)
+- Linux/Unix
+- Git
+- Bitbucket 
+- Confluence
+- JIRA
+- Java
+- C#
+- C/C++
+- SQL
+- Oracle
+- MySQL 
+- Redshift
+- DynamoDB
+- Elastic Cache
+- Splunk
+- Tableau
+- Signal processing
+
+https://www.indeed.com/rc/clk?jk=700c104561e30304&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data analysis
+- Data modeling 
+- Data visualization (e.g. Tableau, PowerBI, Sigma)
+- SQL
+- Programming (e.g. Python)
+- Problem solving
+- Communication  
+- Business acumen
+
+Technologies:
+- Snowflake
+- SQL
+- Tableau 
+- Power BI
+- Sigma
+- Python
+
+The role involves working with healthcare data to generate insights and dashboards. Familiarity with healthcare domains like risk adjustment, clinical analytics, and health economics is preferred. Snowflake, SQL and data visualization tools are some of the key technologies used. Programming and data modeling skills are also required.
+
+https://www.indeed.com/rc/clk?jk=f32a0eb4fc36bab8&from=jasx&tk=1hd1foafmk78p800&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data modeling 
+- SQL scripting
+- Query performance tuning
+- Data warehousing solutions design and development
+- ETL/ELT design and development
+- Data pipeline development
+- API design and development 
+- Agile methodologies like CI/CD
+- Data quality and governance
+
+Technologies:
+- Snowflake 
+- Redshift (data warehouses)
+- Python
+- PySpark
+- Scala (for data pipelines)
+- DBT (for data modeling)
+- Rivery or Fivetran, Matillion (ELT tools)  
+- AWS (Athena, Glue, Data Pipeline)
+- Salesforce Health Cloud, Marketing Cloud, NetSuite (experience with schemas)
+
+https://www.indeed.com/rc/clk?jk=3b61441b9b1ff9fa&from=jasx&tk=1hd6h75sii6mo800&vjs=3
+
+ Based on the job description, here are the key skills and technologies:
+
+Skills:
+- Data modeling
+- Database design 
+- Data analysis
+- Software development
+- Security
+- Infrastructure design
+
+Technologies:
+- AWS (implied as it's an AWS data engineer role)
+- Database technologies for extracting, storing and querying data
+- Programming languages for application development
+- Security technologies
+- Infrastructure and storage technologies
+
+The job description emphasizes responsibilities related to data - modeling, maintaining integrity, analyzing for insights, and designing applications. It also mentions software development, security, and infrastructure design skills. Being an AWS data engineer role, AWS services would be the implied technology platform. Databases, programming languages, and security/infrastructure tools would need to be understood based on the tasks described.
+
+https://www.indeed.com/rc/clk?jk=77f1038f4ded6818&from=jasx&tk=1hd1fn4d0i3at800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 6+ years of relevant cybersecurity experience 
+- 4+ years of experience administering Splunk SIEM technologies
+- Expertise with CrowdStrike EDR tool
+- Experience with Phantom and ThreatConnect SOAR products
+- Scripting skills like PowerShell, Python
+- Incident response handling
+- Experience communicating technical information to non-technical audiences
+- Experience working with senior leadership
+- Familiarity with Windows and Linux, SQL databases, deployment, patching, administration
+- Experience with Logstash for log collection, parsing and transformation  
+- Experience with NIST compliance standards and documentation
+
+Technologies:
+- Splunk Cloud architecture, design, engineering, configuration, administration
+- Splunk Enterprise Security
+- CrowdStrike
+- Phantom
+- ThreatConnect
+- PowerShell 
+- Python
+- Ansible for automation
+- Git/Gitlab for workflows
+- Logstash
+- Windows/Linux
+- SQL databases
+
+Certifications: Splunk IT Service Intelligence Certified Admin, Splunk Enterprise Security Certified Admin, Splunk Cloud Certified Admin, CCNA, CCNP
+
+https://www.indeed.com/rc/clk?jk=9eb823fbea56740f&from=jasx&tk=1hdjaoshm284l000&vjs=3
+
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Data Engineering
+- Machine Learning
+- Python
+- Spark
+- Kubernetes
+
+Technologies: 
+- Azure
+- Jupterhub
+- mlflow
+- databricks
+- kubeflow
+- HELM
+- Argo Workflow
+- Docker
+- Kubectl
+- Helm
+- GitLab
+- Jenkins
+
+https://www.indeed.com/rc/clk?jk=84bd4ff5bed36cd7&from=jasx&tk=1hd1fru0j2f35000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Advanced skills in modern data architecture, data science engineering, data modeling and data quality  
+- Hands-on experience in ETL, automation and CICD technologies including Python, SQL and Git in a cloud setting
+- 2+ years of experience with cloud-native data warehouse technologies like Snowflake
+- Skills in data analysis, insight generation and manipulation of structured and unstructured data sources
+- Experience with automated data quality frameworks
+- Commitment to creating rigorous, high-quality insights from data, at scale
+- Flexible and willing to work across matrixed delivery landscape including Agile development, support and deployment
+- Guide and review off-shore development teams providing coaching and coding feedback
+
+Tech:
+- AWS (cloud computing technologies)
+- Python
+- SQL 
+- Git
+- Snowflake (data warehouse)
+- Automated data quality frameworks
+
+https://www.indeed.com/rc/clk?jk=dbf9b007f625f71b&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Building and maintaining data pipelines and ETLs
+- Database design and query optimization
+- API design (REST, Websockets etc)
+- Cloud infrastructure configuration (AWS preferred)
+- Python and SQL
+
+Technologies: 
+- Data pipelines
+- ETL frameworks
+- Databases
+- APIs
+- Cloud infrastructure (AWS preferred)
+- Python
+- SQL
+
+https://www.indeed.com/rc/clk?jk=713aaea093a693fd&from=jasx&tk=1hd1fn4d0i3at800&vjs=3
+
+ Here are the key skills and technologies mentioned in the job description:
+
+Skills:
+- ETL development
+- Data integration 
+- Oracle PL/SQL development
+- Data validation
+- Data integrity testing
+- Performance tuning
+- Process documentation
+- Knowledge transfer
+
+Technologies:
+- IBM DataStage (version 8.5 and 11.7) 
+- Oracle databases
+- Red Hat Linux
+- IBM Batch scheduling tools (Automic, Control-M etc.)
+- Oracle Business Intelligence
+- PeopleSoft HR and Finance modules
+
+https://www.indeed.com/rc/clk?jk=a07bc29d201610eb&from=jasx&tk=1hdjagu34k269800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data warehousing design and development
+- Building data pipelines 
+- Data modeling (Dimensional modeling)
+- Advanced SQL
+- Python/Snowpark(PySpark)/Scala
+- Machine learning libraries
+- ETL tools (Matillion, Fivetran, Talend preferred)
+- Data transformation tools (DBT)  
+- AWS services (EC2, S3, Lambda, Glue)
+- CI/CD processes and git versioning
+- Data orchestration tools (Apache Airflow, Prefect)
+- Data visualization (Tableau, Power BI)
+- Analytical skills
+  
+Technologies: 
+- Snowflake
+- Python
+- Spark
+- Scala
+- AWS
+- Matillion
+- DBT
+- Tableau
+- Power BI
+- Apache Airflow
+- Prefect
+
+https://www.indeed.com/rc/clk?jk=211c5cd9297af263&from=jasx&tk=1hd1g2npm2f32000&vjs=3
+
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- 5+ years of software engineering experience, including 2+ years of data engineering 
+- Architecting solutions on AWS
+- Python
+- SQL
+- Data pipeline development
+- DevOps experience and ability to operationalize code
+- Project management and deliverable skills
+
+Technologies:
+- AWS
+- Python
+- SQL
+- Data pipelines
+- CI/CD
+- Natural language processing (nice to have)
+- Web scraping (nice to have)
+- Healthcare IT systems (nice to have)
+- Supply chain IT systems (nice to have)
+
+https://www.indeed.com/rc/clk?jk=f8bf5f4c80df4dc1&from=jasx&tk=1hd1g2n5fjm7b800&vjs=3
+
+ Based on the job description, here are some of the key skills and technologies mentioned:
+
+Skills:
+- Solution design
+- Architecture planning  
+- Technical leadership
+- Risk assessment
+- Documentation
+- Vendor evaluation
+- Prototyping
+- Performance optimization
+- Security and compliance
+- Collaboration
+- Problem solving
+- Analytical skills
+- Communication
+- Project management
+
+Tech/Frameworks:
+- Cloud computing (AWS, Azure, Google Cloud Platform)
+- DevOps practices and tools
+- Microservices architecture
+- Graph databases
+- Containerization technologies (Docker, Kubernetes)
+- Data architecture and database technologies
+- Cybersecurity best practices
+- TOGAF architecture framework
+
+https://www.indeed.com/rc/clk?jk=c9f696550a62823e&from=jasx&tk=1hd1fpkd42j42000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data modeling 
+- SQL
+- Database administration
+- Data warehousing concepts
+- ETL/ELT principles
+- Agile methodologies
+- Documentation and training
+- Project management
+- Excellent communication skills
+
+Technologies:
+- Snowflake
+- dbt 
+- GitHub
+- Tableau
+- Segment
+- Fivetran
+
+https://www.indeed.com/rc/clk?jk=afa1c3c5c9790b59&from=jasx&tk=1hd43k4db21ci002&vjs=3
+
+ Here are the specific skills and tech mentioned in the job description for Senior Data Engineer - Scala:
+
+Skills:
+- Scala
+- Spark 
+- Python
+- Agile methodology
+- Data pipeline development
+- Data validation
+
+Tech:
+- Spark
+- Hadoop
+- AWS EMR
+- Airflow
+- Jenkins
+- AWS Redshift
+- Teradata
+- Git
+- GitHub
+- Confluence
+
+https://www.indeed.com/rc/clk?jk=dc6d198d707948d7&from=jasx&tk=1hd1fsp38k6pu800&vjs=3
+
+ Based on the job description, here are the key skills and technologies:
+
+Skills:
+- SQL
+- NoSQL 
+- Data warehousing
+- ETL
+- Python
+- Java
+- Scala
+- Machine learning concepts
+- Data APIs
+- Analytical skills
+- Problem solving skills
+- Communication skills
+
+Technologies: 
+- Relational databases
+- NoSQL databases
+- Data warehousing tools  
+- ETL tools
+- Programming languages: Python, Java, Scala
+- Machine learning algorithms/models
+- Data APIs
+
+https://www.indeed.com/rc/clk?jk=73eb2333d67e7087&from=jasx&tk=1hd1g27112f34000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data pipeline design and development
+- Data analysis and modeling 
+- Complex data analysis 
+- Data ingestion and transformation
+- Metadata management
+- Data quality monitoring and auditing
+- Agile software development 
+- Process automation
+- Documentation
+- Data modeling
+- SQL
+- Python
+- Data wrangling 
+
+Technologies:
+- Azure Data Factory
+- Databricks/Spark
+- Snowflake
+- Kafka
+- Azure DevOps
+- GitLab
+- Terraform
+- Azure CLI
+- PowerShell 
+- Kubernetes
+- Docker
+- PowerBI
+- Tableau 
+- OBIEE
+- SQL databases (Snowflake, Netezza, Oracle, SQL Server, MySQL, Teradata)
+- Hadoop
+- Pivotal
+- Vertica
+- MapR
+- IBM Datastage
+- Informatica
+- Pentaho 
+- Ab Initio
+
+https://www.indeed.com/rc/clk?jk=651209e06d4f7358&from=jasx&tk=1hd1g3s5pjfnq801&vjs=3
+
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- 10+ years of software development experience 
+- Expert coder able to develop solutions for sophisticated problems
+- Authority in Python development
+- DevOps practices like CI/CD, Docker, testing, automation
+- Experience with at least one strongly typed language like Typescript, Java
+- Experience implementing data software using AWS, Snowflake, Google Cloud
+- Experience with agile development approaches including DevOps
+
+Tech:
+- Python
+- Typescript 
+- Java
+- AWS
+- Snowflake
+- Google Cloud Platform
+- CI/CD
+- Docker
+- Testing/automation tools
+
+https://www.indeed.com/rc/clk?jk=530b87a7867afc6f&from=jasx&tk=1hdjagqsjjgbm800&vjs=3
+
+ Based on the job description, here are the specific skills and technologies mentioned:
+
+Skills:
+- Software engineering
+- System design 
+- Data pipeline and architecture design
+- Scaling and performance optimization
+- Security engineering
+- System and network security
+- Authentication and security protocols
+- Cryptography
+- Problem solving
+- Communication
+
+Technologies:
+- Docker 
+- Kubernetes
+- OpenShift
+- AWS
+- GCP
+- Azure
+- Python
+- Java
+- Go
+- Rust
+- GIT
+- Jenkins
+- CircleCI
+- SonarQube
+- Terraform
+- Grafana
+- Prometheus
+
+Certifications:
+- CISSP
+- CISM  
+- CISA
+
+https://www.indeed.com/rc/clk?jk=9db0754fcf79928c&from=jasx&tk=1hd1fvosi2gtk000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- System configuration and development on Cloud MDM and Reltio 
+- Software configuration and development
+- Data cleansing
+- Data mapping  
+- Data governance
+- Master data management
+- Integration across complex ERP landscapes
+- Developing data standards and definitions
+- Mapping master data and integration from legacy to target environments
+- Configuring and managing MDM entities
+- Agile methodology
+- Presenting technical concepts
+- Collaboration
+
+Technologies: 
+- Reltio
+- SAP
+- Cloud MDM
+- SaaS 
+- Denodo
+- Mulesoft
+
+https://www.indeed.com/rc/clk?jk=705fe8793dda2171&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3
+
+ Key skills and tech mentioned:
+
+- Azure cloud services 
+- Azure Active Directory
+- Azure DevOps
+- Azure Kubernetes Service
+- Cloud support experience
+- Troubleshooting complex cloud issues
+- Azure certifications like AZ-104 or AZ-303/304
+- Designing and implementing Azure cloud solutions
+- Cloud cost management strategies
+- Azure updates and features
+
+https://www.indeed.com/rc/clk?jk=649f0d12515402f8&from=jasx&tk=1hd1ft1i8joou800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Scala
+- Java 
+- Python
+- Apache Spark
+- HBase
+- Hive
+- AWS services (S3, Redshift, EMR)
+- Data migration from on-premises to cloud environments
+
+Technologies:
+- Scala
+- Java
+- Python 
+- Apache Spark
+- HBase
+- Hive
+- AWS S3
+- AWS Redshift
+- AWS EMR
+- Data migration from on-premises to cloud environments
+
+https://www.indeed.com/rc/clk?jk=334af16420b57c82&from=jasx&tk=1hd1fm1o6iman800&vjs=3
+
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Backend Java development 
+- Python development
+- MongoDB development
+- MySQL/MariaDB development
+- Microservice design and development using Spring
+- Automation testing frameworks like Karate, Cucumber
+- Testing libraries: JUNIT, TestNG, Spock
+- Webservices
+- Cloud computing with AWS
+- Kubernetes
+- Cyber security aspects including data protection, encryption, anonymization
+
+Tech:
+- Spring
+- Karate
+- Cucumber  
+- JUNIT
+- TestNG
+- Spock
+- MongoDB
+- MySQL/MariaDB
+- AWS
+- Kubernetes
+- Pandas
+- Scikit
+- Databricks
+- Snowflake
+- Kafka
+- Spark
+- Flink
+- JSON schema
+- NewRelic
+- DataDog
+- Gradle
+- GitHub
+
+https://www.indeed.com/rc/clk?jk=4e37d548afe793c2&from=jasx&tk=1hd958u85jqvd802&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL development
+- SQL
+- Python
+- Data modeling
+- Data analytics
+- Data visualization
+- Agile methodology
+- Documenting processes and specifications
+
+Technologies:
+- Apache Spark
+- Big data processing 
+- Distributed cluster computing (Apache Spark)
+- Relational databases
+- Hadoop
+- ElasticSearch
+- Python
+- SQL
+- R
+
+https://www.indeed.com/rc/clk?jk=22cd2b66172d9b52&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software engineering experience 
+- Computer science fundamentals like data structures, algorithms, distributed systems
+- Database fundamentals
+- Database tooling, database internals, schema design
+- Systems programming with languages like Java, JavaScript, Python
+- Identifying and implementing creative solutions  
+- Query performance optimization
+- Distributed query execution
+
+Technologies:
+- Continuous Integration and Continuous Delivery
+- Data pipelines  
+- Test automation
+- Feature rollout/enablement automation  
+- Visualization frameworks
+- Data corruption detection/resolution services
+- Production monitoring/observability
+- Large scale data processing
+
+https://www.indeed.com/rc/clk?jk=bc15c50a09fd93ff&from=jasx&tk=1hd1ft2vcjooh800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Understanding how to write and troubleshoot complex SQL queries
+- Understanding ETL (Extract, Transform, and Load) processes and tools 
+- Creating wikis for data conversion processes and tools
+- Ability to handle a fast-paced environment
+- Ability to multitask efficiently
+- Self-led, capable of working with little direction
+- Skilled communicator with a collaborative spirit
+
+Technologies:
+- Microsoft Technologies including VB.NET, ASP.NET, C#
+- Visual Studio
+- SQL Server 
+- Microsoft ETL tools
+- Experience with machine learning and automation is a plus
+
+https://www.indeed.com/rc/clk?jk=0a1b5ba4666e2bed&from=jasx&tk=1hd6hajt4irpg807&vjs=3
+
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Data integration
+- ETL processes 
+- Data warehousing concepts
+- Communication
+
+Technologies:
+- Azure Data Factory
+- Microsoft Dataverse 
+- Power BI
+- ETL
+- Cloud-based solutions
+- Healthcare data/regulations
+
+https://www.indeed.com/rc/clk?jk=2d5efc02e5091f2d&from=jasx&tk=1hd1g2n5fjm7b800&vjs=3
+
+ Here are the specific skills and tech extracted from the job description:
+
+Skills:
+- SQL
+- Data modelling 
+- Statistical data modelling
+- Statistical programming
+- Data architecture design
+- Data analytics
+- Data visualization
+- Prototyping 
+- Software development processes
+- Data governance
+- Data security
+- Data compliance
+- Cloud technologies
+- Programming languages: Scala, Python
+
+Tech:
+- Snowflake
+- SQL 
+- ETL tools: SAP BODS, Informatica
+- Statistical analysis software packages: SAS, SPSS
+- Business intelligence and analytics platforms
+- Cloud technologies: Snowflake, AWS, GCP
+- Programming languages: Scala, Python
+
+https://www.indeed.com/rc/clk?jk=c323d27b302a6ce8&from=jasx&tk=1hd6h6bheiolg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Programming: Scala, Java, Python
+- Data engineering
+- Software development and testing 
+- Data pipeline design, building, testing and deployment
+- Data modeling
+- ETL process development
+- Data analytics and visualization 
+- Data quality assurance
+- Cloud computing (Google Cloud Platform)
+- Structured Query Language (SQL) development
+- Version control systems (Git)
+- Continuous integration/delivery (Jenkins)
+- API development
+- Problem solving
+- Communication skills
+
+Technologies:  
+- Hadoop ecosystem (HDFS, Hive, Spark, Streaming, HBase, Kafka, Oozie)
+- Teradata
+- Google BigQuery
+- Looker/Tableau for dashboards
+- Opsgenie, PagerDuty for incident management
+- Shell scripting
+- Web services
+- Common software development tools
+
+https://www.indeed.com/rc/clk?jk=b15ec8b380fddd07&from=jasx&tk=1hd1fpkd42j42000&vjs=3
+
+ Here are the main skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data platform development
+- Data modeling
+- ETL processes
+- Data integration techniques
+- Data governance
+- Data security
+- Problem solving
+- Communication
+- Collaboration
+
+Technologies: 
+- Cloud platforms: AWS, Azure, Google Cloud
+- Cloud data services
+- Kafka
+- Airflow
+- Spark  
+- Trino
+- Ranger
+- Containerization: Docker, Kubernetes
+- Programming languages: Python, Java, Rust, C, Go
+
+https://www.indeed.com/rc/clk?jk=77845bc5ebc6aae6&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3
+
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Big Data
+- Spark  
+- HIVE
+- AWS
+- Kubernetes
+- Data Bricks
+
+Years of experience required:
+- 7+ years as a Data Engineer
+- Spark: 5 years (preferred)
+- AWS: 5 years (preferred) 
+- Data Bricks: 5 years (preferred)
+- Kubernetes: 5 years (preferred)
+
+https://www.indeed.com/rc/clk?jk=f5777b4056e4e7e0&from=jasx&tk=1hd43l8mokhqg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software architecture 
+- System design
+- Cloud technologies (Azure, GCP, AWS)
+- Microservices architecture
+- Distributed systems design
+- Database design
+- Continuous integration/delivery
+- Programming (C#, .NET)
+- Data modeling
+- Security/compliance
+
+Technologies: 
+- C#
+- .NET 
+- Web services
+- Microservices architecture
+- ORM frameworks 
+- RDBMS
+- NoSQL data stores
+- Azure
+- GCP
+- AWS
+- Messaging middleware
+
+https://www.indeed.com/rc/clk?jk=3417ee3c65b91eed&from=jasx&tk=1hd6hi1iggaj8801&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Software development 
+- Product requirements gathering
+- Software design
+- Automated testing
+- User documentation
+- Technical assistance
+- Collaboration
+- Project coordination
+
+Technologies:
+- ArcGIS Velocity
+- Workflow Manager  
+- Geotrigger
+- ArcGIS GeoEvent Server
+- ArcGIS Enterprise
+- ArcGIS Online
+- ArcGIS Pro
+- Python
+
+https://www.indeed.com/rc/clk?jk=ad5d4ac0639f9242&from=jasx&tk=1hd6hi1iggaj8801&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data integration
+- ETL/ELT
+- Data modeling
+- Data warehousing
+- Dimensional modeling
+- SQL
+- Programming (to develop ETL scripts)
+- Data analysis
+- Statistics
+- Data visualization
+- Cloud computing
+- Relational and NoSQL databases
+
+Technologies: 
+- Hadoop
+- MapReduce
+- AWS (implied by reference to cloud infrastructure)
+- Relational databases
+- NoSQL databases
+
+https://www.indeed.com/rc/clk?jk=fe0fc5669a01f689&from=jasx&tk=1hd1g5htglell801&vjs=3
+
+ Based on the job description, here are the key skills and technologies extracted:
+
+Skills:
+- ETL development 
+- Data modeling
+- SQL
+- Python programming
+- Data engineering
+- Data analysis 
+- Power BI
+- Database administration
+- Data integration
+- Data warehousing
+
+Technologies:
+- Microsoft SQL Server 
+- Microsoft SQL Server Integration Services (SSIS)
+- Microsoft Azure (Data Factory, SQL Data Warehouse, Data Lake, etc.)
+- Python
+- Microsoft Power BI
+- Relational and non-relational databases (SQL Server, PostgreSQL)
+
+https://www.indeed.com/rc/clk?jk=e1d633e960423d61&from=jasx&tk=1hd1fn4d0i3at800&vjs=3
+
+ Based on the job description, here are the key technical skills and technologies mentioned:
+
+Skills:
+- Data engineering 
+- Software engineering
+- Data modeling
+- Machine learning
+- Data architecture
+- ETL/ELT processes
+- Data pipelines
+- Database design
+- Cloud technologies
+- DevOps practices
+
+Technologies: 
+- Python
+- Java 
+- Spark
+- Airflow
+- Kafka
+- PostgreSQL/SQL
+- NoSQL databases
+- Google Cloud Platform (BigQuery, Cloud Dataflow, Cloud Storage, Pub/Sub, Cloud Composer, Healthcare API)
+- Jenkins
+- Git
+- Apache Hive
+- Apache Spark
+- Kafka
+- Looker
+- Tableau
+- PowerBI
+- DeltaLake
+
+https://www.indeed.com/rc/clk?jk=90ca40677b46e6ea&from=jasx&tk=1hdea7hq42do5000&vjs=3
+
+ Based on the job description, here are some relevant skills and technologies:
+
+Skills:
+- Data engineering 
+- Data pipelines
+- SQL
+- Unix/batch scripting
+- Python
+- AWS
+- Agile methodologies
+- Performance optimization
+
+Technologies:
+- MySQL
+- Vertica
+- AWS (Amazon Web Services)
+
+https://www.indeed.com/rc/clk?jk=87c74988107a90d3&from=jasx&tk=1hd95bl7pje34802&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data pipelines design and development
+- Data infrastructure design and maintenance
+- Data management 
+- SQL querying and database management (PostgreSQL)
+- Python programming
+- Data governance, security, privacy and retention policies/procedures
+- Collaboration and communication
+- Problem solving
+- DEVOPS practices and tools (e.g. GIT, Docker, Jenkins)
+
+Technologies: 
+- AWS (cloud data pipelines)
+- Python
+- Databricks
+- Spark
+- SQL databases (e.g. PostgreSQL)
+- Jira
+- GIT
+- Docker
+- Jenkins
+
+https://www.indeed.com/rc/clk?jk=cf276d4ea3c5fdcb&from=jasx&tk=1hd1ft1i8joou800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software development  
+- Data engineering
+- AWS DataOps (IAM Lambda Step Functions EMR/Glue and DynamoDB)
+- SQL/Non-relational Data Modeling
+- Designing and implementing complex ingestion and processing pipelines through orchestration
+- Designing API interfaces 
+- Designing, implementing and supporting scalable multi-tenant service and data infrastructure solutions
+- Interfacing with engineering and ML teams to extract, transform and load data
+- Understanding business needs to solve problems
+
+Technologies:
+- AWS (IAM, Lambda, Step Functions, EMR/Glue, DynamoDB)
+- SQL
+- Non-relational data modeling 
+- Data streaming technologies (Kafka, Spark Streaming)
+- API interfaces
+- Ingestion/processing pipelines
+- Machine learning models
+
+https://www.indeed.com/rc/clk?jk=8c2d8bd464c9e1f8&from=jasx&tk=1hd1fm1o6iman800&vjs=3
+
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Azure Data Engineering
+- RDBMS 
+- Airflow
+- ADF  
+- API
+- ETL Knowledge
+- Python
+- Communication
+
+Tech:
+- Azure Cloud
+
+https://www.indeed.com/rc/clk?jk=e7aca82a03dbb9b5&from=jasx&tk=1hd1g273r2gvn004&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL/TSQL development  
+- SSIS package development
+- Data modeling
+- ETL construction
+- Data analysis
+- Report development
+- Relational databases 
+- Database structures and design
+- Systems design
+- Data management
+- Data warehousing
+
+Technologies:
+- SQL/TSQL
+- SSIS 
+- MS Access
+- Data visualization software
+- Business intelligence software
+- Analytic and statistical software
+- Query software
+- Agile tools (RallyDev)
+
+https://www.indeed.com/rc/clk?jk=445662e46d0fc401&from=jasx&tk=1hd1fm1o6iman800&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Backend development
+- ETL process design and optimization  
+- Data modeling
+- SQL and NoSQL databases (Cassandra, ScyllaDB)
+- Data warehousing (Redshift, BigQuery, Snowflake)
+- Cloud platforms (AWS, GCP, Azure)
+- Distributed systems
+- Data science concepts and tools (Pandas, Scikit-learn)
+- Problem solving
+- Communication
+- Innovation and research
+
+ Technologies:
+- Python 
+- Java
+- Scala
+- Elixir
+- Apache Kafka
+- Apache Airflow
+- Cassandra
+- ScyllaDB
+- Redshift
+- BigQueary
+- Snowflake
+- AWS
+- GCP
+- Azure
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch
+
+https://www.indeed.com/rc/clk?jk=8baee8cb684bbc8a&from=jasx&tk=1hd1fm1o6iman800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data Engineering 
+- Data Modeling (OLTP)
+- Dimensional modeling
+- Database Design
+- Data Migration
+- ETL/ELT
+- SQL
+- NoSQL databases
+- Data warehouse implementation
+- Data analysis
+- Data profiling
+- Data discovery
+- Unit testing
+
+Technologies: 
+- Spark/Scala
+- Databricks
+- Relational databases 
+- Data warehouses/data marts
+- Cloud/big data applications
+
+The position requires 6-9 years of experience in data engineering, data modeling, ETL/ELT pipelines, data migration experience for both structured and unstructured data. Familiarity with healthcare or pharmacy domain is preferred.
+
+https://www.indeed.com/rc/clk?jk=69367ead0238ca43&from=jasx&tk=1hd43nlmik6qs800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL
+- Data analysis and visualization (Tableau, R, Python) 
+- Data pipeline design and management
+- Big data engineering (AWS services like S3, Glue, Postgres, Lambda, Sagemaker)
+- Relational and NoSQL database administration
+- Troubleshooting data platforms 
+- Supporting cross-functional teams
+
+Technologies:
+- SQL 
+- Tableau
+- R
+- Python
+- AWS (S3, Glue, Postgres, Lambda, Sagemaker)
+- Relational databases
+- NoSQL databases
+- Data pipeline tools
+
+https://www.indeed.com/rc/clk?jk=05cfb82e458953ee&from=jasx&tk=1hd95mfqo28gs002&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Geospatial programming 
+- Data analytics
+- Data engineering
+- Geospatial data management
+- Spatial data processing, analysis and visualization 
+- Remote sensing data analysis
+- Problem solving
+- Communication
+- Project management
+-attention to detail
+
+Technologies/Platforms:
+- Python 
+- Geospatial platforms like ArcGIS, GEOJSON
+- Databases/SQL
+- Data management systems
+
+The role involves tasks like geospatial data acquisition, cleaning, integration, analysis and visualization. Managing geospatial datasets and processes. Extracting insights from remote sensing data. Collaboration with data science and ag teams. Communication of priorities and progress.
+
+https://www.indeed.com/rc/clk?jk=96205e6a1d6acd47&from=jasx&tk=1hd1ft2vcjooh800&vjs=3
+
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Software development experience 
+- Understanding of security, secure coding/testing
+- Knowledge of data structures
+- Proficiency with programming languages like Python, Java, Oracle, Azure
+- Experience building and sustaining relationships
+- Communication skills
+- Ability to mentor junior team members
+
+Tech:
+- Python 
+- Databricks
+- Security
+- CICD pipelines
+- Data operations
+- DevOps
+
+https://www.indeed.com/rc/clk?jk=18da6255e1db9629&from=jasx&tk=1hd1ft1i8joou800&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data engineering
+- Cloud engineering 
+- Database management
+- SQL (MySQL, SQLite, Oracle)
+- Programming (Python or R)
+- Experience with time series data
+- Experience with sensor data
+- Experience with IOT
+
+Technologies: 
+- Azure Gov
+- AWS
+- Government security clearance
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CpFJQzrgRR8WqXWK1qKKEqALWJw739KlKqr2H-MSI4ehQhkyt7GrkYFAdLCKqicVDWCL9ucYwrKT5Fe9OXxDBCh_wR0uZJBStm41vZmDvyUjKUlhD0Xmop5LZ48E3VmYHfKQVgyDV8cwhOOLxBxoGVQ9WVzvXciKJ6qVT8F-LlacrRvVkIAz0ld79gRHd7cM8bWk8jKo7U3lq-6nVEXeRyD4mebf3cWrZOp23ieFGeiTH2Pi9R2MBEiCOtSTtHIxMCEtTGezCEi7_EoNlz4tSG8fDDIiWxrtRek2D9y3ktvT2lW0JzwUV9_6XGb8YUj8PmnVphTwqqsFyXCsvV0tHEr55P84tvEc074e_EjtmD_5n3N8S55OuoVsCdFKlIrUSPTehle8oTqh6GSgFS439f8CkbqccR9M8Yw_qzTIxeyhjUpC4bWEjPawhtAW5k3R2kyJXJ5FYlBN332KeGYEiwrw86HUwWbsCpH4X9TRaPJJWiJEJ8rAy5wELOnPwHD09Rspn5ufsadJO4zArVzfIyDat0CLbCbDAVwbXIk89v6MI-oqR0F0b6KslJhdnMB97Aja9Ke66vOAhE6Kns-OQU6dKf-3yuIQEBR4B7XMO0E5V1iSYhpPwfh6ZTFCg3OCU45DoVWjEWkFTFTYUiMchVeX8EOBqL3iM37SIwh-qOMcxR8XXhRGq_wDOSx87UKgWknz-lLri6iWc3njIEL7Jie6SfE7tWjNQ_pRWcVtcB6BY3_rADwHDFNYV9O94vjVZBdVQQGDpzUZuyTtSaXqIFQgkoDT7yMrgw7I7u60BdRdZdB9oVplpLD8PZYbAQ1yOk8JYy7sqQ8aS2ymIpoblg8kHPGQmmoTYpA2iLy2l3dqdcB3fEpUEr_V72kC0nEKXERAkwHS6Vb_8npQoztJgp0NcejkgZL9R5xuZDcverMEW5lVzE9NvQl1-JokTJzKgmzoJQwmo30kvHN9jzHlGZ70CAYln-CCei7N2aszvLi9ZEMXOOyAsX4ScjV3p7tlcgcuFRUO1IlFp0B1IciCdRg73yQUqocE7GkdW5Pp5NsUXsdcGHFLfrytQIX5EJEOgLz2R37XW0Y2D2NdfeD0yNH8NKffB21r8UmvXyb6X6oqIUdcnKdH3xuGzJWZNOgRGYg62YETxhJmdHjBhPPSyhlSo2X1tJXgEbCOsiko7YzdqAAcGNonFn&xkcb=SoDI-_M3JzdfZfg2lj0JbzkdCdPP&p=2&fvj=0&vjs=3&jsa=5086&tk=1hdjak5rpj4ih800&from=jasx&wvign=1
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL
+- ELT/ETL
+- Powershell/Bash
+- Python
+- CTEs/Subqueries 
+
+Technologies:
+- Azure 
+- Azure Synapse 
+- Azure SQL Database
+- Azure Kubernetes Service
+- Azure Container Apps
+- Azure Container Registry
+- Terraform
+- Ansible
+- Azure DevOps
+- Azure Security Center
+- Network Security Groups
+
+The job responsibilities focus on data engineering, ETL processes, Azure cloud architecture and implementation involving databases, containers and automation. Strong SQL skills are emphasized.
+
+https://www.indeed.com/rc/clk?jk=88983c081a8a400b&from=jasx&tk=1hd1fru0j2f35000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- PLC programming
+- IIOT & data systems 
+- Enterprise level SCADA systems
+- Systems thinking and big picture problem solving
+- Project and program management
+- Customer service orientation 
+- Collaboration and consensus building
+- Stress management
+- Database design principles
+- Troubleshooting 
+- Documentation
+- Test environment development
+
+Technologies: 
+- SCADA systems
+- Controls environments
+- IIOT & data systems
+- Enterprise level SCADA systems
+- Microsoft Office applications
+- Visio
+- Database design
+
+https://www.indeed.com/rc/clk?jk=107fdf5f44447f8a&from=jasx&tk=1hd6hkmagh0mj800&vjs=3
+
+ Key skills and tech extracted from the job description:
+
+Skills:
+- ETL
+- Python 
+- SQL
+- AWS (Apache Airflow, Kafka, Streaming Data)
+
+Other Tech:
+- RAPP (current vendor they are transitioning from)
+- AWS
+- Redshift
+
+https://www.indeed.com/rc/clk?jk=34d9149b4a61c486&from=jasx&tk=1hd43l8mokhqg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL
+- Python 
+- Data modeling
+- Data pipelines/ETL
+- Data transformation
+- Data quality/monitoring
+- Metadata management
+- Problem solving
+- Collaboration
+
+Technologies: 
+- BigQuery
+- dbt
+- Airbyte
+- Stitch
+- Fivetran
+- Dagster
+- Airflow 
+- dbt Cloud
+- DataHub
+- OpenMetadata
+- Looker
+- Superset
+- PowerBI
+
+https://www.indeed.com/rc/clk?jk=28162dd96d9b7a0d&from=jasx&tk=1hd1fm1o6iman800&vjs=3
+
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Data engineering 
+- ETL methodologies
+- Database management
+- Object oriented programming
+- SQL
+- Python
+- Data pipelines
+- Agile methodology
+- Data transformation
+- Data cleansing
+- Data curation
+- Data analysis
+- Data visualization
+- Workflow design
+- Documentation
+
+Tech:
+- Hadoop
+- Spark  
+- Java
+- Python
+- R
+- Elasticsearch
+- Palantir Foundry
+- Relational databases
+- Apache Spark
+- Big data processing
+- Distributed computing frameworks
+
+https://www.indeed.com/rc/clk?jk=5bcbbacaaee9d357&from=jasx&tk=1hd1fm1o6iman800&vjs=3
+
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- 10+ years of IT experience focusing on enterprise data architecture and management  
+- 8+ years experience in Conceptual/Logical/Physical Data Modeling & expertise in Relational and Dimensional Data Modeling
+- Advanced level SQL experience
+- Experience leading and architecting enterprise-wide data initiatives
+- Experience with large-scale, high-performance enterprise big data applications
+
+Technologies: 
+- Databricks
+- Spark
+- PySpark
+- AWS (S3, Lambda, DynamoDB, Kinesis, CloudWatch)
+- ETL/ELT tools (SSIS, Pentaho, Data Migration Services)
+- Python
+- Data quality tools (Great Expectations)
+- Docker
+- Jenkins
+- Confluent/Kafka
+- Schema Registry 
+- ksqlDB
+- SQL
+- JSON
+
+https://www.indeed.com/rc/clk?jk=c1dc76acaaac3b9b&from=jasx&tk=1hd1ft1i8joou800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data infrastructure and architecture
+- Data analysis and visualization 
+- Project management
+- Strong communication skills
+- Cross-functional collaboration
+
+Technologies: 
+- Spark/Scala
+- Java 
+- Hadoop/HDFS
+- AWS/S3
+- Cassandra
+- Kafka
+- SQL and NoSQL databases
+- Tableau
+- Power BI
+- Python
+
+The role involves working with large volumes of data from various sources, designing and building data pipelines, ensuring data quality, collaborating with other teams, and analyzing/visualizing data to provide insights. Experience with distributed data processing, data modeling, cloud technologies and visualization tools is required.
+
+https://www.indeed.com/rc/clk?jk=0e319a6994ef9d47&from=jasx&tk=1hd6hi1iggaj8801&vjs=3
+
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Data engineering 
+- ETL processes
+- Data pipelines
+- SQL
+- Machine learning ops (ML Ops)
+- Project management
+- Communication
+
+Technologies:
+- AWS (required experience): S3, EC2, EMR, Redshift, Glue, etc. 
+- Databases: PostgreSQL, graph databases (required experience)
+- Data storage: Multi-modal databases 
+- Data processing: Spark, distributed computing frameworks
+- Programming languages: Python
+- Data science: Pandas, SQLAlchemy, sklearn, Spark ML
+
+The role requires building scalable data pipelines and systems to ingest and integrate both structured and unstructured data at scale using AWS services. Experience with SQL, databases, machine learning ops, and AWS are the key technical requirements.
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D6GBkCh8qDOKp8Q8Je90DE9vUrmQqPUpTEHGF5kpqBlXdYvOV26Rfr3QQlsqhJNC2ByknejdY85tMHZqy12fKI9ayhdlRi_QvXMWCU0S-2wD8aryJK1JQi64fHaArw_PYN8ZT9U1TFXyL5GYHNm8xzyJuXSxjj328Ku3Hp4jtKKPp1B_T69CJsLLorPkNxEdqhO8lp64dxjBkc-W5R-qrpgUOyo1pUthWww_0DjuxxF2qtA-Ba0hzu-flPJ4Ti2SGnGXGDXcCpD64nmCtLRvk7YRw8YlIDd8WcWkjHkzUQWi7n0sjP6a-1-KG5LeKTkqlaS8SjRSsOlnb3SukYFIlnW_aLr6wwVsKmis96mQvOEiOgNVDOu3JgvN3CnQS7mZxWx8n2uClGC6W2qgu600TKAjLWih5f6RhVWdNMnTPrec4Ma8ZSaBt4PMDzFWjwFsKiS_e5F6be8zuNmResm7D7X_uvNvT8NzzBiJHnPM3xngqloNsIBltB98JJTjvc1uCC7JUAU7wqRmniLqUNkuon9kr0h1N4YAOLgfdXyxbLO-oIz7e2Ew13vNwlwF6U6eATLCRmUX4Ma7g9NEP1fsD3&xkcb=SoCj-_M3JmrH7SxcpR0PbzkdCdPP&p=4&fvj=1&vjs=3&jsa=7574&tk=1hd6hi1iggaj8801&from=jasx&wvign=1
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software development 
+- Data modeling
+- Data mapping
+- SQL optimization
+- Python programming
+- Architecture design
+- Scripting (Perl, Shell scripting)
+- Systems integration
+- ETL development
+- Requirements analysis 
+- Technical specification writing
+- Project leadership/mentorship
+
+Technologies: 
+- Amazon Web Services (AWS)
+- Informatica (PowerCenter, Big Data Management Solution) 
+- Redshift
+- Oracle
+- Postgres
+- Python
+- Linux/Unix
+- Windows 
+- Autosys
+- Hive
+- HBase
+- Pig
+- Cassandra 
+- MongoDB
+
+https://www.indeed.com/rc/clk?jk=7dba33f9aebd660e&from=jasx&tk=1hd1g40sjjm7l801&vjs=3
+
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- SAS programming 
+- SAS macro utilization
+- SQL
+- Data engineering
+- Data analytics
+- Tableau dashboard development
+
+Tech:
+- SAS
+- SQL with experience in multiple database management systems 
+- Tableau
+
+https://www.indeed.com/rc/clk?jk=30b006781edd63e6&from=jasx&tk=1hd445crtikef800&vjs=3
+
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Python
+- Spark/PySpark
+
+Technologies: 
+- AWS- EMR (Amazon Web Services - Elastic MapReduce)
+
+https://www.indeed.com/rc/clk?jk=d51b9af24af3140d&from=jasx&tk=1hd6h77l0ihna800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering
+- Data warehousing
+- ETL/ELT processes  
+- Data analytics
+- Data visualization
+- Database architectures
+- Building data pipelines
+- Translation of data into insightful dashboards
+- AWS services like Redshift, Glue, Lambda, Athena, Quicksight
+- Extracting and ingesting data from various sources using AWS Glue, AppFlow, Lambda etc.  
+- CloudFormation, Terraform, CDK
+- CloudWatch, CloudTrail, Secrets Manager, KMS
+- Working with unstructured and semi-structured data in a data lake environment
+
+Technologies:
+- AWS Redshift
+- Amazon Quicksight or similar business intelligence tool
+- AWS Glue
+- Lambda  
+- Step Functions
+- Event Bridge
+- CloudFormation
+- Terraform
+- CDK
+- CloudWatch
+- CloudTrail
+- Secrets Manager  
+- KMS
+
+https://www.indeed.com/rc/clk?jk=60ee2be8d11b8703&from=jasx&tk=1hd1g5htglell801&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Cloud data engineering
+- ETL process design and development 
+- Data warehouse design, development and testing
+- SQL and data modeling
+- Requirements gathering
+- Database performance analysis and optimization
+- Data integration and APIs
+- Agile project management
+
+Technologies: 
+- Informatica Cloud IDMC (batch and real-time integration)
+- Snowflake
+- SQL Server
+- Git 
+- Informatica Cloud Data Governance/Data Catalog
+- XML, CSV, JSON
+- Java
+- HTTP, JMS, JDBC, REST, SOAP, Web services
+- Microsoft Office and Office 365
+
+Certifications:
+- Informatica Certified Professional (ICP)
+- Snowflake SnowPro Certification
+
+https://www.indeed.com/rc/clk?jk=94d26c8b78c2188d&from=jasx&tk=1hd6hi1iggaj8801&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- SQL
+- Python
+- Data pipelines design and development
+- Data analytics
+- Problem solving
+- Troubleshooting
+- Communication
+- Collaboration
+
+Technologies: 
+- Airflow
+- Dagster
+- Snowflake
+- AWS (S3, EC2, ECS)
+- MongoDB
+- Voter file data
+
+https://www.indeed.com/rc/clk?jk=1f74a01d7a395286&from=jasx&tk=1hd1g3s5pjfnq801&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Team environment
+- Strong work ethic
+- Excellent time management 
+- Excellent communication
+- Leadership
+
+Technologies:
+- SQL
+- Python
+- Unix scripting
+- Object-oriented programming
+- ETL tools 
+- Hadoop
+- Azure
+- MS Office
+
+https://www.indeed.com/rc/clk?jk=5de691f5f49787f9&from=jasx&tk=1hd6h6bheiolg800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Python development
+- PySpark in AWS Cloud environment
+- Data engineering
+- Data analytics 
+- Data quality
+- Machine learning
+- Data acquisition
+- Data visualization
+- SQL (Oracle, SQL Server)
+- Complex query writing and optimization
+- Debugging  
+- Documentation and training
+- Agile methodologies (Scrum)
+- Project management
+- Stakeholder communication
+- Prioritization and problem solving
+- AWS services (Databricks, AWS Glue, Athena, S3, Redshift, API Gateway, Lambda)
+
+Technologies: 
+- Informatica
+- Databricks
+- AWS
+- Apache Spark
+- ETL tools
+- Source control (GitHub, Bitbucket)  
+- Jenkins
+- Terraform
+- Jira
+- Confluence
+- SAP
+- Siebel
+- JDE
+- BAAN
+- Kafka
+- Kinesis
+
+https://www.indeed.com/rc/clk?jk=aeeb71d0cc5d40c9&from=jasx&tk=1hdjagqsjjgbm800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data loss prevention 
+- Cloud security
+- Vulnerability assessment
+- Information protection
+- Data classification
+- Networking
+- Infrastructure 
+- Troubleshooting
+- Relationship building
+- Problem solving
+- Project execution
+
+ Technologies:
+- Data Loss Prevention Platform
+- DLP
+- Data security  
+- Encryption
+- CASB
+- Cloud (AWS, Azure, GCP)
+- Microsoft 365
+- Azure Information Protection
+- Vulnerability assessment tools
+- IDS/IPS
+- Firewall 
+- SIEM
+- Log aggregation
+- Networking protocols (OSPF, BGP, etc.)
+- IAM technologies (AD, AAD, SAML, OAuth, LDAP, Kerberos, OpenID)
+- Access control (RBAC, MFA)
+
+https://www.indeed.com/rc/clk?jk=3d3d61d35b4b3598&from=jasx&tk=1hd6hi1iggaj8801&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering
+- ETL process development and maintenance  
+- Data cleaning and validation
+- Data integration
+- SQL optimization
+- Documentation  
+- Problem solving
+- Communication
+- Data schemas
+- Data quality and integrity issues
+
+Technologies:
+- Segment (Customer Data Platform)
+- BigQuery
+- MySQL 
+- Google Cloud Platform (GCP), particularly BigQuery and Google Analytics 4
+- Python
+- R
+- JavaScript 
+- PHP
+- SQL
+
+https://www.indeed.com/rc/clk?jk=0213c2c18b4e7a68&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Hands-on engineering experience 
+- Automation
+- Troubleshooting production issues
+- Decision making, especially under pressure
+- Strong communication skills
+
+Technologies:
+- Cassandra 
+- ElasticSearch
+- Kafka
+- Zookeeper
+- Spark
+- Large scale datastores
+- Linux environments
+- Cloud (Amazon Web Services experience mentioned)
+- Information security experience preferred but not required
+
+So in summary, the role involves maintaining and automating large distributed data systems using Cassandra, Elasticsearch, Kafka and related technologies in a cloud/AWS environment at global cybersecurity leader CrowdStrike. Strong troubleshooting, communication and decision making skills are also emphasized.
+
+https://www.indeed.com/rc/clk?jk=86616a549b160eb2&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3
+
+ Here are the specific skills and tech mentioned in the job description:
+
+Mandatory Tech:
+- GCP 
+- Data Warehousing
+- GIT
+
+Core Tech: 
+- Airflow 2years
+- Python - 3 Years
+- SQL
+- Spark - 3 Years
+- ETL
+
+Experience:
+- Informatica: 5 years (Preferred)
+- SQL: 6 years (Preferred) 
+- Data warehouse: 7 years (Preferred)
+
+https://www.indeed.com/rc/clk?jk=879c5ddd69953e54&from=jasx&tk=1hd1ft2vcjooh800&vjs=3
+
+ Based on the job description, here are the key skills and technologies:
+
+Skills:
+- Data extraction
+- Data pipeline design and workflow development 
+- Analyzing large datasets from multiple sources
+- Data validation
+- SQL/Hive queries writing
+- Python coding
+- Problem solving
+
+Technologies: 
+- Big data tools: Hive, HQL, PySpark
+- Hadoop ecosystem: HDFS, Spark  
+- Cloud: GCP services - BigQuery, Airflow, Dataflow, Beam
+
+https://www.indeed.com/rc/clk?jk=010e5918b2aaef6d&from=jasx&tk=1hdjafq3r2cc7000&vjs=3
+
+ Here are the relevant skills and tech mentioned in the job description:
+
+Skills:
+- Strong analytical skills 
+- Data modeling
+- Statistical analysis
+- Data collection and organization
+- Trend analysis
+- Data reporting
+- Communication skills
+
+Tech:
+- SQL 
+- NoSQL
+- Microsoft Azure (Cosmos DB, Data Factory, Synapse, Databricks)
+- Python
+- Spark
+- Kafka
+- Google Cloud Platform
+- SSAS/Tabular models
+- Power BI
+- Dataflows
+- DAX
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0C5IatSLh_Ak1q39eQQoPIxD737RW9NeiYGvIRXkrLjEBkC4LI6KweFMaB7igpdWMnsfRNLm1L2W8cPynQETfxrnswXwUz4DZXw4wzfB0OLKSrFPihfr1OM4maBMIYGBI3H9c6yqOrdJ66gAQt039hSSqL5ecKg-NpGiIIoTi_VN_JTHfg9E7I7GzPN-5w0CR9ru4g7gZUhDAh-r8zgCO_Oc_hnM8zcbzwpeoWBaPoxPMZc74lOQN7-3vT2v2LvwEA5ZeLMMci97VSugvfgvcH2FI32rUmQPv7YEvq8_eWL4R7nBibXozPzOUG43LFltBJkWZ9aTpekVs05N23Q0o8Vg-IquasFPHlkPH9TWQUCSd141JTCmmxwDPBZFNiL8BaZoyqxTH1Kv9I6wJ9e31r7iXga5wYzeYLGTFd9SqPMtL0TJMcYMv1QXHRjIkL7d4vUbgMrLOs45Ma4Ulk5H4s1dzkyQhwd0lZJPyUx-y9_TxZf-HyJkd0TRzPayI5L6suq2mWxRwc-9SAUHRo514reIGcbpCkvjltdIfwWy-ViQXVuGeXME293jf5Nri55BtQHPel8ILKKJEbuv8I-puJrQUvkxx68HonsS6m9QRyAmIHiXfVUDCmcBEsR13nKPDeciEcaGb4VZUnt-s-wfC30iFXHtZeRsOscqv9GyuF-KbyveAzLoDA_kxmowVH9OevfyX_bjz9OPTEIPv2nDcL4&xkcb=SoD8-_M3JkAPCWRkDx0FbzkdCdPP&p=14&fvj=0&vjs=3&jsa=2411&tk=1hd4406f5kf31800&from=jasx&wvign=1
+
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Data Engineering
+- Enterprise Data Warehousing Concepts 
+- Pyspark
+- Python
+- Agile/Scrum
+
+Technologies:
+- Azure Data Factory (ADF)
+- Azure Databricks
+- PySpark
+- Python
+- Snowflake (preferred)
+- Kafka (preferred) 
+- Elastic Search (preferred)
+
+https://www.indeed.com/rc/clk?jk=117f6275ba0a1edd&from=jasx&tk=1hd1g5htglell801&vjs=3
+
+ Here are some of the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Software engineering
+- Machine learning/artificial intelligence
+- Data architecture
+- Algorithm design
+- AWS/cloud computing
+- Programming (Python, Scala, Java)
+- SQL
+- Source control/Git
+- Continuous integration/deployment
+
+Technologies: 
+- AWS (EMR, S3, Kinesis, Redshift, Athena)
+- Data warehouses (Snowflake, Teradata)
+- Databricks
+- Python
+- Workflow scheduling (Airflow)
+
+https://www.indeed.com/rc/clk?jk=8d140012013c13d1&from=jasx&tk=1hdjagqsjjgbm800&vjs=3
+
+ Here are the technical skills and platforms extracted from the job description:
+
+Skills:
+- Data Engineering
+- Matillion 
+- SQL
+- Python or Java
+- Data analysis
+
+Technologies/Platforms:
+- Data pipelines
+- ETL
+- Cloud platforms
+- Snowflake (preferred cloud data warehouse)
+- SAP Business Objects Data Services (ETL tool)
+- Tibco data virtualization
+- Python or Java development
+- SQL
+
+So in summary, the main technical skills are in data engineering, ETL processes, SQL, and Python or Java development. The job also involves working with cloud platforms like Snowflake, as well as tools like Matillion, SAP BO Data Services, and Tibco.
+
+https://www.indeed.com/rc/clk?jk=5b050846e01d4f3b&from=jasx&tk=1hdjagu34k269800&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software development 
+- System integration
+- Team collaboration
+- Debugging
+- Critical thinking
+- Creative problem solving
+
+Technologies:
+- Java
+- Python 
+- JavaScript
+- HTML5
+- Operating systems: Windows, RedHat Linux
+- Development tools: Eclipse, IntelliJ
+- Agile methodologies: Scrum
+- Databases: JDBC
+- Interface development: JavaScript, JSON, HTML5, CSS, AJAX, JQuery
+- Debugging tools
+
+https://www.indeed.com/rc/clk?jk=8b7d96de56a29c5d&from=jasx&tk=1hd1fvosi2gtk000&vjs=3
+
+ Here are some relevant skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data modeling
+- Developing data pipelines
+- Ensuring data quality
+- Improving performance of data/analytics infrastructure
+- Collaborating with backend engineering and data teams
+- Communicating data and metrics
+- Experience working in cloud environments like GCP, AWS, Azure
+- Experience with DBT or similar data frameworks
+- Experience helping organize disparate data needs into a consistent system
+- Data modeling and creating data pipelines
+
+Technologies:
+- Google Cloud Platform tools and services
+- Database tools (DBT mentioned specifically)
+- Cloud platforms like AWS, Azure
+
+https://www.indeed.com/rc/clk?jk=2ea2f8e64c5398d4&from=jasx&tk=1hd95mfqo28gs002&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL/ELT processes
+- Python
+- SQL
+- Data modeling
+- Data migration
+- Azure
+- Databricks
+- Jira
+- Github
+- Big data technologies (Hadoop, Spark, Kafka)
+
+Technologies:
+- Azure
+- Databricks 
+- Python
+- SQL
+- Jira
+- Github
+- Hadoop
+- Spark  
+- Kafka
+- Event Hubs
+- PySpark/Python/Scala
+- Delta Live Tables
+
+https://www.indeed.com/rc/clk?jk=de1f69845d4ad405&from=jasx&tk=1hd43k4db21ci002&vjs=3
+
+ Here are the relevant skills and technologies extracted from the job description:
+
+Skills:
+- 5+ years of Data Engineering experience
+- 3+ years of writing SQL experience against complex databases for data extraction  
+- 3+ years of experience working on Spark (RDDs / Data Frames / Dataset API) using Scala/Python to build and maintain complex ETL pipelines
+- 3+ years of Python coding experience, familiar with utilizing packages such as pandas, boto3, requests, json, csv, os
+- Experience with GitHub, Code check-in, versioning, Git commands
+- Introduce and drive adoption of CI/CD framework within the team and build/deploy CI/CD Pipelines using Terraform or AWS Cloud Formation
+- Experience with visualization tools such as Tableau, Looker or PowerBI to build dynamic/scalable dashboards and reports.
+- Strong analytical and interpersonal skills
+- Knowledge or experience within Talent/People analytics is a plus
+- Enthusiastic, highly motivated and ability to learn quickly.  
+- Able to work through ambiguity in a fast-paced, dynamically changing business environment.
+- Ability to manage multiple tasks at the same time with minimal supervision.
+
+Technologies:
+- AWS Athena (Presto), Databricks Delta Lake, Data Modeling & Data warehousing  
+- Spark (RDDs / Data Frames / Dataset API) using Scala/Python
+- Parquet and Avro
+- AWS services including Glue, Athena, Lambda, S3, SNS, SQS, Cloud formation, Step Functions, Serverless architecture.
+- Terraform or AWS Cloud Formation
+- Tableau, Looker or PowerBI
+
+https://www.indeed.com/rc/clk?jk=623c55b56f304bb5&from=jasx&tk=1hd1g2npm2f32000&vjs=3
+
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- SQL development (ETL transformations, stored procedures)
+- Data modeling
+- Data governance
+- Data security
+- Spark/PySpark
+- Data pipeline development and optimization
+- Troubleshooting 
+- Documentation
+- Mentoring 
+
+Technologies:
+- Azure
+- Databricks
+- Lakehouse 
+- PySpark
+- SQL
+- Delta Live Table
+- Unity Catalog
+- NoSQL
+- Blob storage
+- CSV, TSV, Parquet, JSON
+
+https://www.indeed.com/rc/clk?jk=75fadf29bd2cd624&from=jasx&tk=1hd1ft1i8joou800&vjs=3

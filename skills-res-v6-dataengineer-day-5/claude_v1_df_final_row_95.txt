@@ -1,0 +1,33 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software development 
+- Data modeling
+- Data mapping
+- SQL optimization
+- Python programming
+- Architecture design
+- Scripting (Perl, Shell scripting)
+- Systems integration
+- ETL development
+- Requirements analysis 
+- Technical specification writing
+- Project leadership/mentorship
+
+Technologies: 
+- Amazon Web Services (AWS)
+- Informatica (PowerCenter, Big Data Management Solution) 
+- Redshift
+- Oracle
+- Postgres
+- Python
+- Linux/Unix
+- Windows 
+- Autosys
+- Hive
+- HBase
+- Pig
+- Cassandra 
+- MongoDB
+
+https://www.indeed.com/rc/clk?jk=7dba33f9aebd660e&from=jasx&tk=1hd1g40sjjm7l801&vjs=3

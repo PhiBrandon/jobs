@@ -1,0 +1,22 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data architecture, design and solution delivery
+- AWS data architecture, design and data modeling
+- Data analytics and visualization 
+- ETL tools
+- Statistical analysis
+- Data governance
+- Collaboration
+- Communication
+- Problem solving
+
+Technologies: 
+- AWS (S3, Redshift, Spark, etc.)
+- Hadoop
+- Hive  
+- Microsoft SQL
+- NoSQL
+- Data visualization and business intelligence tools
+
+https://www.indeed.com/rc/clk?jk=51e0161aa5f1d9c6&from=jasx&tk=1hd95ff4chbht800&vjs=3

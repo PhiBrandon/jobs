@@ -1,0 +1,22 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- SQL
+- Python
+- Data pipelines design and development
+- Data analytics
+- Problem solving
+- Troubleshooting
+- Communication
+- Collaboration
+
+Technologies: 
+- Airflow
+- Dagster
+- Snowflake
+- AWS (S3, EC2, ECS)
+- MongoDB
+- Voter file data
+
+https://www.indeed.com/rc/clk?jk=1f74a01d7a395286&from=jasx&tk=1hd1g3s5pjfnq801&vjs=3

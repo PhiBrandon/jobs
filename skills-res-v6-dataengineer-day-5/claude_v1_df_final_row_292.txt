@@ -1,0 +1,19 @@
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data engineering 
+- Data pipeline design and development
+- Database management
+- Python programming
+- SQL
+- Data visualization
+- Machine learning
+- AWS or GCP cloud technologies
+
+Technologies: 
+- Python
+- SQL
+- AWS or GCP cloud platforms
+- Data visualization and business intelligence tools
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DiMBqcaSMT8lrn_viPgFID_2aewekq0duxyJS2DdWDl6I0UnuoC7mcAdBs-ATn3cQJhn9CDpXovvb6u4GJHRkUdRUIl9WrtWgcaow6jx8ZQ5SWEu_BoYpajof4D9BgI_-yNKjetw9dzBzmkelwLh0MHZlaNz217eTFWNDYV0qnNe01DysLUiwRut5zEeZXmZ1SqpZoykhWwRChAftiz-Unw7e5YdqDk07OQ-6aP5jOEU0qcd7q17d_UI6hlBJe0HsWrP_0SJpi_ry8UddCuYuDnMGZFeG5RRjbxEiCiFg8StOx4NsAbIozMotUTX6VTTmW5eFepaevr46ZLbo3yj6uUhDIR55G3OHQEFglQJ_Kn2_WgHaecOE9gNdITTqAgCFwpWpBuIsmFIsFsDoby-JRrkLb0R8aFxhGVfP_591os19rPAT1xQ_2Fj9CUtgpPKRRDV40EGUB_1Jgoy7UWWeq6M6EEoLha3H-JpIHKMbhNZu6VyDGwae0xEXe-nNkRB42LakC32AxIpXWgvD_6VK1o_AtzQ3dE94yU_YZRn0v9lfvaCNEUyxrP8WZTojmP7l7FYc8WdomRhRFibUix8xKtsJUXTepR-Q2tRL0JEM0QA%3D%3D&xkcb=SoBw-_M3JmrH7SxcpR0GbzkdCdPP&p=13&fvj=1&vjs=3&jsa=7574&tk=1hd6hi1iggaj8801&from=jasx&wvign=1

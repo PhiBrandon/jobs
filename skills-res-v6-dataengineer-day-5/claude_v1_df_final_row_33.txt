@@ -1,0 +1,29 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Python 
+- PostgreSQL
+- Elasticsearch
+- HTML/CSS/JS
+- Problem solving
+- Attention to detail
+- Ability to work independently and collaboratively
+- Documenting architecture, software and features
+
+Technologies:
+- Django
+- Distributed systems
+- Web crawling  
+- Web services
+- Workflow systems (Temporal, Airflow)
+- Distributed databases (Cassandra, Scylla)
+- Hadoop
+- Ansible
+- GitLab
+- GitHub
+- Sentry
+- Grafana
+- JIRA
+- Linux (experience with Ubuntu)
+
+https://www.indeed.com/rc/clk?jk=438a072845b56b63&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3

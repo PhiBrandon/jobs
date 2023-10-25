@@ -1,0 +1,25 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Strong communication skills
+- Strong analytical skills 
+- Research skills
+- Software engineering skills
+- Organization and time management skills
+- Adaptability
+- Collaboration skills
+
+Technologies/Tools:
+- Python 
+- Java
+- Unix/Linux environments
+- Git
+- JavaScript
+- Typescript
+- React
+- REST APIs
+- Data architectures (data mesh, data fabric, data pipelines, etc.) 
+- Cloud technologies (Docker, Kubernetes, etc.)
+- Unit/integration testing
+
+https://www.indeed.com/rc/clk?jk=cbd644ff80fc0c98&from=jasx&tk=1hd6hkmagh0mj800&vjs=3

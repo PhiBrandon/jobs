@@ -1,0 +1,24 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Object-oriented software design and patterns
+- Distributed systems design
+- Software development lifecycle 
+- Testing/test automation
+- Problem solving
+- Communication
+- Mentoring
+
+Technologies:
+- Java
+- Spring framework  
+- Oracle DB
+- NoSQL databases
+- RESTful APIs
+- Relational and document databases
+- Node.js
+- KV and graph databases
+
+The role involves designing scalable distributed systems for eBay's data infrastructure and media platforms. Technologies include Java, databases like Oracle DB and NoSQL, REST APIs, and frameworks like Spring. Experience with distributed systems, software design patterns, testing and the full development lifecycle are required.
+
+https://www.indeed.com/rc/clk?jk=dbbbf7562df97384&from=jasx&tk=1hd95ff4chbht800&vjs=3

@@ -1,0 +1,26 @@
+ Here are the main skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data platform development
+- Data modeling
+- ETL processes
+- Data integration techniques
+- Data governance
+- Data security
+- Problem solving
+- Communication
+- Collaboration
+
+Technologies: 
+- Cloud platforms: AWS, Azure, Google Cloud
+- Cloud data services
+- Kafka
+- Airflow
+- Spark  
+- Trino
+- Ranger
+- Containerization: Docker, Kubernetes
+- Programming languages: Python, Java, Rust, C, Go
+
+https://www.indeed.com/rc/clk?jk=77845bc5ebc6aae6&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

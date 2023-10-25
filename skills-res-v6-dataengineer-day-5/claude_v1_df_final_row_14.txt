@@ -1,0 +1,23 @@
+ Based on the job description, here are the key skills and technologies extracted:
+
+Skills:
+- ETL development 
+- Data modeling
+- SQL
+- Python programming
+- Data engineering
+- Data analysis 
+- Power BI
+- Database administration
+- Data integration
+- Data warehousing
+
+Technologies:
+- Microsoft SQL Server 
+- Microsoft SQL Server Integration Services (SSIS)
+- Microsoft Azure (Data Factory, SQL Data Warehouse, Data Lake, etc.)
+- Python
+- Microsoft Power BI
+- Relational and non-relational databases (SQL Server, PostgreSQL)
+
+https://www.indeed.com/rc/clk?jk=e1d633e960423d61&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

@@ -1,0 +1,31 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data warehousing design and development
+- Building data pipelines 
+- Data modeling (Dimensional modeling)
+- Advanced SQL
+- Python/Snowpark(PySpark)/Scala
+- Machine learning libraries
+- ETL tools (Matillion, Fivetran, Talend preferred)
+- Data transformation tools (DBT)  
+- AWS services (EC2, S3, Lambda, Glue)
+- CI/CD processes and git versioning
+- Data orchestration tools (Apache Airflow, Prefect)
+- Data visualization (Tableau, Power BI)
+- Analytical skills
+  
+Technologies: 
+- Snowflake
+- Python
+- Spark
+- Scala
+- AWS
+- Matillion
+- DBT
+- Tableau
+- Power BI
+- Apache Airflow
+- Prefect
+
+https://www.indeed.com/rc/clk?jk=211c5cd9297af263&from=jasx&tk=1hd1g2npm2f32000&vjs=3

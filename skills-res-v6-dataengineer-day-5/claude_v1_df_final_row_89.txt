@@ -1,0 +1,20 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL
+- Data modeling
+- ETL/ELT processes 
+- Data warehousing
+- Data pipelines
+- Data visualization (Power BI, Tableau)
+- Analytics
+- Problem solving
+- Troubleshooting
+
+Technologies:
+- MS SQL Server
+- Snowflake
+- ETL/ELT tools (Mulesoft, Informatica, APIs)
+- Data visualization tools (Power BI, Tableau)
+
+https://www.indeed.com/rc/clk?jk=7a36e7ca655affdd&from=jasx&tk=1hd1g2npm2f32000&vjs=3

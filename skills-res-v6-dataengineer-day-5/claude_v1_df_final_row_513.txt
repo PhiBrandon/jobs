@@ -1,0 +1,25 @@
+ Based on the job description, here are some key skills and technologies:
+
+Skills:
+- Data engineering 
+- Data warehousing
+- Data analysis
+- SQL
+- Python
+- Java
+- Data modeling
+- ETL processes
+- Statistical analysis
+- Machine learning
+- Communication
+- Problem solving
+
+Technologies:
+- AWS (Amazon Web Services) platform
+- AWS services: Glue, Matillion, Kinesis, Lambda, Step Functions, S3, RDS, Redshift, Neptune, Athena, QuickSight, EMR
+- Hadoop, Spark, Kafka (big data technologies)  
+- Security best practices: IAM, KMS, Cognito
+- DevOps tools like Git
+- Machine learning technologies: SageMaker, Forecast
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BjCBRdhP65IZiSCQvFiT0PZro7cNEJWrEbXymqjdX66e9d72a1Jy_HOjQ52dpIL8AkgL1yEfv-9JIZeBJ9C14brnAEGLkO6K6sWaedQUVCxnbMIJaVDUIPh8mfT27FARVBODpbAVwSfmy_zrADg15OsjE8M-IxUfpX_GdsWbCFj2i6C6Gpz9S0bMQmkU7w4RjUCCQp1MqPA86CVgH6wITZ3LRx5y2hohzytIdTLzym3nburhq0kVMPFCrwJwIN7WIeTm56kEHGhkZyL4Y021zCmgJi8G0sIz4U4czm1nMtOAbNcYU4oWKHmvYOm-DnA256d24euN8CK3EJdO4P_Xsc-1kRiup4cPcyxF5kCsKL-qO0-ylsrozwg_1FZ9yfP_7bxov8Kzr--8cboQNkNUBej8uVzuAXNslbHp_tLuuZETZCXhiIwCbdYJx36wZ7tl2CfZ4Yq79RKQeEMi1LIA-zR01qSoQa8RIL74YQmtrmyoyVGEGIZcWCMWdHbYeE8zwtAjhE3l6UgyCxUxz8-8tZmVgBQ-Kg6M3MMZB8Qt4oH4V8KDp2XnTPYPOroF47bG9WQ7kQCggiIwbqjbZT8kXDjqk8NIQt7Gf8fGAabCQ26DHLTKH8Zok2&xkcb=SoDC-_M3JzdhoWwdyR0CbzkdCdPP&p=9&fvj=1&vjs=3&jsa=8644&tk=1hdjarjmuje3s800&from=jasx&wvign=1

@@ -1,0 +1,22 @@
+ Here are some of the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Software engineering
+- Machine learning/artificial intelligence
+- Data architecture
+- Algorithm design
+- AWS/cloud computing
+- Programming (Python, Scala, Java)
+- SQL
+- Source control/Git
+- Continuous integration/deployment
+
+Technologies: 
+- AWS (EMR, S3, Kinesis, Redshift, Athena)
+- Data warehouses (Snowflake, Teradata)
+- Databricks
+- Python
+- Workflow scheduling (Airflow)
+
+https://www.indeed.com/rc/clk?jk=8d140012013c13d1&from=jasx&tk=1hdjagqsjjgbm800&vjs=3

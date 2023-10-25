@@ -1,0 +1,18 @@
+ Here are some key skills and technologies extracted from the job description:
+
+Skills:
+- Experienced in operating and improving the reliability of data storage and processing systems (relational databases, data warehouses, data lakes and distributed processing systems) 
+- Understanding of stream processing and operating streaming solutions (using Kafka/Kinesis or similar)
+- Experience in planning, provisioning, scaling and maintaining reliable data processing systems in AWS or GCP
+- Comfortable with Python and experience maintaining ETL jobs using Airflow or similar
+- Eager to learn more and loves trying out new solutions independently
+
+Technologies: 
+- AWS data ecosystem: Amazon Aurora MySQL, DocumentDB/MongoDB, OpenSearch/ElasticSearch, Redshift, Glue/Spark, MSK/Kafka, Kinesis, Debezium, S3/Apache Hudi, MWAA/Airflow
+- Kafka/Kinesis
+- Terraform/Ansible
+- Python
+- Airflow
+- AWS or GCP
+
+https://www.indeed.com/rc/clk?jk=c7bdf04e7b7bd148&from=jasx&tk=1hd1fvosi2gtk000&vjs=3

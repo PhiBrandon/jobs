@@ -1,0 +1,20 @@
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Strong AWS skills: S3, RDS, EC2, Lambda, SQS, SNS, Redshift
+- Java 
+- Python
+- Database experience with Oracle and Postgres
+
+Technologies:
+- AWS 
+- Lambda
+- SQS
+- SNS
+- Redshift
+- Java
+- Python
+- Oracle
+- Postgres
+
+https://www.indeed.com/rc/clk?jk=6154aa92888e85ea&from=jasx&tk=1hd1ft1i8joou800&vjs=3

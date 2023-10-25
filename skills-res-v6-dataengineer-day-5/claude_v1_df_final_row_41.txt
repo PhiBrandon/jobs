@@ -1,0 +1,27 @@
+ Here are some key skills and technologies extracted from the job description:
+
+Skills:
+- Statistical modeling 
+- Machine learning
+- Econometrics
+- Data mining
+- Data visualization
+- SQL
+- Data analysis
+- Model optimization
+- Experiment design
+- Communication
+- Collaboration
+
+Technologies: 
+- Python
+- AWS (cloud environment)
+- MLOps frameworks
+- Git (source code control)
+- PowerBI (business intelligence)
+- A/B testing
+- Agile development
+
+The position involves skills like statistical modeling, machine learning, data mining to analyze large datasets and build predictive and prescriptive models. Technologies mentioned include Python, AWS cloud, MLOps, Git, PowerBI for data visualization and analytics. Experience with A/B testing, cloud environments, SQL and collaboration in an agile setting are also called out.
+
+https://www.indeed.com/rc/clk?jk=8205e7f76522b355&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

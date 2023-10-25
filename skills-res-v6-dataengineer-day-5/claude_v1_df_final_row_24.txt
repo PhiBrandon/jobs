@@ -1,0 +1,24 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software development 
+- Data engineering
+- Data science
+- Communication skills
+- Documentation
+- Troubleshooting
+- Customer support
+
+Technologies:
+- Python
+- NodeJs 
+- Typescript
+- Databases: MongoDB, DynamoDB, NoSQL
+- AWS
+- Google Cloud
+- Azure
+- Pandas
+- PyTorch 
+- PySpark
+
+https://www.indeed.com/rc/clk?jk=4eb3da80458c4c7f&from=jasx&tk=1hd1fpkd42j42000&vjs=3

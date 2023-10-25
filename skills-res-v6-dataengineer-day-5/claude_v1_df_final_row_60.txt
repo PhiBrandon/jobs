@@ -1,0 +1,23 @@
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data engineering
+- Power BI 
+- Azure cloud platform
+- Data modeling
+- ETL/ELT tools (Azure Data Factory, AWS Glue, Talend, EAI)
+- Visualization tools (Power BI, Tableau, Qlik, Cognos TM1) 
+- Programming languages (Python)
+- DevOps (CI/CD)
+- Infrastructure as code
+
+Technologies: 
+- Power BI
+- Azure (Azure Data Factory, Azure Data Lake, SQL DW, SQL, Azure App Service, Azure IoT, Azure HDInsight, Azure Cosmos DB, Azure Databricks, Azure Stream Analytics)
+- AWS (S3)
+- ETL/ELT tools (Azure Data Factory, AWS Glue, Talend, EAI)
+- Relational databases 
+- Python
+- DevOps Tools
+
+https://www.indeed.com/rc/clk?jk=16c48fc80404f2f3&from=jasx&tk=1hd1ft1i8joou800&vjs=3

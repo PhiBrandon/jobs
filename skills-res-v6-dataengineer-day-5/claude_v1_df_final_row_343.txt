@@ -1,0 +1,18 @@
+ Based on the job description, here are some relevant skills and technologies:
+
+Skills:
+- Data engineering 
+- Data pipelines
+- SQL
+- Unix/batch scripting
+- Python
+- AWS
+- Agile methodologies
+- Performance optimization
+
+Technologies:
+- MySQL
+- Vertica
+- AWS (Amazon Web Services)
+
+https://www.indeed.com/rc/clk?jk=87c74988107a90d3&from=jasx&tk=1hd95bl7pje34802&vjs=3

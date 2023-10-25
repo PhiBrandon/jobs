@@ -1,0 +1,28 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Cloud data engineering
+- ETL process design and development 
+- Data warehouse design, development and testing
+- SQL and data modeling
+- Requirements gathering
+- Database performance analysis and optimization
+- Data integration and APIs
+- Agile project management
+
+Technologies: 
+- Informatica Cloud IDMC (batch and real-time integration)
+- Snowflake
+- SQL Server
+- Git 
+- Informatica Cloud Data Governance/Data Catalog
+- XML, CSV, JSON
+- Java
+- HTTP, JMS, JDBC, REST, SOAP, Web services
+- Microsoft Office and Office 365
+
+Certifications:
+- Informatica Certified Professional (ICP)
+- Snowflake SnowPro Certification
+
+https://www.indeed.com/rc/clk?jk=94d26c8b78c2188d&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

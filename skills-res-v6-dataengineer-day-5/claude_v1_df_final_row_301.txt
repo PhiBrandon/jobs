@@ -1,0 +1,39 @@
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Document capture and storage systems 
+- MS Visual Studio
+- MS.NET 
+- C#
+- ASP.NET
+- Visual Basic .NET  
+- TSQL
+- Web Services
+- Entity Framework
+- jQuery
+- Bootstrap
+- RestAPI
+- SOAP
+- SSIS
+- MS SQL Server
+- Java Script
+- XML
+- XSD
+- HTML
+- CSS
+- Written and oral communication
+
+Technologies:
+- Microsoft Windows Server 2008 and 2012
+- Kodak Scanner 4200, 1860, 5850
+- Kodak Capture Pro 4.1, 4.5, 5.4.1, 5.6
+- Document management systems
+- Electronic Document Management Systems (EDMS)
+- HealthPAS Application suite
+- Letter manager solution
+- Microsoft .NET frameworks
+- Web technologies like REST APIs, SOAP
+- Microsoft SQL Server
+- Imaging software
+
+https://www.indeed.com/rc/clk?jk=08240a66dccbc643&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

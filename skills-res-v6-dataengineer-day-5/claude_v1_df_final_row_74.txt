@@ -1,0 +1,39 @@
+ Based on the job description, here are the specific skills and technologies mentioned:
+
+Skills:
+- Software engineering
+- System design 
+- Data pipeline and architecture design
+- Scaling and performance optimization
+- Security engineering
+- System and network security
+- Authentication and security protocols
+- Cryptography
+- Problem solving
+- Communication
+
+Technologies:
+- Docker 
+- Kubernetes
+- OpenShift
+- AWS
+- GCP
+- Azure
+- Python
+- Java
+- Go
+- Rust
+- GIT
+- Jenkins
+- CircleCI
+- SonarQube
+- Terraform
+- Grafana
+- Prometheus
+
+Certifications:
+- CISSP
+- CISM  
+- CISA
+
+https://www.indeed.com/rc/clk?jk=9db0754fcf79928c&from=jasx&tk=1hd1fvosi2gtk000&vjs=3

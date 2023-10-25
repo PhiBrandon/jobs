@@ -1,0 +1,21 @@
+ Here are the key skills and technologies mentioned in the job description:
+
+Skills:
+- ETL development
+- Data integration 
+- Oracle PL/SQL development
+- Data validation
+- Data integrity testing
+- Performance tuning
+- Process documentation
+- Knowledge transfer
+
+Technologies:
+- IBM DataStage (version 8.5 and 11.7) 
+- Oracle databases
+- Red Hat Linux
+- IBM Batch scheduling tools (Automic, Control-M etc.)
+- Oracle Business Intelligence
+- PeopleSoft HR and Finance modules
+
+https://www.indeed.com/rc/clk?jk=a07bc29d201610eb&from=jasx&tk=1hdjagu34k269800&vjs=3

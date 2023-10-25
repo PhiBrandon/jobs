@@ -1,0 +1,31 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software engineering 
+- Programming (Java, Scala, Python)
+- SQL and NoSQL databases (MySQL, Oracle, PostgreSQL, MongoDB etc.)
+- Data modeling
+- Algorithms
+- Data transformation
+- Testing 
+- Problem solving
+- Attention to detail
+- Communication
+- Collaboration
+
+Technologies: 
+- Hadoop
+- Apache Hive  
+- Kafka
+- Apache Spark
+- SQL and NoSQL databases
+- BigQuery
+- Snowflake
+- Firebolt
+- Amazon Redshift
+- ETL/ELT tools
+- BI tools
+- Virtualized and containerized systems
+- Cloud technologies
+
+https://www.indeed.com/rc/clk?jk=f90735e4bc814f60&from=jasx&tk=1hd95ofc82ea2001&vjs=3

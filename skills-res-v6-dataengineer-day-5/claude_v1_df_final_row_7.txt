@@ -1,0 +1,20 @@
+ Based on the job description, here are the key skills and technologies:
+
+Skills:
+- Data modeling
+- Database design 
+- Data analysis
+- Software development
+- Security
+- Infrastructure design
+
+Technologies:
+- AWS (implied as it's an AWS data engineer role)
+- Database technologies for extracting, storing and querying data
+- Programming languages for application development
+- Security technologies
+- Infrastructure and storage technologies
+
+The job description emphasizes responsibilities related to data - modeling, maintaining integrity, analyzing for insights, and designing applications. It also mentions software development, security, and infrastructure design skills. Being an AWS data engineer role, AWS services would be the implied technology platform. Databases, programming languages, and security/infrastructure tools would need to be understood based on the tasks described.
+
+https://www.indeed.com/rc/clk?jk=77f1038f4ded6818&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

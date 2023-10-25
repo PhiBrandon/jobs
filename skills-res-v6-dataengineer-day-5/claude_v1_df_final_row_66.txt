@@ -1,0 +1,27 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- SQL development (ETL transformations, stored procedures)
+- Data modeling
+- Data governance
+- Data security
+- Spark/PySpark
+- Data pipeline development and optimization
+- Troubleshooting 
+- Documentation
+- Mentoring 
+
+Technologies:
+- Azure
+- Databricks
+- Lakehouse 
+- PySpark
+- SQL
+- Delta Live Table
+- Unity Catalog
+- NoSQL
+- Blob storage
+- CSV, TSV, Parquet, JSON
+
+https://www.indeed.com/rc/clk?jk=75fadf29bd2cd624&from=jasx&tk=1hd1ft1i8joou800&vjs=3

@@ -1,0 +1,31 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Designing and implementing big data and BI solutions 
+- Data warehousing
+- Data pipelines
+- Machine learning model execution pipelines
+- Python programming including object-oriented programming and unit testing
+- Parallel processing libraries in Python like Spark
+- Python data analysis libraries
+- Data modeling
+- SQL
+- Agile methodologies like Scrum, Git, Jira, Confluence
+- Cloud technologies like Azure, DevOps, CI/CD
+- Microservices architecture
+- Communication and collaboration
+
+Technologies:
+- Microsoft Azure 
+- Azure data services
+- ETL/ELT tools
+- Python
+- SQL
+- Azure DevOps 
+- Git
+- Jira
+- Confluence
+- Microservices
+- APIs, Web Services, SOAP, REST
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CRsdBggKFjsd2I0WXN7jbirCZuQf4qBYKBRMDPXZZqyp2f8VIHX3n1cIS2cg4x8GGfMdAhLRXL3eXEOUYUqNGaa2M7GrsgWT4jNmftuYccL-veEfnXzrWwXbRfSmlpU1GLyuKtxQ5nQDZXYz6mEBEGjf8NTGgnGKAuX0A_oC0pAG_g4euwYOxgo_8syo_vWe4uKNWqCj4fluClnihoNgGauDOBICz0fSwUMnDsoe-b108Jsw2o5UaeFbOM3S_A9YuvDyFI0bFb_5tscOezgysVMqp_L0PAO0k8Ep8xSAgJYZ_vE_D4eOH2u1xCyzVkSttCX2WFwCMCQPfyCLDuXmVhkDAqGCiF0uOzh4YJxeAOVbuydBEv2LBgXLqAFcmdgYaq_kACLs9TksOP0ZAy-r5GBmuRYs2NFek0M9u9dPPbuVeHxDBEASSews-FPuL8Ifca8PhnCHKQnF6JL2Rf1Jqt0iqdh9QbTnUmDSurZaXE1_I_NtJ7xzJX_Iol3-P0IQ4T-WdstFH-OXH3JAtQSFMdAoKyIVdHQIha18qvZQbehxT_eMgE_kPQJEuv_yLWB6V9hC3BPOsWleXxKexoZduaKd2dZsBMkpYxTA6SyPS0-A%3D%3D&xkcb=SoBb-_M3JzdDyK2C2x0BbzkdCdPP&p=10&fvj=1&vjs=3&jsa=6857&tk=1hdjaj0h4j4gl800&from=jasx&wvign=1

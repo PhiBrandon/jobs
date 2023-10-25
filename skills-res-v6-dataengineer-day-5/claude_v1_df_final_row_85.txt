@@ -1,0 +1,25 @@
+ Here are the relevant skills and technologies extracted from the job description:
+
+Skills:
+- Python 
+- Django framework
+- Pandas
+- Airflow
+- Celery
+- Designing robust data models
+- Writing efficient, well-designed, and thoroughly tested code
+- Code reviews
+- Documentation
+- Collaboration
+- Ownership and responsibility
+- Working with non-technical teams
+- Estimating and scoping features
+
+Technologies: 
+- Python
+- Django framework
+- Pandas
+- Airflow
+- Celery
+
+https://www.indeed.com/rc/clk?jk=fd53daa023410125&from=jasx&tk=1hd1g2n5fjm7b800&vjs=3

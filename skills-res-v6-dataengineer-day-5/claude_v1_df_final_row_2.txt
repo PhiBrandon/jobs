@@ -1,0 +1,25 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Scala
+- Java 
+- Python
+- Apache Spark
+- HBase
+- Hive
+- AWS services (S3, Redshift, EMR)
+- Data migration from on-premises to cloud environments
+
+Technologies:
+- Scala
+- Java
+- Python 
+- Apache Spark
+- HBase
+- Hive
+- AWS S3
+- AWS Redshift
+- AWS EMR
+- Data migration from on-premises to cloud environments
+
+https://www.indeed.com/rc/clk?jk=334af16420b57c82&from=jasx&tk=1hd1fm1o6iman800&vjs=3

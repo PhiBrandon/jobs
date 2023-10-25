@@ -1,0 +1,35 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Site Reliability Engineering 
+- Infrastructure as Code (using tools like Terraform)
+- Automation (scripting in bash/shell)
+- Cloud technologies (experience with AWS)
+- Containerization and orchestration (experience with Kubernetes)
+- Data infrastructure and security
+- Distributed systems and scalability
+- Monitoring and alerting
+- Incident response 
+- Collaboration
+- Documentation
+
+Technologies: 
+- AWS
+- Terraform
+- Kubernetes
+- Kafka
+- Debezium CDC
+- Databases
+- Data lakes
+- Airflow
+- Vault
+- Nomad
+- Consul
+- Service meshes
+- GitOps
+- ChatOps
+- CI/CD pipelines
+- Sagemaker
+- MLOps
+
+https://www.indeed.com/rc/clk?jk=d2f7d960ce9f68e6&from=jasx&tk=1hd1fvosi2gtk000&vjs=3

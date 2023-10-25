@@ -1,0 +1,22 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Application development 
+- Designing, developing, operationalizing and maintaining complex data applications at enterprise scale
+- Developing and maintaining scalable data stores that supply big data
+- Creating software for retrieving, parsing and processing structured and unstructured data
+- Building scalable ETL/ELT workflows for reporting and analytics
+- Creating solutions within a collaborative, cross-functional team environment
+- Experience with Agile engineering practices
+- Public Trust
+- Bachelor's degree
+
+Technologies: 
+- C++, Java, or Python
+- SQL or Scala
+- Spark, Databricks, Hadoop, Hive, AWS EMR, or Kafka
+- Working on real-time data and streaming applications
+- AWS Redshift, MySQL, or Snowflake  
+- UNIX and Linux (including basic commands and Shell scripting)
+
+https://www.indeed.com/rc/clk?jk=755becb02c3bdf0a&from=jasx&tk=1hdjagu34k269800&vjs=3

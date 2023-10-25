@@ -1,0 +1,26 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL/TSQL development  
+- SSIS package development
+- Data modeling
+- ETL construction
+- Data analysis
+- Report development
+- Relational databases 
+- Database structures and design
+- Systems design
+- Data management
+- Data warehousing
+
+Technologies:
+- SQL/TSQL
+- SSIS 
+- MS Access
+- Data visualization software
+- Business intelligence software
+- Analytic and statistical software
+- Query software
+- Agile tools (RallyDev)
+
+https://www.indeed.com/rc/clk?jk=445662e46d0fc401&from=jasx&tk=1hd1fm1o6iman800&vjs=3

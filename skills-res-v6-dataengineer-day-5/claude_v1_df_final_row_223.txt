@@ -1,0 +1,20 @@
+ Here are the specific skills and tech extracted from the job description:
+
+Skills:
+- Python 
+- PySpark
+- SQL
+- Data modeling
+- ETL processing
+- Architectural best practices in building data lakes
+
+Technologies:
+- Apache NiFi 
+- Informatica BDM
+- Talend
+- AWS (Glue, DMS, IAM, RDS)
+- Hadoop/Spark
+- Databricks (Unity Catalog, workflow, Live Table)
+- Airflow
+
+https://www.indeed.com/rc/clk?jk=f120f0ae5b708e07&from=jasx&tk=1hd6h75sii6mo800&vjs=3

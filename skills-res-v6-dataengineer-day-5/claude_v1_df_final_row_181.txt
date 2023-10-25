@@ -1,0 +1,18 @@
+ Here are some key skills and technologies extracted from the job description:
+
+Skills:
+- Architecting and improving system performance on cloud data warehouses 
+- Writing and managing complex SQL queries
+- Developing data processing pipelines using technologies like Spark, Dataproc, and Kubernetes
+- Researching and experimenting with strategies to optimize performance and efficiency of petabytes of data processing
+- Fostering collaboration and teamwork
+- Sharing technical work through talks, posts, papers and conferences
+
+Technologies: 
+- Spark
+- Dataproc 
+- Kubernetes
+- Cloud data warehouses like Snowflake, SingleStore
+- SQL
+
+https://www.indeed.com/rc/clk?jk=97f5548d6f257ea6&from=jasx&tk=1hd440jnukecp800&vjs=3

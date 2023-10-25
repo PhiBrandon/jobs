@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software engineering experience 
+- Computer science fundamentals like data structures, algorithms, distributed systems
+- Database fundamentals
+- Database tooling, database internals, schema design
+- Systems programming with languages like Java, JavaScript, Python
+- Identifying and implementing creative solutions  
+- Query performance optimization
+- Distributed query execution
+
+Technologies:
+- Continuous Integration and Continuous Delivery
+- Data pipelines  
+- Test automation
+- Feature rollout/enablement automation  
+- Visualization frameworks
+- Data corruption detection/resolution services
+- Production monitoring/observability
+- Large scale data processing
+
+https://www.indeed.com/rc/clk?jk=bc15c50a09fd93ff&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

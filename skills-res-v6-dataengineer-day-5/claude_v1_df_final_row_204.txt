@@ -1,0 +1,16 @@
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- SAS programming 
+- SAS macro utilization
+- SQL
+- Data engineering
+- Data analytics
+- Tableau dashboard development
+
+Tech:
+- SAS
+- SQL with experience in multiple database management systems 
+- Tableau
+
+https://www.indeed.com/rc/clk?jk=30b006781edd63e6&from=jasx&tk=1hd445crtikef800&vjs=3

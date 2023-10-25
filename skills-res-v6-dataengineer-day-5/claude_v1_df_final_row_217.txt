@@ -1,0 +1,17 @@
+ Based on the job description, here are the specific skills and tech mentioned:
+
+Skills:
+- ETL workflows/development
+- Extract, cleanse, and process disparate data sources  
+- Cleaning and transforming data
+- Developing scripts and programs for converting various data formats
+- Acquiring data from disparate sources using APIs and SQL
+- Complex SQL queries
+
+Tech:
+- Python 
+- SQL
+- APIs
+- Data platforms
+
+https://www.indeed.com/rc/clk?jk=45a231ffe43c577a&from=jasx&tk=1hd6h6bheiolg800&vjs=3

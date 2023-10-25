@@ -1,0 +1,23 @@
+ Here are the specific skills and tech mentioned in the job description for Senior Data Engineer - Scala:
+
+Skills:
+- Scala
+- Spark 
+- Python
+- Agile methodology
+- Data pipeline development
+- Data validation
+
+Tech:
+- Spark
+- Hadoop
+- AWS EMR
+- Airflow
+- Jenkins
+- AWS Redshift
+- Teradata
+- Git
+- GitHub
+- Confluence
+
+https://www.indeed.com/rc/clk?jk=dc6d198d707948d7&from=jasx&tk=1hd1fsp38k6pu800&vjs=3

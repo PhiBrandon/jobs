@@ -1,0 +1,25 @@
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Python programming focused on big data management 
+- PostgreSQL or other relational database
+- Docker
+- Kubernetes
+- Git
+- Generative AI and large language model (LLM) APIs (optional)
+- GIS tools such as ESRI (optional)
+- Machine learning, especially for anomaly detection, pattern recognition, clustering, time series analysis (optional)
+- Remote-sensing and satellite data (optional)
+- Engineering leadership (optional)
+- Open Source project maintainership (optional)
+
+Technologies:  
+- PostgreSQL or other relational database
+- Docker
+- Kubernetes
+- AWS (optional)
+- ElasticSearch (optional) 
+- Data pipeline tools like Pachyderm (optional)
+- RESTful APIs (optional)
+
+https://www.indeed.com/rc/clk?jk=37b5edb36e885430&from=jasx&tk=1hd1fm1o6iman800&vjs=3

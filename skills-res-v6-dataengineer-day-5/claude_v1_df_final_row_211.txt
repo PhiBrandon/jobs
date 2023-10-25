@@ -1,0 +1,20 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Team environment
+- Strong work ethic
+- Excellent time management 
+- Excellent communication
+- Leadership
+
+Technologies:
+- SQL
+- Python
+- Unix scripting
+- Object-oriented programming
+- ETL tools 
+- Hadoop
+- Azure
+- MS Office
+
+https://www.indeed.com/rc/clk?jk=5de691f5f49787f9&from=jasx&tk=1hd6h6bheiolg800&vjs=3

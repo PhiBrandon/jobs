@@ -1,0 +1,22 @@
+ Here are the relevant skills and technologies extracted from the job description:
+
+Skills:
+- SQL
+- Python 
+- Data engineering
+- ETL design, implementation, maintenance
+- Data modeling
+- Data warehousing
+- Data visualization
+- Leading data-driven projects
+- Defining, interpreting, and executing projects
+
+Technologies:
+- Snowflake
+- dbt
+- Rudderstack 
+- Real-time data streaming
+- Cloud analytics platforms and tools
+- Blockchain/cryptocurrencies (bonus)
+
+https://www.indeed.com/rc/clk?jk=26945eb7798bb1ff&from=jasx&tk=1hd1g5htglell801&vjs=3

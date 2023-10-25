@@ -1,0 +1,27 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data warehousing
+- ETL processes
+- SQL
+- Data modeling
+- Data architecture 
+- Data analytics
+- Data pipelines
+- Data governance
+- Communication skills
+
+Technologies: 
+- Azure 
+- AWS
+- Azure Data Factory
+- SQL Server
+- Oracle
+- PostgreSQL
+- MySQL
+- Big Data
+- Machine Learning
+- Predictive modeling
+
+https://www.indeed.com/rc/clk?jk=07b20c6371c1a9da&from=jasx&tk=1hd1g1f082gvk000&vjs=3

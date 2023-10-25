@@ -1,0 +1,26 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data pipelines design and development
+- Data infrastructure design and maintenance
+- Data management 
+- SQL querying and database management (PostgreSQL)
+- Python programming
+- Data governance, security, privacy and retention policies/procedures
+- Collaboration and communication
+- Problem solving
+- DEVOPS practices and tools (e.g. GIT, Docker, Jenkins)
+
+Technologies: 
+- AWS (cloud data pipelines)
+- Python
+- Databricks
+- Spark
+- SQL databases (e.g. PostgreSQL)
+- Jira
+- GIT
+- Docker
+- Jenkins
+
+https://www.indeed.com/rc/clk?jk=cf276d4ea3c5fdcb&from=jasx&tk=1hd1ft1i8joou800&vjs=3

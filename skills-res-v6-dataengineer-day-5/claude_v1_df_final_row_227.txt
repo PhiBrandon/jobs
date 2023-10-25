@@ -1,0 +1,21 @@
+ Here are some of the key skills and technologies mentioned in the job description:
+
+Skills:
+- Data engineering 
+- ETL/ELT development
+- Data modeling
+- Data warehousing
+- SQL
+- R, Python, shell scripting
+- Data integration tools like FiveTran, DBT, Informatica, Matillion
+- Cloud computing/infrastructure including IAAS, PAAS, SAAS
+- Git/code version control
+- Healthcare data analytics
+- Master data management
+
+Technologies: 
+- Snowflake data platform
+- Health Catalyst's data analytics platform
+- Tableau Cloud
+
+https://www.indeed.com/rc/clk?jk=d7a6a168405310c5&from=jasx&tk=1hd6h75sii6mo800&vjs=3

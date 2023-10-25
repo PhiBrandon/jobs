@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data modeling
+- Scripting (Python, SQL, shell scripting)  
+- Data processing
+- ETL/ELT processes
+- Data analysis
+- Schema design
+- Data integration
+- Data quality framework design
+
+Technologies/Tools:
+- AWS services: S3, Lambda, Redshift, Lake Formation, Glue, Kinesis, DMS, Glue catalog/Crawlers
+- Python
+- SQL  
+- Spark
+- Linux
+- Git
+- Jira
+- Airflow/Orchestration tools
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CyQKdz8_lqdlgY-c-amsQST66Z8QjChsyYA8vzcGklWI54h1yaGRml5nZ8zCgFfjK0ZW-ufu-_JHCgbraA_8Fg5ATid4dqS3sKjF52i-1M3_0-M7jyZvHimBaYOdqijbr2o_GnQcYG7gNZLx4-WxgznWbghRNnlHq-GXY6nBkPNqceCYdURQ3TT3immrKviUaPlqf-c_Ib7N-Q0_i_sOXrXBN1vqLBBUi3-4BfTVVixgQFa21zTokCNHLrwz3Kny0Ad23IYAIYfeC_d-rEdT2v5haWsybFd3UNkJ0t79P5xuzLgUur1_DcxTIVo_zkOPIMUDEaZsnbN0I9AGB_So0CcTeVs6N061zI8As2fYAtew8Z5xKsM8ICPSUFtjxKk9wSnYeyfITOW7XC1XRbItQQkvB3GfRObW2uQ8CwkAbHPmVi3ksTfsplb2w2gX85ZpG77ZYLjDKNQ3DrsOeKYW9gA7fjHjPza3iu-T03BvSXuWj8cYVxjdjVKR5AaUXJY0c4qaJPllg0vvLJfrgSosp0otfqB5CqsLSuY3V30mAz5vrQpTRbjswWX0cleaIuMDtEmZGYX13rTMm-A_sJfjuvGutDwZCFKhLhvKVAeszbeA%3D%3D&xkcb=SoDC-_M3JhXw-q2as50FbzkdCdPP&p=14&fvj=1&vjs=3&jsa=8121&tk=1hd1fvosi2gtk000&from=jasx&wvign=1

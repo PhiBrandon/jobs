@@ -1,0 +1,30 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL/ELT processes
+- Python
+- SQL
+- Data modeling
+- Data migration
+- Azure
+- Databricks
+- Jira
+- Github
+- Big data technologies (Hadoop, Spark, Kafka)
+
+Technologies:
+- Azure
+- Databricks 
+- Python
+- SQL
+- Jira
+- Github
+- Hadoop
+- Spark  
+- Kafka
+- Event Hubs
+- PySpark/Python/Scala
+- Delta Live Tables
+
+https://www.indeed.com/rc/clk?jk=de1f69845d4ad405&from=jasx&tk=1hd43k4db21ci002&vjs=3

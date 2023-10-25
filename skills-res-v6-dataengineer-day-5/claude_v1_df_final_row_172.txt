@@ -1,0 +1,25 @@
+ Here are the relevant skills and tech mentioned in the job description:
+
+Skills:
+- Strong analytical skills 
+- Data modeling
+- Statistical analysis
+- Data collection and organization
+- Trend analysis
+- Data reporting
+- Communication skills
+
+Tech:
+- SQL 
+- NoSQL
+- Microsoft Azure (Cosmos DB, Data Factory, Synapse, Databricks)
+- Python
+- Spark
+- Kafka
+- Google Cloud Platform
+- SSAS/Tabular models
+- Power BI
+- Dataflows
+- DAX
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0C5IatSLh_Ak1q39eQQoPIxD737RW9NeiYGvIRXkrLjEBkC4LI6KweFMaB7igpdWMnsfRNLm1L2W8cPynQETfxrnswXwUz4DZXw4wzfB0OLKSrFPihfr1OM4maBMIYGBI3H9c6yqOrdJ66gAQt039hSSqL5ecKg-NpGiIIoTi_VN_JTHfg9E7I7GzPN-5w0CR9ru4g7gZUhDAh-r8zgCO_Oc_hnM8zcbzwpeoWBaPoxPMZc74lOQN7-3vT2v2LvwEA5ZeLMMci97VSugvfgvcH2FI32rUmQPv7YEvq8_eWL4R7nBibXozPzOUG43LFltBJkWZ9aTpekVs05N23Q0o8Vg-IquasFPHlkPH9TWQUCSd141JTCmmxwDPBZFNiL8BaZoyqxTH1Kv9I6wJ9e31r7iXga5wYzeYLGTFd9SqPMtL0TJMcYMv1QXHRjIkL7d4vUbgMrLOs45Ma4Ulk5H4s1dzkyQhwd0lZJPyUx-y9_TxZf-HyJkd0TRzPayI5L6suq2mWxRwc-9SAUHRo514reIGcbpCkvjltdIfwWy-ViQXVuGeXME293jf5Nri55BtQHPel8ILKKJEbuv8I-puJrQUvkxx68HonsS6m9QRyAmIHiXfVUDCmcBEsR13nKPDeciEcaGb4VZUnt-s-wfC30iFXHtZeRsOscqv9GyuF-KbyveAzLoDA_kxmowVH9OevfyX_bjz9OPTEIPv2nDcL4&xkcb=SoD8-_M3JkAPCWRkDx0FbzkdCdPP&p=14&fvj=0&vjs=3&jsa=2411&tk=1hd4406f5kf31800&from=jasx&wvign=1

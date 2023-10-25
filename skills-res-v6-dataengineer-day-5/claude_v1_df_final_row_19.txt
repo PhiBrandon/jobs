@@ -1,0 +1,48 @@
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- Verbal and written communication skills
+- Problem solving skills 
+- Customer service and interpersonal skills
+- Ability to work independently and manage time
+- Good knowledge of data modeling
+- SQL
+- Python
+- Snowflake
+- Data modeling
+- Computer software (like Visual Basic, Oracle etc.)
+
+Education/Experience: 
+- Computer programming or relevant associate's degree required
+- Bachelor's/Master's degree preferred
+- 2-4 years of experience required
+
+Technical Skills (Required):
+- 2+ years experience in Python
+- 2+ years experience with SQL
+- 2+ years experience in Snowflake
+
+Technical Skills (Desired):
+- Airflow experience  
+- AWS experience
+- Data analytics
+- Understanding of Software Development Life Cycle
+- Tableau
+- Power BI
+
+Soft Skills (Required):
+- Verbal and written communication
+- Problem solving
+- Customer service and interpersonal skills 
+- Ability to work independently and manage time
+- Critical thinking
+- Ability to work in a team
+- Being proactive and taking initiative
+- Ability to work off hours when required
+
+Soft Skills (Desired): 
+- Ability to create connections with people outside the team
+- Organization
+- Project management experience with Agile methodology
+
+https://www.indeed.com/rc/clk?jk=a500c31bd71fbb3a&from=jasx&tk=1hd1foafmk78p800&vjs=3

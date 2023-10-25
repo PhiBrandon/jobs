@@ -1,0 +1,28 @@
+ Here are some of the key skills and technologies mentioned in the job description:
+
+Skills:
+- Data engineering 
+- Data modeling
+- ETL/ELT design and development
+- SQL 
+- Programming in Python, R, and shell scripting
+- Data warehousing methodologies
+- Data integration
+- Data architecture
+- Data quality
+- Master data management
+- Healthcare analytics
+- Cloud architecture
+
+Technologies: 
+- Snowflake
+- FiveTran
+- DBT  
+- Informatica
+- Matillion
+- Git
+- Health Catalyst
+- Tableau Cloud
+- IAAS, PAAS, SAAS
+
+https://www.indeed.com/rc/clk?jk=fa2210df4da3bf9a&from=jasx&tk=1hd43k4db21ci002&vjs=3

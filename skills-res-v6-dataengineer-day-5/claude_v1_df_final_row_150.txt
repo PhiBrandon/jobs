@@ -1,0 +1,33 @@
+ Based on the job description, here are some of the key skills and technologies mentioned:
+
+Skills:
+- Solution design
+- Architecture planning 
+- Technical leadership
+- Risk assessment
+- Documentation
+- Vendor evaluation
+- Prototyping 
+- Performance optimization
+- Security and compliance
+- Collaboration
+- Problem solving
+- Analytical skills
+- Communication
+- Project management
+
+Tech/Platforms:
+- Cloud computing (AWS, Azure, Google Cloud)
+- DevOps practices and tools
+- Microservices architecture
+- Graph databases
+- Containerization technologies (Docker, Kubernetes)
+- Data architecture and database technologies  
+- Cybersecurity best practices
+
+Certifications/Frameworks:
+- TOGAF
+- AWS Certified Solutions Architect
+- Microsoft Certified: Azure Solutions Architect Expert
+
+https://www.indeed.com/rc/clk?jk=226571fd23411b51&from=jasx&tk=1hd43l8mokhqg800&vjs=3

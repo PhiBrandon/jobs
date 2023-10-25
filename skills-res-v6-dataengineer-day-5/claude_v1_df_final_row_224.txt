@@ -1,0 +1,17 @@
+ Based on the job description, here are the key skills and technologies:
+
+Skills:
+- Python 3
+- SQL 
+- Data analysis
+- Dataset manipulation
+- ETL processes
+- Problem solving
+- Version control with GIT
+
+Technologies:
+- AWS (S3, Redshift, Glue)
+- PySpark
+- Data lake architecture
+
+https://www.indeed.com/rc/clk?jk=11466c7b4a6cfcce&from=jasx&tk=1hd6h75sii6mo800&vjs=3

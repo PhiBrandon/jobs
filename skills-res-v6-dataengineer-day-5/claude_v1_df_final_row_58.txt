@@ -1,0 +1,32 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering
+- SQL programming 
+- Python programming
+- PowerShell programming
+- Data modeling
+- Data warehousing/big data solutions
+- Machine learning 
+- Data transformation
+- ETL processes 
+- Data testing/quality assurance
+- Data visualization with PowerBI/dashboards
+- Effective communication and collaboration
+
+Technologies: 
+- Microsoft SQL Server
+- Azure Data Lake Storage
+- Azure Data Factory 
+- Azure SQL DW 
+- Azure Synapse
+- Databricks
+- Spark
+- Python
+- PowerBI
+- Parquet
+- Avro
+- Azure databricks 
+- Azure PowerShell
+
+https://www.indeed.com/rc/clk?jk=4e41a47b763034ef&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

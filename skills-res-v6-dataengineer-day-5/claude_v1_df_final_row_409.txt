@@ -1,0 +1,20 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- ETL 
+- Data engineering
+- SQL development
+- Python or PowerShell development
+- Unit testing 
+- Data modeling
+- Agile methodology
+
+Technologies: 
+- Snowflake
+- Power BI
+- Microsoft Dataverse 
+- Azure Data Lake Storage Gen2
+- Git
+- Azure DevOps or GitHub Enterprise
+
+https://www.indeed.com/rc/clk?jk=c7bc15ce61ba752a&from=jasx&tk=1hd95mfqo28gs002&vjs=3

@@ -1,0 +1,24 @@
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Data Engineering
+- Machine Learning
+- Python
+- Spark
+- Kubernetes
+
+Technologies: 
+- Azure
+- Jupterhub
+- mlflow
+- databricks
+- kubeflow
+- HELM
+- Argo Workflow
+- Docker
+- Kubectl
+- Helm
+- GitLab
+- Jenkins
+
+https://www.indeed.com/rc/clk?jk=84bd4ff5bed36cd7&from=jasx&tk=1hd1fru0j2f35000&vjs=3

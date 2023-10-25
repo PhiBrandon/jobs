@@ -1,0 +1,28 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Programming
+- Software development 
+- Debugging 
+- Testing
+- Performance optimization
+- Complex problem solving
+- Technical leadership
+- Mentoring
+- Continuous learning
+- Communication
+- Collaboration
+
+Technologies: 
+- SQL
+- Snowflake
+- Oracle
+- Databricks
+- ETL/ELT tools
+- Data integration
+- Data modeling (dimensional, 3NF, hierarchical)
+- Test-driven development  
+- Defensive programming
+- Data pipelines for data exchange, cleansing, validation, standardization, search and ranking
+
+https://www.indeed.com/rc/clk?jk=cd82b2f3c6950df7&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

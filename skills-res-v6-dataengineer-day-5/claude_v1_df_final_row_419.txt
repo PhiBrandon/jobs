@@ -1,0 +1,20 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Data Engineer:
+- Python
+- Spark 
+- SQL
+- ETL
+- Tableau (optional)
+
+Data Analyst/Business Analyst:
+- SQL
+- Tableau
+- Informatica
+- Data warehousing
+- Requirements gathering
+- Data analysis
+- Test case development
+- Communication
+
+https://www.indeed.com/rc/clk?jk=2fd16bfd74b3658d&from=jasx&tk=1hd95ofc82ea2001&vjs=3

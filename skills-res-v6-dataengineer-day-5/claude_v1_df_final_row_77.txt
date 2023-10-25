@@ -1,0 +1,22 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL Server 2008/2014
+- Data integration technologies and principles  
+- Advanced T-SQL skills including complex queries, joins, indexes, performance tuning
+- Experience integrating structured and unstructured data formats like flat files, XML, JSON, Excel
+- Data warehousing methodologies and concepts
+- Test Driven Development/Behavior Driven Development  
+- Object oriented programming
+- Microservices, SOA, RESTful APIs
+- Continuous Integration
+- Agile/DevOps methodologies 
+
+Technologies:
+- SQL Server
+- Data integration tools
+- BI tools
+- Cucumber, Gherkin
+- Jira
+
+https://www.indeed.com/rc/clk?jk=d4ed26d290fe9912&from=jasx&tk=1hd1g1f082gvk000&vjs=3

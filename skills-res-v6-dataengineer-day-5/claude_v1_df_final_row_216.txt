@@ -1,0 +1,12 @@
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering
+- Building finance datamarts (general ledger, journal ledger, accounts payable, accounts receivable, fixed assets)
+
+Technologies: 
+- DBT Cloud
+- Snowflake Cloud DB
+- Infor Lawson ERP
+
+https://www.indeed.com/rc/clk?jk=0126d0e3ab279a99&from=jasx&tk=1hd6h6bheiolg800&vjs=3

@@ -1,0 +1,24 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Systems engineering
+- Software development 
+- Business analysis
+- Requirements gathering and documentation
+- Use case and data modeling
+- Test planning and execution 
+- Issue/bug tracking
+- Data analysis and reporting
+- Verbal and written communication
+- Technical project management
+
+Technologies: 
+- Azure DevOps, Jira, Redmine or similar project management tools
+- Microsoft Azure ecosystem
+- Data lakes and data lakehouses
+- SQL
+- Agile/Scrum/Kanban methodologies
+- Authority to Operate (ATO) processes 
+- Data visualization
+
+https://www.indeed.com/rc/clk?jk=e2317b3154109084&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

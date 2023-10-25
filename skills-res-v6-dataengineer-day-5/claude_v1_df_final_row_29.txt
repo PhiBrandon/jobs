@@ -1,0 +1,21 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Advanced skills in modern data architecture, data science engineering, data modeling and data quality  
+- Hands-on experience in ETL, automation and CICD technologies including Python, SQL and Git in a cloud setting
+- 2+ years of experience with cloud-native data warehouse technologies like Snowflake
+- Skills in data analysis, insight generation and manipulation of structured and unstructured data sources
+- Experience with automated data quality frameworks
+- Commitment to creating rigorous, high-quality insights from data, at scale
+- Flexible and willing to work across matrixed delivery landscape including Agile development, support and deployment
+- Guide and review off-shore development teams providing coaching and coding feedback
+
+Tech:
+- AWS (cloud computing technologies)
+- Python
+- SQL 
+- Git
+- Snowflake (data warehouse)
+- Automated data quality frameworks
+
+https://www.indeed.com/rc/clk?jk=dbf9b007f625f71b&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3

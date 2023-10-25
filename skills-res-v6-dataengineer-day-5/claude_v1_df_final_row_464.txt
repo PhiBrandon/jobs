@@ -1,0 +1,22 @@
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Expert-level skills JavaScript, NodeJS, Webpack, ReactJS or other modern UI frameworks
+- 4+ years of software development experience & strong troubleshooting and debugging skills
+- Experience with data analytics, data visualization, BI tools and Hadoop ecosystem
+- Ability to drive projects end to end
+- Ability to produce high-quality software that is unit tested, code reviewed, and checked in regularly for continuous integration
+- Familiarity with backend Restful API development, preferable in Java
+- Solid background in complicated SQL & data analytics
+- Zeal for learning and adopting new ideas and patterns
+- Strong Computer Science fundamentals, data structures, algorithms, and software design
+
+Tech:
+- Designing and developing a next generation data analytics platform using cutting-edge technologies
+- Data analytics, data visualization
+- JavaScript, NodeJS, Webpack, ReactJS or other modern UI frameworks  
+- Hadoop ecosystem
+- Backend Restful API development in Java
+- SQL
+
+https://www.indeed.com/rc/clk?jk=e43d9fc0f405d53b&from=jasx&tk=1hdjaj0h4j4gl800&vjs=3

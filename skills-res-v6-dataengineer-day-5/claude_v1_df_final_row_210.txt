@@ -1,0 +1,20 @@
+ Here are the main skills and technologies extracted from the job description:
+
+Skills:
+- Software engineering experience
+- Software development 
+- Architecture and data modeling
+- Experience leading complex software projects and data platforms/pipelines
+- Building asynchronous and distributed systems
+- Functional or imperative programming (Python specifically mentioned)
+
+Technologies:
+- Database technologies: PostgreSQL, MongoDB, Redis, ElasticSearch
+- Docker and Kubernetes 
+- RabbitMQ
+- Healthcare data standards: HL7, FHIR, DICOM
+- Operating in containerized environments
+
+The role focuses on designing and building a data platform that integrates healthcare data sources, designs data extraction/transformation processes, and builds pipelines to analyze patient data at scale using machine learning. Experience with data warehousing, reporting, and monitoring data platform performance is also mentioned.
+
+https://www.indeed.com/rc/clk?jk=72b83dc7d8aad2ef&from=jasx&tk=1hd6h6bheiolg800&vjs=3

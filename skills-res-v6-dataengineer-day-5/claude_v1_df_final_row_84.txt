@@ -1,0 +1,23 @@
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- 5+ years of software engineering experience, including 2+ years of data engineering 
+- Architecting solutions on AWS
+- Python
+- SQL
+- Data pipeline development
+- DevOps experience and ability to operationalize code
+- Project management and deliverable skills
+
+Technologies:
+- AWS
+- Python
+- SQL
+- Data pipelines
+- CI/CD
+- Natural language processing (nice to have)
+- Web scraping (nice to have)
+- Healthcare IT systems (nice to have)
+- Supply chain IT systems (nice to have)
+
+https://www.indeed.com/rc/clk?jk=f8bf5f4c80df4dc1&from=jasx&tk=1hd1g2n5fjm7b800&vjs=3

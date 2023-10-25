@@ -1,0 +1,37 @@
+ Here are the key skills and technologies extracted from the Big Data Engineer job description:
+
+Skills:
+- Data warehousing 
+- Data engineering
+- ETL process development
+- Data modeling
+- Agile development
+- Problem analysis
+- Technical testing
+- Documentation
+- Communication
+- Customer service
+- Prioritization
+- ITIL foundations
+
+Technologies: 
+- AWS
+- Spark
+- Scala
+- Python
+- Airflow
+- EMR
+- Redshift
+- Athena
+- Snowflake
+- ECS
+- DevOps automation 
+- Integration
+- Docker
+- Build and deployment tools
+- Version control (Git)
+- Alteryx
+- Tableau
+- Analytics tools
+
+https://www.indeed.com/rc/clk?jk=979d7c241a393d79&from=jasx&tk=1hd1fq96gk6pu800&vjs=3

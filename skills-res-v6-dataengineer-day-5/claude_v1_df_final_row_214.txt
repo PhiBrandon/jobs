@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data analysis
+- Data architecture 
+- Data modeling
+- Software development 
+- Data engineering (data ingestion, curation, provisioning)
+- Data quality improvement
+- Business process analysis
+- Technology recommendations
+- Agile methodology
+
+Technologies:
+- AWS SDK
+- Docker
+- Kubernetes
+- IT architectures and technical standards
+- Design and development tools
+- Layered systems architectures
+- Agile data engineering concepts and processes
+
+https://www.indeed.com/rc/clk?jk=ae83164544567281&from=jasx&tk=1hd6h6bheiolg800&vjs=3

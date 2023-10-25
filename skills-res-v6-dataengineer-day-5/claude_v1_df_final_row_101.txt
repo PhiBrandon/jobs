@@ -1,0 +1,21 @@
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Database development and administration
+- ETL techniques 
+- SQL
+- Data warehousing
+- Analytical and problem-solving skills
+- Technical documentation and metadata
+- Consulting services
+
+Technologies: 
+- Microsoft SQL Server
+- SSIS
+- Cloud databases
+- Hybrid cloud/on-premises databases
+- Statistical modeling/machine learning
+- Word, Excel, PowerPoint
+- Internet browsers
+
+https://www.indeed.com/rc/clk?jk=d2dcb51303834420&from=jasx&tk=1hd1g5htglell801&vjs=3

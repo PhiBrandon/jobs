@@ -1,0 +1,33 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering
+- Data warehousing
+- ETL/ELT processes  
+- Data analytics
+- Data visualization
+- Database architectures
+- Building data pipelines
+- Translation of data into insightful dashboards
+- AWS services like Redshift, Glue, Lambda, Athena, Quicksight
+- Extracting and ingesting data from various sources using AWS Glue, AppFlow, Lambda etc.  
+- CloudFormation, Terraform, CDK
+- CloudWatch, CloudTrail, Secrets Manager, KMS
+- Working with unstructured and semi-structured data in a data lake environment
+
+Technologies:
+- AWS Redshift
+- Amazon Quicksight or similar business intelligence tool
+- AWS Glue
+- Lambda  
+- Step Functions
+- Event Bridge
+- CloudFormation
+- Terraform
+- CDK
+- CloudWatch
+- CloudTrail
+- Secrets Manager  
+- KMS
+
+https://www.indeed.com/rc/clk?jk=60ee2be8d11b8703&from=jasx&tk=1hd1g5htglell801&vjs=3

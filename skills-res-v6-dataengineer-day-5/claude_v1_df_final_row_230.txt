@@ -1,0 +1,18 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data migration planning 
+- Data validation and reconciliation
+- Process monitoring and issue resolution
+- Documentation
+- Knowledge transfer and training
+- Problem-solving
+- Communication
+
+Technologies: 
+- Komprise data management software
+- Isilon storage platform
+- NetApp storage platform
+- Scripting languages like Python and PowerShell
+
+https://www.indeed.com/rc/clk?jk=7f7a185825ef7e9f&from=jasx&tk=1hd6h82eqk7eu800&vjs=3

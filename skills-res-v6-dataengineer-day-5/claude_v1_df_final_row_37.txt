@@ -1,0 +1,37 @@
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- Machine learning 
+- Big data
+- Multi-modal data
+- Data privacy
+- Algorithm design
+- Software engineering
+- Data analysis
+- Problem solving
+- Troubleshooting
+- Effective communication
+- Collaboration
+
+Tech:
+- Python
+- AWS (Sagemaker, Athena, Glue, Quicksight, S3)
+- Linux/Unix
+- Git
+- Bitbucket 
+- Confluence
+- JIRA
+- Java
+- C#
+- C/C++
+- SQL
+- Oracle
+- MySQL 
+- Redshift
+- DynamoDB
+- Elastic Cache
+- Splunk
+- Tableau
+- Signal processing
+
+https://www.indeed.com/rc/clk?jk=700c104561e30304&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

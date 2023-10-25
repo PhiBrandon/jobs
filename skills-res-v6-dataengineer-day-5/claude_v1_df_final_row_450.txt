@@ -1,0 +1,28 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software development
+- Data structures and algorithms 
+- Analytical skills
+- SQL
+- NoSQL (MongoDB, Cassandra)
+- Programming languages (Python, Node, Scala, Go)
+- Cloud platforms (AWS, GCP)
+- Workflow tools (Airflow, AWS Step Function)
+- APIs
+- Machine learning (Scrapy, scikit-learn, TensorFlow)
+- Emerging data technologies
+- Working in fast-paced dynamic environments 
+- Managing multiple projects concurrently
+
+Technologies:
+- ETL pipelines
+- Data marts
+- Cloud services (AWS Redshift, Kinesis, EMR, GCP BigQuery, Dataflow, Pub/Sub)  
+- Databases (PostgreSQL, MySQL)
+- Big data tools (Hadoop, Spark, Kafka)
+- Data warehousing (Snowflake, Redshift)
+- Payment processing
+- REST APIs
+
+https://www.indeed.com/rc/clk?jk=06686c071e983d15&from=jasx&tk=1hdjafq3r2cc7000&vjs=3

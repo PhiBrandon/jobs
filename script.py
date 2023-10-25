@@ -11,6 +11,8 @@ from datetime import datetime, timezone
 from dotenv import load_dotenv
 load_dotenv()
 
+# TODO: Automatically create folder for each new inference run
+# TODO: Output the summary into it's own file in the same folder
 
 # Initialize Environment variables
 AWS_S3_BUCKET = os.getenv('AWS_S3_BUCKET')
@@ -45,7 +47,7 @@ def indeed_scrapper(AWS_S3_BUCKET, APIFY_TOKEN, s3_client, job_title="data engin
         "position": job_title,
         "country": "US",
         "location": "remote",
-        "maxItems": 50,
+        "maxItems": 200,
         "parseCompanyDetails": False,
         "saveOnlyUniqueItems": True,
         "followApplyRedirects": True,
@@ -172,7 +174,7 @@ def create_combined_file_template(llm, combined_file_name, job_title):
     huge_file_text = huge_file_read.read()
     template = PromptTemplate.from_template("""
 Act as an expert formatter. You format based on the given format. Skip the preamble.
-I will provide you with job skills and responsibilities text for {job_title}, output the top 5 skills AND technologies in the following format: <topskills>1. Skill 2. Skill ...</topskills> <toptech>1. Tech 2. Tech .... </toptech>.
+I will provide you with job skills and tech text for {job_title}, output the top 5 skills AND technologies in the following format: <topskills>1. Skill 2. Skill ...</topskills> <toptech>1. Tech 2. Tech .... </toptech>.
 <{job_title} text>{text}</{job_title} text>
 """)
     prompt = template.format(text=huge_file_text, job_title=job_title)
@@ -182,16 +184,16 @@ I will provide you with job skills and responsibilities text for {job_title}, ou
 
 
 
-job_title = "tech sales engineer"
+job_title = "data engineer"
 job_folder = split_job(job_title)
 template = PromptTemplate.from_template("""
-Extract specific skills and responsibilities from the following job description: {job}
+Extract specific skills and tech from the following job description: {job}
 """)
 # Take in a Dataframe, llm, and template and create job summaries
-path = 'skills-res-v5-techsales-day-4/'
-combined_file_name = f"job_summaries_massive_{job_folder}.txt"
-#indeed_scrapper(AWS_S3_BUCKET, APIFY_TOKEN,
-#                s3_client, job_title=job_title)
+path = 'skills-res-v6-dataengineer-day-5/'
+combined_file_name = f"job_summaries_massive_{job_folder}_10_25_23.txt"
+indeed_scrapper(AWS_S3_BUCKET, APIFY_TOKEN,
+                s3_client, job_title=job_title)
 print("Getting files from S3")
 final_frame = process_indeed_job(AWS_S3_BUCKET, s3_client, job_title)
 print("Creating job summaries")

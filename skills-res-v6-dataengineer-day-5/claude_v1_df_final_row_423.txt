@@ -1,0 +1,34 @@
+ Based on the job description, here are the key technical skills and technologies mentioned:
+
+Skills:
+- Data engineering 
+- Software engineering
+- Data modeling
+- Machine learning
+- Data architecture
+- ETL/ELT processes
+- Data pipelines
+- Database design
+- Cloud technologies
+- DevOps practices
+
+Technologies: 
+- Python
+- Java 
+- Spark
+- Airflow
+- Kafka
+- PostgreSQL/SQL
+- NoSQL databases
+- Google Cloud Platform (BigQuery, Cloud Dataflow, Cloud Storage, Pub/Sub, Cloud Composer, Healthcare API)
+- Jenkins
+- Git
+- Apache Hive
+- Apache Spark
+- Kafka
+- Looker
+- Tableau
+- PowerBI
+- DeltaLake
+
+https://www.indeed.com/rc/clk?jk=90ca40677b46e6ea&from=jasx&tk=1hdea7hq42do5000&vjs=3

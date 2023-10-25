@@ -1,0 +1,17 @@
+ Here are some specific skills and technologies mentioned in the job description:
+
+Skills:
+- Data engineering 
+- Data analytics
+- Software engineering
+- Product development
+- Customer interaction/understanding customer needs
+- Problem solving
+
+Technologies:
+- Databricks
+- Spark
+- Data pipelines
+- Working with large datasets at scale
+
+https://www.indeed.com/rc/clk?jk=5e030fc53b9ee4f1&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

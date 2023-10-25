@@ -1,0 +1,22 @@
+ Here are the technical skills and platforms extracted from the job description:
+
+Skills:
+- Data Engineering
+- Matillion 
+- SQL
+- Python or Java
+- Data analysis
+
+Technologies/Platforms:
+- Data pipelines
+- ETL
+- Cloud platforms
+- Snowflake (preferred cloud data warehouse)
+- SAP Business Objects Data Services (ETL tool)
+- Tibco data virtualization
+- Python or Java development
+- SQL
+
+So in summary, the main technical skills are in data engineering, ETL processes, SQL, and Python or Java development. The job also involves working with cloud platforms like Snowflake, as well as tools like Matillion, SAP BO Data Services, and Tibco.
+
+https://www.indeed.com/rc/clk?jk=5b050846e01d4f3b&from=jasx&tk=1hdjagu34k269800&vjs=3

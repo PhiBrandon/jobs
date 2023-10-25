@@ -1,0 +1,22 @@
+ Based on the job description, here are some relevant skills and technologies:
+
+Skills:
+- Data engineering
+- Data modeling 
+- SQL
+- ETL/ELT frameworks (Informatica, Apache Spark, Airflow, AWS Glue)
+- Data warehousing
+- Version control (Git)
+- Problem solving
+- Communication
+
+Technologies: 
+- Java
+- PostgreSQL, MySQL (relational databases)
+- Data modeling tools
+- Cloud data platforms (Snowflake, AWS, Google Cloud, Azure)  
+- JAVA 8, REST APIs, microservices, Spring Boot framework
+- Alteryx
+- UNIX scripting
+
+https://www.indeed.com/rc/clk?jk=46368a3a77ba0041&from=jasx&tk=1hd1g40sjjm7l801&vjs=3

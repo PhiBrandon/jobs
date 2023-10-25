@@ -1,0 +1,10 @@
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Python
+- Spark/PySpark
+
+Technologies: 
+- AWS- EMR (Amazon Web Services - Elastic MapReduce)
+
+https://www.indeed.com/rc/clk?jk=d51b9af24af3140d&from=jasx&tk=1hd6h77l0ihna800&vjs=3

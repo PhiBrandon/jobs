@@ -1,0 +1,25 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Cloud data architecture 
+- Big data analytics
+- Database management
+- Data engineering
+- Data migration  
+- Data processing
+- Business intelligence development
+- Technical communication
+- Presentation skills
+- Problem solving
+- Leading projects 
+- Collaboration
+- Agile methodologies
+
+ Technologies:
+- Microsoft Azure: Azure Storage, Azure SQL DB, ADLS, Synapse, Databricks, Azure Data Factory, Azure Data Catalog
+- Programming languages or platforms: Not mentioned  
+- Data visualization tools: Power BI, Tableau, Alteryx
+- CI/CD tools: Azure DevOps
+- Operating systems: Not mentioned
+
+https://www.indeed.com/rc/clk?jk=140b95dd17ad2243&from=jasx&tk=1hdjafq3r2cc7000&vjs=3

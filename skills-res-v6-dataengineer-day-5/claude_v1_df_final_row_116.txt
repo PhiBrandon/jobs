@@ -1,0 +1,22 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data modeling 
+- ETL development
+- SQL/T-SQL
+- Data warehousing
+- Data visualization (Tableau, Power BI)
+- Requirements gathering
+- Communication
+- Project planning
+
+Technologies:
+- Microsoft SQL Server 
+- SQL Server Integration Services (SSIS)
+- Microsoft Azure Data Factory
+- IBM InfoSphere DataStage
+- Tableau
+- Power BI
+- Healthcare domains (Epic Clarity, Epic Cadoodle)
+
+https://www.indeed.com/rc/clk?jk=15fd4f1c42b1c5c0&from=jasx&tk=1hd43l8mokhqg800&vjs=3

@@ -1,0 +1,31 @@
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Administration of big data systems like Cloudera Data Platform 
+- Administering and engineering relational databases like MySQL, PostgreSQL
+- Apache Solr
+- ETL tools like Ab Initio  
+- BI tools like MicroStrategy
+- Automation tools like Ansible, Terraform, Bit Bucket
+- Cloud computing experience specifically on AWS
+- DevOps practices like CI/CD
+- Troubleshooting 
+- Data modeling
+- SQL
+- Scripting/Programming languages like Python
+
+Tech:
+- Cloudera Data Platform (private and public cloud)
+- Relational databases like MySQL, PostgreSQL 
+- Big data systems
+- Apache Solr
+- ETL tools like Ab Initio
+- BI tools like MicroStrategy  
+- Automation tools like Ansible, Terraform, Bit Bucket
+- Cloud technologies like AWS, S3, DynamoDB, EMR
+- NoSQL databases like MongoDB
+- Programming languages like SQL, Python
+- Hadoop
+- MapReduce
+
+https://www.indeed.com/rc/clk?jk=26e51b9e060db1da&from=jasx&tk=1hd6hkmagh0mj800&vjs=3

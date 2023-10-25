@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data analysis
+- Data modeling 
+- Data visualization (e.g. Tableau, PowerBI, Sigma)
+- SQL
+- Programming (e.g. Python)
+- Problem solving
+- Communication  
+- Business acumen
+
+Technologies:
+- Snowflake
+- SQL
+- Tableau 
+- Power BI
+- Sigma
+- Python
+
+The role involves working with healthcare data to generate insights and dashboards. Familiarity with healthcare domains like risk adjustment, clinical analytics, and health economics is preferred. Snowflake, SQL and data visualization tools are some of the key technologies used. Programming and data modeling skills are also required.
+
+https://www.indeed.com/rc/clk?jk=f32a0eb4fc36bab8&from=jasx&tk=1hd1foafmk78p800&vjs=3

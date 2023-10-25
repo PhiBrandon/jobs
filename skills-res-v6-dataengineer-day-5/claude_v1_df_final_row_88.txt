@@ -1,0 +1,25 @@
+ Here are the relevant skills and technologies extracted from the job description:
+
+Skills:
+- 5+ years of Data Engineering experience
+- 3+ years of writing SQL experience against complex databases for data extraction  
+- 3+ years of experience working on Spark (RDDs / Data Frames / Dataset API) using Scala/Python to build and maintain complex ETL pipelines
+- 3+ years of Python coding experience, familiar with utilizing packages such as pandas, boto3, requests, json, csv, os
+- Experience with GitHub, Code check-in, versioning, Git commands
+- Introduce and drive adoption of CI/CD framework within the team and build/deploy CI/CD Pipelines using Terraform or AWS Cloud Formation
+- Experience with visualization tools such as Tableau, Looker or PowerBI to build dynamic/scalable dashboards and reports.
+- Strong analytical and interpersonal skills
+- Knowledge or experience within Talent/People analytics is a plus
+- Enthusiastic, highly motivated and ability to learn quickly.  
+- Able to work through ambiguity in a fast-paced, dynamically changing business environment.
+- Ability to manage multiple tasks at the same time with minimal supervision.
+
+Technologies:
+- AWS Athena (Presto), Databricks Delta Lake, Data Modeling & Data warehousing  
+- Spark (RDDs / Data Frames / Dataset API) using Scala/Python
+- Parquet and Avro
+- AWS services including Glue, Athena, Lambda, S3, SNS, SQS, Cloud formation, Step Functions, Serverless architecture.
+- Terraform or AWS Cloud Formation
+- Tableau, Looker or PowerBI
+
+https://www.indeed.com/rc/clk?jk=623c55b56f304bb5&from=jasx&tk=1hd1g2npm2f32000&vjs=3

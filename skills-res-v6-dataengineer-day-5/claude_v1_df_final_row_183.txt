@@ -1,0 +1,21 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL pipeline development and maintenance
+- SQL
+- Python
+- AWS (experience using AWS data tools)
+- Communication
+- Collaboration
+
+Technologies: 
+- AWS
+- SQL
+- Python
+- Postgres
+- Data tools
+- Go
+- C++
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BlIR6L0eizDKDqkzeZRfLume_DxC2-xIBuckbPXhGlgQ01ftrjl3y36AU3ugZ3jwBaOnc34sn8XbNBVs2KCizg5GI3EZLfAopY5lohbSAwYZAP-cvdW_21imXJW-WA7S8h4lF0k8hETfEB7KuKsUPPSI4RMom8llcUQ7IXNslTkazNARLJv2L8GPEJlc_wIpeOyszi9Oe9PwEkz-0tE9eA6WFoqp8NjXfH17HlrFZ8An4QbGfRIolI4Rm_0ODmDugT_N4nUsrF7Pqlf7Tkbsbp64rmElHqTSvlbZ7I32BNapb-Rsv3e3D4eQ2C4pOrOlH_jL2FxzchsDb2_xlBC4eo4ALbh3IYdlvGC68pJhEE770KHVK0CjNqd78BKg-OSkdPdUkd_N4nUbrBYC-tokQ-8nmTUq0CghuoFbXsXwtUMJgtc_fMHwpQeMuf96Aupvi0xIlqHicQb_wiJKNwdD7IvpxA5KYNS41_2ovoHg6M7pDg1y8kSzKSuQ0clD57ypI4HC9mRxrFA1DX9UMhK833KsXe79ehpeVsda7rMTsh-oWIyR6k8PU3li4S_r18J9W0MciUajHKj8eppNTVLquqF4QGZjb-MODNmMep-DxKUel9PpLqXCTf1PZEnaMfcLr1wMswK1yqTZSvj64NW1J_s7j7NobXUsmQJgweEQL4XhnZcw6aImuQr3VpobaBzU8%3D&xkcb=SoAZ-_M3JkANkHxcpR0BbzkdCdPP&p=10&fvj=0&vjs=3&jsa=4439&tk=1hd440i722a6o002&from=jasx&wvign=1

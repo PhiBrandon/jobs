@@ -1,0 +1,18 @@
+ Here are the specific skills and tech extracted from the job description:
+
+Required skills:
+- Databricks/py-spark – 4+ years of experience  
+- Cloud experience – 4+ years of cloud experience
+- AWS experience - 6 years
+
+Nice to have skills:
+- Software engineering background
+- AWS experience
+- Experience with Typescript
+
+Tech mentioned:
+- Databricks
+- Pyspark 
+- AWS
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BSRaD9lfi1M4GEnG4pnFsPi92N_zg6XQTKM2RXCnXf0V5919SIZyeemH_4jgA_bdpI9HgUwgut0jGaaF2iDLdiYuuvWAuwswCdYF4kR-bJDD_O6Q2L82HD6YXZ3q7Qi33t3scop2VRFHBIB2Q10usrg63hXNqu_Ee38ReI34fzeiOOjPfK-lIfTud6ULu-M1hDvbwRx5LGmO8zabL5QD2y6M-SwEPH3A7dTqmoVZLiQwolSnrYfX0hOehpP07eWDwM4a9EzJXpyhrD_6xsSO3f221I5IZDW1apUJzIKikQbvPlYBg38zrKVHIAwTmvv4jbpS1QrqiOGb3LWHTFceJ4S_lEladPHH6nNb5c91RkYSQC6-suCChSGhszn-k_cAKswpOf_tp2T6MiFHzp5h0gTZISaPmJLHuHzodQqntJ1W6si_Krb-Ag2KTJCYpf4l7yC5FymY4yzrRgMdzKXrQBBvakSyNGiGeQPTzq7qqA_FKTSkpw7WUd0513akBX6lFmemaFun-hor6VrpjjZDHUiKogEx0l_LpWd1MH6q48xQiGhlw1iPdM-XVc0S0-0uEuyekRngLW7Or46HuJNo5n&xkcb=SoBs-_M3JhX_1MWas50FbzkdCdPP&p=14&fvj=1&vjs=3&jsa=4707&tk=1hd1fs0bnk7b3800&from=jasx&wvign=1

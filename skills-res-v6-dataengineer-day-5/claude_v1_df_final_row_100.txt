@@ -1,0 +1,25 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data integration
+- ETL/ELT
+- Data modeling
+- Data warehousing
+- Dimensional modeling
+- SQL
+- Programming (to develop ETL scripts)
+- Data analysis
+- Statistics
+- Data visualization
+- Cloud computing
+- Relational and NoSQL databases
+
+Technologies: 
+- Hadoop
+- MapReduce
+- AWS (implied by reference to cloud infrastructure)
+- Relational databases
+- NoSQL databases
+
+https://www.indeed.com/rc/clk?jk=fe0fc5669a01f689&from=jasx&tk=1hd1g5htglell801&vjs=3

@@ -1,0 +1,25 @@
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data modeling 
+- SQL scripting
+- Query performance tuning
+- Data warehousing solutions design and development
+- ETL/ELT design and development
+- Data pipeline development
+- API design and development 
+- Agile methodologies like CI/CD
+- Data quality and governance
+
+Technologies:
+- Snowflake 
+- Redshift (data warehouses)
+- Python
+- PySpark
+- Scala (for data pipelines)
+- DBT (for data modeling)
+- Rivery or Fivetran, Matillion (ELT tools)  
+- AWS (Athena, Glue, Data Pipeline)
+- Salesforce Health Cloud, Marketing Cloud, NetSuite (experience with schemas)
+
+https://www.indeed.com/rc/clk?jk=3b61441b9b1ff9fa&from=jasx&tk=1hd6h75sii6mo800&vjs=3

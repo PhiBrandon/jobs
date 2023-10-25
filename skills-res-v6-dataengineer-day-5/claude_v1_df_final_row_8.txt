@@ -1,0 +1,29 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL
+- Python 
+- Data modeling
+- Data pipelines/ETL
+- Data transformation
+- Data quality/monitoring
+- Metadata management
+- Problem solving
+- Collaboration
+
+Technologies: 
+- BigQuery
+- dbt
+- Airbyte
+- Stitch
+- Fivetran
+- Dagster
+- Airflow 
+- dbt Cloud
+- DataHub
+- OpenMetadata
+- Looker
+- Superset
+- PowerBI
+
+https://www.indeed.com/rc/clk?jk=28162dd96d9b7a0d&from=jasx&tk=1hd1fm1o6iman800&vjs=3

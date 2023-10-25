@@ -1,0 +1,24 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data operations 
+- Building and supporting big data systems
+- Scripting/programming (experience with Python mentioned)
+- Data engineering (experience with data pipelines/ETL processes mentioned)
+- Cloud infrastructure
+- Software development lifecycle 
+- Unit and integration testing
+- Attention to detail
+- Problem solving
+- Collaboration
+
+Technologies: 
+- Google Cloud Platform (preferred)
+- AWS
+- Apache Airflow
+- Matillion 
+- Python
+- Spark
+- Data mocking/masking tools like Tonic or Mockaroo
+
+https://www.indeed.com/rc/clk?jk=21025ed51ea9aa9f&from=jasx&tk=1hd43k4db21ci002&vjs=3

@@ -1,0 +1,30 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Big data solutions
+- Data modeling
+- Algorithm development
+- Data analysis
+- Python programming
+
+Technologies:
+- Hadoop (Cloudera, Hortonworks)
+- MapReduce, Hive, HDFS
+- NoSQL (MongoDB, Cassandra)  
+- ERwin, Visio for data modeling
+- Python
+- C/C++, Java, Perl, Scala
+- Flask, FastAPI or other micro web frameworks
+- SQLAlchemy or other ORMs
+- Github
+- Pandas for data analysis
+- AWS S3, CloudTrail, Lambda, ECS Fargate
+- Terraform for infrastructure management
+
+Clearances required: 
+- DoD Secret
+- IT-II Security clearance
+- NACLC
+
+https://www.indeed.com/rc/clk?jk=d9235c7fdf0bf5f3&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3

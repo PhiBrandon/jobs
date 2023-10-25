@@ -1,0 +1,24 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data integration
+- Data modeling
+- Data warehousing
+- Scripting for data integration and analysis (Python, SQL, Scala)
+- Data analysis
+- Problem solving
+- Collaboration
+- Communication
+- Technical writing
+
+Technologies:  
+- AWS/Azure (Cloud technologies)
+- Databricks
+- Python
+- Spark
+- SQL
+- Scala
+- Azure DevOps / JIRA (Agile project tools)
+
+https://www.indeed.com/rc/clk?jk=90d55aeca2904404&from=jasx&tk=1hd1g3ucrjm7b801&vjs=3

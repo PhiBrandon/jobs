@@ -1,0 +1,25 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- SQL
+- ELT/ETL
+- Powershell/Bash
+- Python
+- CTEs/Subqueries 
+
+Technologies:
+- Azure 
+- Azure Synapse 
+- Azure SQL Database
+- Azure Kubernetes Service
+- Azure Container Apps
+- Azure Container Registry
+- Terraform
+- Ansible
+- Azure DevOps
+- Azure Security Center
+- Network Security Groups
+
+The job responsibilities focus on data engineering, ETL processes, Azure cloud architecture and implementation involving databases, containers and automation. Strong SQL skills are emphasized.
+
+https://www.indeed.com/rc/clk?jk=88983c081a8a400b&from=jasx&tk=1hd1fru0j2f35000&vjs=3

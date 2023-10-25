@@ -1,0 +1,21 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering
+- Web scraping 
+- Data pipeline development
+- Data modeling 
+- Database optimization
+- SQL
+- TypeScript
+- Node.js
+
+Technologies:
+- PostgreSQL
+- AWS
+- CI/CD
+- Automated testing 
+- GitHub
+- Version control
+
+https://www.indeed.com/rc/clk?jk=cebc0b8cc9a9f1a0&from=jasx&tk=1hd1g26uejoov800&vjs=3

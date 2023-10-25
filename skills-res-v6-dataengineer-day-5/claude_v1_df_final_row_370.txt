@@ -1,0 +1,24 @@
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data analysis 
+- Data warehousing
+- Extract-Transform-Load (ETL) development
+- Problem solving
+- Programming/software development
+- Database querying
+- Data modeling
+- Report writing
+
+Technologies: 
+- Relational databases (Oracle, MySQL, PostgreSQL, SQL Server)
+- Data warehousing 
+- ETL tools
+- Hadoop ecosystem (HDFS, YARN, Hive, Pig)
+- Big data processing (Spark, Kafka, Storm) 
+- Cloud platforms (AWS, Azure)
+- Version control (GitLab)
+- CI/CD tools
+- BI tools (Power BI, OBIEE)
+
+https://www.indeed.com/rc/clk?jk=2e42f3bb52125beb&from=jasx&tk=1hd95ff4chbht800&vjs=3

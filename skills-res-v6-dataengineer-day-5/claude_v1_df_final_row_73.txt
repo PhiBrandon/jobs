@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software development 
+- System integration
+- Team collaboration
+- Debugging
+- Critical thinking
+- Creative problem solving
+
+Technologies:
+- Java
+- Python 
+- JavaScript
+- HTML5
+- Operating systems: Windows, RedHat Linux
+- Development tools: Eclipse, IntelliJ
+- Agile methodologies: Scrum
+- Databases: JDBC
+- Interface development: JavaScript, JSON, HTML5, CSS, AJAX, JQuery
+- Debugging tools
+
+https://www.indeed.com/rc/clk?jk=8b7d96de56a29c5d&from=jasx&tk=1hd1fvosi2gtk000&vjs=3

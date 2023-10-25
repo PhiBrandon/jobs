@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Hands-on engineering experience 
+- Automation
+- Troubleshooting production issues
+- Decision making, especially under pressure
+- Strong communication skills
+
+Technologies:
+- Cassandra 
+- ElasticSearch
+- Kafka
+- Zookeeper
+- Spark
+- Large scale datastores
+- Linux environments
+- Cloud (Amazon Web Services experience mentioned)
+- Information security experience preferred but not required
+
+So in summary, the role involves maintaining and automating large distributed data systems using Cassandra, Elasticsearch, Kafka and related technologies in a cloud/AWS environment at global cybersecurity leader CrowdStrike. Strong troubleshooting, communication and decision making skills are also emphasized.
+
+https://www.indeed.com/rc/clk?jk=86616a549b160eb2&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

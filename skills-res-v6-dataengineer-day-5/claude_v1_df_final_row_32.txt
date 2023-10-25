@@ -1,0 +1,19 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 10+ years of software development experience 
+- Object-oriented programming (e.g. Java)
+- Relational database skills and concepts
+- Database performance tuning
+- Project leadership experience
+- Mentoring and growing junior engineers
+- Tooling and process development
+- Brand ambassadorship
+
+Technologies:
+- Postgres
+- MongoDB 
+- AWS (Aurora, S3)
+- Java
+
+https://www.indeed.com/rc/clk?jk=416b51eb49b3f599&from=jasx&tk=1hd1fq7bmjm7k800&vjs=3

@@ -1,0 +1,22 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 12+ years of experience as a Lead
+- Data engineering 
+- Data security or governance
+- Performance improvement
+
+Technologies: 
+- AWS Glue
+- AWS S3
+- AWS Redshift 
+- AWS Lambda
+- PySpark
+- Spark
+- AWS Step Functions
+- AWS DynamoDB
+- AWS Data Migration Service
+
+The job is focused solely on AWS services and technologies. Relevant experience with Glue, S3, Redshift, Lambda and PySpark is required. Experience with Step Functions, DynamoDB and Data Migration Service is considered an added benefit. The role requires at least 2 years of AWS experience.
+
+https://www.indeed.com/rc/clk?jk=67ac721633aee65d&from=jasx&tk=1hd6h6bheiolg800&vjs=3

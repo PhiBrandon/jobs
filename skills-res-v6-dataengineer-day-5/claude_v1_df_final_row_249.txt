@@ -1,0 +1,19 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Understanding how to write and troubleshoot complex SQL queries
+- Understanding ETL (Extract, Transform, and Load) processes and tools 
+- Creating wikis for data conversion processes and tools
+- Ability to handle a fast-paced environment
+- Ability to multitask efficiently
+- Self-led, capable of working with little direction
+- Skilled communicator with a collaborative spirit
+
+Technologies:
+- Microsoft Technologies including VB.NET, ASP.NET, C#
+- Visual Studio
+- SQL Server 
+- Microsoft ETL tools
+- Experience with machine learning and automation is a plus
+
+https://www.indeed.com/rc/clk?jk=0a1b5ba4666e2bed&from=jasx&tk=1hd6hajt4irpg807&vjs=3

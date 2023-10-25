@@ -1,0 +1,20 @@
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Strong data analytics skills 
+- Experience working with and maintaining large data sets
+- Ability to build new solutions and enable analysis at scale
+- Proven ability to work in a complex, fast-paced environment
+- Organization and detail orientation
+- Strategic focus
+- Strong written and verbal communication
+
+Technologies:
+- Spark 
+- Spark SQL
+- Data pipelines
+- Database infrastructure
+- Sales and digital advertising platforms
+- Sales systems and tools
+
+https://www.indeed.com/rc/clk?jk=095f064bfba48308&from=jasx&tk=1hd958u85jqvd802&vjs=3

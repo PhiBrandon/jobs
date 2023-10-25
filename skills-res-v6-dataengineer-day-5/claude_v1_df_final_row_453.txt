@@ -1,0 +1,35 @@
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data engineering
+- SQL 
+- Python
+- Data quality 
+- Cloud infrastructure (GCP)
+- Docker
+- Terraform/Pulumi
+- Apache Airflow
+- Streaming/real-time data ingestion
+- Data monitoring and alerting
+
+Technologies: 
+- Google BigQuery
+- Snowflake 
+- Amazon Redshift
+- Google Cloud Platform (GCP)
+- Docker
+- CircleCI
+- dbt
+- Git
+- Terraform
+- Pulumi
+- Apache Airflow
+- Astronomer
+- Google Cloud Run
+- Google Cloud Function
+- Google Vertex AI
+- Google App Engine  
+- Google Cloud Storage
+- Google IAM
+
+https://www.indeed.com/rc/clk?jk=261c524a08808e40&from=jasx&tk=1hdjagu34k269800&vjs=3

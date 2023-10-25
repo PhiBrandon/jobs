@@ -1,0 +1,33 @@
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Data engineering 
+- ETL methodologies
+- Database management
+- Object oriented programming
+- SQL
+- Python
+- Data pipelines
+- Agile methodology
+- Data transformation
+- Data cleansing
+- Data curation
+- Data analysis
+- Data visualization
+- Workflow design
+- Documentation
+
+Tech:
+- Hadoop
+- Spark  
+- Java
+- Python
+- R
+- Elasticsearch
+- Palantir Foundry
+- Relational databases
+- Apache Spark
+- Big data processing
+- Distributed computing frameworks
+
+https://www.indeed.com/rc/clk?jk=5bcbbacaaee9d357&from=jasx&tk=1hd1fm1o6iman800&vjs=3

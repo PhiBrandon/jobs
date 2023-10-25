@@ -1,0 +1,20 @@
+ Here are the relevant skills and technologies extracted from the job description:
+
+Skills:
+- Data migration
+- Data engineering 
+- Data integration
+- Data warehousing/processing 
+- System design
+- Programming 
+- Testing
+- Documentation
+
+Technologies: 
+- Core systems/databases (mandatory)
+- ETL tools like AWS Glue (mandatory)
+- SQL Server, Oracle, MySQL (mandatory)  
+- Microsoft SSIS (desired)
+- AWS DMS/MGN (desired)
+
+https://www.indeed.com/rc/clk?jk=cab4f56240621034&from=jasx&tk=1hd6hf7p7k2l9800&vjs=3

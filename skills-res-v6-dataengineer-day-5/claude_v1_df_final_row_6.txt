@@ -1,0 +1,22 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data analysis
+- Data profiling
+- Data design
+- Data management
+- Test data generation 
+- Data visualization
+- Report building
+- Data architecture design
+- Large data set analysis and synthesis
+- Optimization modeling
+
+Technologies:
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Agile development
+- Scaled Agile Framework (SAFe)
+
+https://www.indeed.com/rc/clk?jk=e65490aaaff7f716&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

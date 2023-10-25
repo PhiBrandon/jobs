@@ -1,0 +1,28 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software architecture 
+- System design
+- Cloud technologies (Azure, GCP, AWS)
+- Microservices architecture
+- Distributed systems design
+- Database design
+- Continuous integration/delivery
+- Programming (C#, .NET)
+- Data modeling
+- Security/compliance
+
+Technologies: 
+- C#
+- .NET 
+- Web services
+- Microservices architecture
+- ORM frameworks 
+- RDBMS
+- NoSQL data stores
+- Azure
+- GCP
+- AWS
+- Messaging middleware
+
+https://www.indeed.com/rc/clk?jk=3417ee3c65b91eed&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

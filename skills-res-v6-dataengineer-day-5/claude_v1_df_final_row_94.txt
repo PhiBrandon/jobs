@@ -1,0 +1,43 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data pipeline design and development
+- Data analysis and modeling 
+- Complex data analysis 
+- Data ingestion and transformation
+- Metadata management
+- Data quality monitoring and auditing
+- Agile software development 
+- Process automation
+- Documentation
+- Data modeling
+- SQL
+- Python
+- Data wrangling 
+
+Technologies:
+- Azure Data Factory
+- Databricks/Spark
+- Snowflake
+- Kafka
+- Azure DevOps
+- GitLab
+- Terraform
+- Azure CLI
+- PowerShell 
+- Kubernetes
+- Docker
+- PowerBI
+- Tableau 
+- OBIEE
+- SQL databases (Snowflake, Netezza, Oracle, SQL Server, MySQL, Teradata)
+- Hadoop
+- Pivotal
+- Vertica
+- MapR
+- IBM Datastage
+- Informatica
+- Pentaho 
+- Ab Initio
+
+https://www.indeed.com/rc/clk?jk=651209e06d4f7358&from=jasx&tk=1hd1g3s5pjfnq801&vjs=3

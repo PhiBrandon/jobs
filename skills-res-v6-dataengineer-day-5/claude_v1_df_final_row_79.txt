@@ -1,0 +1,16 @@
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Azure Data Engineering
+- RDBMS 
+- Airflow
+- ADF  
+- API
+- ETL Knowledge
+- Python
+- Communication
+
+Tech:
+- Azure Cloud
+
+https://www.indeed.com/rc/clk?jk=e7aca82a03dbb9b5&from=jasx&tk=1hd1g273r2gvn004&vjs=3

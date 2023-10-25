@@ -1,0 +1,23 @@
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Software development 
+- Product requirements gathering
+- Software design
+- Automated testing
+- User documentation
+- Technical assistance
+- Collaboration
+- Project coordination
+
+Technologies:
+- ArcGIS Velocity
+- Workflow Manager  
+- Geotrigger
+- ArcGIS GeoEvent Server
+- ArcGIS Enterprise
+- ArcGIS Online
+- ArcGIS Pro
+- Python
+
+https://www.indeed.com/rc/clk?jk=ad5d4ac0639f9242&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

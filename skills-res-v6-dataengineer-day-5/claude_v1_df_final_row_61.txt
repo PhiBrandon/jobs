@@ -1,0 +1,20 @@
+ Here are the specific skills and tech mentioned in the job description:
+
+Skills:
+- Software development experience 
+- Understanding of security, secure coding/testing
+- Knowledge of data structures
+- Proficiency with programming languages like Python, Java, Oracle, Azure
+- Experience building and sustaining relationships
+- Communication skills
+- Ability to mentor junior team members
+
+Tech:
+- Python 
+- Databricks
+- Security
+- CICD pipelines
+- Data operations
+- DevOps
+
+https://www.indeed.com/rc/clk?jk=18da6255e1db9629&from=jasx&tk=1hd1ft1i8joou800&vjs=3

@@ -1,0 +1,26 @@
+ Here are the specific skills and technologies extracted from the job description:
+
+Skills:
+- Python
+- SQL
+- Data modeling 
+- ETL processes
+- Data warehousing concepts
+- Data engineering
+- Data pipelines
+- Data extraction, transformation, and loading (ETL)
+- Data ingestion, transformation, and storage
+- Data validation and quality checks
+- Code reviews
+- Mentoring junior team members
+- Problem-solving
+- Attention to detail 
+- Communication
+- Collaboration
+
+Technologies:
+- Azure (Azure Data Factory, Azure Databricks, Azure SQL Database, etc.)
+- Python 
+- SQL
+
+https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D_sybMACCpf9B-677oK5j6rPldVB6BlrVvFjO_o-GJZbzuF-qh4PxErFUqfUsv_6sRAtmmSLc6DSJNHK7BtyJXJ1yHjCh92kz8dm5wgeoxHaFxEP0BpXXXmxV5OBQ2zuyFFEfLV7aaEUrdjFxxqmfjnf0asGdvXcAi2yBNMvD5XSYbiuuhAv7qWJsoKVnZVvz5gFylHApbSaBEFw7HH15rCW5tl4OtU2-LmHAmmUWPmE-5Xdmti-JOysZo7i6_P-srhV2L2oXWfDXSqVG6NSZAa2VMmxmaXn0Brb_UVedhyPiN1iPshtlSUhs1RyLC1ylOIvj7qsPmMPXbjl70l7Z30zRF6eS-dPClQuPdGHRbS8hQ_XXKaXNkEWbSGz3aF-Zh7wA0MnUB9soTA4RNyZgD_sqNATIhMvhIkQXVJN5gRVU7hDL-0HRkldBkT56vTkv6bzD9xSdKHFpOyVWPkgGVoDCs13TNRY7sM4RJ8VNql65f216AFiuQWyFXDAdU4U5HfLL5msO_pv0kDyJx_fWB77BtfDONlWlU4PRU20j9n5NwlgVEbPq0G_NNRMTOZCax0XIpZYQZBSbtMLn3wBKFUsNaqCxg8mAT9_y0jWefYfgedlK6KCVFw5E0gAgQBhF1j17HSHGOOddGMiQP0qlZ&xkcb=SoA6-_M3Jmqg1iQlSZ0KbzkdCdPP&p=1&fvj=0&vjs=3&jsa=1462&tk=1hd6hbo9gimir801&from=jasx&wvign=1

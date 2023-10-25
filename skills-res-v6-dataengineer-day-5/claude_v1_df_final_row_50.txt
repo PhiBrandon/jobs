@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Programming languages: Java, Scala, Python 
+- Databases: RDBMS, NoSQL, Cloud data warehousing services like Snowflake
+- Stream processing: Spark Streaming, Kafka, Kinesis, Flink
+- Cloud: AWS, Microsoft Azure, Google Cloud
+- Configuration management: Ansible, Terraform 
+- Distributed systems: Hadoop stack (MapReduce, Pig, Hive, HBase)
+- Agile methodologies
+- Unix/Linux skills
+
+Technologies: 
+- Programming languages: Java, Scala, Python
+- Databases: RDBMS, NoSQL, Snowflake  
+- Stream processing: Spark Streaming, Kafka, Kinesis, Flink
+- Cloud: AWS, Microsoft Azure, Google Cloud
+- Distributed systems: Hadoop stack, MapReduce, Pig, Hive, HBase  
+- Data platforms: Cassandra, Accumulo, HBase, MongoDB
+- Data pipelines: Apache Spark
+- Cloud configuration: Ansible, Terraform
+
+https://www.indeed.com/rc/clk?jk=7df0841eea60802f&from=jasx&tk=1hd1ft1i8joou800&vjs=3

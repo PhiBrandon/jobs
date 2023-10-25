@@ -1,0 +1,24 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- ETL (extract, transform, load) 
+- Data streaming
+- Data warehousing
+- Data pipelines
+- Project management
+- Mentorship
+
+Technologies: 
+- Scala (required)
+- Apache Spark
+- Kafka
+- Kinesis  
+- Flink
+- Looker
+- Golang
+- C#
+- Ruby
+
+The role focuses on building data architectures including migrating to a streaming and big data architecture, defining streaming data feeds, enhancing automation/testing/observability of platforms, and building a data warehouse and event streaming platform.
+
+https://www.indeed.com/rc/clk?jk=3cf3060bcd436793&from=jasx&tk=1hd1ft1i8joou800&vjs=3

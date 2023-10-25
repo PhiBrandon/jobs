@@ -1,0 +1,27 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Information security policies, programs and procedures 
+- Data ingestion
+- Designing and implementing data pipelines and architecture
+- Big data technologies (Hadoop, Apache Nifi, Hive, Spark, Kafka, etc.)
+- Cloud platforms (AWS, GCP, Azure)
+- Batch and streaming data processing
+- Data visualization (Tableau)
+- Python
+- Statistical analysis and modeling
+- Source code management (Git)
+
+Technologies: 
+- Hadoop
+- Apache Nifi 
+- Cloud platforms (AWS, GCP, Azure)
+- Spark
+- Kafka
+- Hive
+- Pig
+- Python
+- Tableau
+- Git
+
+https://www.indeed.com/rc/clk?jk=b1473aeba6e7b340&from=jasx&tk=1hd958u85jqvd802&vjs=3

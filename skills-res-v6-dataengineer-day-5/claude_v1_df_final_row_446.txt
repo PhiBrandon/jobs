@@ -1,0 +1,19 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data warehousing
+- Data analytics
+- SQL
+- Data modeling
+- ETL processes
+- Data integration
+- Data architecture
+
+Technologies:
+- Oracle Integrator
+- Data warehouse
+- Analytics data lakehouse
+- SQL
+
+https://www.indeed.com/rc/clk?jk=104d041d2954dd4c&from=jasx&tk=1hdjafq3r2cc7000&vjs=3

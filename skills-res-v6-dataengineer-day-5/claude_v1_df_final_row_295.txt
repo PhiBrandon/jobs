@@ -1,0 +1,25 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- Data infrastructure and architecture
+- Data analysis and visualization 
+- Project management
+- Strong communication skills
+- Cross-functional collaboration
+
+Technologies: 
+- Spark/Scala
+- Java 
+- Hadoop/HDFS
+- AWS/S3
+- Cassandra
+- Kafka
+- SQL and NoSQL databases
+- Tableau
+- Power BI
+- Python
+
+The role involves working with large volumes of data from various sources, designing and building data pipelines, ensuring data quality, collaborating with other teams, and analyzing/visualizing data to provide insights. Experience with distributed data processing, data modeling, cloud technologies and visualization tools is required.
+
+https://www.indeed.com/rc/clk?jk=0e319a6994ef9d47&from=jasx&tk=1hd6hi1iggaj8801&vjs=3

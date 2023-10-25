@@ -1,0 +1,27 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data Engineering 
+- Data Modeling (OLTP)
+- Dimensional modeling
+- Database Design
+- Data Migration
+- ETL/ELT
+- SQL
+- NoSQL databases
+- Data warehouse implementation
+- Data analysis
+- Data profiling
+- Data discovery
+- Unit testing
+
+Technologies: 
+- Spark/Scala
+- Databricks
+- Relational databases 
+- Data warehouses/data marts
+- Cloud/big data applications
+
+The position requires 6-9 years of experience in data engineering, data modeling, ETL/ELT pipelines, data migration experience for both structured and unstructured data. Familiarity with healthcare or pharmacy domain is preferred.
+
+https://www.indeed.com/rc/clk?jk=69367ead0238ca43&from=jasx&tk=1hd43nlmik6qs800&vjs=3

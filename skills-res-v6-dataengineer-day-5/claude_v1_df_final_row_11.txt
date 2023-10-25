@@ -1,0 +1,23 @@
+ Based on the job description, here are the relevant skills and technologies:
+
+Skills:
+- Data migration strategy 
+- Data engineering
+- Data integration
+- Data modeling
+- Data processing
+- System design
+- Performance optimization
+- Requirements documentation
+- Agile/Scrum 
+- Cloud technologies
+- Automation
+- Troubleshooting
+
+Technologies:
+- AWS DMS/MGN
+- Cloud databases (experience mentioned)
+- Datalake/DeltaLake/Lakehouse
+- Python (experience mentioned for data manipulation)
+
+https://www.indeed.com/rc/clk?jk=fdd1d18770845207&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

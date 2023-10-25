@@ -1,0 +1,34 @@
+ Here are the specific skills and tech extracted from the job description:
+
+Skills:
+- Data engineering
+- Database development 
+- SQL (Oracle PL/SQL)
+- Data warehousing 
+- Business intelligence
+- Cloud technologies (OpenShift, Kubernetes, AWS, Google Cloud, Azure) 
+- Agile/SAFE methodology
+- Continuous Integration/Delivery (CI/CD)
+- DevOps
+- Production support
+- Problem solving
+- Communication
+- Decision making
+- Time management
+- Relationship building
+
+Technologies: 
+- Oracle
+- SQL (Oracle PL/SQL)
+- Third party database tools
+- Git
+- Java
+- Open-source technologies
+- RESTful APIs
+- OpenShift 
+- Kubernetes
+- AWS
+- Google Cloud
+- Azure
+
+https://www.indeed.com/rc/clk?jk=6ca598d4286ea230&from=jasx&tk=1hd1g273r2gvn004&vjs=3

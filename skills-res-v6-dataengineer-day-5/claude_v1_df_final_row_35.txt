@@ -1,0 +1,21 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Java programming
+- Distributed systems design and development 
+- Software engineering skills like code reviews, unit testing, etc. 
+- Experience building and operating large-scale systems
+- Data structures, algorithms and object-oriented design skills
+- Performance tuning and optimization
+- Concurrency, networking, memory management skills
+- Diagnosing issues and troubleshooting
+- Mentoring and knowledge sharing
+
+Technologies:
+- Java 
+- Streaming systems like Kafka, Pulsar
+- Kafka
+- Relational databases like Oracle, MySQL, MariaDB, MSSQL
+- DevOps environment
+
+https://www.indeed.com/rc/clk?jk=e56b7ba5eba022d3&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

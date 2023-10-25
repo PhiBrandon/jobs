@@ -1,0 +1,23 @@
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- 10+ years of software development experience 
+- Expert coder able to develop solutions for sophisticated problems
+- Authority in Python development
+- DevOps practices like CI/CD, Docker, testing, automation
+- Experience with at least one strongly typed language like Typescript, Java
+- Experience implementing data software using AWS, Snowflake, Google Cloud
+- Experience with agile development approaches including DevOps
+
+Tech:
+- Python
+- Typescript 
+- Java
+- AWS
+- Snowflake
+- Google Cloud Platform
+- CI/CD
+- Docker
+- Testing/automation tools
+
+https://www.indeed.com/rc/clk?jk=530b87a7867afc6f&from=jasx&tk=1hdjagqsjjgbm800&vjs=3

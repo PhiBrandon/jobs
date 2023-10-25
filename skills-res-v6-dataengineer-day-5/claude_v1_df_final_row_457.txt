@@ -1,0 +1,26 @@
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- Data/ML engineering (8+ years required)  
+- ETL
+- Data labeling and preparation
+- Data architecture design and implementation
+- AI/ML model operationalization and maintenance
+- SQL and SQL functions (advanced level required)  
+- Data analytics
+- DevSecOps and MLOps
+- Ability to work independently
+- Team player with strong work ethic
+
+Tech:
+- Python
+- Databricks
+- SSIS or Pentaho
+- Postgres 
+- Spark
+- Airflow
+- Kafka
+- Big data environments
+- Cloud services, CPUs and GPUs
+
+https://www.indeed.com/rc/clk?jk=b58aac4026ea6a1e&from=jasx&tk=1hdjagqsjjgbm800&vjs=3

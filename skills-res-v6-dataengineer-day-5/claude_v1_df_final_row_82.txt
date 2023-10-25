@@ -1,0 +1,18 @@
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- Data extraction
+- Creating data pipeline workflows 
+- Analyzing large data sets from multiple sources
+- Data validation
+- Problem solving
+- Excellent communication skills
+
+Technologies:
+- Bigdata (Hive, HQL/PySpark) 
+- Python
+- Hadoop ecosystem (HDFS, Spark, Hive, Sqoop)
+- SQL/HQL
+- GCP Cloud Services (Big Query, Airflow DAG, Dataflow, Beam)
+
+https://www.indeed.com/rc/clk?jk=989549b8e8d9773e&from=jasx&tk=1hd1g27112f34000&vjs=3

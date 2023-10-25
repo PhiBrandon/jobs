@@ -1,0 +1,24 @@
+ Here are the specific skills and tech extracted from the job description:
+
+Skills:
+- Azure Databricks
+- PySpark 
+- Scala
+- Snowflake
+- ADF
+- CICD
+- Airflow
+- SQL
+- Understanding of Agile methodologies
+
+Tech:
+- Azure Databricks
+- PySpark
+- Scala 
+- Snowflake
+- ADF
+- Airflow
+- SQL
+- Cloud Databases
+
+https://www.indeed.com/rc/clk?jk=d4db43c4028922ab&from=jasx&tk=1hd6h75sii6mo800&vjs=3

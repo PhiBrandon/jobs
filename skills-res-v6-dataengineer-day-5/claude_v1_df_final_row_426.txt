@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Machine learning 
+- Data science
+- Statistical modeling
+- Python
+- SQL
+- Data engineering/MLOps
+- Engineering/product development
+- Communication
+- Problem solving
+
+Technologies: 
+- Python (Pandas, Airflow)
+- SQL
+- Machine learning algorithms (supervised and unsupervised)
+- Google Cloud Platform (BigQuery, ML Engine, APIs)  
+- Data tools like Adobe Analytics, DoubleClick
+- Version control (Git)
+- Project management tools (JIRA, Confluence)
+
+https://www.indeed.com/rc/clk?jk=241a80b3883d2e12&from=jasx&tk=1hdea7hq42do5000&vjs=3

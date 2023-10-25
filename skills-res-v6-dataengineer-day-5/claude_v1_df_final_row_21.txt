@@ -1,0 +1,19 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- 5+ years of experience in application development 
+- 5+ years of experience designing, developing, operationalizing and maintaining complex data applications at enterprise scale
+- 3+ years of experience creating software for retrieving, parsing and processing structured and unstructured data
+- 3+ years of experience building scalable ETL/ELT workflows for reporting and analytics
+- Ability to develop scripts and programs for converting various types of data into usable formats
+- Experience with Python, SQL, Scala, or Java
+- Experience with Unix/Linux, including basic commands and Shell scripting
+
+Technologies: 
+- Public cloud platforms like AWS, Microsoft Azure, Google Cloud
+- Distributed data and computing tools like Spark, Databricks, Hadoop, Hive, AWS EMR, Kafka
+- NoSQL databases like MongoDB, Cassandra  
+- Data warehousing systems like AWS Redshift, MySQL, Snowflake
+- Agile engineering practices
+
+https://www.indeed.com/rc/clk?jk=814ba5de32777d5d&from=jasx&tk=1hd1fo8m3llq3800&vjs=3

@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Software development  
+- Data engineering
+- AWS DataOps (IAM Lambda Step Functions EMR/Glue and DynamoDB)
+- SQL/Non-relational Data Modeling
+- Designing and implementing complex ingestion and processing pipelines through orchestration
+- Designing API interfaces 
+- Designing, implementing and supporting scalable multi-tenant service and data infrastructure solutions
+- Interfacing with engineering and ML teams to extract, transform and load data
+- Understanding business needs to solve problems
+
+Technologies:
+- AWS (IAM, Lambda, Step Functions, EMR/Glue, DynamoDB)
+- SQL
+- Non-relational data modeling 
+- Data streaming technologies (Kafka, Spark Streaming)
+- API interfaces
+- Ingestion/processing pipelines
+- Machine learning models
+
+https://www.indeed.com/rc/clk?jk=8c2d8bd464c9e1f8&from=jasx&tk=1hd1fm1o6iman800&vjs=3

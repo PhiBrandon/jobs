@@ -1,0 +1,23 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Network design and deployment
+- Network automation (Python, Chef, Ansible) 
+- Network consulting and support
+- Technical documentation
+- Customer communication
+- Troubleshooting
+- Relationship building
+
+Technologies: 
+- Cisco routing and switching (Catalyst, Nexus, ASR)
+- Leaf-spine data center architectures
+- Ethernet, VLANs, VxLAN, EVPN 
+- IP routing protocols (OSPF, BGP, eBGP)
+- Multicast, QoS
+- Linux, Perl, Python scripting
+- Network virtualization (OpenStack, SDN, NFV)
+- Load balancers
+- Industry certifications (CCIE, JNCIE)
+
+https://www.indeed.com/rc/clk?jk=94a5ae6b3646efe1&from=jasx&tk=1hd1fqt7tk7ar805&vjs=3

@@ -1,0 +1,22 @@
+ Here are the key skills and tech mentioned in the job description:
+
+Skills:
+- SQL
+- Python
+- R, SAS 
+- Machine learning modeling
+- Data engineering
+- ETL/ELT processes
+- Data modeling
+- Data visualization (e.g. Tableau)
+- Problem solving
+- Communication
+- Project management
+
+Tech:
+- Snowflake
+- Azure ML
+- Databricks
+- Tableau Server
+
+https://www.indeed.com/rc/clk?jk=d81d17fc1c3957ba&from=jasx&tk=1hd443vdui469801&vjs=3

@@ -1,0 +1,21 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Data backup solutions design and implementation 
+- Disaster recovery and business continuity
+- Backup concepts, methodologies and technologies
+- Cloud backup solutions (AWS, Azure, GCP)
+- Hybrid and multi-cloud backup solutions
+- Large scale and complex backup environments
+- Client needs assessment and solutions translation
+- Troubleshooting and root cause analysis
+- Documentation
+- Collaboration
+- Problem solving
+
+Technologies: 
+- Cohesity DataProtect
+- Backup for various platforms - Windows, Linux, VMware, Hyper-V, SQL Server, Oracle, Exchange, SharePoint etc.
+- Cloud platforms - AWS, Azure, GCP
+
+https://www.indeed.com/rc/clk?jk=8df3ef9ef08ef072&from=jasx&tk=1hd1ft2vcjooh800&vjs=3

@@ -1,0 +1,35 @@
+ Here are some specific skills and technologies extracted from the job description:
+
+Skills:
+- Data engineering 
+- ETL/ELT pipelines
+- Data modeling
+- Data warehousing
+- SQL
+- Programming languages like Java, Scala, Python
+- Workflow orchestration tools like Airflow, Dagster, DBT
+- Cloud technologies like AWS, GCP, Azure
+- Big data systems like Snowflake, BigQuery, Databricks
+- NoSQL databases like Cassandra, HBase, Redis, DynamoDB, Neo4j
+- Financial/compliance data
+- Data provenance and governance
+
+Technologies: 
+- Snowflake
+- BigQuery
+- Databricks
+- MySQL 
+- PostgreSQL
+- Cassandra
+- HBase
+- Redis
+- DynamoDB
+- Neo4j
+- Airflow
+- Dagster
+- DBT
+- AWS
+- Google Cloud
+- Microsoft Azure
+
+https://www.indeed.com/rc/clk?jk=c41c14c5c2c43e9e&from=jasx&tk=1hd1fn4d0i3at800&vjs=3

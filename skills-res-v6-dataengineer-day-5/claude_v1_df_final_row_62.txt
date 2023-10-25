@@ -1,0 +1,26 @@
+ Based on the job description, here are the key skills and technologies mentioned:
+
+Skills:
+- 10+ years of IT experience focusing on enterprise data architecture and management  
+- 8+ years experience in Conceptual/Logical/Physical Data Modeling & expertise in Relational and Dimensional Data Modeling
+- Advanced level SQL experience
+- Experience leading and architecting enterprise-wide data initiatives
+- Experience with large-scale, high-performance enterprise big data applications
+
+Technologies: 
+- Databricks
+- Spark
+- PySpark
+- AWS (S3, Lambda, DynamoDB, Kinesis, CloudWatch)
+- ETL/ELT tools (SSIS, Pentaho, Data Migration Services)
+- Python
+- Data quality tools (Great Expectations)
+- Docker
+- Jenkins
+- Confluent/Kafka
+- Schema Registry 
+- ksqlDB
+- SQL
+- JSON
+
+https://www.indeed.com/rc/clk?jk=c1dc76acaaac3b9b&from=jasx&tk=1hd1ft1i8joou800&vjs=3

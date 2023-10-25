@@ -1,0 +1,18 @@
+ Here are the key skills and technologies extracted from the job description:
+
+Skills:
+- Expertise in data center site operations including equipment installation logistics, power and cooling requirements, cable management, etc. 
+- Understanding of overall data center design and optimization strategies like floorplan, power distribution, cooling, cable layouts, etc.
+- Ability to create technical drawings, document methodologies and train staff
+- 10+ years of experience designing, constructing and overseeing complex data center environments
+- Experience handling, installing and servicing large-scale IT equipment in data centers
+- Excellent communication and presentation skills
+
+Technologies:
+- Arista Networks data center products including switches, routers, etc.  
+- Cable types like copper and fiber
+- Connector types for pluggable modules
+- Liquid cooling systems
+- Power distribution and resiliency designs
+
+https://www.indeed.com/rc/clk?jk=6492b9f12e5769ae&from=jasx&tk=1hd1foafmk78p800&vjs=3
