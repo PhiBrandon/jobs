@@ -1,0 +1,16 @@
+Skills:
+
+Software Development: Develop software components using Java, Python, Scala, and Go.
+Data Engineering: Develop data architecture using technologies like Apache Hadoop, Spark, Snowflake, and AWS cloud.
+SQL: Manage data in relational databases and write complex SQL queries.
+Systems Design: Design software architecture, write specifications, and setup databases.
+Technologies:
+
+Java: Develop software using Java programming language.
+Python: Develop software using Python programming language.
+Scala: Develop software using Scala programming language.
+Go: Develop software using Go programming language.
+Apache Hadoop: Develop data architecture using Apache Hadoop big data platform.
+Spark: Develop data architecture using Apache Spark big data processing framework.
+Snowflake: Develop data architecture using Snowflake cloud data warehouse.
+AWS: Develop cloud architecture using Amazon Web Services cloud platform.

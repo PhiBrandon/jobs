@@ -1,0 +1,14 @@
+Skills:
+
+Requirements Gathering: Work directly with the customer to capture and formalize 'Baseline' and 'To Be' business user stories, use cases, requirements, system architectures, and data schema.
+System Design: Design and execute test plans for solution and system testing. Work with the broader development, including SQL developers and Azure engineers.
+System Testing: Design and execute test plans for solution and system testing.
+Technical Communication: Candidate must have strong verbal and written communication skills. Concise writing and ability to communicate technical content to broad audiences are critical candidate abilities.
+Technologies:
+
+Azure: Knowledge of the Microsoft Azure ecosystem
+Data Lakes: Experience with Data Lakes and preferably Data Lakehouses
+SQL: Experience working with SQL developers (or knowledge of SQL)
+Agile/Scrum: Experience or familiarity with: executing Agile, Scrum, and Kanban methodologies
+
+URL:https://www.indeed.com/rc/clk?jk=e2317b3154109084&from=jasx&tk=1hdea988rk6dn800&vjs=3

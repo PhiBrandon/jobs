@@ -1,0 +1,13 @@
+Skills:
+
+Data analysis: Responsible for the analysis, development, and execution of data solutions of low to moderate complexity that assists with the information lifecycle needs of an organization
+Data integration: Assists with collecting, integrating, and analyzing organizational data with the purpose of drawing conclusions from that information
+Program and tool development: Develops, constructs, tests, and maintains data architectures for data platform, database, analytical, reporting, or data science systems
+Data modeling: Builds and designs data models and data architecture that improve accessibility, efficiency, governance and quality of data
+Process improvement: Helps identify possible process improvements that address technology gaps within a single business process of low to moderate complexity
+Technologies:
+
+AWS SDK: Experience with AWS SDK
+Docker/Kubernetes: Experience with Docker/Kubernetes
+
+URL:https://www.indeed.com/rc/clk?jk=ae83164544567281&from=jasx&tk=1hdea8ee5ipb2801&vjs=3

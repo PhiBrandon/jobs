@@ -1,0 +1,28 @@
+SKills:
+
+Ability to thrive in a fast-paced, ever-changing landscape
+5 + years of experience working in a SQL-focused conversion role
+Solid knowledge of T-SQL and SQL Server Management Studio
+Familiarity with Oracle SQL*Plus is desired but not required
+Experience with ETL and Data Migration
+Understanding of relational database concepts
+Impressive oral and written communication skills
+Exceptional time management capabilities; deadlines are not flexible
+Ability to communicate and translate ideas between technical and non-technical parties
+SQL Server 2012+/SSRS/SSIS/Jira/GitHub/Confluence
+Skills using Apache NiFi, R, or Python are a plus but not required
+BS/BA in Computer Science or related field preferred
+
+Responsibilities:
+
+Deliver custom database conversions during new customer implementation projects
+Migrate data from competitor solutions to our in-house software
+Upgrade existing customers from our previous Oracle/VB6 software version to our current SQL Server/C#/.Net product
+Assist with the development of ad hoc T-SQL scripts for occasional data engineering needs
+Collaborate with the Continuous Improvement team to streamline future processes, automate repeatable tasks, improve quality assurance, and minimize rework
+Develop custom routines to convert graphical building drawings from various formats, including (but not limited to) Traverse, SVG, AutoCAD DXF, and binary, to our proprietary Sketch XML format
+Create and alter client analytics dashboards using PowerBI
+Embrace agile methodologies to achieve industry-leading project delivery schedules while maintaining ongoing customer engagement and excitement
+Partner with project teams to provide a seamless customer transition experience
+
+URL:https://www.indeed.com/rc/clk?jk=8a288fca6ecd6019&from=jasx&tk=1hdea7hq42do5000&vjs=3

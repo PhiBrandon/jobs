@@ -1,0 +1,10 @@
+Skills:
+
+SQL: Experience with cleaning and transforming data utilizing SQL, specifically complex SQL queries
+Python: Experience with cleaning and transforming data utilizing Python
+ETL: 2+ years of experience with scalable ETL workflows/development, extract, cleanse, and process disparate data sources
+Data Integration: Familiarity with acquiring data from disparate data sources using APIs and SQL
+Technologies:
+
+Python: Experience with cleaning and transforming data utilizing Python
+SQL: Experience with cleaning and transforming data utilizing SQL, specifically complex SQL queries

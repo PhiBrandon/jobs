@@ -1,0 +1,31 @@
+Skills:
+
+Acting with Integrity: N/A
+Communicating Effectively: N/A
+Pursuing Self-Development: N/A
+Serving Customers: N/A
+Supporting Change: N/A
+Supporting Organizational Goals: N/A
+Working with Diverse Populations: N/A
+Technologies:
+
+AWS Data Platform - Cloud infrastructure, Datalake/Cloud Formation, Automation, CI/CD: N/A
+Amazon Cloud Data Storage – S3, RedShift, DynamoDB, NoSQL: N/A
+ETL Tools – AWS Glue, Informatica Suite, SSIS, Infoworks: N/A
+.NET Framework: N/A
+C#: N/A
+Java: N/A
+JavaScript: N/A
+jQuery: N/A
+LINQ: N/A
+MVC Framework: N/A
+ASPX: N/A
+Angular.js: N/A
+Bootstrap: N/A
+Knockout: N/A
+Business Intelligence: N/A
+ETL Techniques: N/A
+Data Modeling: N/A
+Data Warehousing/Business Intelligence: N/A
+Meta Data Repository: N/A
+MS SQL Server: N/A

@@ -1,0 +1,12 @@
+Skills:
+
+Distributed Systems: Solving real business needs at large scale by applying your software engineering and analytical problem solving skills. Architecting and building a robust, scalable, and highly available distributed infrastructure. 
+Leadership: Leading cross-functional initiatives and collaborating with engineers, product managers, and TPM across teams.
+Open Source: Sharing our experiences with the open source communities and contributing to Netflix OSS.
+Technologies:
+
+Java: You are proficient in design and development of RESTful web services. Experienced building and operating scalable, fault-tolerant, distributed systems You are an expert in Java or other object-oriented programming languages.
+Python: Python or Scala expertise is a plus.
+Multi-threading: Multi-threading is a challenge that you are comfortable tackling.
+
+URL:https://www.indeed.com/rc/clk?jk=5129c67eff35d9e9&from=jasx&tk=1hdea988rk6dn800&vjs=3

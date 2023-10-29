@@ -1,0 +1,35 @@
+SKills:
+
+AWS (Glue, Athena, API Gateway)
+SQL, NoSQL
+Data developments with modeling tools such as Neo4J, Erwin, Embarcadero, transforming logical, physical, conceptual, reverse engineering & forward engineering.
+Development with Alation and/or EASparx
+Data Movement tools such as Informatica & others...
+Unit testing
+RESTful API Development
+Desire and willingness to learn new data tools
+Agile mindset and iterative development process background
+CMS data experience
+CMS Public Trust clearance, EUA highly preferred
+AWS CDK and/or other AWS services (or comparable cloud data solutioning tools)
+Experience with Git and CICD pipelines
+Relational database design
+Microservices / Containers (Docker, Kubernetes)
+Informatica Intelligent Cloud Services (IICS)
+Prior experience with CMS, preferably within clinical quality or standards area
+
+Responsibilities:
+
+Research, design, build, optimize and maintain reliable, efficient, and accessible data models, systems and pipelines/APIs etc.
+Support, with guidance, the analytic and/or operational use of data.
+Align closely with Enterprise partners in data science, architecture, governance, infrastructure, and security to apply standards and optimize production environments and practices.
+Collaborate with business owners to optimize data collection, movement, storage, and usage to data process and data quality.
+Convert concepts & ideas into workable prototypes (custom or COTS products) for client reviews and acceptance.
+Translate business needs into: data architecture solutions development within supported data systems.
+Translate business needs into: data orchestration pipelines (source to target analysis & recommendations), data sourcing, cleansing, augmentation and quality control processes within supported data systems.
+Translate business needs into:Prototype, test and integrate new data tools (i.e. data features and functionality) as defined by the product owners and business teams
+Help promote a culture of diversity and inclusion within the department and the larger organization
+Value different ideas and opinions
+Listen courageously and remain curious in all that you do
+
+URL:https://www.indeed.com/rc/clk?jk=814edb5947a6ddd9&from=jasx&tk=1hdea988rk6dn800&vjs=3

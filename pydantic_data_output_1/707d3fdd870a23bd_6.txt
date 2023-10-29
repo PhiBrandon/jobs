@@ -1,0 +1,22 @@
+SKills:
+
+Bachelor’s degree in Computer Science, Information Systems, Engineering, Statistics, related field; or equivalent experience
+5-7 years’ experience as a Data Engineer designing, developing, and implementing data pipelines and ETL systems and 3 years’ experience with data lake technologies and architectures (S3, Glue, Redshift, RDS, DynamoDB, Data Pipeline, EMR)
+Ambitious knowledge in data warehousing solutions (Panoply, Redshift, etc.) with hands on experience using Cloud based database systems (Azure SQL, Bigtable, etc.)
+Hands on development experience using Python, Perl, Scala, Java, SAS, C++ 
+Fluent in SQL, ability to write new, complex queries with no supervision; strong written and verbal communication skills
+Experience with Agile development methodologies, CI/CD automation, Test Driven Development
+Knowledge of standard processes in database engineering and data security with high level cloud migration & tools knowledge 
+Familiarity with machine learning methodologies and strong problem-solving skills
+
+Responsibilities:
+
+Collaborate with team to craft, develop, and implement data pipelines and ETL systems for the data lake
+Develop data models that support Business Intelligence products
+Perform data validation to ensure data quality and reliability
+Work with BI architect and Data Engineering Lead to create technical requirements and specifications for Business Intelligence products
+Identify, tackle, and fix data pipeline Production issues
+Build clear documentation of procedures and protocols
+Implement data governance, data security and privacy policies and collaborate multi-functionally with technical and non-technical team members
+
+URL:https://www.indeed.com/rc/clk?jk=707d3fdd870a23bd&from=jasx&tk=1hdea7hq42do5000&vjs=3

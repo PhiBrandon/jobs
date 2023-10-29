@@ -1,0 +1,37 @@
+SKills:
+
+Strong MSSQL experience, a must!
+very strong knowledge of the Microsoft SQL Server engine with a focus on the ability to troubleshoot, optimize and support existing pipelines (SSIS) and processes
+desire to learn (or already possess and grow) popular cloud technologies like Snowflake, BigQuery, Matillion, and more
+analytical, results-oriented, self-driven, confident
+Bachelor’s degree in Information Systems, Computer Science, or Information Technology (a 4-year bachelor’s degree is acceptable) - OR - expertise in above subject matters matched by experience
+7+ years’ experience in MSSQL data engineering and development
+Excellent understanding of T-SQL, stored procedures, indexes, stats, functions, and views
+Expert understanding of relational and warehousing database design and querying concepts
+Exposure to agile development methodology
+Understanding of version control concepts
+Strong desire to learn
+Strong desire to be world-class data and SQL troubleshooter
+Experience with Snowflake cloud data warehouse
+Experience with Matillion (Snowflake/BigQuery)
+Experience with Google Cloud Platform technology stack: BigQuery, Data Flow, Data Fusion
+Experience with BI tools like Sigma, Tableau or others
+Experience with NoSQL databases
+
+Responsibilities:
+
+Maintain and support existing MSSQL processes, pipelines (SSIS), and schemas
+Migrate existing pipelines and processes to the cloud (Snowflake, GCP)
+Analyze and organize raw data sets to meet both functional and non-functional requirements
+Develop and test new pipelines and processes, both in MSSQL and cloud environments
+With the data engineering team, design and implement solutions that scale to meet business needs
+Design and implement data models to support analytics and reporting initiatives
+With the software team, develop products that deliver value to our clients
+Participate in peer-reviews of solution designs and related artifacts
+Package and support deployment of releases
+Analyze and resolve technical and application problems
+Adhere to high-quality development principles while delivering solutions on-time and on-budget
+Provide third-level support to business users
+Participate in business operations as necessary to meet business goals
+
+URL:https://www.indeed.com/rc/clk?jk=a777e3c8aa805996&from=jasx&tk=1hdea8ee5ipb2801&vjs=3

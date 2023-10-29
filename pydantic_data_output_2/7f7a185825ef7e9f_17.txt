@@ -1,0 +1,16 @@
+Skills:
+
+Data Migration Planning: Design and develop comprehensive data migration plans.
+Data Migration Execution: Utilize Komprise to perform assessments, identify target data, and orchestrate migration.
+Testing: Conduct pre-migration validation tests to ensure data integrity.
+Troubleshooting: Monitor migrations and address any issues or discrepancies.
+Documentation: Document the entire migration process.
+Training: Provide knowledge transfer and training.
+Technologies:
+
+Komprise: Strong proficiency in Komprise data management software.
+Isilon: In-depth knowledge of Isilon storage platform.
+NetApp: In-depth knowledge of NetApp storage platform.
+Scripting: Experience with scripting languages like Python and PowerShell.
+
+URL:https://www.indeed.com/rc/clk?jk=7f7a185825ef7e9f&from=jasx&tk=1hdea8gffk2nb800&vjs=3

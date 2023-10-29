@@ -1,0 +1,17 @@
+SKills:
+
+Bachelor's degree in Computer Science, Information Systems, or a related field. Master's degree preferred.
+Proven experience in data governance and data quality management.
+Proficiency in utilizing data quality platforms like Anomalo or data catalog platform like Alation.
+Strong understanding of data governance frameworks, policies and procedures.
+Excellent problem-solving skills and attention to detail.
+Strong clear communication skills and interpersonal skills to collaborate with various teams.
+
+Responsibilities:
+
+Collaborate with cross-functional teams to establish and maintain data governance policies, standards, and procedures.
+Implement and manage data quality checks and data lineage using Anomalo or Alation.
+Design and execute data quality audits and assessments to identify and resolve data issues.
+Develop and maintain data cataloging and metadata management processes.
+
+URL:https://www.indeed.com/rc/clk?jk=19d5fafc9fb74494&from=jasx&tk=1hdea7hq42do5000&vjs=3

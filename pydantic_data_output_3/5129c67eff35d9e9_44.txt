@@ -1,0 +1,12 @@
+Skills:
+
+Distributed Systems: 5+ years of experience in building large-scale distributed systems or applications.
+RESTful Web Services: Proficient in design and development of RESTful web services.
+Scalable Systems: Experienced building and operating scalable, fault-tolerant, distributed systems
+Object-Oriented Programming: Expert in Java or other object-oriented programming languages. Python or Scala expertise is a plus.
+Multi-Threading: Multi-threading is a challenge that you are comfortable tackling.
+Computer Science: You have a BS in Computer Science or related field.
+Technologies:
+
+Java: Expert in Java or other object-oriented programming languages.
+Python: Python or Scala expertise is a plus.

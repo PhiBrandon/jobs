@@ -1,0 +1,17 @@
+Skills:
+
+Business Intelligence: 5+ years of overall IT Experience working with Business Intelligence and Data understanding.
+Power BI: 3 + years designing and developing reports and dashboards in Power BI.
+SQL: 3 + Strong SQL skills (complex queries on relational databases, stored procedures, automation) required.
+Data Visualization: Experience with Designing Data Visualization for Business Needs.
+Agile: Experience working in an Agile Scrum environment or good familiarity with the Agile methodologies.
+Data Warehousing: Good understanding of Data Warehousing & Data Modeling fundamentals.
+Technologies:
+
+Power BI: 2+ years designing and developing reports and dashboards using BI tools like Power bi , DAX functions, Qlik Sense and Tableau.
+Qlik Sense: 2+ years designing and developing reports and dashboards using BI tools like Power bi , DAX functions, Qlik Sense and Tableau.
+Tableau: 2+ years designing and developing reports and dashboards using BI tools like Power bi , DAX functions, Qlik Sense and Tableau.
+GitHub: Hands-On experience with GitHub, JIRA, and CI/CD tools.
+Python: Experience using statistical computer languages (Python, SQL, R, etc.) to manipulate data and draw insights from large data sets
+SQL: Experience using statistical computer languages (Python, SQL, R, etc.) to manipulate data and draw insights from large data sets
+R: Experience using statistical computer languages (Python, SQL, R, etc.) to manipulate data and draw insights from large data sets

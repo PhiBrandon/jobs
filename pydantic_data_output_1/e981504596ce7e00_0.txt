@@ -1,0 +1,20 @@
+SKills:
+
+Proven experience in designing and developing ETL pipelines on Google Cloud Platform (GCP).
+Experience with GCP data tools and services, such as BigQuery, Dataflow, Dataprep, and Data Studio.
+Knowledge of ETL tools, methodologies, and best practices.
+Experience with data warehousing concepts.
+Proficiency in data scripting languages, such as Python or SQL.
+Strong problem-solving skills and attention to detail.
+Excellent communication and teamwork skills.
+
+Responsibilities:
+
+Design, develop, and maintain ETL pipelines on Google Cloud Platform (GCP) to ensure efficient data extraction, transformation, and loading processes.
+Extract data from various sources, including databases, APIs, and cloud storage, and ensure data quality and consistency.
+Collaborate with data scientists, data analysts, and other stakeholders to understand their data requirements and ensure data pipelines meet their needs.
+Implement data transformations, including cleaning, aggregation, and enrichment, to prepare data for analysis and reporting.
+Design, build, and maintain ETL pipelines using GCP services like Dataflow, Dataprep, or other relevant tools.
+Performance Optimization: Continuously optimize ETL processes for speed, efficiency, and scalability within the GCP environment.
+
+URL:https://www.indeed.com/rc/clk?jk=e981504596ce7e00&from=jasx&tk=1hdea7hq42do5000&vjs=3

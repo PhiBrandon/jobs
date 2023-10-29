@@ -1,0 +1,26 @@
+SKills:
+
+Mid to Sr Data Engineer
+Backend Java development at least 3+ yrs
+Python development at least 1+ yrs
+Experience with microservice design and development using Spring at least 2+ years
+Must have worked with automation testing frameworks like Karate, Cucumber
+Must have worked with testing libraries JUNIT, TestNG, Spock
+MongoDB development and NoSQL design at least 2+ years
+MariaDB or MySQL relational design at least 2+ years
+Good understanding of webservices, cloud computing with AWS, Kubernetes
+Understanding of cyber security aspects including data protection, encryption, anonymization
+Familiarity of ML tools and libraries in a Python environment such as Pandas, Scikit
+Some exposure with streaming data warehouse engines like Databricks, Snowflake or equivalent
+Some exposure to building big data tools experience Kafka, Spark
+Nice to have knowledge of Flink, JSON schema, NewRelic, DataDog, gradle, GITHub
+
+Responsibilities:
+
+Backend Java development: 9 years (Preferred)
+Python: 3 years (Preferred)
+MongoDB and NoSQL: 3 years (Preferred)
+MySQL: 3 years (Preferred)
+Remote.Please extract both the skills and responsibilities.
+
+URL:https://www.indeed.com/rc/clk?jk=4e37d548afe793c2&from=jasx&tk=1hdea8ee5ipb2801&vjs=3

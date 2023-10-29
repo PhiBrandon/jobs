@@ -1,0 +1,21 @@
+SKills:
+
+Glue
+S3
+Redshift
+Lambda
+PySpark
+Spark
+AWS Step function
+Dynamo DB
+AWS Data Migration Service
+
+Responsibilities:
+
+Primary focus is on Glue, S3, Redshift, Lambda, PySpark, Spark.
+Then added skillset which could add value are AWS Step function, NoSQL DB like Dynamo DB and AWS Data Migration Service in that order of priority.
+Data engineer should have at least 2 years of relevant AWS experience with their services mentioned above.
+Experience in data security or governance and performance improvement is an added benefit
+Only focus is on AWS services and tech stack.
+
+URL:https://www.indeed.com/rc/clk?jk=67ac721633aee65d&from=jasx&tk=1hdea988rk6dn800&vjs=3

@@ -1,0 +1,26 @@
+SKills:
+
+4+ years experience designing and implementing capabilities in a Hadoop-based, Spark big data environment
+4+ years experience in design and implementing real-time data pipelines using NiFi, Kafka and Spark Streaming
+4+ years experience processing large volumes of data with Hive, Pig, Spark, NiFi, Kafka and Python
+Familiarity with streaming big data applications like, Kafka, NiFi, Spark streaming/ Strom
+Strong background in Information System Security
+Excellent written and verbal communication skills
+Familiarity with statistical computing techniques, and statistics software (e.g. R and Tableau)
+Experience using source code management systems (e.g. Git)
+Interest and passion for learning about new technologies
+Experience in processing TB’s worth of data
+
+Responsibilities:
+
+Support the design, development and implementation of Security Data Analytic (SDA) capabilities that leverage cybersecurity data and big data technologies to deliver efficiencies and new discovery capabilities
+Design and implement resilient data pipelines and architecture for ingesting unbounded data from multiple sources with different formats leveraging Hadoop, Spark, NiFi and Kafka, Cloud-based applications (AWS, GCP, Azure)
+Develop capabilities for ingesting and indexing large volumes of security-related data in Hadoop, AWS, GCP, Azure environments
+Stay apprised of the latest data science technologies and techniques in order to identify areas where new tools can be applied to support SDA use cases
+Design and implement batch pipelines using Hive, Spark, Pig and Python for global security analytics
+Design and implement discrete and behavioral analytic capabilities to support cybersecurity operations
+Develop visualization capabilities to data using Tableau
+Support the SDA infrastructure design and implementation and ensure integration with other GS systems and operational workflows
+Stay apprised of the latest industry security trends and threats and apply that knowledge to the design and implementation of SDA software solutions
+
+URL:https://www.indeed.com/rc/clk?jk=b1473aeba6e7b340&from=jasx&tk=1hdea9902imai801&vjs=3

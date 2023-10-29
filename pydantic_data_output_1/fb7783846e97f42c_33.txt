@@ -1,0 +1,22 @@
+SKills:
+
+Database development
+Working knowledge on AWS
+Oracle, Snowflake, Python, CICD, Jenkins
+8 years' experience in the space
+Docker containers and EKS knowledge
+Reporting tools – Tableau or Power BI
+Candidate that has worked in a complex financial environment
+
+Responsibilities:
+
+Designing and developing solutions for a variety of data lake needs using Snowflake as the data store for structured/semi-structured data and AWS s3 for unstructured data.
+Being involved in the full end-to-end process through planning, design, development, quality, and implementation of solutions.
+Expertise in SQL, identifying patterns and trends in data, recommend and define data requirements, mastery in implementing data quality checks to ensure accuracy and completeness.
+Enjoying learning new technologies, data analysis, identifying data patterns and trends and independently resolving technical challenges.
+Experience in processing and exposing data using AWS technologies like ec2, s3, Lambda, API Gateway, Load Balancers, Auto scaling etc.
+Expertise in building data ingestion tools using technologies like Python to extract data from Relational Databases/Web Scraping/External API’s
+Experience in Snowflake or any MPP and columnar database on the Cloud.
+Experience in CI/CD release automation and deployment (Jenkins, Concourse, CloudFormation etc.)
+
+URL:https://www.indeed.com/rc/clk?jk=fb7783846e97f42c&from=jasx&tk=1hdea9902imai801&vjs=3

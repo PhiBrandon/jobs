@@ -1,0 +1,16 @@
+Skills:
+
+writing software applications: write, update, and maintain software applications
+production maintenance: perform production maintenance of code
+requirements gathering: gather solutions requirements
+owning technical commitments: own technical commitments to clients and work with the team to successful delivery of solutions
+analyzing and coding complex requirements: analyze, design, and code for complex requirements as well as write programs of complexity
+defining problems and establishing facts: responsible for defining problems, collecting data, establishing facts, drawing valid conclusions, and preparing appropriate reports
+Technologies:
+
+HTML5: 
+CSS3: 
+MySQL: 
+jQuery: 
+
+URL:https://www.indeed.com/rc/clk?jk=2ba6006821dec6ec&from=jasx&tk=1hdea7hq42do5000&vjs=3

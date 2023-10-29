@@ -1,0 +1,14 @@
+Skills:
+Data modeling
+ETL processes
+SQL development
+Data engineering
+Apache Spark
+
+
+Technologies:
+Databricks
+Azure
+Python
+SQL
+Delta Lake

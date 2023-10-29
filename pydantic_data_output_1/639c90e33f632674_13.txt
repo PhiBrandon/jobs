@@ -1,0 +1,32 @@
+SKills:
+
+5+ years of overall IT Experience working with Business Intelligence and Data understanding.
+3 + years designing and developing reports and dashboards in Power BI.
+3 + Strong SQL skills (complex queries on relational databases, stored procedures, automation) required.
+2+ years designing and developing reports and dashboards using BI tools like Power bi , DAX functions, Qlik Sense and Tableau.
+Experience with Designing Data Visualization for Business Needs.
+Excellent communication skills and understanding Business requirements.
+Hands-On experience with GitHub, JIRA, and CI/CD tools.
+Experience using statistical computer languages (Python, SQL, R, etc.) to manipulate data and draw insights from large data sets
+Experience working in an Agile Scrum environment or good familiarity with the Agile methodologies.
+Good understanding of Data Warehousing & Data Modeling fundamentals.
+Strong ability to communicate clearly and professionally with end customers.
+Any Cloud Application, Database, Data Integration, Business Intelligence Application Certifications are preferable.
+Exposure to Data Streaming, and Data API Design & Development experience would be preferable.
+Familiarity or working experience with one of tools like SSIS, ER Studio..
+
+Responsibilities:
+
+Working closely with business stakeholders and product owners on requirement gathering & assessment.
+Working with QA & Business Analysts on Integration & User Acceptance Testing.
+Working using Agile Delivery Methodology, to deliver in Quick Delivery Cycles.
+Developing Power BI datasets, dataflows and dashboard creation from various data sources.
+Developing visual reports, dashboards and KPI scorecards using BI tools like Power BI, Qlik Sense and Tableau.
+Developing paginated reports using Power Bi Build.
+Connecting to data sources, importing data and transforming data for Business Intelligence using Qlik Sense and Power BI. Create and Maintain Design specifications and Support documentation.
+Involve in Design Reviews & Post-Production Support Activities.
+Troubleshoot systems production/performance issues.
+Must be passionate about contributing to an organization focused on continuously improving consumer experiences.
+Must be open to new data technologies and self-learning for new business needs.
+
+URL:https://www.indeed.com/rc/clk?jk=639c90e33f632674&from=jasx&tk=1hdea7hq42do5000&vjs=3

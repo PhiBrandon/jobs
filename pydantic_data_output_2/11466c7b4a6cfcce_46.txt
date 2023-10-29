@@ -1,0 +1,14 @@
+Skills:
+
+Python: Strong proficiency in Python 3 and SQL for data analysis and manipulation.
+SQL: Strong proficiency in Python 3 and SQL for data analysis and manipulation.
+AWS: Experience working with AWS services, including S3, Redshift, and Glue.
+Version Control: Proficiency with GIT for version control and collaborative coding.
+ETL: Proven expertise in building ETL pipelines for data integration and transformation.
+Data Analysis: Excellent problem-solving skills and ability to work with complex datasets.
+Technologies:
+
+PySpark: Hands-on experience with PySpark for data processing and analytics.
+Data Lake: Familiarity with data lake architecture and best practices.
+
+URL:https://www.indeed.com/rc/clk?jk=11466c7b4a6cfcce&from=jasx&tk=1hdeaahlgk6pf800&vjs=3

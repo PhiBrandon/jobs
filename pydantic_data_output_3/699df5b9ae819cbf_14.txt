@@ -1,0 +1,21 @@
+Skills:
+
+Data Engineering: Support the acquisition of mission critical and mission support data sets.
+Software Development: Have a background in supporting cyber and/or network related missions within the military spaces, as either a developer, analyst or engineer.
+Data Analysis: Have supported government data acquisition, analysis, and/or sharing efforts in the past.
+Troubleshooting: Decompose technical problems and troubleshoot system and dataflow issues.
+Attention to Detail: Have a strong attention to detail, be able to understand technical complexities, and have the willingness to learn and adapt to the situation.
+Technologies:
+
+Python: Experience with programming languages such as Python and Java.
+Java: Experience with programming languages such as Python and Java.
+Kibana: Experience with Kibana and Elasticsearch.
+Elasticsearch: Experience with Kibana and Elasticsearch.
+Log Formats: Proficiency with acquisition and understanding of network data and the associated metadata.
+JSON: Familiarity with various log formats such as JSON, XML, and others.
+XML: Familiarity with various log formats such as JSON, XML, and others.
+Kafka: Experience with data flow, management, and storage solutions (i.e. Kafka, NiFi, and AWS S3 and SQS solutions).
+NiFi: Experience with data flow, management, and storage solutions (i.e. Kafka, NiFi, and AWS S3 and SQS solutions).
+S3: Experience with data flow, management, and storage solutions (i.e. Kafka, NiFi, and AWS S3 and SQS solutions).
+SQS: Experience with data flow, management, and storage solutions (i.e. Kafka, NiFi, and AWS S3 and SQS solutions).
+Accumulo: Experience with NOSQL databases such as Accumulo desired

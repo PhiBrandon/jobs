@@ -1,0 +1,14 @@
+Skills:
+Python
+SQL
+Machine Learning
+Data Analysis
+Communication
+
+
+Technologies:
+SQL
+Python
+Git
+Google Cloud Platform
+AWS

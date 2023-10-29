@@ -1,0 +1,14 @@
+Skills:
+
+6+ years professional software development: You’ve built high quality data pipelines before with comprehensive unit tests suites, data quality checks etc.
+Experience with Apache Spark and Delta Lake are a plus, but not required: 
+Solid understanding of system topologies from machine architecture to network architecture. Ability to solve unique complex problems.: 
+Ability to work independently with minimal supervision on system level projects. Identifies and corrects errors on their own. Assumes greater responsibilities and anticipates some team needs. A wide degree of creativity and latitude is expected.: 
+Proposes new solutions, ideas, tools and techniques for moderately complex problems.: 
+Begins to assume a lead role in team projects. Mentors and provides guidance.: 
+Considers multiple approaches and recommends best technical direction including logic and reasoning to areas outside of the immediate team.: 
+Proven hands-on Software Development experience, especially API and microservices architecture: 
+Technologies:
+
+Apache Spark: Experience with apache spark would be useful
+Python: Python experience is a plus

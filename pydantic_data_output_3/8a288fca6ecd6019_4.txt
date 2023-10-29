@@ -1,0 +1,20 @@
+Skills:
+
+Data Engineering: Deliver custom database conversions during new customer implementation projects
+Migrate data from competitor solutions to our in-house software
+Upgrade existing customers from our previous Oracle/VB6 software version to our current SQL Server/C#/.Net product
+Assist with the development of ad hoc T-SQL scripts for occasional data engineering needs
+Collaborate with the Continuous Improvement team to streamline future processes, automate repeatable tasks, improve quality assurance, and minimize rework
+Develop custom routines to convert graphical building drawings from various formats, including (but not limited to) Traverse, SVG, AutoCAD DXF, and binary, to our proprietary Sketch XML format
+Create and alter client analytics dashboards using PowerBI
+Embrace agile methodologies to achieve industry-leading project delivery schedules while maintaining ongoing customer engagement and excitement
+Partner with project teams to provide a seamless customer transition experience
+Time Management: Exceptional time management capabilities; deadlines are not flexible
+Communications: Impressive oral and written communication skills
+Ability to communicate and translate ideas between technical and non-technical parties
+Technologies:
+
+SQL Server 2012+/: SQL Server 2012+/SSRS/SSIS/Jira/GitHub/Confluence
+T-SQL: Solid knowledge of T-SQL and SQL Server Management Studio
+ETL: Experience with ETL and Data Migration
+NiFi: Skills using Apache NiFi, R, or Python are a plus but not required

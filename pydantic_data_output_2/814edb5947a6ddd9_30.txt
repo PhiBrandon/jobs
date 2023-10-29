@@ -1,0 +1,16 @@
+Skills:
+
+Research, design, build, optimize and maintain reliable, efficient, and accessible data models, systems and pipelines/APIs etc.: Research, design, build, optimize and maintain reliable, efficient, and accessible data models, systems and pipelines/APIs etc.
+Support, with guidance, the analytic and/or operational use of data.: Support, with guidance, the analytic and/or operational use of data.
+Align closely with Enterprise partners in data science, architecture, governance, infrastructure, and security to apply standards and optimize production environments and practices.: Align closely with Enterprise partners in data science, architecture, governance, infrastructure, and security to apply standards and optimize production environments and practices.
+Collaborate with business owners to optimize data collection, movement, storage, and usage to data process and data quality.: Collaborate with business owners to optimize data collection, movement, storage, and usage to data process and data quality.
+Convert concepts & ideas into workable prototypes (custom or COTS products) for client reviews and acceptance.: Convert concepts & ideas into workable prototypes (custom or COTS products) for client reviews and acceptance.
+Technologies:
+
+AWS (Glue, Athena, API Gateway): AWS (Glue, Athena, API Gateway)
+SQL, NoSQL: SQL, NoSQL
+Data developments with modeling tools such as Neo4J, Erwin, Embarcadero, transforming logical, physical, conceptual, reverse engineering & forward engineering.: Data developments with modeling tools such as Neo4J, Erwin, Embarcadero, transforming logical, physical, conceptual, reverse engineering & forward engineering.
+Development with Alation and/or EASparx: Development with Alation and/or EASparx
+Data Movement tools such as Informatica & others...: Data Movement tools such as Informatica & others...
+
+URL:https://www.indeed.com/rc/clk?jk=814edb5947a6ddd9&from=jasx&tk=1hdea988rk6dn800&vjs=3

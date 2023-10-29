@@ -1,0 +1,9 @@
+Skills:
+
+SNS, SQS, Athena, CloudWatch, Kinesis, Redshift: Primary Skills
+Technologies:
+
+Glue, S3, Redshift, Lambda, PySpark, Spark: Primary focus is on Glue, S3, Redshift, Lambda, PySpark, Spark
+AWS Step function, NoSQL DB like Dynamo DB and AWS Data Migration Service: Then added skillset which could add value are AWS Step function, NoSQL DB like Dynamo DB and AWS Data Migration Service in that order of priority
+
+URL:https://www.indeed.com/rc/clk?jk=1135c1400eced1b6&from=jasx&tk=1hdea988rk6dn800&vjs=3

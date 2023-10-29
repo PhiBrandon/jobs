@@ -1,0 +1,14 @@
+Skills:
+SQL
+Python
+Data engineering
+ETL
+Data analysis
+
+
+Technologies:
+SQL
+Python
+AWS
+Azure
+Tableau

@@ -1,0 +1,30 @@
+SKills:
+
+BS or MS in Computer Science or relevant engineering experience
+5+ years work experience in Data Engineering/data pipelines
+3+ years SQL experience is a must
+1+ years Unix/batch scripting preferred
+1+ years Python experience is a plus
+1+ years Windows server admin experience is a plus
+Experience interfacing with business teams and turning requirements and vision into a technical reality
+MySQL & Vertica Experience a plus/preferred
+AWS experience is a plus
+Ability to drive efforts from start to finish as a self-motivator
+Knowledge in Data Warehousing is a MUST
+Proven ability to maintain performance level in a fast-paced agile environment
+Pragmatic and realistic with solutions
+
+Responsibilities:
+
+Collaborate and partner with application teams to understand data collection/generation and design and partner to build and implement data feeds from our product tech stack
+Design, develop, and build code for rapid feeds and ingestion into the Data Warehouse
+Identify data sources used for building out data architecture diagrams/models
+Establish engineering practices and setup frameworks for "Data as a Service"
+Collaborate with relevant delivery teams, including infrastructure, operations, site reliability engineering, product development, and others to perform evaluations, POCs, and ultimately implement and operationalize new technology.
+Solve code level problems quickly and efficiently
+Participate in demos and code reviews
+Promote software best approach, standards, and processes
+Shape development processes to promote a high-quality output while continuing to iterate quickly
+Incorporate best practices for security, performance, and data privacy into data pipelines
+
+URL:https://www.indeed.com/rc/clk?jk=87c74988107a90d3&from=jasx&tk=1hdeaahlgk6pf800&vjs=3

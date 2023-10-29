@@ -1,0 +1,18 @@
+Skills:
+
+Python: Excellent programming skills in Python and deep comfort with SQL. Clojure experience is also highly appreciated
+SQL: Excellent programming skills in Python and deep comfort with SQL. Clojure experience is also highly appreciated
+Data engineering: 4+ years of experience successfully developing and deploying data pipelines and distributed architectures, ideally in a space similar to ours (startup, healthcare, regulated data)
+Software engineering: Able to independently ship medium-to-large features and start to support or participate in architectural design
+Communication: Excellent written and verbal communication skills
+Attention to detail: Strong attention to detail is key, especially when considering correctness, security, and compliance
+Testing: Solid software testing, documentation, and debugging practices in the context of distributed systems
+Technologies:
+
+AWS: Hands-on experience implementing ETL/ELT best practices at scale and demonstrated practical experience or familiarity with a good portion of our stack, including: AWS services (Redshift, MSK, Lambda, ECS, ECR, EC2, Glue, Quicksight, Spectrum, S3, etc.), Postgres, dbt, Kafka, Prefect, Docker, Terraform
+Postgres: Hands-on experience implementing ETL/ELT best practices at scale and demonstrated practical experience or familiarity with a good portion of our stack, including: AWS services (Redshift, MSK, Lambda, ECS, ECR, EC2, Glue, Quicksight, Spectrum, S3, etc.), Postgres, dbt, Kafka, Prefect, Docker, Terraform
+dbt: Hands-on experience implementing ETL/ELT best practices at scale and demonstrated practical experience or familiarity with a good portion of our stack, including: AWS services (Redshift, MSK, Lambda, ECS, ECR, EC2, Glue, Quicksight, Spectrum, S3, etc.), Postgres, dbt, Kafka, Prefect, Docker, Terraform
+Kafka: Hands-on experience implementing ETL/ELT best practices at scale and demonstrated practical experience or familiarity with a good portion of our stack, including: AWS services (Redshift, MSK, Lambda, ECS, ECR, EC2, Glue, Quicksight, Spectrum, S3, etc.), Postgres, dbt, Kafka, Prefect, Docker, Terraform
+Prefect: Hands-on experience implementing ETL/ELT best practices at scale and demonstrated practical experience or familiarity with a good portion of our stack, including: AWS services (Redshift, MSK, Lambda, ECS, ECR, EC2, Glue, Quicksight, Spectrum, S3, etc.), Postgres, dbt, Kafka, Prefect, Docker, Terraform
+Docker: Hands-on experience implementing ETL/ELT best practices at scale and demonstrated practical experience or familiarity with a good portion of our stack, including: AWS services (Redshift, MSK, Lambda, ECS, ECR, EC2, Glue, Quicksight, Spectrum, S3, etc.), Postgres, dbt, Kafka, Prefect, Docker, Terraform
+Terraform: Hands-on experience implementing ETL/ELT best practices at scale and demonstrated practical experience or familiarity with a good portion of our stack, including: AWS services (Redshift, MSK, Lambda, ECS, ECR, EC2, Glue, Quicksight, Spectrum, S3, etc.), Postgres, dbt, Kafka, Prefect, Docker, Terraform

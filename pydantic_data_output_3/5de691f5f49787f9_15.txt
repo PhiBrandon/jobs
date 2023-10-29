@@ -1,0 +1,13 @@
+Skills:
+
+Comfortable working in a team environment: Strong work ethic
+Excellent time management: Excellent oral/written communication
+Prior experience using MS Office (word, excel, outlook): Fundamental understanding of database concepts
+Experience with UNIX scripting: Experience with Object-Oriented Programming
+ETL experience: Hadoop Experience
+Leadership Experience: 
+Technologies:
+
+SQL: 1 year (Preferred)
+Python: 1 year (Preferred)
+Azure: 1 year (Preferred)

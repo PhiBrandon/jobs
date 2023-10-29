@@ -1,0 +1,18 @@
+Skills:
+
+Python: Hands on development experience using Python
+SQL: Fluent in SQL, ability to write new, complex queries with no supervision
+Data Engineering: 5-7 years’ experience as a Data Engineer designing, developing, and implementing data pipelines and ETL systems
+Data Modeling: Develop data models that support Business Intelligence products
+Data Quality: Perform data validation to ensure data quality and reliability
+Agile Methodologies: Experience with Agile development methodologies, CI/CD automation, Test Driven Development
+Problem Solving: Familiarity with machine learning methodologies and strong problem-solving skills
+Technologies:
+
+S3: 3 years’ experience with data lake technologies and architectures (S3, Glue, Redshift, RDS, DynamoDB, Data Pipeline, EMR)
+Glue: 3 years’ experience with data lake technologies and architectures (S3, Glue, Redshift, RDS, DynamoDB, Data Pipeline, EMR)
+Redshift: 3 years’ experience with data lake technologies and architectures (S3, Glue, Redshift, RDS, DynamoDB, Data Pipeline, EMR)
+RDS: 3 years’ experience with data lake technologies and architectures (S3, Glue, Redshift, RDS, DynamoDB, Data Pipeline, EMR)
+DynamoDB: 3 years’ experience with data lake technologies and architectures (S3, Glue, Redshift, RDS, DynamoDB, Data Pipeline, EMR)
+Data Pipeline: 3 years’ experience with data lake technologies and architectures (S3, Glue, Redshift, RDS, DynamoDB, Data Pipeline, EMR)
+EMR: 3 years’ experience with data lake technologies and architectures (S3, Glue, Redshift, RDS, DynamoDB, Data Pipeline, EMR)

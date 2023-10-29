@@ -1,0 +1,14 @@
+Skills:
+SQL: How many times it appears
+Python: How many times it appears
+Data modeling: How many times it appears
+ETL: How many times it appears
+Data engineering: How many times it appears
+
+
+Technologies:
+Azure: How many times it appears
+AWS: How many times it appears
+SQL databases: How many times it appears
+Spark: How many times it appears
+Python: How many times it appears

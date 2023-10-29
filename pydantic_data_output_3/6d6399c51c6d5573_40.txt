@@ -1,0 +1,10 @@
+Skills:
+
+Analytical skills: Ability to evaluate and prioritize work based on the organization’s needs.
+Communication: Excellent verbal & written communication, along with technical documentation
+Leadership: Frequently responsible for providing guidance, coaching, and training to other employees across the Company within the area of expertise.
+Technologies:
+
+Spark: Supervise work on cloud technologies and architect scalable and performant Data Lake systems.
+Python: Mastery with object-oriented/object function scripting languages: Python, Java, Scala
+AWS: Mastery of AWS cloud technologies, REST API, and HTML5

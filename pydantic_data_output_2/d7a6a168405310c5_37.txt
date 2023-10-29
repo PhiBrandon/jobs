@@ -1,0 +1,17 @@
+Skills:
+
+Data Modeling: Experience with data modeling techniques, design patterns, and technologies.
+ETL Development: Experience architecting , implementing, and supporting data infrastructure and topologies
+SQL: Experience writing advanced SQL (DML & DDL), including Stored Procedures, Indexes, user defined functions, windows functions, correlated subqueries and CTE's, and related data query and management technology
+Python/R: Coding ability in R, Python, and Shell Scripting to build and deploy Pipelines
+Git: Working knowledge of Git, or similar collaborative code management software
+Data Warehousing: Experience with data warehousing, methodologies, modeling techniques, design patterns, and technologies.
+Technologies:
+
+Snowflake: Experience with Snowflake’s data platform
+Hadoop: Experience architecting , implementing, and supporting data infrastructure and topologies
+Tableau: Experience with Tableau Cloud administration
+FiveTran: Experience with data integration tools such as FiveTran, DBT, Informatica, Matillion, or similar ETL/ELT tools
+Healthcare Claims Data: Experience with healthcare claims data, formats, and analytics
+
+URL:https://www.indeed.com/rc/clk?jk=d7a6a168405310c5&from=jasx&tk=1hdea9902imai801&vjs=3

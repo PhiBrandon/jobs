@@ -1,0 +1,13 @@
+Skills:
+
+Azure Data Engineering: Designing, implementing, and optimizing data solutions using Microsoft Azure technologies. Building and optimizing data pipelines using Azure Data Factory, Azure Databricks, and related services.
+ETL Development: Develop, test, and deploy ETL processes for data transformation and integration.
+Programming: Work with programming languages such as Python and SQL to manipulate and analyze data.
+Technologies:
+
+Azure Data Factory: Building and optimizing data pipelines using Azure Data Factory.
+Azure Databricks: Building and optimizing data pipelines using Azure Databricks.
+Python: Work with programming language Python to manipulate and analyze data.
+SQL: Work with programming language SQL to manipulate and analyze data.
+
+URL:https://www.indeed.com/rc/clk?jk=282a7c727e0fad73&from=jasx&tk=1hdea7hq42do5000&vjs=3

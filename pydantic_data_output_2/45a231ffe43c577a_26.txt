@@ -1,0 +1,13 @@
+Skills:
+
+ETL Workflows/Development: 2+ years of experience with scalable ETL workflows/development, extract, cleanse, and process disparate data sources
+Data Cleaning and Transformation: Experience with cleaning and transforming data utilizing Python and/or SQL, specifically complex SQL queries
+Data Acquisition: Familiarity with acquiring data from disparate data sources using APIs and SQL
+Script and Program Development: Ability to develop scripts and programs for converting various types of data into usable formats and support project team to scale, monitor, and operate data platforms
+Technologies:
+
+Python: Experience with cleaning and transforming data utilizing Python and/or SQL, specifically complex SQL queries
+SQL: Experience with cleaning and transforming data utilizing Python and/or SQL, specifically complex SQL queries
+APIs: Familiarity with acquiring data from disparate data sources using APIs and SQL
+
+URL:https://www.indeed.com/rc/clk?jk=45a231ffe43c577a&from=jasx&tk=1hdea9902imai801&vjs=3

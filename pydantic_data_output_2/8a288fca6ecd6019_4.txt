@@ -1,0 +1,16 @@
+Skills:
+
+Data Engineering: Deliver custom database conversions during new customer implementation projects, Migrate data from competitor solutions to our in-house software, etc.
+SQL Skills: Solid knowledge of T-SQL and SQL Server Management Studio, Familiarity with Oracle SQL*Plus is desired but not required
+ETL: Experience with ETL and Data Migration
+Database Concepts: Understanding of relational database concepts
+Communication Skills: Impressive oral and written communication skills, Exceptional time management capabilities; deadlines are not flexible, Ability to communicate and translate ideas between technical and non-technical parties
+Agile Methodologies: Embrace agile methodologies to achieve industry-leading project delivery schedules while maintaining ongoing customer engagement and excitement
+Technologies:
+
+SQL Server: SQL Server 2012+/SSRS/SSIS/Jira/GitHub/Confluence
+R: Skills using R are a plus but not required
+Python: Skills using Python are a plus but not required
+Apache NiFi: Skills using Apache NiFi are a plus but not required
+
+URL:https://www.indeed.com/rc/clk?jk=8a288fca6ecd6019&from=jasx&tk=1hdea7hq42do5000&vjs=3

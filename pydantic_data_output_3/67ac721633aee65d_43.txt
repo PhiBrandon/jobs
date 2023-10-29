@@ -1,0 +1,14 @@
+Skills:
+
+Glue: Primary focus is on Glue
+S3: Primary focus is on Glue, S3
+Redshift: Primary focus is on Glue, S3, Redshift
+Lambda: Primary focus is on Glue, S3, Redshift, Lambda
+PySpark: Primary focus is on Glue, S3, Redshift, Lambda, PySpark
+Spark: Primary focus is on Glue, S3, Redshift, Lambda, PySpark, Spark
+AWS Step function: Then added skillset which could add value are AWS Step function
+Dynamo DB: Then added skillset which could add value are AWS Step function, NoSQL DB like Dynamo DB
+AWS Data Migration Service: Then added skillset which could add value are AWS Step function, NoSQL DB like Dynamo DB and AWS Data Migration Service
+Technologies:
+
+AWS: Only focus is on AWS services and tech stack.

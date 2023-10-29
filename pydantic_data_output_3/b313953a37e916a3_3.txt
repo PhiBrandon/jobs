@@ -1,0 +1,10 @@
+Skills:
+
+AWS Glue: Required Technical Skills: AWS Glue
+AWS Lambda: Required Technical Skills: AWS Lambda
+Python: Required Technical Skills: Python
+JIRA: Required Skills and Abilities: JIRA
+Technologies:
+
+AWS Athena: Preferred Skills: AWS Athena
+AWS CI/CD pipeline: Preferred Skills: AWS CI/CD pipeline

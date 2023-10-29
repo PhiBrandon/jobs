@@ -1,0 +1,26 @@
+SKills:
+
+Experience with Oracle EDMCS/DRM and SAP MDG.
+Experience in managing or executing data cleansing, data mapping, and data governance areas, preferably in an SAP environment as well as integration across complex ERP landscapes.
+Experience of interfacing SAP with legacy and modern data ecosystems.
+Experience in data modeling, data mapping, and data transformation.
+Experience in data governance, data quality management, and MDM concepts.
+SAP MDG or Oracle EDMCS certification is a plus.
+Working knowledge of SAP finance modules.
+Experience with Collibra workflows and master data modules.
+Experience in successful delivery of scaled agile.
+Scripting and programming skills in languages like Python, Java, or Scala.
+Experience as a Data Engineer or similar role with a focus on GCP. Strong knowledge of cloud-based data storage solutions, such as Cloud Storage, Cloud SQL, and Bigtable.
+Knowledge of data privacy regulations and compliance standards (e.g., GDPR, CCPA).
+
+Responsibilities:
+
+Collaborating with cross-functional teams to define and enforce data governance policies, standards, and best practices within Oracle EDMCS and SAP MDG.
+Utilizing your deep knowledge of Oracle EDMCS and SAP MDG to configure and maintain workflows, and validation rules.
+Being proficient in Google Cloud Platform (GCP) services and tools, including BigQuery, Dataflow, Dataproc, and Pub/Sub.
+Working closely with IT and Business teams to ensure seamless data integration between Oracle EDMCS, SAP MDG, and other enterprise systems.
+Developing and maintaining data mapping and transformation rules to ensure data consistency and compliance.
+Collaborating with data stewards and business users to resolve data-related issues and support data maintenance activities as well as own function design fo the end to end master data lifecycle mgmt
+Creating and maintaining comprehensive documentation for data management processes, configurations, and standard operating procedures.
+
+URL:https://www.indeed.com/rc/clk?jk=53f6056d9cfd3d9f&from=jasx&tk=1hdea988rk6dn800&vjs=3

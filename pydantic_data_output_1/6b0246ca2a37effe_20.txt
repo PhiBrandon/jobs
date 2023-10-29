@@ -1,0 +1,43 @@
+SKills:
+
+AWS Data Platform - Cloud infrastructure, Datalake/Cloud Formation, Automation, CI/CD
+Amazon Cloud Data Storage – S3, RedShift, DynamoDB, NoSQL
+ETL Tools – AWS Glue, Informatica Suite, SSIS, Infoworks
+SQL & Relational Databases – SQL Server, Teradata, MS Access, HIVE, HBase
+XML
+XSLT
+.NET Framework
+C#
+Java
+JavaScript
+jQuery
+LINQ
+MVC Framework
+ASPX
+Angular.js
+Bootstrap
+Knockout
+Business Intelligence
+ETL Techniques
+Data Modeling
+Data Warehousing/Business Intelligence
+Meta Data Repository
+MS SQL Server
+
+Responsibilities:
+
+Works under minimum supervisor to exercise independent decision making; Creates processes which initiate the ETL or Batch cycle; develops streaming processes for extracted data loading to destination database, including on-the-fly processing where extract and transformation phase to no go to persistent storage; Performs data profiling of source data in order to identify data quality issues and anomalies, business knowledge embedded in data; natural keys, and meta data information
+Build repeatable, automated and sustainable Extract, Transform and Load (ETL) processes leveraging platforms such as AWS cloud native – AWS Glue, DMS, Informatica, Infoworks, Hadoop, Spark processing Engines
+Creates data validation rule on source data to confirm the data has correct and/or expected values; Writes alternate workflow steps or reports back to the source for further analysis and correction of incorrect record(s) when validation rules are not passed
+Develops processes to be applied to extracted source data to move to target state; Writes data cleansing functions to get data to proper prunes data set to include only fields needed; translates source code values to target value; Standardizes free form values to codes; Derives new values through calculations on existing fields; Merges data from multiple in order to generate on consolidated source for the target
+Sorts and Aggregates records into rollup where multiple records are represented; Creates surrogate-key values to use in place of multiple natural keys; Turns multiple columns into multiple rows or vice–versa (Transposing or Pivoting); Splits multi-valued column data into multiple columns; Disaggregates repeating columns into separate detail table(s); Creates lookup tables; Looks up and validates reference information as part of data validation
+Creates and applies data validation step process in order to perform partial, full or no record’s rejection; Writes processes which handle exceptions and/or move records exceptions to alternate Transform step(s)
+Develops processes which load the transformed data into end target systems (database, file, application, etc.); may apply different techniques based on business needs including inserting new data into target; Over write existing data with cumulative information; Updates existing data at some frequency; Creates data validation steps in this layer to ensure loaded data
+Creates process cleanup after complex ETL processes which release resources used to run ETL; Creates processes to archive data
+Participates in project collaboration meeting with clients, business analysts, and team members in order to analyze and clarify business requirements; Translates business requirements into detailed technical specifications
+Works with project teams to define and design scope for each project; Creates unit test cases to ensure the application meets the needs of the business
+Ensures proper configuration management and change controls are implemented; Provides technical assistance and cross training to other team members
+Designs and implements technology best practices, guidelines and repeatable processes; Prepares and presents status updates on various projects
+Performs other duties as required
+
+URL:https://www.indeed.com/rc/clk?jk=6b0246ca2a37effe&from=jasx&tk=1hdea8ee5ipb2801&vjs=3

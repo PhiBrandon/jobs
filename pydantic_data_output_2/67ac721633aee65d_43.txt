@@ -1,0 +1,17 @@
+Skills:
+
+Python: Experience with Python related technologies like PySpark, Spark.
+AWS: At least 2 years of experience with relevant AWS services like Glue, S3, Redshift, Lambda, Step Functions, DynamoDB, AWS Data Migration Service.
+Data Security/Governance: Experience in data security or governance and performance improvement is an added benefit.
+Technologies:
+
+Glue: Primary focus is on Glue.
+S3: 
+Redshift: 
+Lambda: 
+PySpark: Experience with Python related technologies like PySpark, Spark.
+Step Functions: Then added skillset which could add value are AWS Step function.
+DynamoDB: Then added skillset which could add value are... NoSQL DB like Dynamo DB.
+AWS Data Migration Service: Then added skillset which could add value are... AWS Data Migration Service in that order of priority.
+
+URL:https://www.indeed.com/rc/clk?jk=67ac721633aee65d&from=jasx&tk=1hdea988rk6dn800&vjs=3

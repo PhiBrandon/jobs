@@ -1,0 +1,13 @@
+Skills:
+
+Deep Learning: Solid understanding of deep learning concepts and practices.
+Python: Solid programming skills in Python on the Linux platform.
+Java: Solid Java programming skills.
+Communication: Excellent communication skills including the ability to create, communicate, and direct work toward accomplishing an overall technical vision.
+Mentoring: Demonstrated ability to mentor and train peers.
+Data Manipulation: Excellent data manipulation skills using tools on the Linux platform (grep, sed, awk, NumPy, etc.).
+Languages: Keen interest in foreign languages, scripts, and historical documents. Beginner level of at least one foreign language desired.
+Technologies:
+
+TensorFlow: Solid command of TensorFlow and/or PyTorch deep learning frameworks.
+Cloud: Familiarity with cloud compute environments such as AWS.

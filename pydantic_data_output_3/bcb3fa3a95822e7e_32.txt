@@ -1,0 +1,12 @@
+Skills:
+
+8+ years of experience in a role encompassing industry standard ETL development techniques: 8+ years of experience with data integration, and database technologies, including Oracle, Postgres, Cosmos, or SQL
+3+ years of experience with Azure Cloud SaaS solutions and managed services serverless technologies, including Azure Data Factory, Synapse Analytics, Logic Apps, or ADLS: Experience with scripting and basic programming, including JavaScript, shell script, or Python
+Experience with data analysis and profiling of source data while developing or building robust ETL processes: Knowledge of disparate data sources and targets
+Knowledge of data validation, cleansing, transformation, consolidation, de-duplication, aggregation, de-aggregation, and enrichment: Knowledge of API development and testing
+Technologies:
+
+Azure Data Factory: 3+ years of experience with Azure Cloud SaaS solutions and managed services serverless technologies, including Azure Data Factory, Synapse Analytics, Logic Apps, or ADLS
+Synapse Analytics: 3+ years of experience with Azure Cloud SaaS solutions and managed services serverless technologies, including Azure Data Factory, Synapse Analytics, Logic Apps, or ADLS
+Logic Apps: 3+ years of experience with Azure Cloud SaaS solutions and managed services serverless technologies, including Azure Data Factory, Synapse Analytics, Logic Apps, or ADLS
+ADLS: 3+ years of experience with Azure Cloud SaaS solutions and managed services serverless technologies, including Azure Data Factory, Synapse Analytics, Logic Apps, or ADLS

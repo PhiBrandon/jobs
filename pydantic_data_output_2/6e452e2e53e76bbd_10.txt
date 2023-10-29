@@ -1,0 +1,22 @@
+Skills:
+
+Data engineering: Experience successfully developing and deploying data pipelines and distributed architectures
+ETL best practices: Hands-on experience implementing ETL/ELT best practices at scale
+Architecture design: Experience or interest in developing and managing enterprise-scale data, distributed data architectures
+Communication: Excellent written and verbal communication skills
+Attention to detail: Strong attention to detail is key, especially when considering correctness, security, and compliance
+Software testing: Solid software testing, documentation, and debugging practices in the context of distributed systems
+Technologies:
+
+AWS: Hands-on experience with AWS services like Redshift, MSK, Lambda, ECS, ECR, EC2, Glue, Quicksight, Spectrum, S3, etc.
+Postgres: Experience with Postgres
+dbt: Experience with dbt
+Kafka: Experience with Kafka
+Prefect: Experience with Prefect
+Docker: Experience with Docker
+Terraform: Experience with Terraform
+Python: Excellent programming skills in Python
+SQL: Deep comfort with SQL
+Clojure: Clojure experience is highly appreciated
+
+URL:https://www.indeed.com/rc/clk?jk=6e452e2e53e76bbd&from=jasx&tk=1hdea7hq42do5000&vjs=3

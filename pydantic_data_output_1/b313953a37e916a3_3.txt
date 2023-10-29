@@ -1,0 +1,28 @@
+SKills:
+
+AWS Glue
+AWS Lambda
+Python
+JIRA
+AWS Athena
+AWS CI/CD pipeline
+
+Responsibilities:
+
+Codes, tests, debugs, implements, and documents low to highly complex programs.
+Creates appropriate documentation in work assignments such as program code, and technical documentation.
+Designs systems and programs to meet complex business needs.
+Prepares detailed specifications from which programs are developed and coded.
+Ensures programs meet standards and technical specifications; performs technical analysis and component delivery.
+Gathers information from existing systems, analyzes program and time requirements.
+Assists project manager in preparing time estimates and justification for assigned tasks.
+Designs programs for projects or enhancements to existing programs. Writes specifications for programs of low to advanced complexity.
+Assists support and/or project personnel in resolving varying levels of complex program problems.
+Works with client and management to resolve issues and validate programming requirements within their areas of responsibility.
+Provides technical advice on complex programming.
+Develops test plans to verify logic of new or modified programs.
+Conducts quality assurance activities such as peer reviews.
+Creates appropriate documentation in work assignments such as program code, and technical documentation.
+Remains abreast of industry technical trends and new development to maintain current skills and remain current with industry standards.
+
+URL:https://www.indeed.com/rc/clk?jk=b313953a37e916a3&from=jasx&tk=1hdea7hq42do5000&vjs=3

@@ -1,0 +1,15 @@
+Skills:
+
+Lead client facing technical architecture and design workshops.: Lead technical design and architectural workshops.
+Implement complex technical security solutions with minimal supervision.: Deploy and configure complex technical solutions using our internal specifications, documentation, and best practices, with minimal supervision.
+Resolve implementation-related technical issues.: Resolve implementation issues with a combination of skills, experience, vendor support, and internal consultations.
+Maintain an exhaustive understanding of the guiding principles for Conversant Group product & service offerings.: Maintain an exhaustive understanding of our products and solutions.
+Act as a SME for Conversant Group’s Managed Security Solutions portfolio.: Act as a subject matter expert for Conversant Group’s product and service solutions.
+Provide mentoring and be a technical escalation for team members.: Provide mentoring and be a technical escalation for junior / mid-level engineers.
+Technologies:
+
+Cohesity: Implementing and Supporting On-premises, Hybrid, Cloud based Security Solutions such as Cohesity
+Microsoft Azure: Implementing and Supporting On-premises, Hybrid, Cloud based Security Solutions such as Microsoft Azure
+AWS: Implementing and Supporting On-premises, Hybrid, Cloud based Security Solutions such as AWS
+VMWare: Implementing and Supporting On-premises, Hybrid, Cloud based Security Solutions such as VMWare
+Microsoft: Working Knowledge and Understanding of Microsoft platforms highly desired.

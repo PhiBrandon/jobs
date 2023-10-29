@@ -1,0 +1,22 @@
+SKills:
+
+Proven work experience as a Data Migration Engineer with specific expertise in migrating data from Isilon to NetApp using Komprise.
+Strong proficiency in Komprise data management software and related tools.
+In-depth knowledge of Isilon and NetApp storage platforms, including file systems, protocols, and administration.
+Experience with scripting languages (e.g., Python, PowerShell) for automation and customization of migration processes.
+Strong communication and interpersonal skills, with the ability to collaborate effectively with technical and non-technical stakeholders.
+
+Responsibilities:
+
+Collaborate with stakeholders to understand data migration requirements, including scope, timelines, and specific data sets.
+Design and develop a comprehensive data migration plan, considering factors such as data volume, complexity, and business continuity.
+Utilize Komprise data management software to perform assessments, identify target data, and orchestrate the migration process.
+Configure and optimize Komprise settings to align with migration goals, ensuring efficient and secure data transfer.
+Conduct pre-migration validation tests to ensure data integrity and accuracy before the actual migration process.
+Monitor the data migration process in real-time, addressing any issues or discrepancies as they arise.
+Implement data validation and reconciliation procedures to verify the successful completion of the migration.
+Collaborate with cross-functional teams, including storage administrators and system engineers, to ensure seamless integration with the NetApp environment.
+Document the entire migration process, including configurations, settings, and any custom scripts or workflows used.
+Provide knowledge transfer and training to internal teams for ongoing management and maintenance of the migrated data.
+
+URL:https://www.indeed.com/rc/clk?jk=7f7a185825ef7e9f&from=jasx&tk=1hdea8gffk2nb800&vjs=3

@@ -1,0 +1,17 @@
+Skills:
+
+Java Backend development: at least 3+ yrs
+Python development: at least 1+ yrs
+microservice design and development using Spring: at least 2+ years
+automation testing frameworks like Karate, Cucumber: Must have worked with
+testing libraries JUNIT, TestNG, Spock: Must have worked with
+MongoDB development and NoSQL design: at least 2+ years
+MariaDB or MySQL relational design: at least 2+ years
+Technologies:
+
+webservices, cloud computing with AWS, Kubernetes: Good understanding of
+cyber security aspects including data protection, encryption, anonymization: Understanding of
+ML tools and libraries in a Python environment such as Pandas, Scikit: Familiarity of
+streaming data warehouse engines like Databricks, Snowflake or equivalent: Some exposure with
+building big data tools experience Kafka, Spark: Some exposure to
+Flink, JSON schema, NewRelic, DataDog, gradle, GITHub: Nice to have knowledge of

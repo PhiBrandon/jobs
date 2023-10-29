@@ -1,0 +1,14 @@
+Skills:
+
+Designing data pipelines: Design, develop and maintain scalable batch ETL and near-real-time data pipelines and architectures for various parts of our business, on fast and versatile data sources with millions of changes per day
+Ensuring data quality: Ensure all data provided is of the highest quality, accuracy, and consistency
+Identifying process improvements: Identify, design, and implement internal process improvements for optimising data delivery and re-designing infrastructure for greater scalability
+Building API integrations: Build out new API integrations to support continuing increases in data volume and complexity
+Technologies:
+
+SQL: Proficient in SQL
+Python: Familiarity with one scripting language, preferably Python
+Apache Airflow: Experience with Apache Airflow
+AWS: Solid understanding of cloud data services: AWS services such as S3, Athena, EC2, RedShift, EMR (Elastic MapReduce), EKS, RDS (Relational Database Services) and Lambda
+
+URL:https://www.indeed.com/rc/clk?jk=2d1de91e6e9422b6&from=jasx&tk=1hdea8ee5ipb2801&vjs=3

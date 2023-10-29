@@ -1,0 +1,16 @@
+Skills:
+
+Data engineering: Designing, developing, and implementing data pipelines and ETL systems
+Data modeling: Developing data models that support Business Intelligence products
+Data quality: Performing data validation to ensure data quality and reliability
+Documentation: Building clear documentation of procedures and protocols
+Collaboration: Working with multi-functional teams to implement data governance, security and technical requirements
+Technologies:
+
+Python: Hands on development experience using Python
+SQL: Fluent in SQL, ability to write new, complex queries with no supervision
+AWS: Experience with data lake technologies and architectures like S3, Glue, Redshift, RDS, DynamoDB, Data Pipeline, EMR
+Agile: Experience with Agile development methodologies, CI/CD automation, Test Driven Development
+Machine learning: Familiarity with machine learning methodologies and strong problem-solving skills
+
+URL:https://www.indeed.com/rc/clk?jk=707d3fdd870a23bd&from=jasx&tk=1hdea7hq42do5000&vjs=3

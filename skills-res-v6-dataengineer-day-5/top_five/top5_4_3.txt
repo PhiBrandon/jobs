@@ -1,0 +1,14 @@
+Skills:
+SQL
+Python
+Data modeling
+ETL processes
+Data engineering
+
+
+Technologies:
+AWS
+Databricks
+Apache Spark
+SQL
+Python

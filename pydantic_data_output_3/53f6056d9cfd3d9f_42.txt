@@ -1,0 +1,10 @@
+Skills:
+
+Technical product management: Defining and enforcing data governance policies, standards, and best practices within Oracle EDMCS and SAP MDG.
+Data modeling: Experience in data modeling, data mapping, and data transformation.
+Data integration: Working closely with IT and Business teams to ensure seamless data integration between Oracle EDMCS, SAP MDG, and other enterprise systems.
+Technologies:
+
+Oracle EDMCS: Experience with Oracle EDMCS/DRM
+SAP MDG: Experience with SAP MDG.
+Google Cloud Platform: Being proficient in Google Cloud Platform (GCP) services and tools, including BigQuery, Dataflow, Dataproc, and Pub/Sub.

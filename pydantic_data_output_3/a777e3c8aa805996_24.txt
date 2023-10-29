@@ -1,0 +1,13 @@
+Skills:
+
+Microsoft SQL Server: Strong MSSQL experience, must have very strong knowledge of the Microsoft SQL Server engine
+Data Engineering: Analyze and organize raw data sets to meet both functional and non-functional requirements. Develop and test new pipelines and processes
+Cloud Technologies: Experience with cloud data warehouses like Snowflake, BigQuery, Matillion
+SQL: Expert understanding of relational and warehousing database design and querying concepts. Experience with T-SQL, stored procedures, indexes, stats, functions, and views
+Technologies:
+
+MSSQL: Maintain and support existing MSSQL processes, pipelines (SSIS), and schemas
+Snowflake: Migrate existing pipelines and processes to the cloud (Snowflake, GCP)
+SSIS: Experience with SSIS, data integration and ETL/ELT procedures
+BigQuery: Experience with Google Cloud Platform technology stack: BigQuery, Data Flow, Data Fusion
+NoSQL: Experience with NoSQL databases

@@ -1,0 +1,25 @@
+Skills:
+
+Python programming focused on big data management: Hands-on experience with Python for data pipelines and large datasets
+PostgreSQL or other relational database: Expertise working with relational databases like PostgreSQL
+Docker: Experience using Docker for containerization
+Kubernetes: Knowledge of Kubernetes for orchestrating containers
+Git: Proficiency with Git for version control
+GIS tools such as ESRI: Experience using GIS technologies would be beneficial
+Amazon Web Services: Experience deploying applications on AWS preferred
+ElasticSearch: Experience working with ElasticSearch for search and analytics
+Data pipeline tools, e.g. Pachyderm: Knowledge of data pipeline platforms like Pachyderm is a plus
+RESTful Web APIs: Experience developing RESTful APIs
+Engineering leadership: Leading software teams preferred
+Open Source project maintainership: Experience maintaining Open Source projects is valuable
+Machine learning, especially for anomaly detection, pattern recognition, clustering, time series analysis: Hands-on ML experience is highly desirable
+Technologies:
+
+Python: Primary programming language
+PostgreSQL: Preferred relational database
+Docker: Containerization platform
+Kubernetes: Container orchestration
+Git: Version control
+AWS: Cloud deployment platform
+ElasticSearch: Search and analytics database
+Pachyderm: Example data pipeline tool

@@ -1,0 +1,14 @@
+Skills:
+
+Data Engineering: 5+ years work experience in Data Engineering/data pipelines
+SQL: 3+ years SQL experience is a must
+Scripting: 1+ years Unix/batch scripting preferred
+Python: 1+ years Python experience is a plus
+Windows Administration: 1+ years Windows server admin experience is a plus
+Technologies:
+
+MySQL: MySQL & Vertica Experience a plus/preferred
+AWS: AWS experience is a plus
+Vertica: MySQL & Vertica Experience a plus/preferred
+
+URL:https://www.indeed.com/rc/clk?jk=87c74988107a90d3&from=jasx&tk=1hdeaahlgk6pf800&vjs=3

@@ -1,0 +1,15 @@
+Skills:
+
+Software Development: 5+ years of industry experience in software development data engineering or a related field with a solid track record of building services for manipulating processing datasets
+Data Engineering: 5+ years of industry experience in software development data engineering or a related field with a solid track record of building services for manipulating processing datasets
+AWS: Hands-on experience and advanced knowledge of AWS DataOps (i.e. IAM Lambda Step Functions EMR/Glue and DynamoDB)
+SQL: Hands-on experience and advanced knowledge of SQL/Non-relational Data Modeling
+Data Streaming: Experience working with data streaming technologies (Kafka Spark Streaming etc.)
+Design: Designing and implementing complex ingestion and processing pipelines through orchestration
+API: Design and implement API interfaces for engineering teams to interact with ingestion/processing pipelines
+Technologies:
+
+AWS: Hands-on experience and advanced knowledge of AWS DataOps (i.e. IAM Lambda Step Functions EMR/Glue and DynamoDB)
+SQL: Hands-on experience and advanced knowledge of SQL/Non-relational Data Modeling
+Kafka: Experience working with data streaming technologies (Kafka Spark Streaming etc.)
+Spark Streaming: Experience working with data streaming technologies (Kafka Spark Streaming etc.)

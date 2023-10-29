@@ -1,0 +1,14 @@
+Skills:
+
+Data Engineering: Experience designing and implementing capabilities in a Hadoop-based, Spark big data environment
+Data Pipelines: Experience in design and implementing real-time data pipelines using NiFi, Kafka and Spark Streaming
+Big Data Processing: Experience processing large volumes of data with Hive, Pig, Spark, NiFi, Kafka and Python
+Technologies:
+
+Hadoop: Extensive experience with data ingest process, Hadoop
+Apache NiFi: Extensive experience with data ingest process, Hadoop, Apache Nifi
+Cloud Platforms: Experience with Cloud platform (AWS, GCP, Azure)
+Kafka: Familiarity with streaming big data applications like, Kafka
+Spark Streaming: Familiarity with streaming big data applications like, Kafka, NiFi, Spark streaming/ Strom
+Hive: Experience processing TB’s worth of data using Hive, Spark, Pig and Python for global security analytics
+Tableau: Develop visualization capabilities to data using Tableau

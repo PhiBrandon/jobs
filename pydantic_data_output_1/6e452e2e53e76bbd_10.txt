@@ -1,0 +1,22 @@
+SKills:
+
+4+ years of experience successfully developing and deploying data pipelines and distributed architectures, ideally in a space similar to ours (startup, healthcare, regulated data)
+Hands-on experience implementing ETL/ELT best practices at scale and demonstrated practical experience or familiarity with a good portion of our stack, including: AWS services (Redshift, MSK, Lambda, ECS, ECR, EC2, Glue, Quicksight, Spectrum, S3, etc.), Postgres, dbt, Kafka, Prefect, Docker, Terraform
+Excellent programming skills in Python and deep comfort with SQL. Clojure experience is also highly appreciated
+Experience or interest in developing and managing enterprise-scale data, distributed data architectures
+Able to independently ship medium-to-large features and start to support or participate in architectural design
+Excellent written and verbal communication skills
+Strong attention to detail is key, especially when considering correctness, security, and compliance
+Solid software testing, documentation, and debugging practices in the context of distributed systems
+
+Responsibilities:
+
+Build reliable and robust data integrations with external partners
+Supporting the development and expansion of modern, privacy-aware, data warehouse and data mesh architectures
+Helping to build, manage, orchestrate, and integrate streaming data sources, data lakes, ELT processes, columnar storage systems, and distributed query execution solutions
+Establishing proactive data quality/freshness dashboards, monitoring, alerting, and anomaly remediation systems
+Building practical data onboarding tooling and process automation solutions
+Learning to effectively understand and deftly navigate the global compliance ecosystem (HIPAA, GDPR, etc.) to ensure your work respects the rights, regulations, and consent preferences of all stakeholders, including historical underserved or underrepresented populations
+Developing a deep understanding of the clinical ecosystem, our products, and our business and how they all uniquely interact to help people
+
+URL:https://www.indeed.com/rc/clk?jk=6e452e2e53e76bbd&from=jasx&tk=1hdea7hq42do5000&vjs=3

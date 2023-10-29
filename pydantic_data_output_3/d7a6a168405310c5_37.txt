@@ -1,0 +1,11 @@
+Skills:
+
+Data Engineering: 3+ years relevant work experience within a complex, dynamic environment
+Data Modeling: Contribute to design sessions based on technical requirements, and build data models to clean and transform datasets for use by Crossover’s Data Science and Analytics teams
+ETL/ELT: Assist with ETL, ELT, and reverse-ETL design and development initiatives including data analysis, source-target mapping, data profiling, change data capture, QA testing, and performance tuning to guarantee quality and repeatability of data model results
+Technologies:
+
+SQL: Experience with writing advanced SQL (DML & DDL), including Stored Procedures, Indexes, user defined functions, windows functions, correlated subqueries and CTE's, and related data query and management technology
+Python: Coding ability in R, Python, and Shell Scripting to build and deploy Pipelines
+Data Warehousing: 3+ years Experience with Data warehousing, methodologies, modeling techniques, design patterns, and technologies.
+Snowflake: Experience with Snowflake’s data platform

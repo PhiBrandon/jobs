@@ -1,0 +1,30 @@
+SKills:
+
+Active DoD Secret Security clearance
+Hold DoD IAT-III, IAM-II and IASAE-II certifications and Data related industry certifications
+5+ years experience with Linux Shell Script development, testing, debugging and deployment
+5+ years experience with SQL, relational database and data warehouse technologies
+3+ years experience developing and maintaining Python or similar scripting language
+3+ years experience in multiple subversion technologies such as Subversion, GitHub or Tortoise
+Knowledge of AWS technologies such as S3, EC2, Redshift, Glue, Athena and Step Functions preferred
+Experience in data mining and development of ETL processes, distributed data architectures and big data processing technologies
+Knowledge of production / environment control
+Knowledge of Agile software development lifecycle 
+Excellent problem-solving skills and attention to detail
+Strong documentation and training skills
+
+Responsibilities:
+
+Work with stakeholders to evaluate business needs and develop tasks to meet requirements and objectives
+Provide quality assurance and identify bugs or required fixes and communicate to respective teams. Ensure data being migrated to the EDW/EVV production environment is documented
+Enforce EDW/EVV standards / policies and provide quality assurance for universe, star schema/build, report, and dashboard migrations from the EDW/EVV development environment into the EDW/EVV production environment (see Appendix A for migration metrics)
+Maintain existing Unix Shell and Structured Query Language (SQL) script based ETL processes. Design, Develop, document, and maintain new and/or expanding script based ETL processes e.g., Unix Shell and SQL scripts
+Coordinate, test, implement, document, and manage required upgrades and capability enhancements for the EDW/EVV. Perform tasks for data repository expansion as more data content is transitioned to the warehouse
+Work with infrastructure team to ensure that all the required monitoring, exception handling and fault tolerance is in place for a production-quality data platform
+Team up with analysts, product managers, and other stakeholders to understand evolving business needs and translate reporting capabilities accordingly
+Assist with process improvement with a customer-focused, progressive mindset
+Understand data classification and adhere to the information protection and privacy restrictions
+Troubleshoot and provide technical support for staff and back-end system users
+Document and support code migrations and provide quality assurance / control of EDW/EVV star schemas/builds, universes, local data, and reports
+
+URL:https://www.indeed.com/rc/clk?jk=e5a378ed11848b80&from=jasx&tk=1hdea8ee5ipb2801&vjs=3

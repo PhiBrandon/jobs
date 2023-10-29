@@ -1,0 +1,16 @@
+Skills:
+
+MSSQL: Strong MSSQL experience, a must!
+SQL Server engine: very strong knowledge of the Microsoft SQL Server engine
+ETL/ELT procedures: Experience with SSIS, data integration and ETL/ELT procedures
+Database design: Expert understanding of relational and warehousing database design and querying concepts
+Agile: Exposure to agile development methodology
+Technologies:
+
+Snowflake: Experience with Snowflake cloud data warehouse
+Matillion: Experience with Matillion (Snowflake/BigQuery)
+Google Cloud Platform: Experience with Google Cloud Platform technology stack: BigQuery, Data Flow, Data Fusion
+BI tools: Experience with BI tools like Sigma, Tableau or others
+NoSQL databases: Experience with NoSQL databases
+
+URL:https://www.indeed.com/rc/clk?jk=a777e3c8aa805996&from=jasx&tk=1hdea8ee5ipb2801&vjs=3

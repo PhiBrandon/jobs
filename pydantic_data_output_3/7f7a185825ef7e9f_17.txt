@@ -1,0 +1,12 @@
+Skills:
+
+Data Migration Planning: Design and develop comprehensive data migration plans.
+Data Validation: Implement data validation and reconciliation procedures to verify successful migrations.
+Problem Solving: Diagnose and resolve complex data migration issues.
+Communication: Collaborate effectively with technical and non-technical stakeholders.
+Technologies:
+
+Komprise: Perform assessments, identify target data, and orchestrate migrations using Komprise data management software.
+Isilon: Have in-depth knowledge of Isilon storage platforms.
+NetApp: Ensure seamless integration with the NetApp environment.
+Python/PowerShell: Use scripting languages for migration process automation and customization.

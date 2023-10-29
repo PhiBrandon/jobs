@@ -1,0 +1,20 @@
+SKills:
+
+Collaborate with cross-functional teams to design, develop, and maintain data solutions on the Azure cloud platform.
+Build and optimize data pipelines using Azure Data Factory, Azure Databricks, and related services.
+Develop, test, and deploy ETL processes for data transformation and integration.
+Work with programming languages such as Python and SQL to manipulate and analyze data.
+Ensure data security and compliance with Homeland Security requirements.
+Strong expertise in designing, building, and optimizing data pipelines using Azure Data Factory, Azure Databricks, and related services.
+Proficiency in programming languages such as Python and SQL, with a solid understanding of ETL frameworks.
+Possession of relevant Azure certifications, such as Microsoft Certified: Azure Data Engineer, is a plus.
+
+Responsibilities:
+
+Collaborate with cross-functional teams to design, develop, and maintain data solutions on the Azure cloud platform.
+Build and optimize data pipelines using Azure Data Factory, Azure Databricks, and related services.
+Develop, test, and deploy ETL processes for data transformation and integration.
+Work with programming languages such as Python and SQL to manipulate and analyze data.
+Ensure data security and compliance with Homeland Security requirements.
+
+URL:https://www.indeed.com/rc/clk?jk=282a7c727e0fad73&from=jasx&tk=1hdea7hq42do5000&vjs=3

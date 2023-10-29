@@ -1,0 +1,26 @@
+Skills:
+
+Architect and Develop Data Ingestion Solutions: Design, develop, and maintain robust and scalable data ingestion pipelines that efficiently collect data from various sources, ensuring data quality and reliability.
+Data Curation and Transformation: Transform and curate raw data into structured and usable formats. Implement data validation, cleaning, and enrichment processes to maintain data integrity
+Performance Optimization: Continuously optimize data ingestion and curation processes for speed, efficiency, and scalability
+Collaboration: Collaborate with cross-functional teams including data scientists, data analysts, and domain experts to understand data requirements and deliver actionable insights
+Quality Assurance: Implement best practices for data quality monitoring, validation, and error handling to ensure data accuracy and reliability
+Documentation: Maintain comprehensive documentation for data ingestion and curation processes, making it easy for team members to understand and use the pipelines
+Mentorship: Provide technical leadership and mentorship to junior engineers, fostering their growth and development
+Stay Current: Keep abreast of emerging technologies and industry best practices in data engineering and data management
+Technologies:
+
+Python: 
+Javascript: 
+Typescript: 
+Go: 
+Java: 
+Apache Spark: 
+Relational and NoSQL databases: 
+AWS: Experience with cloud technologies in AWS or GCP, as well as container systems, such as Docker or Kubernetes
+GCP: Experience with cloud technologies in AWS or GCP, as well as container systems, such as Docker or Kubernetes
+Docker: Experience with cloud technologies in AWS or GCP, as well as container systems, such as Docker or Kubernetes
+Kubernetes: Experience with cloud technologies in AWS or GCP, as well as container systems, such as Docker or Kubernetes
+Airflow: Familiarity with orchestration tools such as Airflow or Prefect
+Prefect: Familiarity with orchestration tools such as Airflow or Prefect
+Great Expectations: Experience with Great Expectations library

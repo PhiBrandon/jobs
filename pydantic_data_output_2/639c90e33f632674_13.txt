@@ -1,0 +1,15 @@
+Skills:
+
+Data Warehousing & Data Modeling: Good understanding of Data Warehousing & Data Modeling fundamentals.
+Agile Methodologies: Experience working in an Agile Scrum environment or good familiarity with the Agile methodologies.
+Communication: Strong ability to communicate clearly and professionally with end customers.
+Analytics Skills: 5+ years of overall IT Experience working with Business Intelligence and Data understanding.
+Technologies:
+
+Power BI: 3 + years designing and developing reports and dashboards in Power BI.
+SQL: 3 + Strong SQL skills (complex queries on relational databases, stored procedures, automation) required.
+Qlik Sense: 2+ years designing and developing reports and dashboards using BI tools like Power bi , DAX functions, Qlik Sense and Tableau.
+Python: Experience using statistical computer languages (Python, SQL, R, etc.) to manipulate data and draw insights from large data sets
+SSIS: Familiarity or working experience with one of tools like SSIS, ER Studio.
+
+URL:https://www.indeed.com/rc/clk?jk=639c90e33f632674&from=jasx&tk=1hdea7hq42do5000&vjs=3

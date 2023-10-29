@@ -1,0 +1,18 @@
+SKills:
+
+Strong Analytical Foundation: A robust background in mathematics, statistics, computer science, data science, or a related discipline, showcasing your analytical prowess.
+Programming Proficiency: Advanced expertise in programming languages, particularly Python and SQL, to tackle complex data challenges.
+Production Experience: Proven experience in the production environment with a range of essential tools and platforms, including Snowflake, DBT, Airflow, Amazon Web Services (AWS), Docker/Kubernetes, and PostgreSQL.
+Database Mastery: Proficiency in database technologies, including Snowflake, PostgreSQL, Redshift, and others, enabling efficient data management.
+Exceptional Organizational Skills: Strong organizational capabilities, allowing you to manage multiple projects and priorities concurrently while consistently meeting deadlines.
+Additional Assets: Familiarity and experience with additional tools and technologies, such as AWS certification, Kafka Streaming/Kafka Connect, MongoDB, and CI/CD tools like GitLab, Jira, and Confluence, are highly advantageous..
+
+Responsibilities:
+
+Scalable Data Infrastructure: Lead the development and maintenance of highly scalable data pipelines, playing a crucial role in fortifying our data foundation.
+Technical Excellence: Demonstrate hands-on technical expertise in designing, building, and documenting complex data pipelines while adhering to data engineering best practices.
+Cross-Functional Collaboration: Collaborate closely with data engineering, analytics, and data science leadership to continuously enhance the functionality and capabilities of our data systems.
+Process Optimization: Identify opportunities for internal process improvements, spearheading automation of manual tasks, optimizing data delivery mechanisms, and redesigning infrastructure to ensure greater scalability and efficiency.
+Data Integration Mastery: Define and construct the infrastructure necessary to facilitate efficient extraction, transformation, and loading (ETL) of data from a diverse array of sources.
+
+URL:https://www.indeed.com/rc/clk?jk=70e539c357b570ae&from=jasx&tk=1hdea988rk6dn800&vjs=3

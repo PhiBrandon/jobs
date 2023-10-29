@@ -1,0 +1,36 @@
+Skills:
+
+Acting with Integrity: 
+Communicating Effectively: 
+Pursuing Self-Development: 
+Serving Customers: 
+Supporting Change: 
+Supporting Organizational Goals: 
+Working with Diverse Populations: 
+Technologies:
+
+AWS Data Platform - Cloud infrastructure, Datalake/Cloud Formation, Automation, CI/CD: 
+Amazon Cloud Data Storage – S3, RedShift, DynamoDB, NoSQL: 
+ETL Tools – AWS Glue, Informatica Suite, SSIS, Infoworks: 
+SQL & Relational Databases – SQL Server, Teradata, MS Access, HIVE, HBase: 
+XML: 
+XSLT: 
+.NET Framework: 
+C#: 
+Java: 
+JavaScript: 
+jQuery: 
+LINQ: 
+MVC Framework: 
+ASPX: 
+Angular.js: 
+Bootstrap: 
+Knockout: 
+Business Intelligence: 
+ETL Techniques: 
+Data Modeling: 
+Data Warehousing/Business Intelligence: 
+Meta Data Repository: 
+MS SQL Server: 
+
+URL:https://www.indeed.com/rc/clk?jk=6b0246ca2a37effe&from=jasx&tk=1hdea8ee5ipb2801&vjs=3

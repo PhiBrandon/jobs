@@ -1,0 +1,14 @@
+Skills:
+Data engineering
+AWS
+Apache Spark
+Python
+SQL
+
+
+Technologies:
+Apache Spark
+Python
+AWS
+Terraform
+SQL

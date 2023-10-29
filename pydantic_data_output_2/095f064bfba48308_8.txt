@@ -1,0 +1,13 @@
+Skills:
+
+Strong data analytics skills: and experience working with and maintaining large data sets.
+Passion for building new solutions: and enabling analysis at scale to drive decision-making.
+Proven ability to be successful in a complex, fast-paced environment.: 
+Organized, detail-oriented and strategically focused.: 
+Strong written and verbal communication skills.: 
+Technologies:
+
+Spark: providing support to help us fine tune and re-architect data pipelines as needed.
+Spark SQL: and optimize Spark SQL performance to improve landing times of our core tables.
+
+URL:https://www.indeed.com/rc/clk?jk=095f064bfba48308&from=jasx&tk=1hdea7hq42do5000&vjs=3

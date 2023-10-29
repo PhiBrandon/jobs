@@ -1,0 +1,12 @@
+Skills:
+
+Strong data analytics skills: Experience working with and maintaining large data sets.
+Passion for building new solutions: Enabling analysis at scale to drive decision-making.
+Proven ability to be successful in a complex, fast-paced environment.: 
+Organized, detail-oriented and strategically focused.: 
+Strong written and verbal communication skills.: 
+Understanding of sales and digital advertising platforms: Working knowledge of sales systems and tools is a plus.
+Technologies:
+
+Spark: Providing support to help fine tune and re-architect data pipelines as needed.
+Spark SQL: Optimize Spark SQL performance to improve landing times of core tables.

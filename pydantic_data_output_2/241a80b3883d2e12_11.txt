@@ -1,0 +1,12 @@
+Skills:
+
+Data Science: Translate complex business problems into coherent, actionable quantitative solutions. Ability to break complex problems into simple, coherent solutions.
+Machine Learning: Implement, automate, and maintain reliable, performant, and end-to-end ML systems using software engineering and MLOps standard methodologies.
+Communication: Deliver clear and actionable insights to collaborators. An ability to communicate concisely and persuasively with engineers, product managers, partners and collaborators.
+Technologies:
+
+Python: Deep experience writing robust Python (Pandas, Airflow) and complex SQL code in a collaborative team setting, using GitTM distributed version control system.
+SQL: Deep experience writing robust Python (Pandas, Airflow) and complex SQL code in a collaborative team setting, using GitTM distributed version control system.
+Google Cloud Platform: Experience using Google Cloud Platform (BigQuery, ML Engine, and APIs)
+
+URL:https://www.indeed.com/rc/clk?jk=241a80b3883d2e12&from=jasx&tk=1hdea7hq42do5000&vjs=3

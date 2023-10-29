@@ -1,0 +1,38 @@
+SKills:
+
+Python programming focused on big data management
+PostgreSQL or other relational database
+Docker
+Kubernetes
+Git
+Generative AI and large language model (LLM) APIs and data applications
+GIS tools such as ESRI
+Amazon Web Services
+ElasticSearch
+Data pipeline tools, e.g. Pachyderm
+Experience with 100Gb or larger data sets
+Climate action data such as emissions, targets, and action plans
+Physical (lat, lon, alt) and political (city, state, country) geographical data
+Remote-sensing and satellite data
+RESTful Web APIs
+Engineering leadership
+Open Source project maintainership
+Machine learning, especially for anomaly detection, pattern recognition, clustering, time series analysis
+
+Responsibilities:
+
+Design, architect, build and maintain data pipeline systems
+Write code for importing and updating large datasets to relational database and search indexes
+Define and maintain database schemas and data file formats
+Collaborate with web developers on optimizing database schemas for APIs and Web applications
+Collaborate with a team of software engineering peers
+Mentor and guide more junior data engineering staff
+Define and maintain data management processes for the organization
+Work with product managers to develop schedules, estimate tasks, and define success criteria
+Collaborate with team members from other disciplines such as web development, design, product management, and devops
+Coordinate with Open Source contributors
+Coordinate with open standards community to define interoperability standards
+Actively participate in team building and culture development activities at Open Earth Foundation
+Other duties as assigned
+
+URL:https://www.indeed.com/rc/clk?jk=37b5edb36e885430&from=jasx&tk=1hdea988rk6dn800&vjs=3

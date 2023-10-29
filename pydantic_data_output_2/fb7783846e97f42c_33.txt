@@ -1,0 +1,25 @@
+Skills:
+
+Database development: Working knowledge on AWS Oracle, Snowflake, Python, CICD, Jenkins
+AWS: Experience in processing and exposing data using AWS technologies like ec2, s3, Lambda, API Gateway, Load Balancers, Auto scaling etc.
+Python: Experience in building data ingestion tools using technologies like Python to extract data from Relational Databases/Web Scraping/External API’s
+Snowflake: Experience in Snowflake or any MPP and columnar database on the Cloud.
+CI/CD: Experience in CI/CD release automation and deployment (Jenkins, Concourse, CloudFormation etc.)
+Oracle: Experience and good understating of databases (Oracle, Netezza) and ETL tools
+SQL: Excellent programming skills in SQL, PL/SQL, Python, shell etc.
+Hadoop: Exposure to Big Data technologies (Hadoop, Spark, Hive, presto etc.)
+Kafka: Exposure to streaming services like Kafka and containers will be an advantage.
+AWS Security: Good understanding of overall AWS security services like KMS, IAM, Security groups etc.
+Technologies:
+
+SQL: Expertise in SQL, identifying patterns and trends in data, recommend and define data requirements, mastery in implementing data quality checks to ensure accuracy and completeness.
+Python: You enjoy learning new technologies, data analysis, identifying data patterns and trends and you can independently resolve technical challenges.
+EC2: Experience in processing and exposing data using AWS technologies like ec2, s3, Lambda, API Gateway, Load Balancers, Auto scaling etc.
+S3: Experience in processing and exposing data using AWS technologies like ec2, s3, Lambda, API Gateway, Load Balancers, Auto scaling etc.
+Lambda: Experience in processing and exposing data using AWS technologies like ec2, s3, Lambda, API Gateway, Load Balancers, Auto scaling etc.
+API Gateway: Experience in processing and exposing data using AWS technologies like ec2, s3, Lambda, API Gateway, Load Balancers, Auto scaling etc.
+Jenkins: Experience in CI/CD release automation and deployment (Jenkins, Concourse, CloudFormation etc.)
+Concourse: Experience in CI/CD release automation and deployment (Jenkins, Concourse, CloudFormation etc.)
+CloudFormation: Experience in CI/CD release automation and deployment (Jenkins, Concourse, CloudFormation etc.)
+
+URL:https://www.indeed.com/rc/clk?jk=fb7783846e97f42c&from=jasx&tk=1hdea9902imai801&vjs=3

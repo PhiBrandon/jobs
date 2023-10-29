@@ -1,0 +1,14 @@
+Skills:
+Data engineering
+Expert Java programming abilities
+Familiarity with Python and Bash scripts
+Strong data modeling and database design skills
+Experience designing and implementing data ingestion/transformation processes
+
+
+Technologies:
+FHIR (Fast Healthcare Interoperability Resources)
+Java
+Python
+Bash scripts
+Database design

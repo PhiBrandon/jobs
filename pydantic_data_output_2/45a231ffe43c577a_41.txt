@@ -1,0 +1,13 @@
+Skills:
+
+ETL Workflows/Development: 2+ years of experience with scalable ETL workflows/development, extract, cleanse, and process disparate data sources
+Data Cleaning/Transformation: Experience with cleaning and transforming data utilizing Python and/or SQL, specifically complex SQL queries
+Data Acquisition: Familiarity with acquiring data from disparate data sources using APIs and SQL
+Script/Program Development: Ability to develop scripts and programs for converting various types of data into usable formats and support project team to scale, monitor, and operate data platforms
+Technologies:
+
+Python: Experience with cleaning and transforming data utilizing Python and/or SQL, specifically complex SQL queries
+SQL: Experience with cleaning and transforming data utilizing Python and/or SQL, specifically complex SQL queries
+APIs: Familiarity with acquiring data from disparate data sources using APIs and SQL
+
+URL:https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CTHA6cd59lXtQJ-DuZtBHQsSjOn019HaVEc20FtZol16Ry6pW_HxgBH8El4_gqC7uB205Bc4zOhTy7DBwJrfD44a3c9HUREaGRFI5ejKinAPOL_vJfvFL9nNjZP6gLraBPcFDt0aZzYrykvYsV_cRLZ2eQszrPLV-htZd4Np3oZsEDg_gp_3mWkyPcjDEu8-28CAPYcseLdyLUCsdilU4lflT5HyIa79_Q0FfY6yyKdmZ5oDKVgX863YoRvUBSc0YZaXHQhSaXUz0nzd_0CESpz46Me0O0E3IID_axiDaGxASt9PCplqXE-OyFtR2Dr8CTx7aoi4bnDRFmGwynCUWiUBjGGsXYFJMQDmFn4RtjeP3prX4kK9ecusgpMpDepjEIifKktlvT74d7_x9kKJ7q_88nFi8Rwq0MgKylqawKkrV41TxQz3QWI4ObwnWisyb9t-YwDk0ghGAdKXlktWU52V9QHNuGj2LY10iWSljcLgS3EULWji-JPNa266oxTm02FcyKD31Xq47EUJZLhhpQFkvGXW75RzsoAGnS3Bd2gr7C5YJjK-Oo82KT2wDALfaNZ5zEcfsQUu3T32PUBNCnZD9DQgNNQXOirSb3QzrAiWycawMpj87BwVVcdLh7flg%3D&xkcb=SoBK-_M3Jucq0MwcyR0JbzkdCdPP&p=1&fvj=1&vjs=3&jsa=4945&tk=1hdea988rk6dn800&from=jasx&wvign=1

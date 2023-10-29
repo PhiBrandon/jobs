@@ -1,0 +1,32 @@
+SKills:
+
+Bachelors in Computer Science or Data Engineering, related degree, or equivalent professional experience
+3+ years relevant work experience within a complex, dynamic environment, with preference for experience with clinical healthcare data
+3+ years architecting , implementing, and supporting data infrastructure and topologies
+Experience building and operating highly available, distributed systems of extraction, ingestion, and processing of large data sets across a variety of applications (OLTP, OLAP and DSS)
+3+ years Experience with Data warehousing, methodologies, modeling techniques, design patterns, and technologies.
+Experience with data migration tools and deploying cloudbase solutions
+Experience in writing advanced SQL (DML & DDL), including Stored Procedures, Indexes, user defined functions, windows functions, correlated subqueries and CTE's, and related data query and management technology
+Coding ability in R, Python, and Shell Scripting to build and deploy Pipelines
+Working knowledge of Git, or similar collaborative code management software
+Experience with data integration tools such as FiveTran, DBT, Informatica, Matillion, or similar ETL/ELT tools
+Experience with Snowflake’s data platform
+
+Responsibilities:
+
+Develop and maintain data sources within Crossover’s enterprise data warehouse (inclusive of our current vendor and/or future data infrastructure)
+Assist with recommendations for data architecture, data storage, data integration, data quality, and data models
+Contribute to design sessions based on technical requirements, and build data models to clean and transform datasets for use by Crossover’s Data Science and Analytics teams
+Assist with ETL, ELT, and reverse-ETL design and development initiatives including data analysis, source-target mapping, data profiling, change data capture, QA testing, and performance tuning to guarantee quality and repeatability of data model results
+Create and maintain data model standards, including MDM (Master Data Management) and codebase standardization
+Migrate Enterprise Workloads to Snowflake using industry standard methodologies
+Automate and deploy as well as build CI/CD pipelines to support cloud based workload
+Design, deliver cloud native, hybrid, and multi-cloud Workloads
+Invest in documentation, including all system design, architecture and ongoing changes
+Design and support production job schedules, including alerting, monitoring, break fixes, and performance tuning
+Build solutions that are automated, scalable, and sustainable while minimizing defects and technical debt
+Assist stakeholders including analytics, design, product, and executive teams with data-related technical issues
+Ability to work independently with little instruction or direct oversight
+Perform other duties as assigned
+
+URL:https://www.indeed.com/rc/clk?jk=d7a6a168405310c5&from=jasx&tk=1hdea9902imai801&vjs=3

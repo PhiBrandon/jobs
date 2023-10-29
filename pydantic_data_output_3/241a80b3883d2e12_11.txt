@@ -1,0 +1,12 @@
+Skills:
+
+Machine Learning: Experience with both supervised and unsupervised machine learning techniques
+Python: Deep experience writing robust Python (Pandas, Airflow) and complex SQL code in a collaborative team setting, using GitTM distributed version control system
+Data Analysis: Ability to break complex problems into simple, coherent solutions
+Communication: An ability to communicate concisely and persuasively with engineers, product managers, partners and collaborators
+Technologies:
+
+SQL: Deep experience writing robust Python (Pandas, Airflow) and complex SQL code in a collaborative team setting, using GitTM distributed version control system
+Python: Deep experience writing robust Python (Pandas, Airflow) and complex SQL code in a collaborative team setting, using GitTM distributed version control system
+Git: Deep experience writing robust Python (Pandas, Airflow) and complex SQL code in a collaborative team setting, using GitTM distributed version control system
+Google Cloud Platform: Experience using Google Cloud Platform (BigQuery, ML Engine, and APIs)

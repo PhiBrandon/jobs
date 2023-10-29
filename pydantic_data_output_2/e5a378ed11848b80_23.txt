@@ -1,0 +1,15 @@
+Skills:
+
+Shell Script Development: 5+ years experience with Linux Shell Script development, testing, debugging and deployment
+SQL: 5+ years experience with SQL, relational database and data warehouse technologies
+Python Scripting: 3+ years experience developing and maintaining Python or similar scripting language
+Version Control: 3+ years experience in multiple subversion technologies such as Subversion, GitHub or Tortoise
+ETL Processes: Experience in data mining and development of ETL processes, distributed data architectures and big data processing technologies
+Production Environment Control: Knowledge of production / environment control
+Agile Development: Knowledge of Agile software development lifecycle
+Technologies:
+
+AWS: Knowledge of AWS technologies such as S3, EC2, Redshift, Glue, Athena and Step Functions preferred
+EDW Technologies: The primary data repository, as well as host to the virtualization/governance and catalog layers live on the IBM Cloud Pak for Data System (CP4D) and Netezza Performance Server (NPS) PostgreSQL based database. The CP4D system is Linux-based on a combined OpenShift and Redhat 7 platform. The EDW/EVV also utilizes SAP Business Objects (BOBJ) to do reporting based on a Windows Virtual Machine (VM) architecture. The Oracle 19c database is on Oracle Solaris VMs and acts as repository databases for SAP BOBJ.
+
+URL:https://www.indeed.com/rc/clk?jk=e5a378ed11848b80&from=jasx&tk=1hdea8ee5ipb2801&vjs=3

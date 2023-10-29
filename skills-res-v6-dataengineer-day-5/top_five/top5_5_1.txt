@@ -1,0 +1,14 @@
+Skills:
+Data engineering: Primary skill
+SQL: Primary skill
+Data modeling: Primary skill
+ETL processes: Primary skill
+Python programming: Primary skill
+
+
+Technologies:
+Apache Spark: Primary technology
+Databricks: Primary technology
+Delta Lake: Primary technology
+PySpark: Primary technology
+Cloud platforms: Primary technology

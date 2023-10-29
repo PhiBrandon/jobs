@@ -1,0 +1,12 @@
+Skills:
+
+Data Analysis: Responsible for the analysis, development, and execution of data solutions
+Data Modeling: Builds and designs data models and data architecture that improve accessibility, efficiency, governance and quality of data
+Problem Solving: Recognizes opportunities to improve data reliability, quality, and efficiency and may make recommendations where appropriate
+Communications: Performs other projects and duties as assigned
+Technologies:
+
+AWS SDK: Experience with AWS SDK
+Docker/Kubernetes: Experience with Docker/Kubernetes
+IT Concepts: Experience with IT concepts, strategies and methodologies
+IT Architectures: Experience with IT architectures and technical standards

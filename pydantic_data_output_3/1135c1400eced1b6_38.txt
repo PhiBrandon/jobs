@@ -1,0 +1,7 @@
+Skills:
+
+SNS, SQS, Athena, CloudWatch, Kinesis, Redshift: Primary Skills
+Technologies:
+
+Glue, S3, Redshift, Lambda, PySpark, Spark: Primary focus is on Glue, S3, Redshift, Lambda, PySpark, Spark. Then added skillset which could add value are AWS Step function, NoSQL DB like Dynamo DB and AWS Data Migration Service in that order of priority.
+AWS Data EngineerIng Advanced: Associate Data Engineer: Specialization

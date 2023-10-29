@@ -1,0 +1,9 @@
+Skills:
+
+Data governance: Proven experience in data governance and data quality management.
+Communication: Strong clear communication skills and interpersonal skills to collaborate with various teams.
+Problem solving: Excellent problem-solving skills and attention to detail.
+Technologies:
+
+Alation: Proficiency in utilizing data quality platforms like Anomalo or data catalog platform like Alation.
+Anomalo: Proficiency in utilizing data quality platforms like Anomalo or data catalog platform like Alation.

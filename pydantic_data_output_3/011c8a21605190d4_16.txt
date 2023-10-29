@@ -1,0 +1,18 @@
+Skills:
+
+Full-stack development: Collaborate closely with Product Managers, Designers, and fellow engineers to design and implement new full-stack features and functionalities for our Customer Data Platform, using languages such as React/TypeScript, Ruby, Golang and Rust
+Backend development: Build backend frameworks at scale
+Distributed systems: Experience with distributed system event streaming framework such as Apache Kafka
+Docker/Kubernetes: Experience with Docker and Kubernetes
+API design: Experience designing RESTful API
+Data analysis: Conduct data analysis and performance monitoring to identify areas for optimization and enhancement
+Technologies:
+
+Rust: Experience with Rust and/or Golang, or a strong willingness to learn these two languages quickly
+Golang: Experience with Rust and/or Golang, or a strong willingness to learn these two languages quickly
+Apache Kafka: Experience with distributed system event streaming framework such as Apache Kafka
+Docker: Experience with Docker and Kubernetes
+Kubernetes: Experience with Docker and Kubernetes
+ScyllaDB: Experience with ScyllaDB
+Ruby/Rails: Experience with Ruby/Rails
+React: Experience building a robust React Web application

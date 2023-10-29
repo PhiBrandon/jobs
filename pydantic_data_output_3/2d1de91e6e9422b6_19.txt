@@ -1,0 +1,13 @@
+Skills:
+
+Data engineering: Experience in data engineering, data platforms, BI or related domain
+Data modeling: Experience with data modelling
+SQL: Proficient in SQL
+Scripting: Familiarity with one scripting language, preferably Python
+Apache Airflow: Experience with Apache Airflow
+Cloud services: Solid understanding of cloud data services: AWS services such as S3, Athena, EC2, RedShift, EMR (Elastic MapReduce), EKS, RDS (Relational Database Services) and Lambda
+Technologies:
+
+Apache Spark: Apache Spark
+Containers: Understanding of containerisation and orchestration technologies like Docker/Kubernetes
+Relational databases: Experience with large-scale production relational and NoSQL databases

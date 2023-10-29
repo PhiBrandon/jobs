@@ -1,0 +1,26 @@
+SKills:
+
+Lead client facing technical architecture and design workshops.
+Implement complex technical security solutions with minimal supervision.
+Resolve implementation-related technical issues.
+Work closely with Project Managers on defining task details, timelines, status updates, and working within project scope.
+Understand project scope definition, validation, and rapid deployment of services.
+Maintain an exhaustive understanding of the guiding principles for Conversant Group product & service offerings.
+Act as a SME for Conversant Group’s Managed Security Solutions portfolio.
+Provide mentoring and be a technical escalation for team members.
+Maintain select vendor technical certifications.
+Provide client education for deployed solutions.
+Collaborate with clients, partners, and vendors to aid in successful deployment of security solutions.
+
+Responsibilities:
+
+lead technical design and architectural workshops,
+deploy and configure complex technical solutions using our internal specifications, documentation, and best practices, with minimal supervision,
+resolve implementation issues with a combination of skills, experience, vendor support, and internal consultations,
+maintain an exhaustive understanding of our products and solutions,
+create and maintain implementation documentation leveraging Conversant Group’s security standards,
+maintain a high degree of proficiency in the products and software to be implemented,
+act as a subject matter expert for Conversant Group’s product and service solutions,
+provide mentoring and be a technical escalation for junior / mid-level engineers.
+
+URL:https://www.indeed.com/rc/clk?jk=326aecf5562629b4&from=jasx&tk=1hdea7hq42do5000&vjs=3

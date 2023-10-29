@@ -1,0 +1,11 @@
+Skills:
+
+AWS Glue: Required Technical Skills: AWS Glue
+AWS Lambda: Required Technical Skills: AWS Lambda, Python, JIRA
+Python: Required Technical Skills: AWS Lambda, Python, JIRA
+Technologies:
+
+AWS Athena: Preferred Skills: AWS Athena, AWS CI/CD pipeline
+AWS CI/CD pipeline: Preferred Skills: AWS Athena, AWS CI/CD pipeline
+
+URL:https://www.indeed.com/rc/clk?jk=b313953a37e916a3&from=jasx&tk=1hdea7hq42do5000&vjs=3

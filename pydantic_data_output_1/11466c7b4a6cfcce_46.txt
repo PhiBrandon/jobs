@@ -1,0 +1,25 @@
+SKills:
+
+Python: 6 years (Required)
+Pyspark: 6 years (Required)
+AWS: 6 years (Required)
+Dataset Analysis: 5 years (Preferred)
+Data lake: 5 years (Preferred)
+
+Responsibilities:
+
+Utilize Python 3 and SQL to perform dataset analysis and transformations.
+Work with AWS services for data storage, processing, and deployment.
+Version control and collaborate using GIT for effective code management.
+Implement ETL (Extract, Transform, Load) processes to prepare data for analysis.
+Develop and maintain a Data Lake architecture for efficient data storage and retrieval.
+Leverage PySpark to process large datasets and perform distributed computing tasks.
+Strong proficiency in Python 3 and SQL for data analysis and manipulation.
+Experience working with AWS services, including S3, Redshift, and Glue.
+Proficiency with GIT for version control and collaborative coding.
+Hands-on experience with PySpark for data processing and analytics.
+Proven expertise in building ETL pipelines for data integration and transformation.
+Familiarity with data lake architecture and best practices.
+Excellent problem-solving skills and ability to work with complex datasets.
+
+URL:https://www.indeed.com/rc/clk?jk=11466c7b4a6cfcce&from=jasx&tk=1hdeaahlgk6pf800&vjs=3

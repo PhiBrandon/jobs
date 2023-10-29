@@ -1,0 +1,41 @@
+SKills:
+
+Bachelor’s Degree in Computer Science/Engineering or related field with 6 years of experience OR an Associate’s degree in Computer Science/Engineering or related field with 8 years of experience.
+Knowledge of professional software engineering practices and best practices for the full software development life cycle (SDLC), including coding standards, code reviews, source control management, build processes, testing, and operations.
+Have in-depth knowledge of data engineering and building data pipelines with a minimum of 5 years of experience in data engineering, data science or analytical modeling and basic knowledge of related disciplines.
+Worked and lead Data Engineering teams in Continuous Integration / Continuous Delivery model.
+Build/Lead Data products highly resilient in nature. Build/Lead Test Automation suites, Unit Testing coverage, Data Quality, Monitoring & Observability.
+A minimum experience of 5 years using relational databases and NoSQL Databases.
+Experience with cloud platforms such as GCP, Azure, AWS.
+Continuous Integration using Jenkins, Git Hub Actions or Azure Pipelines.
+Experience with cloud technologies, development and deployment.
+Experience with tools like Jira, GitHub, SharePoint, Azure Boards.
+Experience using advanced data processing solutions/capabilities such as Apache Spark, Hive, Airflow and Kafka, GCP Dataflow.
+Experience using big data, statistics and knowledge of data related aspects of machine learning.
+Experience with Google BigQuery, FHIR APIs, and Vertex AI.
+Knowledge of how workflow scheduling solutions such as Apache Airflow and Google Composer related to data systems.
+Knowledge of using Infrastructure as code (Kubernetes, Docker) in a cloud environment.
+
+Responsibilities:
+
+As a member of the Data and Analytics organization, you will be responsible for building and delivering best-in-class clinical data initiatives aimed at driving best-in-class solutions.
+You will collaborate with analytic partners and business partners from product strategy, program management, IT, data strategy, and predictive analytics teams to develop effective solutions for our partners.
+Lead data design, prototype, and development of data pipeline architecture pipelines.
+Lead implementation of internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability.
+Lead cause analysis on external and internal processes and data to identify opportunities for improvement and answer questions.
+Excellent analytic skills associated with working on unstructured datasets.
+Understand the architecture, be a team player, lead technical discussions and communicate the technical discussion.
+Be a senior Individual contributor of the Data or Software Engineering teams.
+Be part of Technical Review Board along with Manager and Principal Engineer.
+Be a technical liaison between Manager, Software Engineers and Principal Engineers.
+Collaborate with software engineers to analyze, develop and test functional requirements.
+Write clean, maintainable code 30% of the time and performing peer code-reviews.
+Mentor and Coach Engineers.
+Work with team members to investigate design approaches, prototype new technology and evaluate technical feasibility.
+Work in an Agile/Safe/Scrum environment to deliver high quality software.
+Establish architectural principles, select design patterns, and then mentor team members on their appropriate application.
+Facilitate and drive communication between front-end, back-end, data and platform engineers.
+Play a formal Engineering lead role in the area of expertise.
+Keep up-to-date with industry trends and developments.
+
+URL:https://www.indeed.com/rc/clk?jk=90ca40677b46e6ea&from=jasx&tk=1hdea7hq42do5000&vjs=3

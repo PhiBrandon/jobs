@@ -1,0 +1,16 @@
+Skills:
+
+Leadership: Frequently responsible for providing guidance, coaching, and training to other employees across the Company within the area of expertise. Responsible for managing large, complex project initiatives or strategically important solutions to the organization, involving large cross-functional teams. May have direct reports but generally fewer than three.
+Communication: Communicates with parties within and outside of their job function and typically has responsibilities for communicating with parties external to the organization. Works to influence others to accept and understand new concepts, practices, and approaches. Requires ability to communicate with executive leadership regarding matters of significant importance to the organization. This individual may conduct briefings with senior leaders within the technical function.
+Problem Solving: This individual accomplishes goals and objectives independently. Builds and leads teams, influencing decisions and results. Uses discretion to fully scope, design, and implement solutions to complex technical problems. The individual provides regular technical advice and direction to technical teams and management. Models and helps set high standards for effective interactions with internal and external individuals.
+Organizational Impact: Recommends and implements changes in technical/business processes; identifies areas for improvement. Helps lead/coordinate extremely complex technical projects and programs and leads development and implementation of innovative solutions for specialized technical issues. Works proactively; identifies and helps prevent/ solve problems that may cross disciplines. Fully understands and quantifies project risks with impact. Identifies, generates, and implements innovative solutions.
+Technologies:
+
+Apache Spark: The Staff Data Engineer should be agnostic to tools and should be able to supervise, design, architect and code using Apache Spark and other cloud technologies.
+Python: Mastery of object-oriented/object function scripting languages: Python, Java, Scala
+Java: Mastery of object-oriented/object function scripting languages: Python, Java, Scala
+Scala: Mastery of object-oriented/object function scripting languages: Python, Java, Scala
+Hadoop: Mastery of big data tools: Hadoop, Spark, Kafka, Databricks, etc.
+AWS: Mastery of AWS cloud technologies, REST API, and HTML5
+
+URL:https://www.indeed.com/rc/clk?jk=6d6399c51c6d5573&from=jasx&tk=1hdea988rk6dn800&vjs=3

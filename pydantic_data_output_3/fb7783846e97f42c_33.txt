@@ -1,0 +1,25 @@
+Skills:
+
+Database development: Working knowledge on AWS, Oracle, Snowflake, Python, CICD, Jenkins
+Data analysis: Identifying data patterns and trends and independently resolve technical challenges.
+Cloud technologies: Experience in processing and exposing data using AWS technologies like ec2, s3, Lambda, API Gateway, Load Balancers, Auto scaling etc.
+Data ingestion: Experience in building data ingestion tools using technologies like Python to extract data from Relational Databases/Web Scraping/External API’s
+Data storage: Experience in Snowflake or any MPP and columnar database on the Cloud.
+CI/CD: Experience in CI/CD release automation and deployment (Jenkins, Concourse, CloudFormation etc.)
+Database experience: Experience and good understating of databases (Oracle, Netezza) and ETL tools
+Scheduling: Experience in scheduling tools like Autosys, Control-M, Airflow etc.
+Programming: Excellent programming skills in SQL, PL/SQL, Python, shell etc.
+Big data: Exposure to Big Data technologies (Hadoop, Spark, Hive, presto etc.)
+Containers: Exposure to streaming services like Kafka and containers will be an advantage.
+AWS security: Good understanding of overall AWS security services like KMS, IAM, Security groups etc.
+Technologies:
+
+AWS: 
+Oracle: 
+Snowflake: 
+Python: 
+CICD: 
+Jenkins: 
+Docker: Docker containers and EKS knowledge
+Tableau: Reporting tools – Tableau or Power BI
+Power BI: Reporting tools – Tableau or Power BI

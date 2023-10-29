@@ -1,0 +1,16 @@
+Skills:
+
+Python: Strong proficiency in Python 3 and SQL for data analysis and manipulation.
+SQL: Strong proficiency in Python 3 and SQL for data analysis and manipulation.
+AWS: Experience working with AWS services, including S3, Redshift, and Glue.
+PySpark: Proficiency with PySpark for data processing and analytics.
+ETL: Proven expertise in building ETL pipelines for data integration and transformation.
+GIT: Proficiency with GIT for version control and collaborative coding.
+Data Lake: Familiarity with data lake architecture and best practices.
+Technologies:
+
+Python: Python: 6 years (Required)
+Pyspark: Pyspark: 6 years (Required)
+AWS: AWS: 6 years (Required)
+Dataset Analysis: Dataset Analysis: 5 years (Preferred)
+Data lake: Data lake: 5 years (Preferred)

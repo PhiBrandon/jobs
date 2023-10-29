@@ -1,0 +1,16 @@
+Skills:
+
+Python programming focused on big data management: Core skill for data pipelines, database integration and analysis
+PostgreSQL or other relational database: Experience with relational databases
+Docker: Containerization platform
+Kubernetes: Orchestration platform
+Git: Version control
+Technologies:
+
+Amazon Web Services: Cloud platform (optional but a plus)
+ElasticSearch: Search platform (optional but a plus)
+Data pipeline tools, e.g. Pachyderm: (optional but a plus)
+GIS tools such as ESRI: (optional but a plus)
+Generative AI and large language model (LLM) APIs and data applications: (optional but a plus)
+
+URL:https://www.indeed.com/rc/clk?jk=37b5edb36e885430&from=jasx&tk=1hdea988rk6dn800&vjs=3

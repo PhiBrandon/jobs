@@ -1,0 +1,11 @@
+Skills:
+
+Python Development: 5 years experience developing software using Python
+SQL: Managing data held in relational database management systems (RDBMS) using SQL
+Data Architecture: Developing data architecture for 1 year
+Technologies:
+
+Spark: Developing software using Spark for 1 year
+AWS: Working with cloud technologies including AWS
+
+URL:https://www.indeed.com/rc/clk?jk=8d363231c84d5af6&from=jasx&tk=1hdea8ee5ipb2801&vjs=3

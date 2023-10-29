@@ -1,0 +1,25 @@
+SKills:
+
+6+ years of professional software development experience
+Experience building backend frameworks at scale
+Experience with Rust and/or Golang, or a strong willingness to learn these two languages quickly
+Experience with distributed system event streaming framework such as Apache Kafka
+Experience with Docker and Kubernetes
+Experience designing RESTful API
+Experience with ScyllaDB
+Experience with Ruby/Rails
+Experience building a robust React Web application
+Experience with continuous build in an Agile Environment
+Have a good understanding of clean software design principles
+
+Responsibilities:
+
+Collaborate closely with Product Managers, Designers, and fellow engineers to design and implement new full-stack features and functionalities for our Customer Data Platform, using languages such as React/TypeScript, Ruby, Golang and Rust
+Actively participate in peer code reviews and Technical Design Spec reviews, providing valuable technical insights to continuously improve our code base
+Work together with the team to efficiently resolve production issues and ensure the system scales smoothly to meet the growing demands of our customers.
+Conduct data analysis and performance monitoring to identify areas for optimization and enhancement
+Stay up-to-date with the latest industry trends and technologies, incorporating new ideas into our engineering processes
+Ability to work independently in uncertainty and drive multiple experiments to derive at a solution to unblock business and customer operations.
+Work on customer driven product development
+
+URL:https://www.indeed.com/rc/clk?jk=011c8a21605190d4&from=jasx&tk=1hdea8gffk2nb800&vjs=3

@@ -1,0 +1,15 @@
+Skills:
+
+Information Security: Extensive experience with data ingest process, Hadoop, Apache Nifi, Cloud platform (AWS, GCP, Azure)
+Data Analysis: Design and implement capabilities for ingesting and indexing large volumes of security-related data in Hadoop, AWS, GCP, Azure environments
+Project Management: Design, implements and deploys information security policies, procedures and guidelines. Responsible for developing, maintaining, publishing and/or enforcing information security standards and guidelines encompassing data, and intellectual security.
+Technologies:
+
+Hadoop: 4+ years experience designing and implementing capabilities in a Hadoop-based, Spark big data environment
+Spark: 4+ years experience designing and implementing capabilities in a Hadoop-based, Spark big data environment
+Nifi: 4+ years experience in design and implementing real-time data pipelines using NiFi, Kafka and Spark Streaming
+AWS: Experience using source code management systems (e.g. Git)
+GCP: Extensive experience with data ingest process, Hadoop, Apache Nifi, Cloud platform (AWS, GCP, Azure)
+Azure: Extensive experience with data ingest process, Hadoop, Apache Nifi, Cloud platform (AWS, GCP, Azure)
+
+URL:https://www.indeed.com/rc/clk?jk=b1473aeba6e7b340&from=jasx&tk=1hdea9902imai801&vjs=3

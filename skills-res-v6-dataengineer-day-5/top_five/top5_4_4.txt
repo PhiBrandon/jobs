@@ -1,0 +1,14 @@
+Skills:
+Data modeling
+Data engineering
+SQL
+PowerShell/Bash
+Python
+
+
+Technologies:
+Azure
+Azure Synapse
+Azure SQL Database
+Azure Kubernetes Service
+Azure Container Apps

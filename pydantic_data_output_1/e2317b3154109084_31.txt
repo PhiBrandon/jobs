@@ -1,0 +1,26 @@
+SKills:
+
+8+ years’ of combined experience in system engineering, software development or business analysis required.
+Candidate must demonstrate a willing initiative to solicit customer requirements and translate them into formalized structured technical products. Candidate must have strong verbal and written communication skills. Concise writing and ability to communicate technical content to broad audiences are critical candidate abilities.
+Candidate must be a US Citizen and be able to obtain and maintain a high-risk public trust clearance.
+Must have experience or familiarity with: executing Agile, Scrum, and Kanban methodologies. Soliciting and documenting use cases and designs for system requirements (User Stories, Use Cases, Requirements, Specifications, Data Schema, Business Process Workflows). Use of system management tools such as Azure DevOps, Jira, Redmine, or similar system. Developing and executing testing and acceptance plans. Tracking bugs, issues and resolutions. Performing data analysis and reporting. Knowledge of government system security policies (ATO process) Ability to flexibly pivot to varying needs of the project while maintaining situational awareness
+Knowledge of the Microsoft Azure ecosystem
+Experience with Data Lakes and preferably Data Lakehouses
+Experience working with federal IT systems
+Experience working with SQL developers (or knowledge of SQL)
+Prioritizing and communicating requirements and system development activities.
+Communicating impact of requirement changes on active development activities.
+Executing and presenting trade space of alternatives with cost benefit analysis.
+Supporting Authority to Operate (ATO) activities and other production system processes.
+Experience in developing advanced data visualizations.
+
+Responsibilities:
+
+Work directly with the customer to capture and formalize ‘Baseline’ and ‘To Be’ business user stories, use cases, requirements, system architectures, and data schema.
+Track and communicate solution and system development, production and maintenance activities.
+Design and execute test plans for solution and system testing.
+Help support the identification and considerations for alternative application solutions to meet business customer needs.
+Work with the broader development, including SQL developers and Azure engineers.
+Consider security and infrastructure implications of requested changes.
+
+URL:https://www.indeed.com/rc/clk?jk=e2317b3154109084&from=jasx&tk=1hdea988rk6dn800&vjs=3

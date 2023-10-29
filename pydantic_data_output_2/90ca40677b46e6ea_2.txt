@@ -1,0 +1,14 @@
+Skills:
+
+Data Engineering: Have in-depth knowledge of data engineering and building data pipelines with a minimum of 5 years of experience in data engineering, data science or analytical modeling and basic knowledge of related disciplines. Worked and lead Data Engineering teams in Continuous Integration / Continuous Delivery model. Build/Lead Data products highly resilient in nature. Build/Lead Test Automation suites, Unit Testing coverage, Data Quality, Monitoring & Observability.
+Python Development: Experience in Python, Java, Spark, Airflow, and Kafka development
+Cloud Technologies: Experience with cloud platforms such as GCP, Azure, AWS.
+Leadership: Worked and lead Data Engineering teams in Continuous Integration / Continuous Delivery model. Build/Lead Data products highly resilient in nature. Build/Lead Test Automation suites, Unit Testing coverage, Data Quality, Monitoring & Observability.
+Technologies:
+
+Google Cloud Platform: Experience with Google BigQuery, FHIR APIs, and Vertex AI. Knowledge of how workflow scheduling solutions such as Apache Airflow and Google Composer related to data systems. Knowledge of using Infrastructure as code (Kubernetes, Docker) in a cloud environment.
+Apache Spark: Experience using advanced data processing solutions/capabilities such as Apache Spark, Hive, Airflow and Kafka, GCP Dataflow.
+Python: Experience in Python, Java, Spark, Airflow, and Kafka development
+Apache Kafka: Experience using advanced data processing solutions/capabilities such as Apache Spark, Hive, Airflow and Kafka, GCP Dataflow.
+
+URL:https://www.indeed.com/rc/clk?jk=90ca40677b46e6ea&from=jasx&tk=1hdea7hq42do5000&vjs=3

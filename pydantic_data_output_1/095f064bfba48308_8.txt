@@ -1,0 +1,18 @@
+SKills:
+
+Strong data analytics skills and experience working with and maintaining large data sets.
+Passion for building new solutions and enabling analysis at scale to drive decision-making.
+Proven ability to be successful in a complex, fast-paced environment.
+Organized, detail-oriented and strategically focused.
+Strong written and verbal communication skills.
+Understanding of sales and digital advertising platforms and working knowledge of sales systems and tools is a plus.
+
+Responsibilities:
+
+Build robust data pipelines that collect, process, and compute business metrics from sales data using Spark.
+Develop and iterate on existing workflows that will execute jobs consistently and at scale.
+Understand our database infrastructure to its core and optimize Spark SQL performance to improve landing times of our core tables.
+Work closely with the Sales Ops Business Intelligence team and other data engineering teams as necessary.
+Publish clear documentation and training materials to inform and educate SS&O team members, gather feedback to identify opportunities for improvement.
+
+URL:https://www.indeed.com/rc/clk?jk=095f064bfba48308&from=jasx&tk=1hdea7hq42do5000&vjs=3

@@ -1,0 +1,14 @@
+Skills:
+Python: Programming
+SQL: Query Language
+Data engineering: Data
+ETL: Data
+Data modeling: Data
+
+
+Technologies:
+AWS: Cloud
+Databricks: Data Platform
+Azure: Cloud
+Snowflake: Data Warehouse
+Spark: Analytics

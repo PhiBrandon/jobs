@@ -1,0 +1,10 @@
+Skills:
+
+Systems Engineering: 8+ years' of combined experience in system engineering, software development or business analysis required.
+Requirements Gathering: Candidate must demonstrate a willing initiative to solicit customer requirements and translate them into formalized structured technical products.
+Communication: Candidate must have strong verbal and written communication skills. Concise writing and ability to communicate technical content to broad audiences are critical candidate abilities.
+Technologies:
+
+Azure: Experience or familiarity with: the Microsoft Azure ecosystem
+Data Lakes: Experience or familiarity with: Data Lakes and preferably Data Lakehouses
+SQL: Knowledge of SQL developers (or knowledge of SQL)

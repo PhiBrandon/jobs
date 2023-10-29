@@ -1,0 +1,26 @@
+Skills:
+
+Backend Development: 8 years of experience in software engineering with a focus on backend software development
+Data Engineering: Experience with data processing frameworks and tools, e.g. Apache Spark or similar
+Data Modeling: Experience with data modeling, ETL processes, and data warehousing
+Problem Solving: Excellent problem-solving skills and a passion for delivering high-quality data solutions
+Documentation: Maintain comprehensive documentation for data ingestion and curation processes, making it easy for team members to understand and use the pipelines
+Mentorship: Provide technical leadership and mentorship to junior engineers, fostering their growth and development
+Technologies:
+
+Python: Proficiency in programming languages such as Python, Javascript, Typescript, Go or Java
+Javascript: Proficiency in programming languages such as Python, Javascript, Typescript, Go or Java
+Typescript: Proficiency in programming languages such as Python, Javascript, Typescript, Go or Java
+Go: Proficiency in programming languages such as Python, Javascript, Typescript, Go or Java
+Java: Proficiency in programming languages such as Python, Javascript, Typescript, Go or Java
+Apache Spark: Experience with data processing frameworks and tools, e.g. Apache Spark or similar
+Databases: Deep understanding of data storage and retrieval technologies, both relational and NoSQL databases
+AWS: Experience with cloud technologies in AWS or GCP, as well as container systems, such as Docker or Kubernetes
+GCP: Experience with cloud technologies in AWS or GCP, as well as container systems, such as Docker or Kubernetes
+Docker: Experience with cloud technologies in AWS or GCP, as well as container systems, such as Docker or Kubernetes
+Kubernetes: Experience with cloud technologies in AWS or GCP, as well as container systems, such as Docker or Kubernetes
+Airflow: Familiarity with orchestration tools such as Airflow or Prefect
+Prefect: Familiarity with orchestration tools such as Airflow or Prefect
+Great Expectations: Experience with Great Expectations library
+
+URL:https://www.indeed.com/rc/clk?jk=7430eb68479730fd&from=jasx&tk=1hdea7hq42do5000&vjs=3

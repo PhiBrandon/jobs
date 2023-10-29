@@ -1,0 +1,16 @@
+SKills:
+
+5+ years of industry experience in software development data engineering or a related field with a solid track record of building services for manipulating processing datasets
+Hands-on experience and advanced knowledge of AWS DataOps (i.e. IAM Lambda Step Functions EMR/Glue and DynamoDB)
+Hands-on experience and advanced knowledge of SQL/Non-relational Data Modeling
+Experience working with data streaming technologies (Kafka Spark Streaming etc.)
+
+Responsibilities:
+
+Designing and implementing complex ingestion and processing pipelines through orchestration
+Design and implement API interfaces for engineering teams to interact with ingestion/processing pipelines
+Design implement and support scalable multi-tenant service and data infrastructure solutions to integrate with multi heterogeneous data sources aggregate and retrieve data in a fast and secure mode curate data that can be used in reporting analysis machine learning models and ad-hoc data requests
+Interface with other engineering and ML teams to extract transform and load data from a wide variety of data sources
+Work with business product owners to understand gather and analyze their processing and extraction needs to solve problems
+
+URL:https://www.indeed.com/rc/clk?jk=8c2d8bd464c9e1f8&from=jasx&tk=1hdea988rk6dn800&vjs=3

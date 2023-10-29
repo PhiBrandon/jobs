@@ -1,0 +1,16 @@
+Skills:
+
+Problem Solving: Ability to decompose technical problems and troubleshoot system and dataflow issues.
+Attention to Detail: Strong attention to detail, be able to understand technical complexities, and have the willingness to learn and adapt to the situation.
+Teamwork: Work both independently and as part of a large team to accomplish client objectives.
+Technologies:
+
+Python: Experience with programming languages such as Python and Java.
+Java: Experience with programming languages such as Python and Java.
+Kafka: Experience with data flow, management, and storage solutions (i.e. Kafka, NiFi, and AWS S3 and SQS solutions).
+Kibana: Experience with Kibana and Elasticsearch.
+Elasticsearch: Experience with Kibana and Elasticsearch.
+AWS S3: Experience with data flow, management, and storage solutions (i.e. Kafka, NiFi, and AWS S3 and SQS solutions).
+AWS SQS: Experience with data flow, management, and storage solutions (i.e. Kafka, NiFi, and AWS S3 and SQS solutions).
+
+URL:https://www.indeed.com/rc/clk?jk=699df5b9ae819cbf&from=jasx&tk=1hdea7hq42do5000&vjs=3

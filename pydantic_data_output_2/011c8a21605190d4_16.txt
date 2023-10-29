@@ -1,0 +1,19 @@
+Skills:
+
+Full-stack development: Collaborate closely with Product Managers, Designers, and fellow engineers to design and implement new full-stack features and functionalities for our Customer Data Platform, using languages such as React/TypeScript, Ruby, Golang and Rust
+Backend frameworks: Experience building backend frameworks at scale
+Distributed systems: Experience with distributed system event streaming framework such as Apache Kafka
+Containerization: Experience with Docker and Kubernetes
+REST APIs: Experience designing RESTful API
+Data analysis: Conduct data analysis and performance monitoring to identify areas for optimization and enhancement
+Problem solving: Ability to work independently in uncertainty and drive multiple experiments to derive at a solution to unblock business and customer operations.
+Technologies:
+
+Rust: Experience with Rust and/or Golang, or a strong willingness to learn these two languages quickly
+Golang: Experience with Rust and/or Golang, or a strong willingness to learn these two languages quickly
+React/TypeScript: Collaborate closely with Product Managers, Designers, and fellow engineers to design and implement new full-stack features and functionalities for our Customer Data Platform, using languages such as React/TypeScript, Ruby, Golang and Rust
+Ruby/Rails: Experience with Ruby/Rails
+ScyllaDB: Experience with ScyllaDB
+Kubernetes: Experience with Docker and Kubernetes
+
+URL:https://www.indeed.com/rc/clk?jk=011c8a21605190d4&from=jasx&tk=1hdea8gffk2nb800&vjs=3

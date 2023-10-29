@@ -1,0 +1,11 @@
+Skills:
+
+Data Engineering: Proven experience of at least 3 years working as a Data Engineer with a primary focus on Microsoft Azure technologies
+Azure Technologies: Strong expertise in designing, building, and optimizing data pipelines using Azure Data Factory, Azure Databricks, and related services.
+Programming: Proficiency in programming languages such as Python and SQL, with a solid understanding of ETL frameworks.
+Technologies:
+
+Azure Data Factory: Build and optimize data pipelines using Azure Data Factory, Azure Databricks, and related services.
+Azure Databricks: Build and optimize data pipelines using Azure Data Factory, Azure Databricks, and related services.
+Python: Work with programming languages such as Python and SQL to manipulate and analyze data.
+SQL: Work with programming languages such as Python and SQL to manipulate and analyze data.

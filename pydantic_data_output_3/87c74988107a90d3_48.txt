@@ -1,0 +1,13 @@
+Skills:
+
+Data Engineering: 5+ years work experience in Data Engineering/data pipelines
+SQL: 3+ years SQL experience is a must
+Unix/batch scripting: 1+ years Unix/batch scripting preferred
+Python: 1+ years Python experience is a plus
+Windows server administration: 1+ years Windows server admin experience is a plus
+AWS: AWS experience is a plus
+Data warehousing: Knowledge in Data Warehousing is a MUST
+Technologies:
+
+MySQL: MySQL & Vertica Experience a plus/preferred
+Vertica: MySQL & Vertica Experience a plus/preferred

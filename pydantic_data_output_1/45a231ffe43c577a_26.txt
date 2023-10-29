@@ -1,0 +1,14 @@
+SKills:
+
+2+ years of experience with scalable ETL workflows/development, extract, cleanse, and process disparate data sources
+Secret Clearance is required.
+HS Diploma required (Bachelor's preferred)
+Experience with cleaning and transforming data utilizing Python and/or SQL, specifically complex SQL queries
+Familiarity with acquiring data from disparate data sources using APIs and SQL
+Ability to develop scripts and programs for converting various types of data into usable formats and support project team to scale, monitor, and operate data platforms
+
+Responsibilities:
+
+We are looking to immediately fill a Junior Data Engineer on our team. The ADE is one of the major pillars of MyNavy HR Transformation and serves as an enterprise-wide centralized repository that provides seamless and secure data access. This pilot’s objective is to support defining a comprehensive future-state ADE data model by informing the total number of unique data elements and to assess the ability to accelerate the data integration process using new data tools available following the Authority to Operate (ATO).
+
+URL:https://www.indeed.com/rc/clk?jk=45a231ffe43c577a&from=jasx&tk=1hdea9902imai801&vjs=3

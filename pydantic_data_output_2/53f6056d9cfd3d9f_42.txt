@@ -1,0 +1,14 @@
+Skills:
+
+Data Modeling: Experience in data modeling, data mapping, and data transformation.
+Data Governance: Experience in data governance, data quality management, and MDM concepts.
+Collaboration: Experience partnering with IT and business teams to integrate systems and resolve issues.
+Documentation: Creating and maintaining documentation for processes, configurations, and procedures.
+Technologies:
+
+Oracle EDMCS: Experience with Oracle EDMCS/DRM for master data management.
+SAP MDG: Experience in SAP MDG for master data management.
+GCP: Proficiency in Google Cloud Platform services like BigQuery, Dataflow, and Pub/Sub.
+Python/Java/Scala: Scripting skills for ETL processes.
+
+URL:https://www.indeed.com/rc/clk?jk=53f6056d9cfd3d9f&from=jasx&tk=1hdea988rk6dn800&vjs=3

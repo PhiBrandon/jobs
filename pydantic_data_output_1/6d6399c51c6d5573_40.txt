@@ -1,0 +1,44 @@
+SKills:
+
+Expertise with analytical reporting tools, preferably Cognos and Tableau.
+Mastery in code based ETL/ ELT tools for importing and exporting data across disparate systems.
+Expertise in analytic skills related to working with unstructured datasets.
+Use of industry best practices for code development, testing, implementation and documentation.
+Ability to evaluate and prioritize work based on the organization’s needs.
+Ability to supervise cross team projects to accomplish data integrations and pipelines.
+Supervisory abilities for data engineering team with respect to technical design and architecture.
+Excellent verbal & written communication, along with technical documentation
+Ability to work and deliver in a team environment
+Ability to manage the use of tools like Jira, Confluence, GitHub
+Architect and Develop processes for audit of Data Integrity
+Ability to mentor Associate/Senior/Data Engineer in data pipeline architecture and coding standards
+Supervise Validation and testing to analyze and debug issues
+Mastery of AWS cloud technologies, REST API, and HTML5
+Mastery of relational SQL and NoSQL databases
+Mastery with object-oriented/object function scripting languages: Python, Java, Scala
+Mastery of big data tools: Hadoop, Spark, Kafka, Databricks, etc.
+
+Responsibilities:
+
+Supervise work on cloud technologies and architect scalable and performant Data Lake systems.
+Establish design and methodology for database build processes.
+Supervise the architecture and design of complete data model solutions.
+Supervise necessary data protection and security processes.
+Create and design extract processes for data access layer.
+Translate business problems/information requirements accurately to logical/physical data models aligning with customers’ data architecture standards.
+Supervise and perform research and analysis to find solutions for complex business problems.
+Monitor job performance and fine tune Spark SQL queries as appropriate on a regular basis.
+Supervise the profiling of data, the publishing of data profiles and corrective actions if required to ensure data quality.
+Supervise and perform documentation / reverse engineering / analysis of data mapping using data integration code/tools.
+Work with APIs for data wrangling and integrations with other systems data in the EDW.
+Perform impact analysis using Data Integration/Data Virtualization tool repositories, DB data dictionary, UNIX scripts and frontend code on versioning systems.
+Analyze / research data on multiple platforms as wells as multiple heterogeneous databases including custom developed databases.
+Positively impact projects by completing tasks assigned on time.
+Communicate technical and domain knowledge as it relates to work, to both technical and non-technical audiences.
+Ingest and transform structured, semi-structured, and unstructured data from sources including relational databases, NoSQL, external APIs, JSON, XML, delimited files, and more.
+Support business and functional requirements and translate these requirements into robust, scalable, solutions.
+Collaborate with engineers to help adopt best practices in data system creation, data integrity, test design, analysis, validation, and documentation.
+Help continually improve ongoing reporting and analysis processes, automate, or simplify self-service modelling and production support for customers.
+Performs other related duties as assigned.
+
+URL:https://www.indeed.com/rc/clk?jk=6d6399c51c6d5573&from=jasx&tk=1hdea988rk6dn800&vjs=3

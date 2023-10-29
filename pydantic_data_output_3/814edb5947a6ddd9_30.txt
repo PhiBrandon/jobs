@@ -1,0 +1,13 @@
+Skills:
+
+Data engineering: Research, design, build, optimize and maintain reliable, efficient, and accessible data models, systems and pipelines/APIs etc.
+Data analysis: Support, with guidance, the analytic and/or operational use of data.
+Prototyping: Convert concepts & ideas into workable prototypes (custom or COTS products) for client reviews and acceptance.
+Data architecture: Translate business needs into data architecture solutions development within supported data systems.
+Technologies:
+
+AWS: AWS (Glue, Athena, API Gateway)
+SQL: SQL, NoSQL
+Modeling tools: Data developments with modeling tools such as Neo4J, Erwin, Embarcadero, transforming logical, physical, conceptual, reverse engineering & forward engineering.
+Alation: Development with Alation and/or EASparx
+Data movement: Data Movement tools such as Informatica & others...

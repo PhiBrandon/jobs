@@ -1,0 +1,11 @@
+Skills:
+
+Microsoft Azure Purview: Experience in Microsoft Azure Purview
+Data Catalog: 1-2+ years of experience configuring and implementing Data Catalog products and services within cloud platforms
+ APIs: Experience with REST APIs is a must
+Databases: Experience with relational Databases, storges, data lakes on cloud
+Technologies:
+
+Microsoft Purview: Perform Scan, Search, Update, and other features with system components, evolving it for required user experience and performance.
+APIs: Design and implement APIs that are fast and flexible
+Azure: Work with solution architecture team to establish alignment with existing models and standards on a cloud platform

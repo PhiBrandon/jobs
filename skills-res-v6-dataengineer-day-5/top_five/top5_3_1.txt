@@ -1,0 +1,14 @@
+Skills:
+Data engineering
+SQL
+Python
+Data modeling
+Communication
+
+
+Technologies:
+Azure
+Airflow
+Spark
+Databricks
+Snowflake

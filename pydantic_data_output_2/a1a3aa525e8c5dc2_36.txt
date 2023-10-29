@@ -1,0 +1,17 @@
+Skills:
+
+Experience in Microsoft Azure Purview: Manage Purview guiding team on integration end points
+Possess knowledge on Purview APIs: Customize feature to produce functional requirements based on project /client needs
+CS degree or equivalent: At least 2-6 years of experience working as a software engineer
+1-2+ years of experience configuring and implementing Data Catalog products and services within cloud platforms: 
+Experience with REST APIs is a must: 
+Experience with relational Databases, storges, data lakes on cloud: Understand how to translate business requirements and "user needs" into Catalog configuration.
+Technologies:
+
+Consulting experience highly preferred: Industry specific consulting experience in Manufacturing
+Hands-on experience in purview: Experience in deployment using CI/CD framework
+Experience in Big Data project, usage of data catalog for data engineering capabilities: 
+Experience working with offshore development teams preferred: Experience working on integration projects in cloud platforms
+Good understanding of other services in Azure (ADF, Synapse, etc): Completed a design, configure and implementation of a data governance project
+
+URL:https://www.indeed.com/rc/clk?jk=a1a3aa525e8c5dc2&from=jasx&tk=1hdea9902imai801&vjs=3

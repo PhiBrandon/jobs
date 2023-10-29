@@ -1,0 +1,26 @@
+SKills:
+
+Solid understanding of deep learning concepts and practices.
+Solid programming skills in Python on the Linux platform.
+Solid Java programming skills.
+Excellent communication skills including the ability to create, communicate, and direct work toward accomplishing an overall technical vision.
+Demonstrated ability to mentor and train peers.
+Keen interest in foreign languages, scripts, and historical documents. Beginner level of at least one foreign language desired.
+Excellent data manipulation skills using tools on the Linux platform (grep, sed, awk, NumPy, etc.).
+Solid command of TensorFlow and/or PyTorch deep learning frameworks.
+Ability to think about human language structurally.
+Familiarity with cloud compute environments such as AWS.
+Track record of self-teaching significant new concepts.
+Proven ability to work effectively with people of various educational levels and backgrounds. Comfortable conversing with scientists, executives, engineers, and end users alike.
+Ability to self-direct and work independently for extended periods as required.
+
+Responsibilities:
+
+Design, develop and deploy algorithms to extract genealogical data from the web.
+Design, develop, and deploy AI and machine learning models that extract genealogical data from various web sources.
+Collaborate with cross-functional teams to understand business requirements and translate them into actionable AI solutions.
+Build scalable and efficient data pipelines for processing and analyzing large-scale genealogical data.
+Perform data exploration, feature engineering, and model evaluation to identify optimal solutions for complex problems.
+Stay up-to-date with the latest advancements in AI and machine learning techniques and proactively explore their potential applications to enhance FamilySearch.org.
+
+URL:https://www.indeed.com/rc/clk?jk=da36bc301acf1248&from=jasx&tk=1hdea988rk6dn800&vjs=3

@@ -1,0 +1,14 @@
+Skills:
+
+Experience with industry standard ETL tools such as SQL, scripting languages, data modelling techniques, or relational and NoSQL database engineering and configuration, including document store, Azure Cosmos, or AWS DynamoDB: 3+ years of experience with industry standard ETL tools such as SQL, scripting languages, data modelling techniques, or relational and NoSQL database engineering and configuration, including document store, Azure Cosmos, or AWS DynamoDB
+Experience with Agile and Scrum methodologies: Experience with Agile and Scrum methodologies
+Experience with data analysis and profiling of source data while developing or building robust ETL processes: Experience with data analysis and profiling of source data while developing or building robust ETL processes
+Knowledge of data validation, cleansing, transformation, consolidation, de-duplication, aggregation, de-aggregation, and enrichment: Knowledge of data validation, cleansing, transformation, consolidation, de-duplication, aggregation, de-aggregation, and enrichment
+Technologies:
+
+Azure Cloud SaaS solutions and managed services serverless technologies, including Azure Data Factory, Synapse Analytics, Logic Apps, or ADLS: 3+ years of experience with Azure Cloud SaaS solutions and managed services serverless technologies, including Azure Data Factory, Synapse Analytics, Logic Apps, or ADLS
+Oracle, Postgres, Cosmos, or SQL: 8+ years of experience with data integration, and database technologies, including Oracle, Postgres, Cosmos, or SQL
+JavaScript, shell script, or Python: Experience with scripting and basic programming, including JavaScript, shell script, or Python
+Tableau or Power BI: Nice If You Have: Experience with reporting tools, including Tableau or Power BI
+
+URL:https://www.indeed.com/rc/clk?jk=bcb3fa3a95822e7e&from=jasx&tk=1hdea988rk6dn800&vjs=3

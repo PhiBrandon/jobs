@@ -1,0 +1,14 @@
+Skills:
+
+Python: Experience in Python
+Java: Experience in Java
+Spark: Experience with Apache Spark
+Airflow: Experience with Apache Airflow
+Kafka: Experience with Apache Kafka
+Technologies:
+
+Google Cloud Platform: Experience with Google Cloud Platform technologies
+AWS: Experience with AWS
+Azure: Experience with Microsoft Azure
+Git: Experience with Git
+Jenkins: Experience with Jenkins

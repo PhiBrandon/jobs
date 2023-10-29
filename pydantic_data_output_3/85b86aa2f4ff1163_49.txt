@@ -1,0 +1,15 @@
+Skills:
+
+Strong Analytical Foundation: A robust background in mathematics, statistics, computer science, data science, or a related discipline, showcasing your analytical prowess.
+Programming Proficiency: Advanced expertise in programming languages, particularly Python and SQL, to tackle complex data challenges.
+Production Experience: Proven experience in the production environment with a range of essential tools and platforms, including Snowflake, DBT, Airflow, Amazon Web Services (AWS), Docker/Kubernetes, and PostgreSQL.
+Database Mastery: Proficiency in database technologies, including Snowflake, PostgreSQL, Redshift, and others, enabling efficient data management.
+Exceptional Organizational Skills: Strong organizational capabilities, allowing you to manage multiple projects and priorities concurrently while consistently meeting deadlines.
+Technologies:
+
+Snowflake: Production Experience: Proven experience in the production environment with a range of essential tools and platforms, including Snowflake, DBT, Airflow, Amazon Web Services (AWS), Docker/Kubernetes, and PostgreSQL.
+DBT: Production Experience: Proven experience in the production environment with a range of essential tools and platforms, including Snowflake, DBT, Airflow, Amazon Web Services (AWS), Docker/Kubernetes, and PostgreSQL.
+Airflow: Production Experience: Proven experience in the production environment with a range of essential tools and platforms, including Snowflake, DBT, Airflow, Amazon Web Services (AWS), Docker/Kubernetes, and PostgreSQL.
+AWS: Production Experience: Proven experience in the production environment with a range of essential tools and platforms, including Snowflake, DBT, Airflow, Amazon Web Services (AWS), Docker/Kubernetes, and PostgreSQL.
+Docker/Kubernetes: Production Experience: Proven experience in the production environment with a range of essential tools and platforms, including Snowflake, DBT, Airflow, Amazon Web Services (AWS), Docker/Kubernetes, and PostgreSQL.
+PostgreSQL: Production Experience: Proven experience in the production environment with a range of essential tools and platforms, including Snowflake, DBT, Airflow, Amazon Web Services (AWS), Docker/Kubernetes, and PostgreSQL.

@@ -1,0 +1,11 @@
+Skills:
+
+Software development: Write, update, and maintain software applications; perform production maintenance of code; gather solutions requirements.
+Problem solving: Responsible for defining problems, collecting data, establishing facts, drawing valid conclusions, and preparing appropriate reports.
+Communication: Own technical commitments to clients and work with the team to successful delivery of solutions.
+Technologies:
+
+HTML5: 
+CSS3: 
+MySQL: 
+jQuery: 

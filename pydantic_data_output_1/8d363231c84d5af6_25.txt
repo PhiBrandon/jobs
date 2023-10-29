@@ -1,0 +1,24 @@
+SKills:
+
+Bachelor’s degree, or foreign equivalent, in Computer Science, Engineering, or related technical field, and five (5) years of experience developing software using Python;
+managing data held in relational database management systems (RDBMS) using SQL;
+and developing data architecture; of which one (1) year includes developing software using Spark;
+and working with cloud technologies, including AWS.
+
+Responsibilities:
+
+Provide technical leadership to a team responsible for developing software components for FreeWheel’s advertising platform products;
+build data platforms, Video Integration products, Linear Integration products, and new web frontend frameworks;
+develop software using Java, Python, Scala, and Go programming languages, which are run on big data platforms including Apache Hadoop, Spark, and Snowflake on AWS cloud platform;
+design, develop, test, and maintain software that extracts, transforms, and loads large volumes of data;
+create dashboards and monitors on Datadog to ensure 24x7 availability of critical software deployments;
+manage data held in relational database management systems (RDBMS) using SQL;
+develop and deploy complex SQL queries to validate impressions from set top boxes on a massive scale;
+write scripts for CI/CD to enable software artifacts to be built and deployed on AWS and Databricks, using Jenkins or similar tools;
+debug functional and performance issues on software modules running on Databricks and Spark;
+analyze product specifications, write technical specs, create monitoring dashboards, develop test suites, design workflows, and setup database schemas and tables;
+interface with global engineering, operations, services, and business operations teams to execute proof of concepts and incorporate new requirements;
+improve system performance and ensure availability and scalability of services;
+and guide and mentor junior-level engineers. Position is eligible for 100% remote work.
+
+URL:https://www.indeed.com/rc/clk?jk=8d363231c84d5af6&from=jasx&tk=1hdea8ee5ipb2801&vjs=3
